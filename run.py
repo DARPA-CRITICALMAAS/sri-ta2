@@ -58,6 +58,7 @@ def default_params():
     params.options='labels_type.csv'
     params.lm='NousResearch/Llama-2-7b-hf'
     #params.lm='openlm-research/open_llama_3b_v2'
+    params.openai_key=''
     params.topk=50
     params.style='v0'
     params.chunk=300
@@ -200,6 +201,7 @@ def concat(data2,data):
 msg0=[{"role": "system", "content": "You are a helpful assistant specialized in reviewing geological publications and answering questions about them. Please read the context document and answer the multiple-choice question about the context, and show your reasoning."}]
 msg='Context: %s\n Question: does this document mention any of the following deposits? A.%s. %s\nB.%s. %s\nC.%s. %s\nD.%s. %s\nE.%s. %s\n'%(concat(data2,data_chunks),*[x.replace('\n','') for x in [options[ind[0]],options_aug[ind[0]],options[ind[1]],options_aug[ind[1]],options[ind[2]],options_aug[ind[2]],options[ind[3]],options_aug[ind[3]],options[ind[4]],options_aug[ind[4]]]])
 
-openai.api_key = "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"
-completion = completions_with_backoff(model="gpt-4", messages=msg0+[{"role": "user", "content": msg}])
-print('GPT-4 justification: %s'%completion.choices[0].message.content)
+if not params.openai_key=='':
+    openai.api_key = params.openai_key
+    completion = completions_with_backoff(model="gpt-4", messages=msg0+[{"role": "user", "content": msg}])
+    print('GPT-4 justification: %s'%completion.choices[0].message.content)
