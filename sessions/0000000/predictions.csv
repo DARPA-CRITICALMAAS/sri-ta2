@@ -1,0 +1,198 @@
+,label,score
+0,"Mafic-siliciclastic
+ VMS",0.07045771926641464
+1,"Bimodal-mafic
+ VMS",0.06854520738124847
+2,Felsic-siliciclastic VMS,0.05691402405500412
+3,Mafic-ultramafic VMS,0.05299719423055649
+4,Bimodal felsic VMS,0.05281112715601921
+5,Alkalic epithermal gold ± Ag,0.033112943172454834
+6,MVT zinc-lead,0.0324229821562767
+7,Supergene silver,0.030397985130548477
+8,Sandstone-hosted zinc-lead,0.029304925352334976
+9,Replacement gold-silver,0.026304835453629494
+10,Epizonal orogenic antimony ± gold,0.02585120126605034
+11,Carlin-type gold,0.024146076291799545
+12,Supergene lead,0.023650094866752625
+13,Low-sulfidation (LS) epither- mal gold-silver,0.022762417793273926
+14,Volcanogenic manganese,0.02233741246163845
+15,"Intermediate- sulfidation (IS) epithermal silver-gold ± Zn, Pb, Cu, Sn, Mn",0.02170346863567829
+16,MVT strontium,0.020255854353308678
+17,Orogenic copper ± gold,0.02007475309073925
+18,Porphyry gold ± copper,0.019488876685500145
+19,High-sulfidation (HS) epithermal silver-gold ± Cu,0.01905321329832077
+20,Orogenic silver-lead- zinc-copper- antimony,0.018642159178853035
+21,Breccia pipe gold,0.017405569553375244
+22,Iron silicate polymetallic,0.01691265031695366
+23,Vein polymetallic,0.016685690730810165
+24,Arc U-M intru- sion nickel- copper-PGE,0.016102245077490807
+25,Supergene gold,0.015776043757796288
+26,Skarn gold ± copper ± tungsten,0.015744898468255997
+27,MVT barite,0.014991802163422108
+28,U-M intrusion nickel-copper- PGE,0.013987122103571892
+29,Siliciclastic-mafic zinc-lead,0.013454352505505085
+30,Distal- disseminated silver-gold,0.013386568054556847
+31,Supergene copper,0.013076591305434704
+32,Iron sulfide polymetallic,0.012812430039048195
+33,"Skarn zinc-lead-
+ silver",0.011732922866940498
+34,Breccia pipe molybdenum,0.010551508516073227
+35,Breccia pipe REE,0.010378475300967693
+36,Porphyry copper ± gold,0.009481924585998058
+37,MVT fluorspar,0.009017116390168667
+38,Magnetite- dominant IOCG,0.00857209600508213
+39,"Greisen beryllium
+ ±Li",0.008548149839043617
+40,Skarn tin ± copper ± Mo,0.007620914839208126
+41,Volcanic-hosted copper,0.007394268177449703
+42,Epithermal beryllium,0.007048316299915314
+43,Vein five-element,0.006939202547073364
+44,Epithermal uranium,0.006632513366639614
+45,"Siliciclastic-mafic
+ barite",0.006066230125725269
+46,Breccia pipe copper,0.005620897747576237
+47,Unconformity- related REE,0.005189911928027868
+48,Unconformity- related ura- nium,0.004429829306900501
+49,Kipushi-type sediment- hosted copper- zinc-lead,0.003205280750989914
+50,Magnetite- dominant IOA,0.0
+51,Epithermal mercury,0.0
+52,Algoma-type banded iron formation,0.0
+53,Vein tin,0.0
+54,Hematite- dominant IOA,0.0
+55,Replacement zinc-lead,0.0
+56,Vein fluorite,0.0
+57,Vein tin polymetallic,0.0
+58,Vein tungsten,0.0
+59,Vein copper,0.0
+60,Vein cobalt ± Ni,0.0
+61,Vein ± replacement nickel,0.0
+62,U-M layered intrusion chromium,0.0
+63,LCT pegmatite,0.0
+64,NYF pegmatite,0.0
+65,Abyssal pegmatite REE,0.0
+66,Carbonatite REE,0.0
+67,Carbonatite niobium,0.0
+68,Peralkaline igneous HFSE- REE,0.0
+69,Apatite- nepheline- titanite intrusion,0.0
+70,Apatite intrusion REE,0.0
+71,Kimberlite diamond,0.0
+72,Komatiite nickel-copper-PGE,0.0
+73,Simple pegmatite,0.0
+74,U-M layered intrusion nickel- copper-PGE,0.0
+75,U-M layered intrusion PGE,0.0
+76,"U-M layered intrusion
+ iron-titanium- vanadium",0.0
+77,U-M conduit nickel-copper- PGE,0.0
+78,Ophiolite chro- mium,0.0
+79,"Ophiolite nickel-
+ copper-PGE",0.0
+80,Arc U-M intrusion titanium- vanadium,0.0
+81,Anorthosite mas- sif titanium,0.0
+82,Anorthosite conduit nickel- copper-PGE,0.0
+83,Impact U-M intrusion nickel- copper-PGE,0.0
+84,Skarn beryllium- fluorite,0.0
+85,Replacement tin,0.0
+86,Replacement copper,0.0
+87,Metamorphic graphite,0.0
+88,Replacement manganese,0.0
+89,Replacement magnesium,0.0
+90,Replacement fluorite,0.0
+91,Skarn iron,0.0
+92,Skarn copper,0.0
+93,Skarn tungsten ± Mo,0.0
+94,Skarn molybdenum,0.0
+95,Replacement polymetallic,0.0
+96,Skarn uranium- REE,0.0
+97,Porphyry copper- molybdenum,0.0
+98,Climax-type porphyry molybdenum,0.0
+99,Low-fluorine porphyry molybdenum,0.0
+100,Porphyry tungsten,0.0
+101,Porphyry tin,0.0
+102,Greisen tin ±W-Mo,0.0
+103,"Greisen tungsten- molybdenum
+ ±Bi",0.0
+104,Reduced intrusion- related gold,0.0
+105,Oxidized intrusion- related gold,0.0
+106,Carbonate uranium,0.0
+107,"Underclay, over- clay",0.0
+108,Ion adsorption REE,0.0
+109,Supergene uranium,0.0
+110,Supergene vanadium,0.0
+111,Supergene zinc,0.0
+112,Supergene manganese,0.0
+113,Supergene iron,0.0
+114,Exotic copper,0.0
+115,Paleochannel iron,0.0
+116,Sandstone uranium,0.0
+117,Residual clay,0.0
+118,Coal/peat/bog uranium,0.0
+119,Calcrete uranium,0.0
+120,Nodular magnesite,0.0
+121,Marine evaporite gypsum,0.0
+122,Marine evaporite salt,0.0
+123,Marine evaporite potash,0.0
+124,Marine evaporite magnesite,0.0
+125,Lacustrine evaporite trona,0.0
+126,Lacustrine evaporite salt,0.0
+127,Heavy mineral sands,0.0
+128,Residual placer lead,0.0
+129,Fluvial placer gold,0.0
+130,Fluvial placer PGE,0.0
+131,Fluvial placer tin,0.0
+132,Fluvial placer niobium- tantalum,0.0
+133,Fluvial placer tungsten,0.0
+134,Fluvial placer REE,0.0
+135,Fluvial placer diamond,0.0
+136,Fluvial placer gemstones,0.0
+137,Fluvial placer garnet,0.0
+138,Lacustrine evaporite potash,0.0
+139,Shoreline placer gold,0.0
+140,Paleoplacer heavy mineral sands,0.0
+141,Paleoplacer tin,0.0
+142,Paleoplacer gold ± uranium,0.0
+143,Bauxite,0.0
+144,Karst bauxite,0.0
+145,Laterite nickel,0.0
+146,Carbonatite laterite REE,0.0
+147,Laterite magnesite,0.0
+148,Epizonal orogenic mercury,0.0
+149,Nodule manganese,0.0
+150,Lacustrine manganese,0.0
+151,Collapse breccia pipe uranium,0.0
+152,Sediment-hosted copper ± Co,0.0
+153,Siliciclastic- carbonate zinc-lead,0.0
+154,Irish-type sediment- hosted zinc- lead,0.0
+155,Non-sulfide zinc-lead ± Mn,0.0
+156,Hypozonal orogenic gold,0.0
+157,Mesozonal orogenic gold,0.0
+158,Epizonal orogenic gold,0.0
+159,Crust manganese,0.0
+160,Orogenic graphite,0.0
+161,Residual placer tin,0.0
+162,Metamorphic kyanite,0.0
+163,Low Iron alkali-calcic,0.0
+164,Albitite-hosted uranium,0.0
+165,Ferroan carbonate polymetallic,0.0
+166,Iron oxide poly- metallic,0.0
+167,Iron oxide uranium,0.0
+168,Iron oxide gold,0.0
+169,Black shale va- nadium ± Mo ± Ni,0.0
+170,Lacustrine evaporite carnallite- bischofite,0.0
+171,Lacustrine evaporite borate,0.0
+172,Lacustrine evaporite magnesite,0.0
+173,Lacustrine evaporite nitrate,0.0
+174,"Marine brine potash (±Mg, Li, and so on)",0.0
+175,Lacustrine brine potash,0.0
+176,Lacustrine brine lithium,0.0
+177,"Lacustrine zeolite (± Li, B)",0.0
+178,Lacustrine clay lithium,0.0
+179,Hematite- dominant IOCG,0.0
+180,Black shale nickel ± Mo- PGE,0.0
+181,Black shale gold,0.0
+182,Black shale uranium,0.0
+183,Phosphorite,0.0
+184,Superior-type banded iron formation,0.0
+185,Oolitic iron formation,0.0
+186,Lacustrine iron formation,0.0
+187,Superior-type banded manganese,0.0
+188,Sedimentary manganese,0.0
