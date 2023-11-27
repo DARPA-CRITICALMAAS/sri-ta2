@@ -1,4 +1,4 @@
-# Long document multiple choice mineral deposit type classification
+# SRI TA2 Deposit Type Classification v1.1 
 
 ![System Diagram](doc/overview.jpg)
 
