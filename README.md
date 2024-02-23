@@ -1,6 +1,6 @@
-# SRI TA2 Deposit Type Classification v1.1 
+# SRI TA2 Deposit Type Classification v0b
 
-![System Diagram](doc/overview.jpg)
+![System Diagram](doc/overview2.jpg)
 
 ## Installation
 
@@ -55,3 +55,9 @@ python run_json.py --json <path/to/json.json> --options labels_type.csv --openai
 Similar to processing PDFs, this will run the deposit type classification pipeline on the given JSON record. [NousResearch/Llama-2-7b-hf](https://huggingface.co/NousResearch/Llama-2-7b-hf) will be used by default. Each run typically takes ~5 min on a single RTX A5000. OpenAI GPT-4 justifications of the answer will be provided if you enter your openai api key.
 
 Results for each run will be stored in the `./sessions/vvvvvvv/` folders.
+
+
+## Version history
+2023-Nov-04 Add initial open source pipeline 
+2023-Nov-04 =>v1.1 Using LLM for retrieval instead of embeddings
+2024-Feb-22 =>v0b Match algorithm version with hackathon deposit type prediction dataset version. Add MRDS JSON processing capability.
