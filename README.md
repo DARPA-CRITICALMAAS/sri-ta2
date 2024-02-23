@@ -14,6 +14,7 @@ pip install tokenizers
 pip install sentencepiece
 pip install protobuf==3.19
 pip install openpyxl
+pip install pandas
 ```
 
 PDF to text with OCR
@@ -34,7 +35,7 @@ pip install backoff
 
 Note that GPUs with >=24GB of combined GPU RAM is required to run the system.
 
-## Usage
+## Usage (NI 43-101 reports)
 Deposit type classification on a given PDF document
 ```
 python run.py --pdf <path/to/pdf.pdf> --options labels_type.csv
@@ -47,4 +48,10 @@ Model for multiple choice QA can be configured with `--lm NousResearch/Llama-2-7
 
 Results for each run will be stored in `./sessions/vvvvvvv/`. `predictions.csv` stores the top-10 predicted deposit types and their predicted probability. `relevant_paragraphs.csv` stores the top 20 relevant paragraphs retrieved sorted by their relevance score. `explanation.json` stores the GPT justification. For debugging purposes, there are also `params.json` storing the command line parameters and `ocr.json` storing the text extracted from the document.
 
+## Usage (MRDS JSON records)
+```
+python run_json.py --json <path/to/json.json> --options labels_type.csv --openai_key <your_openai_api_key>
+```
+Similar to processing PDFs, this will run the deposit type classification pipeline on the given JSON record. [NousResearch/Llama-2-7b-hf](https://huggingface.co/NousResearch/Llama-2-7b-hf) will be used by default. Each run typically takes ~5 min on a single RTX A5000. OpenAI GPT-4 justifications of the answer will be provided if you enter your openai api key.
 
+Results for each run will be stored in the `./sessions/vvvvvvv/` folders.
