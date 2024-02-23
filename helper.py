@@ -1,4 +1,5 @@
 import torch
+import json
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM,AutoModel
 from transformers import pipeline
@@ -182,6 +183,67 @@ def perplexity2_tokens_cache(model,tokens0,tokens1,IGNORE_INDEX=-100,bsz=5):
         logp1=torch.cat(logp1,dim=0)
     return logp1
 
+#Use when tokens0 remains being the same thing throughout
+#Use_cache to accelerate perplexity computation
+#Pad short tokens1 sequences with -1
+def perplexity2_tokens_v3(model,tokens0,tokens1,IGNORE_INDEX=-100,bsz=5):
+    with torch.no_grad():
+        t=tokens0[-1]
+        tokens0=torch.LongTensor(tokens0[:-1]).unsqueeze(0).cuda()
+        L=max([len(s) for s in tokens1])
+        tokens1=[s+[-1]*(L-len(s)) for s in tokens1]
+        mask=torch.LongTensor(tokens1).cuda().ge(0).float()
+        tokens1=torch.LongTensor([[t]+x for x in tokens1]).cuda()
+        tokens1=tokens1.clamp(min=0)
+        
+        
+        cache=model(tokens0,use_cache=True)['past_key_values']
+        logp1=[]
+        for i in range(0,len(tokens1),bsz):
+            r=min(i+bsz,len(tokens1))
+            #Make bigger cache to match tokens1
+            cache_i=[[z.repeat(r-i,1,1,1) for z in x] for x in cache]
+            logp_i=model(tokens1[i:r],past_key_values=cache_i)['logits']
+            logp_i=F.log_softmax(logp_i,dim=-1)
+            logp1_i=logp_i[:,:-1,:].gather(-1,tokens1[i:r,1:].unsqueeze(-1)).sum(-1).cpu()
+            logp1.append(logp1_i)
+        
+        logp1=torch.cat(logp1,dim=0)
+    return logp1,mask.data.cpu()
+
+def chunker_json(model=None,tokenizer=None,json_data=None,chunk_nrows=20,chunk_max_chars=300):
+    def chunk(s):
+        rows=s.split('\n')
+        rows_=[]
+        #Split long rows into multiple rows
+        for l in rows:
+            if len(l)>chunk_max_chars:
+                for i in range(0,len(l),chunk_max_chars):
+                    r=min(i+chunk_max_chars,len(l))
+                    rows_.append(l[i:r])
+            else:
+                rows_.append(l)
+        
+        rows=rows_
+        
+        #Divide into chunks 
+        chunks=[]
+        step=chunk_nrows//2
+        for i in range(0,len(rows),step):
+            r=min(i+chunk_nrows,len(rows))
+            if not(i>0 and r-i<step-1):
+                chunks.append('\n'.join(rows[i:r]))
+        
+        return chunks
+    
+    
+    #Works only for the LLaMA family
+    text=json.dumps(json_data, indent=2)
+    chunks=chunk(text)
+    data=[tokenizer(x)['input_ids'][1:] for x in chunks]
+    return data,text
+
+
 #Return text does not have BOS
 def filter_lm(model,tokenizer,document,prompt='',topk=50,L=200,bsz=5):
     #Works only for the LLaMA family
@@ -195,7 +257,7 @@ def filter_lm(model,tokenizer,document,prompt='',topk=50,L=200,bsz=5):
     step=L//2
     
     #Find possible places for inserting the sentence
-    stops=[i for i,t in enumerate(all_tokens) if t==stop]
+    stops=[0]+[i for i,t in enumerate(all_tokens) if t==stop]
     tprev=0
     stops2=[]
     for t in stops:
@@ -287,6 +349,26 @@ def RAPMC(model,tokenizer,document,options,retrieval_prompt,params=None):
     scores_raw[:,ind]=scores_short_raw
     return scores,paras,doc,scores_raw
 
+def RAPMC_json(model,tokenizer,json_data,options,params=None):
+    import util.smartparse as smartparse
+    default_params=smartparse.obj()
+    default_params.bsz=2
+    default_params.T=0.01
+    params = smartparse.merge(params, default_params)
+    
+    paras,doc=chunker_json(model,tokenizer,json_data)
+    options=[tokenizer(o)['input_ids'] for o in options]
+    
+    scores=[]
+    for i,o in enumerate(options):
+        s,mask=perplexity2_tokens_v3(model,o,paras,bsz=params.bsz)
+        savg=(s*mask).sum(dim=-1)/(mask.sum(dim=-1)+1e-20)
+        scores.append(savg)
+        print('Prefix MC %d/%d'%(i,len(options)),end='\r')
+    
+    scores_raw=torch.cat(scores,dim=0).view(len(options),len(paras)).t().contiguous()
+    scores=F.softmax(scores_raw/params.T,dim=-1).mean(0)
+    return scores,paras,doc,scores_raw
 
 
 #Generation
