@@ -4,17 +4,17 @@
 
 ## Installation
 
+(Optional) It's recommended to use anaconda to make environment setup easier. Create a virtual environment in anaconda.
+```
+conda create --name cmaas-sri-ta2 python=3.9 -y
+conda activate cmaas-sri-ta2
+```
+
 In a python>=3.6 environment, install the following packages
 
 ```
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
-pip install transformers==4.31
-pip install accelerate
-pip install tokenizers
-pip install sentencepiece
-pip install protobuf==3.19
-pip install openpyxl
-pip install pandas
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
+pip install transformers==4.31 accelerate tokenizers sentencepiece protobuf==3.19 openpyxl pandas
 ```
 
 PDF to text with OCR
