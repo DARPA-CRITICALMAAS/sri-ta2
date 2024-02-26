@@ -57,8 +57,7 @@ Rank 7  0.0282  Orogenic silver-lead- zinc-copper- antimony
 Rank 8  0.0261  Felsic-siliciclastic VMS
 Rank 9  0.0241  MVT strontium
 Rank 10 0.0228  Bimodal felsic VMS
-
-```!
+```
 
 By default, this process will first run OCR on the document to extract text, then determine deposit type by making calls to [NousResearch/Llama-2-7b-hf](https://huggingface.co/NousResearch/Llama-2-7b-hf) for multiple choice QA. Each run typically takes 5 min on a threadripper TR 1950x for OCR and a single RTX A5000 for LLM inference. OpenAI GPT-4 justifications of the answer will be provided if you enter your openai api key as follows
 ```
