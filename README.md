@@ -90,6 +90,6 @@ Rank 10 0.0121  Greisen tungsten- molybdenum ±Bi
 
 
 ## Version history
-2023-Nov-04 Add initial open source pipeline 
-2023-Nov-04 =>v1.1 Using LLM for retrieval instead of embeddings
-2024-Feb-22 =>v0b Match algorithm version with hackathon deposit type prediction dataset version. Add MRDS JSON processing capability.
+* 2023-Nov-04 Add initial open source pipeline 
+* 2023-Nov-04 =>v1.1 Using LLM for retrieval instead of embeddings
+* 2024-Feb-22 =>v0b Match algorithm version with hackathon deposit type prediction dataset version. Add MRDS JSON processing capability.
