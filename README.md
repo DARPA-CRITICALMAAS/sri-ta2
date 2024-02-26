@@ -86,7 +86,7 @@ Rank 7  0.0123  NYF pegmatite
 Rank 8  0.0123  U-M intrusion nickel-copper- PGE
 Rank 9  0.0122  Exotic copper
 Rank 10 0.0121  Greisen tungsten- molybdenum ±Bi
-```!
+```
 
 
 ## Version history
