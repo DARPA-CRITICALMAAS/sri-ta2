@@ -19,18 +19,13 @@ pip install transformers accelerate tokenizers sentencepiece openpyxl pandas
 
 PDF to text with OCR
 ```
-pip install pdf2image
-pip install pytesseract
-pip install opencv-python
-conda install tesseract
-conda install poppler
+pip install pdf2image pytesseract opencv-python
+conda install tesseract poppler -y
 ```
 
 OpenAI GPT-4 explanations
 ```
-pip install openai
-pip install accelerate
-pip install backoff
+pip install openai backoff
 ```
 
 Note that GPUs with >=24GB of combined GPU RAM is required to run the system.
@@ -52,7 +47,7 @@ Results for each run will be stored in `./sessions/vvvvvvv/`. `predictions.csv` 
 ```
 python run_json.py --json <path/to/json.json> --options labels_type.csv --openai_key <your_openai_api_key>
 ```
-Similar to processing PDFs, this will run the deposit type classification pipeline on the given JSON record. [NousResearch/Llama-2-7b-hf](https://huggingface.co/NousResearch/Llama-2-7b-hf) will be used by default. Each run typically takes ~5 min on a single RTX A5000. OpenAI GPT-4 justifications of the answer will be provided if you enter your openai api key.
+Similar to processing PDFs, this will run the deposit type classification pipeline on the given JSON record. [NousResearch/Llama-2-7b-hf](https://huggingface.co/NousResearch/Llama-2-7b-hf) will be used by default. The LLM weights will be downloaded during the first run. Each subsequent run typically takes ~5 min on a single RTX A5000. OpenAI GPT-4 justifications of the answer will be provided if you enter your openai api key.
 
 Results for each run will be stored in the `./sessions/vvvvvvv/` folders.
 
