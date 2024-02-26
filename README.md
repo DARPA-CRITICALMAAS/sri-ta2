@@ -14,7 +14,7 @@ In a python>=3.6 environment, install the following packages
 
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
-pip install transformers==4.31 accelerate tokenizers sentencepiece protobuf==3.19 openpyxl pandas
+pip install transformers accelerate tokenizers sentencepiece openpyxl pandas
 ```
 
 PDF to text with OCR
