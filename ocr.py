@@ -17,7 +17,7 @@ import time
 from multiprocessing.pool import ThreadPool
 import copy
 
-
+tessdata_dir_config = r'--tessdata-dir ./tessdata/'
 def ocr(fname):
     t0=time.time()
     pdf_pages = convert_from_path(fname)
@@ -25,7 +25,7 @@ def ocr(fname):
     for pid,img in enumerate(pdf_pages):
         print('Reading %s page %d/%d, time %.2f'%(fname,pid,len(pdf_pages),time.time()-t0),end='\r')
         #print('Reading %s page %d/%d'%(fname,pid,len(pdf_pages)))
-        d = pytesseract.image_to_data(copy.deepcopy(img), output_type=Output.DICT)
+        d = pytesseract.image_to_data(copy.deepcopy(img), output_type=Output.DICT,config=tessdata_dir_config)
         blks=set(d['block_num'])
         #cleaning
         for block_id in blks:
@@ -53,7 +53,7 @@ def ocr(fname):
 
 def ocr_parallel(fname,num_workers=16):
     def parse_page(img):
-        d = pytesseract.image_to_data(copy.deepcopy(img), output_type=Output.DICT)
+        d = pytesseract.image_to_data(copy.deepcopy(img), output_type=Output.DICT,config=tessdata_dir_config)
         blks=set(d['block_num'])
         #cleaning
         data=[]

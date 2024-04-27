@@ -44,6 +44,7 @@ def load_embedding(model_name='BAAI/bge-large-en-v1.5',dtype=torch.float,max_mem
         #max_memory={i:int(max_mem*m) for i,m in enumerate(mem)},
         torch_dtype=dtype,
         offload_folder='cache/',
+        cache_dir='cache/',
     )
     
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -51,25 +52,27 @@ def load_embedding(model_name='BAAI/bge-large-en-v1.5',dtype=torch.float,max_mem
         tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
     model = AutoModel.from_pretrained(model_name, **kwargs)
-    model.eval();
+    model.eval()
     model=model.cuda()
     
     return model,tokenizer
 
-def load_lm(model_name,dtype=torch.float,max_mem=0.8):
+def load_lm(model_name,dtype=None,max_mem=0.8,**kwargs2):
     mem=device_profile()
     kwargs = dict(
         device_map="auto",
         max_memory={i:int(max_mem*m) for i,m in enumerate(mem)},
-        torch_dtype=dtype,
         offload_folder='cache/',
+        cache_dir='cache/',
     )
+    if not dtype is None:
+        kwargs['torch_dtype']=dtype
     
-    tokenizer = AutoTokenizer.from_pretrained(model_name,trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(model_name,trust_remote_code=True,**kwargs2)
     if tokenizer.pad_token is None:
         tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     
-    model = AutoModelForCausalLM.from_pretrained(model_name,trust_remote_code=True, **kwargs)
+    model = AutoModelForCausalLM.from_pretrained(model_name,trust_remote_code=True, **kwargs,**kwargs2)
     model.eval();
     
     return model,tokenizer
@@ -343,10 +346,10 @@ def RAPMC(model,tokenizer,document,options,retrieval_prompt,params=None):
     
     #Map short list probs to original list
     scores=torch.Tensor(len(options)).fill_(0)
-    scores[ind]=scores_short
+    scores[ind]=scores_short.float()
     
     scores_raw=torch.Tensor(len(paras),len(options)).fill_(-1e10)
-    scores_raw[:,ind]=scores_short_raw
+    scores_raw[:,ind]=scores_short_raw.float()
     return scores,paras,doc,scores_raw
 
 def RAPMC_json(model,tokenizer,json_data,options,params=None):

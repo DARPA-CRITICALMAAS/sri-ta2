@@ -1,1 +1,164 @@
-{"id": "https://mrdata.usgs.gov/mrds/record/10000028", "type": "Feature", "geometry": {"type": "Point", "coordinates": [-132.64209, 55.57751]}, "properties": {"grade": "D", "deposits": {"dep_id": "10000028", "rec_tp": "Site", "dev_st": "Occurrence", "oper_tp": "Unknown", "mrds_id": "A010028", "sig": "N", "prod_size": "N", "site_commod_type": "M", "deposit_size": "S", "inserted_by": "MRDS migration", "insert_date": "12-MAR-2002 00:00:00", "updated_by": "USGS", "update_date": "28-APR-2003 13:40:35"}, "name": {"line": "1", "name": "Unnamed Occurrence", "status": "Current", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02", "updated_by": "USGS", "update_date": "29-OCT-02"}, "geo_coordinates": {"line": "1", "lat_dec": "55.57778", "lon_dec": "-132.64028", "datum": "NAD27", "wgs84_lat": "55.57751", "wgs84_lon": "-132.64209", "loc_prec": "500", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:03:56"}, "location": {"line": "1", "region": "NA", "country": "United States", "state_prov": "Alaska", "lu_code": "13943", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02", "updated_by": "USGS", "update_date": "01-JUL-08"}, "commodity": [{"line": "1", "commod": "Copper", "code": "CU", "commod_tp": "Metallic", "commod_group": "Copper", "import": "Primary", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:00:24", "updated_by": "USGS", "update_date": "29-OCT-2002 09:00:24"}, {"line": "2", "commod": "Lead", "code": "PB", "commod_tp": "Metallic", "commod_group": "Lead", "import": "Secondary", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:00:24", "updated_by": "USGS", "update_date": "29-OCT-2002 09:00:24"}, {"line": "3", "commod": "Tungsten", "code": "W", "commod_tp": "Metallic", "commod_group": "Tungsten", "import": "Tertiary", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:00:24", "updated_by": "USGS", "update_date": "29-OCT-2002 09:00:24"}], "material": [{"rec": "1", "ore_gangue": "Ore", "material": "Chalcopyrite", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:44:37", "recid": "228270"}, {"rec": "2", "ore_gangue": "Ore", "material": "Galena", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:44:37", "recid": "42820"}, {"rec": "3", "ore_gangue": "Ore", "material": "Pyrite", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:44:37", "recid": "250928"}, {"rec": "4", "ore_gangue": "Ore", "material": "Pyrrhotite", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:44:37", "recid": "83171"}, {"rec": "5", "ore_gangue": "Ore", "material": "Scheelite", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:44:37", "recid": "253157"}], "land_status": {"line": "1", "land_st": "State", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:05:47", "updated_by": "USGS", "update_date": "03-OCT-2002 07:53:15"}, "districts": {"line": "1", "district": "Ketchikan District", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 09:05:47", "updated_by": "USGS", "update_date": "03-OCT-2002 07:53:15"}, "other_dbs": {"line": "1", "code": "MRDS", "db_name": "Mineral Resources Data System", "agency": "USGS", "rec_id": "A010028", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02"}, "comment": [{"line": "1", "ctg": "Commodity", "cmt_txt": "SULFIDES AMOUNT TO AS MUCH AS 5% LOCALLY.", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02"}, {"line": "2", "ctg": "Deposit", "cmt_txt": "DISSEMINATED SULFIDES NEAR CONTACT ZONE. ALSO QUARTZ VEINLETS CARRY GALENA, SCHEELITE", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02"}, {"line": "1", "ctg": "Location", "cmt_txt": "NEAR SOUTH SHORE OF SALMON LAKE LAND STATUS VALUE CALCULATED 6-94 USING GIS OVERLAY ANALYSIS WITH BLM 1:2,500,000 SCALE OWNERSHIP STATUS MAP (1991).", "inserted_by": "MRDS migration", "insert_date": "29-OCT-02"}], "bib_references": [{"line": "1", "ctg": "Deposit", "refs": "USGS BULL 1058-H, P. 353", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 10:07:56", "updated_by": "USGS", "update_date": "29-OCT-2002 10:07:56", "recid": "209609"}, {"line": "2", "ctg": "Deposit", "refs": "USGS MF 433", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 10:07:56", "updated_by": "USGS", "update_date": "29-OCT-2002 10:07:56", "recid": "209610"}, {"line": "3", "ctg": "Deposit", "refs": "USGS OF 78-869, P. 182.", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 10:07:56", "updated_by": "USGS", "update_date": "29-OCT-2002 10:07:56", "recid": "209611"}], "reporter": {"line": "1", "reporter": "Hirschmann, M. M. (Elliott, R. L.)", "rpr_tp": "R", "rpt_date": "01-MAY-1983", "affil": "U.S. Geological Survey", "inserted_by": "MRDS migration", "insert_date": "29-OCT-2002 10:13:55"}, "rock": [{"rock_line": "1", "rock_cls": "Associated", "first_ord_nm": "Plutonic Rock", "second_ord_nm": "Mafic Intrusive Rock", "third_ord_nm": "Diorite", "low_name": "Diorite", "inserted_by": "Data Migration", "insert_date": "28-JUN-2006 10:39:58"}, {"rock_line": "2", "rock_cls": "Host", "first_ord_nm": "Metamorphic Rock", "second_ord_nm": "Schist", "low_name": "Schist", "inserted_by": "Data Migration", "insert_date": "28-JUN-2006 10:39:58"}]}}
+{
+  "grade": "D",
+  "deposits": {
+    "dep_id": "10308328",
+    "rec_tp": "Site",
+    "dev_st": "Occurrence",
+    "oper_tp": "Unknown"
+  },
+  "name": {
+    "line": "1",
+    "name": "Unnamed (west of Awlinyak Creek)",
+    "status": "Current"
+  },
+  "geo_coordinates": {
+    "line": "1",
+    "lat_dec": "67.489",
+    "lon_dec": "-154.453",
+    "datum": "NAD27",
+    "wgs84_lat": "67.4886",
+    "wgs84_lon": "-154.45646",
+    "rel_pos": "This site is at an elevation of about 4300 feet near the headwaters of an unnamed creek 3 miles west of Awlinyak Creek. It is in the SE1/4 of sec. 8, T. 24 N., R. 20 E., of the Kateel River Meridian.  Accuracy of the location is within 1000 ft.  The site corresponds to locality 31 of Grybeck and Nelson (1981)."
+  },
+  "location": {
+    "line": "1",
+    "region": "NA",
+    "country": "United States",
+    "state_prov": "Alaska",
+    "lu_code": "13943"
+  },
+  "commodity": [
+    {
+      "line": "1",
+      "commod": "Silver",
+      "code": "AG",
+      "commod_tp": "Metallic",
+      "commod_group": "Silver",
+      "import": "Primary"
+    },
+    {
+      "line": "2",
+      "commod": "Bismuth",
+      "code": "BI",
+      "commod_tp": "Metallic",
+      "commod_group": "Bismuth",
+      "import": "Primary"
+    },
+    {
+      "line": "3",
+      "commod": "Copper",
+      "code": "CU",
+      "commod_tp": "Metallic",
+      "commod_group": "Copper",
+      "import": "Primary"
+    },
+    {
+      "line": "4",
+      "commod": "Tin",
+      "code": "SN",
+      "commod_tp": "Metallic",
+      "commod_group": "Tin",
+      "import": "Primary"
+    },
+    {
+      "line": "5",
+      "commod": "Fluorine-Fluorite",
+      "code": "F",
+      "commod_tp": "Non-metallic",
+      "commod_group": "Fluorine",
+      "import": "Secondary"
+    }
+  ],
+  "material": [
+    {
+      "rec": "1",
+      "ore_gangue": "Ore",
+      "material": "Chalcopyrite"
+    },
+    {
+      "rec": "2",
+      "ore_gangue": "Ore",
+      "material": "Fluorite"
+    },
+    {
+      "rec": "3",
+      "ore_gangue": "Ore",
+      "material": "Malachite"
+    }
+  ],
+  "districts": {
+    "line": "1",
+    "district": "Koyukuk"
+  },
+  "other_dbs": {
+    "line": "1",
+    "code": "ARDF",
+    "db_name": "Alaska Resource Data File",
+    "agency": "USGS",
+    "rec_id": "SP014"
+  },
+  "comment": [
+    {
+      "line": "1",
+      "ctg": "Deposit",
+      "cmt_txt": "Model Name = Skarn (Cox and Singer, 1986; model 14b)"
+    },
+    {
+      "line": "2",
+      "ctg": "Deposit",
+      "cmt_txt": "Other Comments = Located within Gates of the Arctic National Park."
+    },
+    {
+      "line": "8",
+      "ctg": "Exploration",
+      "cmt_txt": "Status = Inactive"
+    },
+    {
+      "line": "4",
+      "ctg": "Geology",
+      "cmt_txt": "Geologic Description = This occurrence consists of locally prominent copper staining in several cliffs near the contact of Devonian gneissic granite with Paleozoic chlorite schist and quartzite (Grybeck and Nelson, 1981).  Grab samples that had visible fluorite and chlorite contained up to 3 ppm Ag, 300 ppm Bi, and 100 ppm Sn.  A brief examination suggests that the occurrences are erratic and small.  They probably are similar in origin to other Devonian contact-metamorphic deposits in nearby areas of the Brooks Range (Newberry and others, 1986)."
+    },
+    {
+      "line": "7",
+      "ctg": "Geology",
+      "cmt_txt": "Age = Devonian; related to the intrusion of Devonian pluton."
+    },
+    {
+      "line": "6",
+      "ctg": "Reference",
+      "cmt_txt": "Primary Reference = Grybeck and Nelson, 1981"
+    },
+    {
+      "line": "5",
+      "ctg": "Workings",
+      "cmt_txt": "Workings / Exploration = Site examined during regional geologic mapping by the USGS in the late 1970s."
+    }
+  ],
+  "bib_references": [
+    {
+      "line": "1",
+      "ctg": "Deposit",
+      "refs": "Grybeck, D.J., and Nelson, S.W., 1981, Mineral deposit map of the Survey Pass quadrangle, Brooks Range, Alaska:  U.S. Geological Survey Miscellaneous Field Studies Map MF-1176-F, 1 sheet, scale 1:250,000."
+    },
+    {
+      "line": "2",
+      "ctg": "Deposit",
+      "refs": "Newberry, R.J., Dillon, J.T., and Adams, D.D., 1986, Regionally metamorphosed calc-silicate-hosted deposits of the Brooks Range, northern Alaska: Economic Geology, v. 81, p. 1728-1752"
+    }
+  ],
+  "reporter": {
+    "line": "1",
+    "reporter": "S.W. Nelson",
+    "rpr_tp": "R",
+    "rpt_date": "20-SEP-99",
+    "affil": "U.S. Geological Survey"
+  },
+  "age_of_mineralization": [
+    {
+      "age_line": "1",
+      "age_tp": "Mineralization",
+      "age_young_cd": "3280",
+      "age_young": "Devonian"
+    }
+  ]
+}
