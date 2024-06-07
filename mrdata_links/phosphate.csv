@@ -1,0 +1,1188 @@
+,deposit_id,deposit_name,latitude,longitude,deposit_model,url
+0,1,,30.03333,63.58333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1
+1,2,,34.65833,63.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=2
+2,3,,40.05,20.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=3
+3,4,,40.2166666666667,19.9166666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=4
+4,5,,40.3833333333333,19.7666666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=5
+5,7,Djebel Dyr,35.5166666666667,8.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=7
+6,9,Dra Abiod,35.9,2.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=9
+7,10,Kef Afoul,35.9,3.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=10
+8,12,Oued Gueddooul,35.86667,2.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=12
+9,13,Oued Noual,35.81667,2.81667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=13
+10,14,Oum El Adame,35.9,3.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=14
+11,17,Znadia,35.85,4.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=17
+12,18,,35.908056,4.906111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=18
+13,19,Djebel Onk,34.716667,8.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=19
+14,20,Djebel Kouif,35.498889,8.33,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=20
+15,21,,35.91,5.018056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=21
+16,22,,35.216944,4.166944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=22
+17,23,Tebessa,35.40417,8.12417,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=23
+18,24,,-8.6,13.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=24
+19,25,,-11.51,16.62,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=25
+20,26,Cácata,-5.25,12.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=26
+21,27,Cambota,-5.02,12.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=27
+22,29,Chivovo (Tchivovo),-4.92,12.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=29
+23,30,"Mongo Tango (Mongo-Tanda, Mongo Tando, Cacongo)",-5.17,12.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=30
+24,31,Seva,-5.03333,12.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=31
+25,32,Ueca,-5.05,12.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=32
+26,33,,-12.85,15.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=33
+27,34,,-5.25,12.92,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=34
+28,35,,-7.02,12.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=35
+29,36,,-6.8,12.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=36
+30,37,,-6.9833,13.1667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=37
+31,38,,-6.95,12.866667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=38
+32,39,,-6.8,12.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=39
+33,40,,-6.8,12.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=40
+34,44,,-44.91667,-65.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=44
+35,47,,-23.0,-65.33,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=47
+36,48,"Los Apires, El Risco",-33.0,-69.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=48
+37,49,,-38.38333,-70.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=49
+38,52,,-41.83333,-65.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=52
+39,53,,-31.11222,-68.64167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=53
+40,55,,-47.2,-65.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=55
+41,57,,-49.5,-68.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=57
+42,59,,-50.33333,-72.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=59
+43,61,,-50.23333,-68.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=61
+44,63,,-49.5,-71.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=63
+45,65,,-35.666667,150.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=65
+46,66,,-29.383333,153.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=66
+47,67,,-30.416667,153.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=67
+48,68,,-31.176667,153.231667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=68
+49,69,,-31.333333,142.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=69
+50,70,,-33.0,153.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=70
+51,71,,-33.666667,151.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=71
+52,72,,-35.833333,150.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=72
+53,73,,-23.666667,133.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=73
+54,74,,-23.5,132.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=74
+55,75,,-23.833333,135.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=75
+56,76,,-11.5,130.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=76
+57,77,,-12.5,130.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=77
+58,78,,-19.833333,136.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=78
+59,79,,-19.333333,136.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=79
+60,80,,-21.666667,135.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=80
+61,81,,-18.5,138.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=81
+62,82,,-12.333333,130.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=82
+63,83,,-23.0,135.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=83
+64,84,,-13.833333,133.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=84
+65,85,,-19.966667,136.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=85
+66,86,,-18.83333,131.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=86
+67,87,,-18.583333,138.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=87
+68,88,,-25.416667,150.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=88
+69,89,,-25.0,153.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=89
+70,90,,-21.666667,139.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=90
+71,91,,-18.75,138.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=91
+72,92,,-19.716667,138.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=92
+73,93,Phosphate Hill,-21.883333,139.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=93
+74,94,,-20.16667,138.89,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=94
+75,95,,-19.666667,139.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=95
+76,96,,-20.166667,138.733333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=96
+77,97,,-18.666667,138.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=97
+78,98,,-18.666667,138.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=98
+79,99,,-18.833333,138.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=99
+80,100,,-21.833333,139.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=100
+81,101,,-19.083333,138.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=101
+82,102,,-20.0,139.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=102
+83,103,,-23.0,145.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=103
+84,104,,-34.5,139.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=104
+85,105,,-34.33333,138.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=105
+86,106,,-32.75,138.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=106
+87,107,,-41.0,144.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=107
+88,108,,-41.416667,147.916667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=108
+89,109,,-42.0,147.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=109
+90,110,,-40.666667,145.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=110
+91,111,,-41.583333,148.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=111
+92,112,Geelong,-38.15,144.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=112
+93,113,,-36.666667,146.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=113
+94,114,Beaumaris,-38.0,145.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=114
+95,115,Lakes Entrance,-37.883333,147.983333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=115
+96,116,,-37.166667,146.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=116
+97,117,,-36.25,146.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=117
+98,118,Murrayville,-35.266667,141.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=118
+99,119,Hamilton,-37.75,142.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=119
+100,120,Mansfield (Phosphate Hill),-37.0,146.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=120
+101,121,Princetown,-38.683333,143.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=121
+102,122,,-38.833333,146.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=122
+103,123,,-21.436667,115.411667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=123
+104,124,includes Swan deposit,-28.86667,122.53333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=124
+105,125,,-27.5,115.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=125
+106,126,,-30.666667,115.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=126
+107,128,,50.48333,3.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=128
+108,129,,51.2,4.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=129
+109,130,,51.28333,5.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=130
+110,131,,50.466667,3.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=131
+111,132,,50.416667,3.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=132
+112,133,,50.416667,3.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=133
+113,134,,50.666667,5.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=134
+114,135,,50.63333,5.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=135
+115,136,,53.7,31.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=136
+116,137,,6.48333,1.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=137
+117,138,,12.06667,2.48333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=138
+118,139,,26.7666666666667,89.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=139
+119,140,,-15.5,-60.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=140
+120,141,,-17.75,-66.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=141
+121,142,,-15.75,-67.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=142
+122,143,,-19.533889,-65.451111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=143
+123,144,,-19.41667,-65.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=144
+124,148,,-12.166667,-40.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=148
+125,149,,-11.366667,-41.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=149
+126,150,,-15.18333,-40.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=150
+127,151,,-4.501389,-39.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=151
+128,152,,-15.8,-46.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=152
+129,153,,-13.05,-46.88333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=153
+130,154,,-18.133333,-47.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=154
+131,157,,-15.53333,-47.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=157
+132,158,,-13.85,-46.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=158
+133,159,,-18.25,-47.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=159
+134,160,Barreiro,-19.63333,-46.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=160
+135,161,,-19.28333,-45.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=161
+136,162,,-18.5,-46.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=162
+137,163,Lagamar Mine (Lanamar),-18.08333,-46.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=163
+138,164,Rocinha Mine,-18.33333,-46.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=164
+139,165,Salitre I,-19.0,-46.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=165
+140,166,Serra Negra,-19.0,-46.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=166
+141,167,,-19.866667,-46.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=167
+142,168,,-1.05,-46.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=168
+143,169,,-7.33333,-34.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=169
+144,170,,-6.83333,-34.88333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=170
+145,171,,-7.85,-37.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=171
+146,172,Olho d'Agua,-7.71667,-36.917,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=172
+147,173,,-7.75,-34.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=173
+148,174,,-7.61667,-34.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=174
+149,175,,-7.95,-34.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=175
+150,176,,-7.11667,-41.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=176
+151,177,,-6.21667,-41.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=177
+152,178,,-8.25,-42.033,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=178
+153,179,,-5.833333,-36.616667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=179
+154,180,,-27.808333,-49.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=180
+155,181,Cajati,-24.71667,-48.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=181
+156,182,,-23.43333,-47.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=182
+157,183,Guaviruva Mine,-24.5,-47.78,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=183
+158,184,Serrote,-24.4,-47.667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=184
+159,186,,-24.74,-48.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=186
+160,187,,42.5833333333333,22.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=187
+161,188,,43.18333,27.43333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=188
+162,189,,43.41667,24.61667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=189
+163,190,,11.8,2.133333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=190
+164,191,,11.58333,1.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=191
+165,192,,12.13333,1.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=192
+166,193,,12.01667,1.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=193
+167,194,,-2.86667,29.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=194
+168,195,,13.5,103.016666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=195
+169,197,,13.0167,103.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=197
+170,198,,13.4,103.016666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=198
+171,199,,13.4666666666667,103.016666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=199
+172,200,,13.6,102.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=200
+173,201,,13.6,102.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=201
+174,202,,10.5833333333333,104.466666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=202
+175,203,,10.6333333333333,104.566666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=203
+176,204,,10.7666666666667,104.383333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=204
+177,205,,10.6833333333333,104.533333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=205
+178,206,,10.8167,104.5333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=206
+179,207,,11.6833,103.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=207
+180,221,,49.5,-115.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=221
+181,222,,45.48417,-66.18194,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=222
+182,223,,46.23222,-64.78972,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=223
+183,227,,49.3,-82.816667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=227
+184,228,Kapuskasing Mine,49.41667,-82.43333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=228
+185,229,,47.75,-83.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=229
+186,231,,50.31667,-83.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=231
+187,232,,48.0,-83.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=232
+188,233,,49.21667,-68.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=233
+189,234,,45.7,-75.467,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=234
+190,235,,45.48333,-73.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=235
+191,236,,45.5,-74.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=236
+192,237,,50.2,-66.38333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=237
+193,238,,48.55,-71.06667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=238
+194,249,,-25.90333,-70.04167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=249
+195,253,,-28.75,-70.9667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=253
+196,256,,-23.2,-70.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=256
+197,264,,32.666667,116.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=264
+198,265,Dahengshan Phosphate Mine,31.75,117.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=265
+199,266,Nanchong Phosphate Mine,30.15,116.116667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=266
+200,267,,21.2,110.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=267
+201,268,,23.133333,107.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=268
+202,269,Du'an,23.333333,106.633333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=269
+203,272,"Kaiyang, Fuchan?",27.05,106.916667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=272
+204,273,,27.25,106.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=273
+205,274,,27.68667,106.90722,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=274
+206,275,Yingping Mine,27.0,107.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=275
+207,276,"includes Yingping, Lanmaao and Mo Fang Mines",26.7,107.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=276
+208,277,Beidoushan (Weng'an Mine),27.07139,107.47917,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=277
+209,278,"includes Datang, Chaoyanpo, and Nanpu mines",27.25,106.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=278
+210,279,Xinhua,26.7,105.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=279
+211,280,Damao Mine,18.416667,109.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=280
+212,281,,31.0167,113.0833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=281
+213,286,,40.075556,114.118333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=286
+214,287,Fanshan,40.366667,115.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=287
+215,288,,33.75,102.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=288
+216,289,Dayukou Phosphate Mine,31.433333,112.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=289
+217,290,,31.166667,112.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=290
+218,291,,29.9,110.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=291
+219,292,,31.95,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=292
+220,293,Huangmailing Phosphate Mine,31.483333,114.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=293
+221,294,Dianziping + Shukongping,30.8,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=294
+222,295,,30.8,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=295
+223,296,,30.8,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=296
+224,297,,30.8,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=297
+225,298,,30.8,111.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=298
+226,299,Wanji Phosphate Mine,31.766667,112.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=299
+227,300,Zhongxiang Phosphate Mine,31.183333,112.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=300
+228,301,Jingxiang phosphate Mine,31.033333,113.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=301
+229,304,Pushi,28.08333,110.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=304
+230,305,Xixi Phosphate Mine,28.5,110.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=305
+231,306,Liuyang Phosphate Mine,28.3,113.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=306
+232,308,Huangjingping,27.61667,112.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=308
+233,309,Lianyungang Mine,34.73333,119.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=309
+234,310,Jingping Phosphate Mine (Jiansu Haizhou),34.56667,119.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=310
+235,312,,32.033333,120.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=312
+236,313,Chaoyang Mine,28.45,117.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=313
+237,318,,41.883333,119.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=318
+238,320,Bulongtu Phosphate Mine,41.5,109.483333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=320
+239,322,,33.19639,106.46139,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=322
+240,323,,33.26667,106.316667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=323
+241,324,,32.333333,106.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=324
+242,326,,34.083333,106.733333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=326
+243,327,,33.083333,107.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=327
+244,329,,39.316667,113.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=329
+245,331,,36.216667,117.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=331
+246,333,"Jiangjia, others",37.171667,119.921389,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=333
+247,334,,37.183611,120.688889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=334
+248,335,"Shagou, others",34.864722,117.554167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=335
+249,337,,29.6,103.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=337
+250,339,,28.316667,103.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=339
+251,340,"Chinho (Jin He, Jinhe)",29.1667,103.3333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=340
+252,341,"Chingping (Zingping, Qingping)",28.3167,103.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=341
+253,342,,29.35,102.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=342
+254,344,,29.35,102.716667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=344
+255,345,,26.65,102.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=345
+256,346,,28.25,103.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=346
+257,347,,28.25,103.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=347
+258,348,,28.840278,103.542778,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=348
+259,349,,31.333333,104.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=349
+260,350,,31.333333,104.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=350
+261,352,,24.905833,102.491667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=352
+262,353,,25.033333,102.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=353
+263,356,,24.194444,102.92806,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=356
+264,357,,26.35,103.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=357
+265,358,,24.75,102.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=358
+266,359,,24.75,102.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=359
+267,360,,24.75,102.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=360
+268,361,,24.75,102.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=361
+269,362,,25.066667,102.683333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=362
+270,363,Jinning Phosphate Mine,24.75,102.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=363
+271,364,Kunyang Mine,24.7,102.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=364
+272,365,Haikou,24.766667,102.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=365
+273,368,,25.483333,103.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=368
+274,380,,5.633333,-73.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=380
+275,381,,5.3,-73.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=381
+276,382,,5.45,-73.383,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=382
+277,383,,5.667,-72.833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=383
+278,385,,5.55,-73.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=385
+279,387,,5.2,-73.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=387
+280,388,,4.75,-73.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=388
+281,389,,4.85,-73.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=389
+282,390,,4.9,-73.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=390
+283,391,,5.35,-74.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=391
+284,392,,5.07,-73.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=392
+285,395,,5.4,-73.91,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=395
+286,397,,2.9,-75.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=397
+287,399,,3.133,-75.017,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=399
+288,400,,2.15,-75.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=400
+289,403,La Juanita,2.966667,-75.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=403
+290,406,,2.66667,-75.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=406
+291,407,,11.01667,-73.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=407
+292,408,,7.783,-72.733,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=408
+293,409,,7.416667,-72.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=409
+294,410,,7.88333,-72.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=410
+295,412,,8.333333,-72.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=412
+296,414,,6.915556,-73.4425,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=414
+297,416,,7.219444,-73.315556,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=416
+298,417,,7.352778,-73.315556,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=417
+299,418,,6.809722,-72.868889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=418
+300,419,,7.5,-73.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=419
+301,421,,3.9,-75.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=421
+302,422,,4.066667,-74.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=422
+303,424,,0.6,29.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=424
+304,425,Tchivoula,-4.683333,12.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=425
+305,426,,-4.91472,12.10389,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=426
+306,427,,-4.676389,12.169444,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=427
+307,428,,-0.98333,29.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=428
+308,429,,-4.083333,11.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=429
+309,436,,-0.167,-77.583,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=436
+310,437,,0.05,-77.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=437
+311,438,El-Eweniya,25.18333,32.73333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=438
+312,439,Nag' Selim,25.2,32.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=439
+313,440,Naser,28.08333,35.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=440
+314,441,Sabona,25.18333,32.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=441
+315,442,Wadi Helal,25.2,32.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=442
+316,443,,28.0,30.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=443
+317,445,,25.75,33.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=445
+318,447,"El Mahamid (El Mahamid East, El Mohammed, Sabayia East)",25.166667,32.683333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=447
+319,448,"El Sebaiya (West Sebaiya, El Mahamid West, Sibaeya, Sebaya)",25.166667,32.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=448
+320,449,Gebel Abu Had,26.6,32.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=449
+321,450,Gebel El Gir,25.1,33.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=450
+322,451,Gebel El Shaghab,25.33333,33.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=451
+323,452,Gebel Nezzi,25.53333,32.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=452
+324,455,Kom-Mir,25.18333,32.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=455
+325,456,Wadi El Batur,25.26667,33.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=456
+326,457,Wadi El Mashash,25.43333,33.23333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=457
+327,458,Wadi El Serei (El Sarai),26.2,33.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=458
+328,459,Wadi El Shaghab,25.06667,33.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=459
+329,460,Wadi Hamama,26.3,33.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=460
+330,461,Wadi Qena-Wadi Araba,27.16664,32.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=461
+331,462,,26.3,34.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=462
+332,464,Abu Shigeila (Abu Shegeila),26.2,34.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=464
+333,466,Anz,25.5,34.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=466
+334,467,Atshan,24.21667,32.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=467
+335,468,Duwi (Gebel Duwi),26.23333,33.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=468
+336,469,Hamadat,25.98333,34.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=469
+337,470,"El Hamra, Kueik",26.28333,34.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=470
+338,471,Nakheil,26.18333,34.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=471
+339,475,Wassif (Safaga),26.46667,33.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=475
+340,476,Um El Howeitat (Umel Huetat),26.5,33.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=476
+341,477,"Abu Tartur (Abu Tartour, Maghrabi-Liffiya)",25.433333,30.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=477
+342,478,,28.5,29.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=478
+343,480,,59.16667,29.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=480
+344,481,,59.366667,28.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=481
+345,488,,59.36667,26.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=488
+346,489,,59.3,27.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=489
+347,491,,10.75,38.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=491
+348,492,,6.9667,45.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=492
+349,493,,9.25,35.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=493
+350,494,,63.083333,27.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=494
+351,495,,67.75,29.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=495
+352,496,,64.416667,27.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=496
+353,497,,63.5,24.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=497
+354,498,,64.416667,25.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=498
+355,499,,61.716667,24.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=499
+356,500,,49.41667,5.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=500
+357,501,,44.48333,2.53333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=501
+358,502,,46.15,2.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=502
+359,503,,47.68333,5.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=503
+360,504,,45.6,5.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=504
+361,515,,43.0,2.266667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=515
+362,516,,47.216667,4.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=516
+363,517,,47.5,4.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=517
+364,518,,44.383333,4.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=518
+365,519,,44.016667,4.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=519
+366,521,,42.916667,0.633333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=521
+367,522,,42.833333,0.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=522
+368,523,,44.416667,1.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=523
+369,531,,49.55,1.866667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=531
+370,533,,49.583333,2.233333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=533
+371,535,,50.5,2.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=535
+372,536,,50.816667,1.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=536
+373,537,,43.0,1.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=537
+374,543,,50.083333,2.316667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=543
+375,544,,50.0,1.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=544
+376,547,,48.2166666666667,3.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=547
+377,548,,-0.7,11.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=548
+378,549,,-1.57,13.183889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=549
+379,553,,50.41667,7.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=553
+380,556,,39.66667,20.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=556
+381,557,,39.73333,20.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=557
+382,558,,39.4,20.916667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=558
+383,559,,37.783333,20.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=559
+384,560,Drimos deposit,39.95,20.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=560
+385,561,,39.666667,20.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=561
+386,562,,39.65,20.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=562
+387,563,,39.733333,20.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=563
+388,564,,38.233333,20.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=564
+389,565,,39.66667,19.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=565
+390,566,,37.78333,20.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=566
+391,568,,37.2,22.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=568
+392,571,,65.383333,-51.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=571
+393,572,,66.5,-51.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=572
+394,573,,12.5,-15.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=573
+395,574,,47.25,17.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=574
+396,576,,46.95,17.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=576
+397,577,,-8.95,76.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=577
+398,578,,15.5,78.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=578
+399,579,,18.2,83.116667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=579
+400,580,,20.793056,81.058333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=580
+401,583,,22.45,73.691667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=583
+402,588,,22.433333,86.533333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=588
+403,589,,22.4,86.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=589
+404,590,,22.5,85.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=590
+405,591,,22.533333,86.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=591
+406,595,,22.283333,76.116667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=595
+407,597,,24.366667,79.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=597
+408,600,,22.958333,74.425,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=600
+409,601,,23.0,74.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=601
+410,602,,22.966667,74.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=602
+411,603,,22.95,74.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=603
+412,605,,22.966667,74.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=605
+413,606,,22.933333,74.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=606
+414,607,,22.95,74.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=607
+415,612,,26.2,71.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=612
+416,613,,24.883333,74.916667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=613
+417,615,,23.2,74.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=615
+418,616,,25.25,74.133333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=616
+419,617,,23.183333,74.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=617
+420,618,,27.3,76.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=618
+421,619,,27.883333,76.366667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=619
+422,620,,27.4,77.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=620
+423,621,,26.3,70.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=621
+424,622,,26.4,71.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=622
+425,626,,24.5,73.733333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=626
+426,627,,24.466667,73.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=627
+427,629,,24.566667,73.766667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=629
+428,630,,24.55,73.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=630
+429,632,,24.55,73.796667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=632
+430,639,,23.5,74.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=639
+431,649,,29.812222,78.596667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=649
+432,650,,29.591667,80.172222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=650
+433,676,,39.333333,44.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=676
+434,677,,31.805,55.585,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=677
+435,678,,36.0,51.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=678
+436,679,,36.0,51.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=679
+437,680,,32.4666666666667,49.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=680
+438,681,,36.4,48.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=681
+439,682,,30.566667,50.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=682
+440,683,,30.8333333333333,51.0666666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=683
+441,684,,36.666667,48.483333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=684
+442,685,Marbat,33.666667,40.283333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=685
+443,686,Traibeel,32.41667,39.06667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=686
+444,687,Akashat,33.8,40.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=687
+445,688,Ga'ara Area,33.75,40.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=688
+446,690,,53.05,-9.283333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=690
+447,692,,31.21667,35.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=692
+448,693,,30.86667,34.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=693
+449,694,,30.63333,35.116677,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=694
+450,695,,30.616667,35.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=695
+451,697,,30.43333,34.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=697
+452,700,,30.18333,34.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=700
+453,701,,30.83333,35.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=701
+454,702,,30.95,35.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=702
+455,705,Makhtesh Mine,30.55,34.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=705
+456,706,Makhtesh Qatan,30.866667,35.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=706
+457,707,Nahal Zin,30.95,35.31667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=707
+458,708,Oron,30.866667,35.983333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=708
+459,709,Arad Mine,31.1166666666667,35.1833333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=709
+460,712,,36.8,14.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=712
+461,713,,29.966667,37.016667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=713
+462,714,,29.75,35.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=714
+463,716,El Abyad,30.9,36.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=716
+464,717,El Hassa,30.833333,36.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=717
+465,718,Esh Shidiya,29.8,36.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=718
+466,719,,29.75,36.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=719
+467,720,Ruseifa (Rusayfah),32.0,36.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=720
+468,721,,32.016667,35.766667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=721
+469,722,,30.1,36.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=722
+470,723,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=723
+471,724,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=724
+472,725,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=725
+473,726,,49.466667,57.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=726
+474,727,,48.366667,59.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=727
+475,728,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=728
+476,729,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=729
+477,730,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=730
+478,731,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=731
+479,732,,50.283333,57.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=732
+480,733,Aksai (Ak Say) Mine,43.4,70.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=733
+481,734,,43.3,70.06,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=734
+482,735,Dzhanatas Mine,43.649722,69.969444,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=735
+483,736,Chulak Tau Mine,43.166667,70.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=736
+484,737,Molodezniy Mine,43.166667,70.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=737
+485,738,,43.15,70.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=738
+486,739,"Kokdhzon (Kok Dzhon, Kokzhon) Mine",43.516944,69.747222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=739
+487,741,Tje Say (Tjesay) Mine,43.6,70.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=741
+488,742,,-0.38333,34.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=742
+489,743,,-0.56667,34.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=743
+490,744,,-0.54,34.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=744
+491,745,,-0.06667,35.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=745
+492,748,Amioun,34.35,35.81667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=748
+493,749,Hasbaya,33.4,35.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=749
+494,750,Machnhara,33.51667,35.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=750
+495,751,Nahr Litani (I),33.71667,35.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=751
+496,752,Nahr Litani (II),33.66667,35.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=752
+497,753,Nahr Litani (III),33.58333,35.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=753
+498,754,Saida,33.63333,35.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=754
+499,755,Sour,33.33333,35.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=755
+500,756,Sour South,33.21667,35.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=756
+501,757,Tripoli,34.45,35.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=757
+502,758,Zahle South,33.85,35.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=758
+503,760,Gharyan (Jebal Ghariane),32.26667,12.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=760
+504,761,,49.51667,5.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=761
+505,762,,-15.33333,35.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=762
+506,763,,-14.95,34.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=763
+507,764,,-15.13333,34.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=764
+508,765,,-15.28333,34.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=765
+509,767,,-15.08333,35.06667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=767
+510,768,,-15.26667,34.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=768
+511,769,includes Ilomba and Ulindi intrusions,-9.55,33.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=769
+512,770,,-15.53333,35.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=770
+513,771,,20.5,0.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=771
+514,772,,17.583333,0.254167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=772
+515,773,,17.5,0.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=773
+516,774,,16.83333,0.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=774
+517,775,,17.13333,0.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=775
+518,777,Akkadenach,19.55,-12.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=777
+519,778,Aouala,19.2,-13.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=778
+520,779,Batha Ergil,20.61667,-12.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=779
+521,780,Bofal,16.416667,-13.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=780
+522,781,Bogue,16.58333,-14.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=781
+523,782,Civé,15.75,-13.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=782
+524,783,Kaedi (Mboto),16.23333,-13.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=783
+525,784,Loubboira  (Louberra),16.43333,-13.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=784
+526,785,Naniouat Koueriat,16.23333,-13.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=785
+527,786,Nouedgui-Bou Naga area,19.08333,-12.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=786
+528,787,Oued Chig,19.78333,-12.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=787
+529,789,,26.25,-113.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=789
+530,790,,24.63333,-112.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=790
+531,792,,24.467,-111.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=792
+532,793,,24.283,-111.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=793
+533,795,,24.3825,-110.70222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=795
+534,798,,24.29,-111.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=798
+535,799,,25.26667,-110.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=799
+536,800,,25.085,-101.451111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=800
+537,801,,25.06667,-101.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=801
+538,802,,25.025,-101.498889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=802
+539,803,,27.68333,-101.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=803
+540,804,,25.171944,-102.161111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=804
+541,805,,25.15,-102.191944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=805
+542,806,,27.25,-101.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=806
+543,807,,24.95,-100.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=807
+544,808,,24.95,-100.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=808
+545,809,Saltillo,24.95,-100.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=809
+546,810,,24.95,-100.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=810
+547,811,,25.183,-101.317,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=811
+548,813,"La Laja, Angelina, El Paseo, La Dura, La Prieta, El Duraznillo",21.16667,-100.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=813
+549,814,,20.983,-99.333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=814
+550,816,,26.75,-100.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=816
+551,817,,23.5,-100.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=817
+552,820,,24.833,-100.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=820
+553,822,,26.883333,-100.683333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=822
+554,823,,26.0,-100.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=823
+555,824,Chavarria,20.81667,-99.61667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=824
+556,825,La Ventana,20.85,-99.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=825
+557,832,El Buen Suceso,22.88333,-101.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=832
+558,833,El Cerrito,24.13333,-103.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=833
+559,834,El Papanton,22.56667,-102.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=834
+560,835,La Campesina,22.55,-101.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=835
+561,836,La Continental,22.56667,-101.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=836
+562,837,La Guadalupe,22.48333,-102.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=837
+563,838,Las Auras,24.11667,-101.43333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=838
+564,839,Palmas,23.8,-101.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=839
+565,840,Palmillas,22.65,-102.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=840
+566,841,Palmira,22.6,-102.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=841
+567,842,Santo Niño,23.68333,-101.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=842
+568,843,Tetillas,23.66667,-102.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=843
+569,844,,24.803056,-101.238889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=844
+570,845,,24.613056,-101.583056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=845
+571,846,,23.9,-101.983,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=846
+572,847,,25.018889,-102.036944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=847
+573,848,,23.683,-102.833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=848
+574,849,,22.767,-102.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=849
+575,851,La Esperanza,22.58333,-102.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=851
+576,852,,24.458889,-101.118056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=852
+577,853,,24.543889,-100.96,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=853
+578,854,,24.638889,-101.958889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=854
+579,861,,49.8,99.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=861
+580,862,,50.666667,100.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=862
+581,863,,50.86667,100.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=863
+582,877,,50.68333,100.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=877
+583,883,,50.31667,100.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=883
+584,888,,51.21667,99.38333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=888
+585,889,,51.7,100.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=889
+586,891,,51.2,100.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=891
+587,893,,51.35639,99.34444,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=893
+588,894,Ben Ider,32.83333,-6.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=894
+589,895,Chichaoua,31.51667,-8.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=895
+590,896,Imin Tanoute (Imi-N-Tanoute),31.166667,-8.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=896
+591,897,Kasba Tadla,32.61667,-6.23333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=897
+592,898,Meskala,31.38333,-9.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=898
+593,899,Nzalet El Hararcha,32.23333,-7.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=899
+594,900,,32.75,-6.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=900
+595,901,"Al Borouj (Al Broujj, El Borouj) area",32.583333,-7.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=901
+596,903,Daoui Nord,32.766667,-6.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=903
+597,904,Khouribga Underground,32.8,-7.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=904
+598,905,Mrzig (Mrizig) area,32.866667,-7.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=905
+599,906,Meraa-El-Arech (Mera El Arech),32.666667,-6.791667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=906
+600,907,Sidi-Daoui (Sid Daoui),32.783333,-6.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=907
+601,908,Sidi Hajjaj,32.66667,-6.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=908
+602,909,Ouled Fares area,32.633333,-7.133333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=909
+603,910,Oued Zem,32.81667,-6.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=910
+604,911,Recette 4 (Khouribga Area),32.75,-6.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=911
+605,912,Sidi Chennane,32.71667,-6.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=912
+606,913,,32.666667,-7.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=913
+607,914,El Outa,32.316667,-7.983333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=914
+608,915,N'zala,32.116667,-8.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=915
+609,916,Tessaout,31.63333,-7.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=916
+610,917,,32.25,-8.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=917
+611,918,Youssoufia,32.25,-8.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=918
+612,919,Youssoufia Black Rock,32.25,-8.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=919
+613,920,Youssoufia Open Cast Mines,32.25,-8.533333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=920
+614,921,Benguérir (Ben-Guerir),32.28333,-7.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=921
+615,922,Youssoufia White Rock,32.283333,-8.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=922
+616,923,"Bou Craa (Bu-Craa, Wadi Bu Craa)",26.36667,-12.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=923
+617,924,,-15.54028,31.27444,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=924
+618,926,,-12.38333,36.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=926
+619,928,,-28.5,16.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=928
+620,929,,-19.0,12.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=929
+621,930,,-24.0,14.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=930
+622,931,,-17.55,13.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=931
+623,932,,-20.8,16.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=932
+624,933,,-21.91667,17.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=933
+625,934,,-20.03333,16.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=934
+626,935,,-20.76667,16.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=935
+627,936,,-20.88333,16.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=936
+628,937,,-17.33333,13.81667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=937
+629,938,,28.0166666666667,82.5166666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=938
+630,942,Parchuni,29.6,80.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=942
+631,944,Sorar,29.5666666666667,80.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=944
+632,947,Kodachaur,29.5666666666667,80.9333333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=947
+633,948,Tarugad,29.4833333333333,81.0333333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=948
+634,949,,29.4166666666667,81.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=949
+635,950,,26.8333333333333,87.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=950
+636,951,,28.2666666666667,82.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=951
+637,952,,52.4,6.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=952
+638,953,,51.916667,6.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=953
+639,954,,-43.6,177.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=954
+640,955,,-46.05,170.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=955
+641,956,,12.41667,2.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=956
+642,959,,68.88333,17.31667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=959
+643,961,"Sove (Cappelon, Hydro, Tufte)",59.28333,9.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=961
+644,962,,59.25,10.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=962
+645,963,"Odegarden, others",58.95,9.63333333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=963
+646,965,Sofestad,59.15,8.51666666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=965
+647,968,,17.46667,55.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=968
+648,969,,17.5,56.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=969
+649,970,,26.23333,66.31667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=970
+650,971,,30.36667,68.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=971
+651,972,,31.491944,70.141944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=972
+652,973,,31.553889,70.191944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=973
+653,974,,31.715,70.138889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=974
+654,975,Dalola,34.416667,73.366667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=975
+655,976,Kakul,34.219444,73.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=976
+656,977,,34.21333,73.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=977
+657,978,Lagarban,34.216667,73.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=978
+658,979,Sirbun Hill,34.116667,73.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=979
+659,980,,34.220833,71.141111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=980
+660,981,,31.441944,70.041944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=981
+661,982,,31.741944,70.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=982
+662,983,,30.05,70.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=983
+663,986,,-11.9,-75.383,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=986
+664,987,,-11.5,-75.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=987
+665,988,,-11.0,-78.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=988
+666,989,,-9.0,-78.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=989
+667,990,,-13.6,-76.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=990
+668,991,,-5.8375,-81.0375,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=991
+669,992,Bayovar,-5.15,-81.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=992
+670,993,,-5.8,-80.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=993
+671,1002,,50.883333,21.866667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1002
+672,1003,,51.733333,22.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1003
+673,1004,,51.4,18.933333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1004
+674,1005,,50.933333,21.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1005
+675,1006,,51.7,22.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1006
+676,1007,,51.533333,22.283333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1007
+677,1008,,51.25,21.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1008
+678,1012,,40.066667,-7.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1012
+679,1013,,39.45,-7.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1013
+680,1015,,18.11,-67.93472,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1015
+681,1016,,18.09472,-67.93694,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1016
+682,1017,,18.08972,-67.84639,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1017
+683,1018,,18.05889,-67.87833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1018
+684,1020,,56.45,123.73333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1020
+685,1021,,54.35,93.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1021
+686,1024,,53.44611,41.81,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1024
+687,1025,,66.75,31.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1025
+688,1027,,55.2667,88.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1027
+689,1028,,67.38333,33.06667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1028
+690,1029,Changit,70.2,100.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1029
+691,1030,Gulinski,70.95,101.43333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1030
+692,1031,,67.4333,32.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1031
+693,1032,,66.95,29.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1032
+694,1034,,56.08333,58.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1034
+695,1035,,58.25,57.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1035
+696,1036,,53.41667,56.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1036
+697,1037,,53.66667,56.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1037
+698,1038,,53.3,56.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1038
+699,1039,,53.63333,56.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1039
+700,1040,,53.58333,56.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1040
+701,1041,,53.83333,56.58333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1041
+702,1042,,53.91667,56.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1042
+703,1043,,53.908333,35.125,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1043
+704,1044,Schchigry,51.866667,36.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1044
+705,1045,,52.166667,100.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1045
+706,1046,,51.75,101.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1046
+707,1047,,51.5,100.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1047
+708,1048,,51.966667,107.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1048
+709,1049,,56.83333,111.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1049
+710,1050,,52.0,114.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1050
+711,1051,,55.487778,46.963889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1051
+712,1052,Duminichi,53.92917,35.10583,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1052
+713,1053,,61.42,29.77,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1053
+714,1055,,66.18,32.03,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1055
+715,1056,,52.883333,87.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1056
+716,1057,,55.166667,137.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1057
+717,1058,Nelkanskoe,54.3,134.98333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1058
+718,1059,North Shantarskoe,55.15,137.58333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1059
+719,1060,,53.9,134.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1060
+720,1061,Rudnichnyy Mine,59.633333,52.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1061
+721,1062,,54.283333,92.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1062
+722,1063,,59.366667,28.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1063
+723,1064,Lepatinsk (Lopatinsk),55.316667,38.716667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1064
+724,1065,Voskresensk,55.316667,38.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1065
+725,1066,,55.383333,39.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1066
+726,1067,,68.916667,32.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1067
+727,1068,,67.666667,33.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1068
+728,1069,,67.75,33.733333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1069
+729,1070,Kirov (Kirovsk) Mine Complex,67.75,33.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1070
+730,1071,Kukisvumchorr Mine Complex,67.75,33.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1071
+731,1072,Razvumchorr (Rasvumchorr) Mine,67.633333,33.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1072
+732,1073,Tsentralny (Central) Mine,67.6,33.98,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1073
+733,1074,"Koashva, Nyorkpakhk (Niorpakh)",67.666667,34.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1074
+734,1075,Yukspor Mine,67.633333,33.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1075
+735,1076,,67.566667,30.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1076
+736,1077,,68.966667,33.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1077
+737,1078,,66.78333,30.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1078
+738,1079,,52.0833,35.0333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1079
+739,1080,,44.46667,134.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1080
+740,1081,,51.333333,45.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1081
+741,1082,,55.63333,133.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1082
+742,1083,,55.51667,134.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1083
+743,1084,,55.71667,14.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1084
+744,1085,,54.13333,134.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1085
+745,1086,,53.35,89.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1086
+746,1087,,55.61667,134.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1087
+747,1088,,51.966667,107.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1088
+748,1089,,53.45,41.82,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1089
+749,1090,,53.966667,38.533333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1090
+750,1091,Kimovsk,53.97306,38.53361,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1091
+751,1092,,50.1,45.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1092
+752,1093,,51.2,43.716667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1093
+753,1095,,58.383333,125.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1095
+754,1096,,59.61667,30.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1096
+755,1097,,30.5,38.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1097
+756,1098,,31.33333,39.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1098
+757,1099,,29.9,39.533333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1099
+758,1100,,26.81667,36.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1100
+759,1101,,29.93333,39.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1101
+760,1102,,28.28333,35.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1102
+761,1103,,31.6775,38.653056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1103
+762,1104,,29.73333,38.02,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1104
+763,1105,,31.61667,38.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1105
+764,1107,,30.16667,38.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1107
+765,1108,,29.75,38.045833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1108
+766,1109,,13.0,-14.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1109
+767,1110,,12.583333,-16.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1110
+768,1111,,12.55,-12.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1111
+769,1112,,15.333333,-13.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1112
+770,1113,,15.0,-16.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1113
+771,1114,Keur Mor Fall Mine (Keur Morfal),15.08333,-16.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1114
+772,1115,Ndomor Diop,15.05,-16.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1115
+773,1116,Tobene,15.03333,-16.78333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1116
+774,1117,,14.8,-17.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1117
+775,1118,Lam Lam,14.9,-16.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1118
+776,1119,Pallo,14.8,-17.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1119
+777,1120,Pire Goureye,15.016667,-16.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1120
+778,1122,,14.63333,-17.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1122
+779,1123,,3.05,43.8667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1123
+780,1124,,-25.31667,27.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1124
+781,1125,,-25.68333,28.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1125
+782,1126,,-25.11667,27.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1126
+783,1127,,-25.05,27.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1127
+784,1128,,-25.41667,28.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1128
+785,1129,,-25.6,28.38333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1129
+786,1130,,-23.25,30.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1130
+787,1131,,-24.96667,29.81667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1131
+788,1132,,-25.28333,27.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1132
+789,1133,,-32.91,17.98,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1133
+790,1134,,-33.13333,18.01667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1134
+791,1135,,-32.73333,17.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1135
+792,1136,,-31.71667,24.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1136
+793,1137,,-33.03333,17.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1137
+794,1138,Old Varswater Quarry,-32.96667,18.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1138
+795,1139,New Varswater Quarry,-32.96667,18.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1139
+796,1140,Baad's Quarry,-32.96667,18.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1140
+797,1141,Includes Pelgrimsrust and Noodhulp properties,-32.83333,17.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1141
+798,1142,"Includes Sandheuwel, Langlaagte, Witteklip properties",-31.76667,20.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1142
+799,1143,,-34.3,23.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1143
+800,1144,,-24.68,27.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1144
+801,1145,,-24.05,31.133333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1145
+802,1146,,-24.0,31.1333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1146
+803,1148,,39.416667,-6.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1148
+804,1149,,39.8333333333333,-5.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1149
+805,1150,,39.3333333333333,-5.51666666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1150
+806,1151,,39.3333333333333,-5.51666666666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1151
+807,1152,,39.45,-6.466667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1152
+808,1153,,39.45,-5.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1153
+809,1154,,39.45,-5.86667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1154
+810,1155,,39.3666666666667,-7.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1155
+811,1156,,39.8333333333333,-6.83333333333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1156
+812,1160,,39.316667,-4.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1160
+813,1162,,37.866667,-1.616667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1162
+814,1164,Eppawella,8.166667,80.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1164
+815,1166,,4.433333,-57.066667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1166
+816,1167,,68.2,19.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1167
+817,1168,,62.383333,17.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1168
+818,1169,,64.866667,20.383333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1169
+819,1170,"Includes Export field, Strandberg field, Timmer miner, Risberg field, Ormberg field, Lomberg field",60.08,14.98,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1170
+820,1171,,67.783333,19.516667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1171
+821,1172,Kiruna,67.833333,20.283333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1172
+822,1173,,67.2,20.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1173
+823,1174,,67.566667,19.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1174
+824,1175,,67.63333,21.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1175
+825,1176,,67.851389,20.33,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1176
+826,1177,,62.45,17.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1177
+827,1180,,34.2,37.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1180
+828,1181,,33.9,39.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1181
+829,1182,,33.866667,39.233333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1182
+830,1183,,34.23333,38.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1183
+831,1184,,33.78333,36.88333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1184
+832,1185,,34.716667,36.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1185
+833,1186,,34.2,38.18333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1186
+834,1187,,34.11667,39.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1187
+835,1188,,35.56667,36.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1188
+836,1189,,34.18333,37.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1189
+837,1190,,34.166667,38.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1190
+838,1191,,34.78333,37.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1191
+839,1192,,39.61667,71.2333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1192
+840,1193,,-3.666667,35.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1193
+841,1196,,-2.86667,35.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1196
+842,1197,,-4.21667,35.81667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1197
+843,1198,,-7.83333,38.06667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1198
+844,1199,,-10.05,34.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1199
+845,1200,,-8.91667,33.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1200
+846,1201,,-9.0,33.23333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1201
+847,1203,,-9.5,33.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1203
+848,1204,,-7.7,32.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1204
+849,1205,,-3.41667,35.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1205
+850,1206,,-6.8,30.51667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1206
+851,1208,,19.366667,98.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1208
+852,1210,,16.1,103.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1210
+853,1211,,6.083333,1.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1211
+854,1212,,6.366667,1.383333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1212
+855,1214,,6.38722,1.44972,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1214
+856,1215,,7.25,1.58333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1215
+857,1216,,6.46667,1.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1216
+858,1217,Chaketma,35.61667,9.01667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1217
+859,1218,Kalaa Djerda,35.68333,8.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1218
+860,1219,Kalaet Es Senam,35.76667,8.43333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1219
+861,1220,,35.783333,8.770833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1220
+862,1221,Kalaâ- Khasba Mine,35.666667,8.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1221
+863,1222,Sra Ouertane,36.21667,8.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1222
+864,1223,Kef Eddour (Kef ed Dour),34.15,8.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1223
+865,1224,Djellabia (Jellabia),34.15,8.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1224
+866,1225,Kef es Schfair (Kef Eschaier) Mine,34.38333,8.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1225
+867,1226,Mdilla (M'dilla) Mine,34.3,8.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1226
+868,1227,Metlauoi Mine,34.316667,8.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1227
+869,1228,Moularès Mine,34.483333,8.266667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1228
+870,1229,"Mrata (M'rata, Sehib M'Rata) Mine",34.483333,8.266667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1229
+871,1230,Oum el-Kecheb (Oum El Kecheb),34.15,8.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1230
+872,1231,Redeyef Mine,34.4,8.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1231
+873,1233,,34.25,8.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1233
+874,1234,"Djebel Mechaib, Mezzoura, Maknassy, Meheri Zebbeus",35.0,9.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1234
+875,1235,Djebel Mechaib,35.0,9.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1235
+876,1236,Maknassy,34.71667,9.68333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1236
+877,1237,,38.75,40.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1237
+878,1238,,37.36667,40.11667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1238
+879,1239,,36.81667,37.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1239
+880,1240,,38.366667,42.1,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1240
+881,1241,,37.516667,40.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1241
+882,1242,,1.16667,34.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1242
+883,1243,,0.875,34.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1243
+884,1244,,1.03333,34.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1244
+885,1245,,0.65,34.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1245
+886,1246,,0.68472,34.56972,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1246
+887,1255,,24.8,52.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1255
+888,1256,,24.93333,52.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1256
+889,1257,,52.183333,0.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1257
+890,1258,,52.116667,-0.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1258
+891,1259,,52.083333,1.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1259
+892,1260,,53.166667,0.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1260
+893,1261,,51.516667,-0.683333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1261
+894,1262,,52.016667,-0.566667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1262
+895,1263,,58.0,-4.9,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1263
+896,1264,,52.833333,-3.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1264
+897,1269,,34.97167,-87.04167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1269
+898,1270,,56.32,-133.16733,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1270
+899,1271,,69.45,-145.233333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1271
+900,1273,,34.917,-120.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1273
+901,1274,,36.526667,-121.787778,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1274
+902,1275,,33.0,-119.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1275
+903,1276,,35.41667,-119.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1276
+904,1277,,35.46667,-120.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1277
+905,1278,,34.875,-119.703333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1278
+906,1280,,34.619722,-119.329167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1280
+907,1281,,38.26667,-105.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1281
+908,1282,,38.25,-107.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1282
+909,1283,,29.333,-82.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1283
+910,1288,Stuart Tract,27.925,-81.858056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1288
+911,1289,Big Four Mine,27.743889,-82.078056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1289
+912,1290,Lonesome Mine,27.741111,-82.123056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1290
+913,1293,Duette,27.553056,-82.123056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1293
+914,1294,Four Corners Mine,27.663889,-82.091111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1294
+915,1295,Bonny Lake,27.906111,-81.92,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1295
+916,1296,Clear Springs Mine,27.865278,-81.813889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1296
+917,1297,Fort Green,27.668056,-82.006944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1297
+918,1298,Fort Meade Mine (Mobil),27.766111,-81.807222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1298
+919,1299,Gardinier Mine (Cargill Mine),27.666667,-81.763333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1299
+920,1300,Haynsworth Mine,27.758056,-82.013889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1300
+921,1301,Hookers Prairie,27.781111,-81.938889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1301
+922,1302,Kingsford Mine,27.8,-82.034722,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1302
+923,1304,Nichols Mine,27.8875,-82.036389,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1304
+924,1305,Noralyn Mine,27.843056,-81.8625,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1305
+925,1306,Payne Creek,27.69,-81.941111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1306
+926,1307,Phosphoria,27.843056,-81.8625,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1307
+927,1308,Polk County mine,27.856111,-81.976944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1308
+928,1309,Rockland,27.753889,-81.866944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1309
+929,1310,Saddle Creek,28.033056,-81.833889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1310
+930,1311,Silver City,27.8,-81.903056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1311
+931,1312,Watson,27.725,-81.811111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1312
+932,1314,,27.8,-82.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1314
+933,1315,,27.519444,-82.208333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1315
+934,1316,,29.9,-83.317,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1316
+935,1317,,30.45,-82.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1317
+936,1318,Suwanee River Mine,30.436944,-82.776944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1318
+937,1319,Swift Creek Mine,30.451944,-82.857222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1319
+938,1320,,32.05,-81.083,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1320
+939,1321,,42.424444,-111.380833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1321
+940,1322,,42.676389,-111.253889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1322
+941,1323,,42.8,-111.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1323
+942,1324,Conda,42.728333,-111.526667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1324
+943,1327,Gay,43.049167,-112.122222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1327
+944,1328,Henry,42.786667,-111.463333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1328
+945,1329,Maybie Canyon,42.747778,-111.296944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1329
+946,1332,Wooley Valley,42.871667,-111.317778,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1332
+947,1333,,38.1,-84.717,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1333
+948,1339,,46.608333,-112.740833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1339
+949,1340,Warm Springs Creek (2),45.040556,-111.957222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1340
+950,1341,,33.75,-77.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1341
+951,1342,,34.5,-76.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1342
+952,1343,,35.5,-76.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1343
+953,1345,Lee Creek Mine,35.384167,-76.793611,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1345
+954,1346,,35.333333,-76.771389,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1346
+955,1348,,31.5,-79.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1348
+956,1349,,32.75,-80.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1349
+957,1350,,32.583,-80.917,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1350
+958,1351,,35.75,-87.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1351
+959,1352,,35.5,-51.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1352
+960,1353,,35.723333,-87.249722,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1353
+961,1354,,35.659167,-87.188889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1354
+962,1355,,35.526111,-87.184722,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1355
+963,1357,,35.8,-82.383333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1357
+964,1358,,35.8,-82.383333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1358
+965,1360,,36.5,-81.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1360
+966,1361,,35.616667,-88.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1361
+967,1362,,41.826944,-111.290278,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1362
+968,1363,,40.166667,-111.433333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1363
+969,1364,Vernal,40.606667,-109.490556,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1364
+970,1366,Leefe Mine,41.883,-110.967,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1366
+971,1367,,42.716667,-110.816667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1367
+972,1368,,42.666667,-108.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1368
+973,1369,,43.45,-110.966667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1369
+974,1370,,42.2,-110.983333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1370
+975,1371,,10.567,-63.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1371
+976,1372,,10.8,-68.267,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1372
+977,1373,,10.833,-68.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1373
+978,1374,,9.75139,-69.65194,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1374
+979,1377,,8.58333,-71.34433,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1377
+980,1379,,7.7,-72.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1379
+981,1381,,7.883,-72.217,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1381
+982,1384,Lobatera Mine,7.93333,-72.24667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1384
+983,1385,,7.96806,-72.09917,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1385
+984,1386,,7.63333,-71.6,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1386
+985,1389,,22.5,103.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1389
+986,1390,,20.0,105.33,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1390
+987,1391,,42.6,22.4,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1391
+988,1393,,43.74278,21.76889,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1393
+989,1394,,-15.88333,28.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1394
+990,1395,,-15.55,28.58333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1395
+991,1396,,-14.75,26.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1396
+992,1397,,-13.98333,31.68333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1397
+993,1398,,-15.16667,30.01667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1398
+994,1399,,-10.15,32.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1399
+995,1400,,-19.76667,32.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1400
+996,1401,,-16.46667,32.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1401
+997,1402,,-19.2,31.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1402
+998,1403,,-19.06667,31.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1403
+999,1407,,-45.0,-65.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1407
+1000,1408,,-47.91667,-65.71667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1408
+1001,1411,,-29.166667,151.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1411
+1002,1412,,-33.583333,148.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1412
+1003,1413,"Gamboola, Nandillyan, Larras Lee, Vale Head, Borenore",-33.0,148.833333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1413
+1004,1414,,-32.5,149.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1414
+1005,1415,,-31.0,152.666667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1415
+1006,1416,,-19.133333,143.866667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1416
+1007,1417,,-19.733333,148.366667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1417
+1008,1418,,-24.116667,152.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1418
+1009,1419,,-11.6,144.033333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1419
+1010,1420,,-34.5,134.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1420
+1011,1421,,-34.25,138.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1421
+1012,1422,,-34.83333,138.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1422
+1013,1423,,-34.516667,136.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1423
+1014,1424,,-31.25,138.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1424
+1015,1425,,-30.5,139.3333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1425
+1016,1426,,-42.95,142.65,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1426
+1017,1427,,-38.25,144.583333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1427
+1018,1428,,-39.833333,144.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1428
+1019,1429,,-15.533333,123.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1429
+1020,1430,,-13.0,122.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1430
+1021,1431,,-14.116667,123.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1431
+1022,1432,,-28.716667,113.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1432
+1023,1433,,-17.33333,122.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1433
+1024,1434,,-32.0,116.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1434
+1025,1435,,-34.08333,122.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1435
+1026,1436,,0.25,-176.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1436
+1027,1439,,-1.26667,-45.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1439
+1028,1440,,-1.23333,-45.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1440
+1029,1445,,-25.01667,-47.91667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1445
+1030,1446,,-23.95,-45.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1446
+1031,1447,,-22.06667,-70.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1447
+1032,1448,,-22.23333,-70.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1448
+1033,1449,,-22.38333,-70.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1449
+1034,1450,,-22.53333,-70.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1450
+1035,1451,,-22.6,-70.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1451
+1036,1452,,-22.61667,-70.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1452
+1037,1453,,-22.65,-70.28333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1453
+1038,1454,,-22.68333,-70.275,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1454
+1039,1455,,-22.93333,-70.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1455
+1040,1456,,-25.38333,-70.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1456
+1041,1457,,24.3,114.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1457
+1042,1458,,22.59778,107.56667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1458
+1043,1460,,-10.421944,105.715833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1460
+1044,1463,,-1.9,-80.83333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1463
+1045,1467,,-17.683333,-178.816667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1467
+1046,1468,,-15.83333,-148.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1468
+1047,1469,,-14.864722,-148.709167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1469
+1048,1470,,9.4375,-13.81917,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1470
+1049,1471,,10.5,72.5,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1471
+1050,1472,,-7.11667,110.76667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1472
+1051,1473,,-6.75,111.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1473
+1052,1474,,-6.9,112.05,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1474
+1053,1475,,-7.11667,112.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1475
+1054,1476,,-7.15,112.63333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1476
+1055,1477,,-7.0,113.33333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1477
+1056,1478,,-6.9,122.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1478
+1057,1479,,-8.75,126.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1479
+1058,1480,,-1.86667,130.16667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1480
+1059,1481,,-1.25,129.8,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1481
+1060,1482,,-1.23333,132.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1482
+1061,1483,,-2.78333,115.26667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1483
+1062,1484,,-6.9,122.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1484
+1063,1485,,-7.33333,108.35,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1485
+1064,1486,,-6.53333,106.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1486
+1065,1487,,-6.56667,106.61667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1487
+1066,1491,,25.95,131.3,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1491
+1067,1492,,-0.38333,-160.03333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1492
+1068,1493,,-0.867,169.583,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1493
+1069,1494,,-4.016667,-155.016667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1494
+1070,1495,,-5.61667,-155.88333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1495
+1071,1496,,-3.1,-171.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1496
+1072,1498,,5.675,100.916667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1498
+1073,1499,,5.933333,100.216667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1499
+1074,1500,,5.2,101.883333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1500
+1075,1501,,4.883333,101.908333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1501
+1076,1502,,5.666667,101.925,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1502
+1077,1503,,6.2,100.341667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1503
+1078,1504,,3.883333,102.483333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1504
+1079,1505,,4.708333,118.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1505
+1080,1506,,4.716667,118.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1506
+1081,1507,,5.516667,118.066667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1507
+1082,1508,,5.483333,116.183333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1508
+1083,1509,,4.725,118.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1509
+1084,1510,,4.8,116.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1510
+1085,1511,,4.583333,118.333333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1511
+1086,1512,,5.091667,118.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1512
+1087,1513,,1.35,110.083333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1513
+1088,1514,,4.033333,114.775,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1514
+1089,1515,,3.8,113.816667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1515
+1090,1516,,0.916667,110.458333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1516
+1091,1517,,1.416667,110.166667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1517
+1092,1518,,4.583333,168.733333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1518
+1093,1519,,26.41667,-100.75,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1519
+1094,1520,,26.533,-100.233,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1520
+1095,1522,,9.75,140.51666,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1522
+1096,1523,,-27.11667,15.21667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1523
+1097,1524,,-21.71667,13.96667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1524
+1098,1525,,-26.65,15.08333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1525
+1099,1526,,-24.63333,14.53333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1526
+1100,1527,,-26.28333,14.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1527
+1101,1529,,-25.71667,14.66667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1529
+1102,1530,,-26.81667,15.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1530
+1103,1532,,-26.61667,15.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1532
+1104,1533,,-27.63333,15.53333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1533
+1105,1534,,-27.2,15.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1534
+1106,1535,,-27.0,15.2,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1535
+1107,1536,,-26.6,15.15,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1536
+1108,1537,,-27.66667,15.53333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1537
+1109,1538,,-26.83333,15.13333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1538
+1110,1539,,-22.91667,14.46667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1539
+1111,1540,,-0.533333,166.933333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1540
+1112,1541,,18.38333,-74.93333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1541
+1113,1542,Curacao phosphate Mine,12.16,-68.93,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1542
+1114,1543,,14.166667,145.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1543
+1115,1544,,7.0,145.716667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1544
+1116,1545,,-13.63333,-76.41667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1545
+1117,1546,,9.73,124.02,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1546
+1118,1547,,9.65,124.0,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1547
+1119,1548,,9.7,124.07,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1548
+1120,1549,,13.7,123.98,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1549
+1121,1550,,13.7,123.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1550
+1122,1551,,13.75,122.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1551
+1123,1552,,13.7,122.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1552
+1124,1553,,13.5,123.13,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1553
+1125,1554,,13.48,123.13,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1554
+1126,1555,,13.6,124.13,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1555
+1127,1556,,13.95,124.28,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1556
+1128,1557,,13.55,124.17,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1557
+1129,1558,,13.52,124.18,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1558
+1130,1559,,10.3,123.73,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1559
+1131,1560,,10.28,123.73,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1560
+1132,1561,,10.0,123.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1561
+1133,1562,,10.47,123.73,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1562
+1134,1563,,10.63,123.67,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1563
+1135,1564,,18.35,120.67,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1564
+1136,1565,,18.43,120.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1565
+1137,1566,,18.48,120.72,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1566
+1138,1567,,18.48,120.7,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1567
+1139,1568,,18.45,120.68,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1568
+1140,1569,,10.62,122.53,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1569
+1141,1570,,10.6,122.55,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1570
+1142,1571,,10.72,122.67,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1571
+1143,1573,,10.78,123.45,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1573
+1144,1574,,10.8,123.43,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1574
+1145,1575,,9.93,122.53,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1575
+1146,1576,,10.77,123.43,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1576
+1147,1577,,10.0,122.53,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1577
+1148,1578,,9.75,122.98,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1578
+1149,1579,,9.7,122.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1579
+1150,1580,,9.72,122.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1580
+1151,1581,,15.73,119.95,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1581
+1152,1582,,15.63,119.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1582
+1153,1583,,15.63,119.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1583
+1154,1584,,15.65,119.97,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1584
+1155,1585,Cerro de las Cuevas,18.08667,-66.47555,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1585
+1156,1586,Cueva al Lado del Faro,18.08722,-67.84472,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1586
+1157,1587,Cueva Caigo O No Caigo,18.05555,-67.89222,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1587
+1158,1588,Cueva de Dona Gena Arriba,18.06194,-67.90333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1588
+1159,1589,Cueva de Espinal,18.1175,-67.92167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1589
+1160,1590,Cueva de La Casa de Erickson,18.06444,-67.86833,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1590
+1161,1591,Cueva de La Cucaracha,18.08944,-67.93861,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1591
+1162,1592,Cueva de La Esperanza,18.11278,-67.93472,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1592
+1163,1593,Cueva de La Playa Brava,18.05889,-67.87583,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1593
+1164,1594,Cueva de Las Losetas,18.09333,-67.84444,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1594
+1165,1595,Cueva de Los Pajaros,18.06778,-67.85056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1595
+1166,1596,Cueva de Pajaros,18.06944,-67.86556,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1596
+1167,1597,Cueva del Basurero,18.08306,-67.85056,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1597
+1168,1598,Cueva del Capitan,18.10556,-67.935,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1598
+1169,1599,Cueva del Diamante,18.09639,-67.93722,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1599
+1170,1600,Cueva del Esquelito,18.1,-67.93611,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1600
+1171,1601,Cueva del Gato,18.11472,-67.93167,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1601
+1172,1602,Cueva del Limon,18.06389,-67.90583,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1602
+1173,1603,Cueva del Lirio,18.08444,-67.85028,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1603
+1174,1604,Cueva del Mangle,18.08278,-67.93861,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1604
+1175,1605,Cueva del Norte,18.12139,-67.85972,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1605
+1176,1606,Cueva del Rifle,18.11389,-67.88694,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1606
+1177,1607,Cueva del Toro,18.11583,-67.87861,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1607
+1178,1608,Cueva Negra,18.0875,-67.93944,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1608
+1179,1609,Cueva de Frio,18.11333,-67.85111,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1609
+1180,1617,,-9.41667,46.36667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1617
+1181,1618,,-11.333333,159.783333,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1618
+1182,1619,,-11.1,60.416667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1619
+1183,1620,,11.2167,47.25,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1620
+1184,1622,,18.3825,98.9778,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1622
+1185,1624,,16.183333,100.85,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1624
+1186,1625,,15.65,101.116667,NA,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1625

@@ -1,0 +1,1381 @@
+,deposit_id,deposit_name,latitude,longitude,deposit_model,url
+0,1,Agua  Rica,-27.3708333333333,-66.28,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=1
+1,2,Alcaparrosa,-31.3,-69.3666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=2
+2,3,Arroyo  Chita,-30.5,-69.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=3
+3,4,Bajo  de  Agua  Tapado,-27.2666666666667,-66.65,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=4
+4,5,Bajo  de  la  Alumbrera,-27.3297222222222,-66.6088888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=5
+5,6,Bajo  de  la  Leona,-48.075,-67.3083333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=6
+6,7,Bajo  de  San  Lucas,-27.4,-66.55,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=7
+7,8,Bajo  El  Durazno,-27.2833333333333,-66.5666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=8
+8,9,Betito,-26.3,-67.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=9
+9,10,Campana  Mahuida,-38.25,-70.5833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=10
+10,11,Carrizal,-30.0,-69.1666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=11
+11,12,Cerro  Mercedario,-31.95,-70.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=12
+12,13,El  Oculto,-24.1333333333333,-66.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=13
+13,14,El  Salado,-30.9333333333333,-69.6333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=14
+14,15,Filo  Colorado,-27.3833333333333,-66.2166666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=15
+15,16,Inca  Viejo,-25.1444444444444,-66.7625,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=16
+16,17,La  Voluntad,-39.1833333333333,-70.6333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=17
+17,18,Los  Azules,-31.2416666666667,-70.1766666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=18
+18,19,Nevados  de  Famatina,-29.0,-67.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=19
+19,20,Pancho  Arias,-24.2,-65.8666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=20
+20,21,Paramillos  Norte,-32.4166666666667,-69.0833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=21
+21,22,Paramillos  Sur,-32.4833333333333,-69.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=22
+22,23,Quebrada  del  Bronce,-37.4325,-70.4666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=23
+23,24,San  Jorge,-32.25,-69.4333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=24
+24,25,Taca  Taca  Alto,-24.5666666666667,-67.7833333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=25
+25,26,Taca  Taca  Bajo,-24.5833333333333,-67.7333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=26
+26,27,Yalguaraz,-32.1377777777778,-69.4391666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=27
+27,28,Agarak,38.9219444444444,46.1883333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=28
+28,29,Ankavan,40.6333333333333,44.5166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=29
+29,30,Dastakert,39.375,46.0227777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=30
+30,31,Kadjaran,39.1438888888889,46.1377777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=31
+31,32,Shikahoh,39.1,46.4666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=32
+32,33,Teghout,41.1047222222222,44.8566666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=33
+33,34,Cadia  Hill/Ridgeway,-33.4666666666667,149.0,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=34
+34,35,Cargo,-33.6166666666667,148.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=35
+35,36,Copper  Hill,-33.05,148.866666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=36
+36,37,Endeavour,-32.9166666666667,148.033333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=37
+37,38,Frogmore,-34.2738888888889,148.84,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=38
+38,39,Mandamah,-33.9666666666667,147.416666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=39
+39,40,Marsden,-33.7166666666667,147.533333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=40
+40,41,Peak  Hill,-32.75,148.216666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=41
+41,42,Yeoval,-32.7666666666667,148.666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=42
+42,43,Andromache  River,-20.57,148.26,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=43
+43,44,Chinaman  Creek,-25.235,151.616111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=44
+44,45,Coalstoun,-25.6833333333333,151.916666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=45
+45,46,Kiwi  Carpet,-24.6683333333333,150.876388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=46
+46,47,Limonite  Hill,-23.69,150.63,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=47
+47,48,Moonmera,-23.6,150.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=48
+48,49,Mount  Cannindah,-24.8166666666667,151.366666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=49
+49,50,Mt.  Abbot,-20.2,147.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=50
+50,51,Mt.  Leslie,-20.3419444444444,140.168888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=51
+51,52,Mt.  Poole,-29.8394444444444,152.371388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=52
+52,53,Mt.  Robin,-20.5786111111111,146.977777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=53
+53,54,Mt.  Turner,-18.2536111111111,143.423611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=54
+54,55,Struck  Oil,-23.6111111111111,150.457777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=55
+55,56,Town  Creek,-20.4247222222222,146.778611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=56
+56,57,Whitewash,-24.8075,150.873055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=57
+57,58,Yeppoon,-23.0027777777778,150.692777777778,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=58
+58,59,Anabama  Hill,-32.7655555555556,140.236944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=59
+59,60,Dogwood,-37.5736111111111,148.008611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=60
+60,61,Thursdays  Gossan,-37.6113888888889,142.6075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=61
+61,62,Copper  Hills,-21.6575,119.957777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=62
+62,63,Coppin  Gap,-20.8888888888889,120.108333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=63
+63,64,Kelly,-21.7916666666667,119.872222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=64
+64,65,Damirli,40.0166666666667,46.75,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=65
+65,66,Garadag,40.6333333333333,45.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=66
+66,67,Goshgarchai,40.5333333333333,46.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=67
+67,68,Kedabek,40.5644444444445,45.7913888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=68
+68,69,Misdag,39.05,46.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=69
+69,70,Herzogenhugel,50.2833333333333,5.91666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=70
+70,71,Bom  Jardim,-17.5333333333333,-51.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=71
+71,72,Chapada,-14.25,-49.3666666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=72
+72,73,Estrela,-6.4,-49.6166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=73
+73,74,Assarel,42.5833333333333,23.9833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=74
+74,75,Byrdtseto,41.9741666666667,27.5344444444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=75
+75,76,Elatsite,42.75,24.0333333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=76
+76,77,Medet,42.72,24.0852777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=77
+77,78,Plana,42.4833333333333,23.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=78
+78,79,Prohorovo,42.3422222222222,26.2958333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=79
+79,80,Spahievo,42.1166666666667,25.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=80
+80,81,Tsar  Assen,42.3552777777778,24.3391666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=81
+81,82,Vlaykov  Vruh,42.3480555555556,24.2280555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=82
+82,83,Afton,50.6611111111111,-120.515,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=83
+83,84,Ajax,50.6141666666667,-120.530833333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=84
+84,85,Axe,49.6483333333333,-120.526111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=85
+85,86,Bell  Copper,55.0027777777778,-126.231944444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=86
+86,87,Berg,53.8036111111111,-127.435,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=87
+87,88,Bethlehem,50.4941666666667,-120.996666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=88
+88,89,Big  Onion,54.8097222222222,-126.894444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=89
+89,90,Brenda,49.8777777777778,-120.005555555556,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=90
+90,91,Bronson,56.6666666666667,-131.0925,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=91
+91,92,Catface,49.2555555555556,-125.983333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=92
+92,93,Chuchi,55.2630555555556,-124.543611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=93
+93,94,Coles  Creek,53.5333333333333,-127.233333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=94
+94,95,Copper  Canyon,57.1163888888889,-131.346944444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=95
+95,96,Copper  Mountain,49.3402777777778,-120.555277777778,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=96
+96,97,Dorothy,55.2477777777778,-126.166388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=97
+97,98,Eaglehead,58.4838888888889,-129.107222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=98
+98,99,Fish  Lake,51.4636111111111,-123.625555555556,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=99
+99,100,Galaxy,50.6433333333333,-120.423333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=100
+100,101,Galore  Creek,57.125,-131.45,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=101
+101,102,Gambier  Island,49.5,-123.416666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=102
+102,103,Giant  Copper,49.1666666666667,-121.033333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=103
+103,104,Gibraltar,52.5180555555556,-122.2875,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=104
+104,105,Gnat  Lake,58.2536111111111,-129.826666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=105
+105,106,Granisle,54.9463888888889,-126.156666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=106
+106,107,Highmont,50.4327777777778,-120.920555555556,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=107
+107,108,Huckleberry,53.6811111111111,-127.178055555556,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=108
+108,109,Hushamu,50.6752777777778,-127.858055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=109
+109,110,Island  Copper,50.6,-127.477777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=110
+110,111,Katie,49.1333333333333,-117.330555555556,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=111
+111,112,Kemess  North,57.06,-126.759444444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=112
+112,113,Kemess  South,57.0058333333333,-126.750833333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=113
+113,114,Kerr,56.4675,-130.268888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=114
+114,115,Kinaskan,57.6538888888889,-130.243611111111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=115
+115,116,Krain,50.5833333333333,-120.966666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=116
+116,117,Kwanika,55.5,-125.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=117
+117,118,Lennac  Lake,54.75,-126.333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=118
+118,119,Lornex,50.4502777777778,-121.043055555556,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=119
+119,120,Lorraine,55.9269444444444,-125.431111111111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=120
+120,121,Louise  Lake,54.7833333333333,-127.683333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=121
+121,122,Maggie,50.9238888888889,-121.421111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=122
+122,123,Misty,55.9158333333333,-125.513611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=123
+123,124,Morrison,55.1944444444444,-126.315277777778,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=124
+124,125,Mt.  Milligan,55.1238888888889,-124.0275,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=125
+125,126,Mt.  Polly,52.5544444444444,-121.641666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=126
+126,127,O.K.,50.0466666666667,-124.645,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=127
+127,128,Ox  Lake,53.6736111111111,-127.056944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=128
+128,129,Pine,57.2333333333333,-126.733333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=129
+129,130,Poison  Mountain,51.1333333333333,-122.614166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=130
+130,131,Poplar,54.0166666666667,-126.99,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=131
+131,132,Primer,49.7561111111111,-120.46,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=132
+132,133,Rayfield,51.3133333333333,-121.088888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=133
+133,134,Red  Bluff,56.6666666666667,-131.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=134
+134,135,Red  Chris,57.7,-129.805277777778,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=135
+135,136,Red  Dog,50.7108333333333,-127.970555555556,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=136
+136,137,Schaft  Creek,57.3641666666667,-130.990277777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=137
+137,138,Sulphurets,56.5044444444444,-130.262777777778,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=138
+138,139,Taseko,51.1044444444445,-123.4,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=139
+139,140,Trojan,50.5666666666667,-121.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=140
+140,141,Valley,50.4855555555556,-121.048333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=141
+141,142,Whipsaw,49.2933333333333,-120.759444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=142
+142,143,Whiting  Creek/Rusty  Zone,53.7583333333333,-127.215,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=143
+143,144,Willa,49.8833333333333,-117.366666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=144
+144,145,Coxheath,46.0833333333333,-60.3666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=145
+145,146,Beidelman  Bay,49.8333333333333,-91.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=146
+146,147,Jogran,47.0430555555556,-84.6152777777778,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=147
+147,148,McIntyre,48.5,-81.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=148
+148,149,Stancop,47.9666666666667,-80.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=149
+149,150,Tribag,47.0919444444444,-84.4783333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=150
+150,151,Chibougamau,49.8666666666667,-74.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=151
+151,152,Don  Rouyn,48.2666666666667,-79.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=152
+152,153,Gaspé,48.9666666666667,-65.5194444444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=153
+153,154,Cash,62.4166666666667,-137.616666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=154
+154,155,Casino,62.7361111111111,-138.829166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=155
+155,156,Williams  Creek,62.3416666666667,-136.691666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=156
+156,157,Andacollo,-30.25,-71.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=157
+157,158,Angelina,-24.3983333333333,-69.6075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=158
+158,159,Antucoya,-22.5333333333333,-69.9166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=159
+159,160,Centinela,-23.1633333333333,-69.1683333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=160
+160,161,Cerro  Casale,-27.7833333333333,-69.2333333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=161
+161,162,Cerro  Colorado,-20.0447222222222,-69.2597222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=162
+162,163,Chimborazo,-24.1333333333333,-69.0833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=163
+163,164,Chuquicamata,-22.275,-68.9,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=164
+164,165,Collahuasi,-20.9630555555556,-68.7083333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=165
+165,166,Conchi,-21.9538888888889,-68.7355555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=166
+166,167,Copaquire,-20.9016666666667,-68.8852777777778,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=167
+167,168,Dos  Hermanos,-18.29,-69.7216666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=168
+168,169,El  Abra,-21.9205555555556,-68.8325,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=169
+169,170,El  Loa,-21.1166666666667,-68.7333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=170
+170,171,El  Salvador,-26.2541666666667,-69.5505555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=171
+171,172,El  Telégrafo,-22.9877777777778,-69.0763888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=172
+172,173,El  Teniente,-34.0886111111111,-70.4625,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=173
+173,174,Escondida,-24.265,-69.0716666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=174
+174,175,Esperanza,-22.9666666666667,-69.0583333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=175
+175,176,Gaby,-23.4108333333333,-68.8188888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=176
+176,177,Inca  de  Oro,-26.7661111111111,-69.8713888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=177
+177,178,La  Fortuna,-28.6333333333333,-69.8833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=178
+178,179,La  Planada,-20.175,-69.0833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=179
+179,180,Lilian,-22.6666666666667,-68.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=180
+180,181,Lomas  Bayas,-23.445,-69.5116666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=181
+181,182,Los  Bronces/Rio  Blanco,-33.1333333333333,-70.2666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=182
+182,183,"Los  Pelambres  -  El  Pachon,  AGTN",-31.7083333333333,-70.5,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=183
+183,184,Maní,-22.5641666666667,-69.2422222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=184
+184,185,Mansa  Mina,-22.3805555555556,-68.9125,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=185
+185,186,Mocha,-19.8097222222222,-69.2805555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=186
+186,187,Opache,-22.4666666666667,-68.9666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=187
+187,188,Polo  Sur,-23.3,-69.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=188
+188,189,Potrerillos,-26.4875,-69.4238888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=189
+189,190,Puntillas,-21.9166666666667,-69.8333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=190
+190,191,Quebrada  Blanca,-21.0,-68.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=191
+191,192,Queen  Elizabeth,-19.8666666666667,-68.9666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=192
+192,193,Regalito,-28.2166666666667,-69.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=193
+193,194,Relincho,-28.5,-70.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=194
+194,195,Rio  Frio,-25.2166666666667,-69.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=195
+195,196,Sierra  Gorda,-22.8805555555556,-69.3388888888889,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=196
+196,197,Spence,-22.8394444444444,-69.3027777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=197
+197,198,Ticnámar,-18.5933333333333,-69.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=198
+198,199,Toki,-22.4166666666667,-68.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=199
+199,200,Turbio,-46.0333333333333,-72.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=200
+200,201,Ujina,-20.9927777777778,-68.6372222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=201
+201,202,Vizcachitas,-32.8833333333333,-70.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=202
+202,203,Anjishan,32.0666666666667,119.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=203
+203,204,Bainamiao,41.7166666666667,112.55,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=204
+204,205,Beiya,26.15,100.2,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=205
+205,206,Changan,22.8,103.0,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=206
+206,207,Chengmenshan,29.6833333333333,115.833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=207
+207,208,Chihu,42.2,92.9666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=208
+208,209,Chonjiang,29.5833333333333,90.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=209
+209,210,Dexing,29.0188888888889,117.729722222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=210
+210,211,Dongga,29.3833333333333,88.3833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=211
+211,212,Duobaoshan,50.1666666666667,125.692222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=212
+212,213,Duoxiasongduo,31.0833333333333,97.8666666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=213
+213,214,Fengshandong,29.8091666666667,115.448055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=214
+214,215,Gegongnong,30.4666666666667,98.5,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=215
+215,216,Habo,22.8833333333333,102.583333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=216
+216,217,Hengxingcuo,31.4833333333333,97.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=217
+217,218,Jiama,29.6916666666667,91.7516666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=218
+218,219,Jicuo,29.9166666666667,98.5833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=219
+219,220,Jiru,29.6833333333333,88.9333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=220
+220,221,Kalatage,42.5333333333333,91.9166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=221
+221,222,Lakange,29.5833333333333,91.4833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=222
+222,223,Linglong,42.1666666666667,92.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=223
+223,224,Machangqing,25.6666666666667,100.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=224
+224,225,Malasongduo,31.0,97.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=225
+225,226,Mamupu,29.8333333333333,98.5333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=226
+226,227,Mangzhong,31.2,97.8,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=227
+227,228,Nanmu,29.4666666666667,90.8166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=228
+228,229,Pulang,28.0333333333333,99.8333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=229
+229,230,Qulong,29.6,91.5833333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=230
+230,231,Ridanguo,32.15,96.7666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=231
+231,232,Saishitang,35.2908333333333,99.8188888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=232
+232,233,Sanchakou,42.35,94.8333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=233
+233,234,Seli,30.0333333333333,98.5166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=234
+234,235,Shaxi,31.1833333333333,117.266666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=235
+235,236,Tinggong,29.55,90.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=236
+236,237,Tongchankou,30.1666666666667,114.8,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=237
+237,238,Tongkuangyu,35.5,111.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=238
+238,239,Tuwu,42.1166666666667,92.6166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=239
+239,240,Wunugetushan,49.39,117.433333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=240
+240,241,Xiariduo,31.6833333333333,97.1333333333334,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=241
+241,242,Xietongmen,29.5166666666667,88.5666666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=242
+242,243,Xifanping,27.4,101.133333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=243
+243,244,Yandong,42.0833333333333,92.5236111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=244
+244,245,Yulong,31.4,97.7333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=245
+245,246,Zhanaga,31.25,97.7333333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=246
+246,247,Zhunuo,29.4333333333333,87.5333333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=247
+247,248,Zijinshan,25.05,116.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=248
+248,249,Acandi,8.48777777777778,-77.3213888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=249
+249,250,California,7.31666666666667,-72.8666666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=250
+250,251,Dolores,3.51666666666667,-75.0333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=251
+251,252,Infierno-Chile,4.18333333333333,-75.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=252
+252,253,Mocoa,1.24166666666667,-76.6666666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=253
+253,254,Murindo,7.05,-76.75,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=254
+254,255,Pantanos-Pegadorcito,6.7,-76.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=255
+255,256,Piedrasentada,2.1,-76.8833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=256
+256,257,Nari,9.69722222222222,-83.3583333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=257
+257,258,Sukut,9.36944444444445,-82.9763888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=258
+258,259,Arimao,22.1166666666667,-80.0333333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=259
+259,260,El  Cobre,20.0458,-75.9461,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=260
+260,261,Eureca,20.25,-76.8666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=261
+261,262,Majagual,18.5166666666667,-70.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=262
+262,263,Balzapamba-Las  Guardias,-1.66666666666667,-79.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=263
+263,264,Chaso  Juan,-1.38333333333333,-79.1166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=264
+264,265,Chaucha,-2.93333333333333,-79.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=265
+265,266,Cumay,-4.01666666666667,-78.8833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=266
+266,267,El  Hito,-4.25,-78.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=267
+267,268,Fierro  Urcu,-3.58333333333333,-79.3333333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=268
+268,269,Gaby-Papa  Grande,-3.05,-79.6833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=269
+269,270,Junin,0.333333333333333,-78.5833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=270
+270,271,Los  Linderos,-4.33333333333333,-80.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=271
+271,272,Mirador,-4.65,-78.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=272
+272,273,Panantza,-3.6,-78.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=273
+273,274,Rio  Playas,-4.2,-79.5833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=274
+274,275,San  Carlos,-3.65,-78.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=275
+275,276,Telimbela,-1.56666666666667,-79.1333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=276
+276,277,Tumi,-4.25,-79.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=277
+277,278,Warintza,-3.78333333333333,-78.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=278
+278,279,Namosi,-18.0416666666667,178.175,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=279
+279,280,Waivaka,-18.1066666666667,178.178333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=280
+280,281,Kopsa,63.7708333333333,25.2338888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=281
+281,282,Fakos,39.8116666666667,25.1922222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=282
+282,283,Kassiteres,41.0233333333333,25.7875,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=283
+283,284,Maronia,40.8666666666667,25.555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=284
+284,285,Pontokerassia,41.055,23.19,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=285
+285,286,Skouries/Fisoka,40.4722222222222,23.7036111111111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=286
+286,287,Douvray,19.55,-71.7833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=287
+287,288,Terre-Neuve,19.5166666666667,-72.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=288
+288,289,Börzsöny  Mountains,47.91,19.0483333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=289
+289,290,Recsk,47.9333333333333,20.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=290
+290,291,Malanjkhand,22.0166666666667,80.7166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=291
+291,292,Baroi,-0.5,113.183333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=292
+292,293,Batu  Hijau,-8.96527777777778,116.8725,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=293
+293,294,Bulagidun,0.951944444444444,121.770555555556,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=294
+294,295,Ciemas,-7.22,106.56,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=295
+295,296,Grasberg,-3.81666666666667,137.233333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=296
+296,297,Hila,-3.61166666666667,128.091666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=297
+297,298,Ibu,0.833333333333333,109.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=298
+298,299,Kaputusan,-0.516666666666667,127.583333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=299
+299,300,Mudik,-1.7,101.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=300
+300,301,Sassak,-3.15833333333333,119.483333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=301
+301,302,Tangse,5.03333333333333,95.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=302
+302,303,Tapadaa,0.516666666666667,123.216666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=303
+303,304,Tombulilato,0.345277777777778,123.402222222222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=304
+304,305,Ali-Abad,31.6591666666667,53.8497222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=305
+305,306,Dallil,34.55,49.2666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=306
+306,307,Darreh-Zerreshk,31.5763888888889,53.8233333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=307
+307,308,Darrehzar,29.88,55.8994444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=308
+308,309,Kale  Kafi,33.5358333333333,54.5444444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=309
+309,310,Meiduk,30.4205555555556,55.1672222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=310
+310,311,Raigan,28.9,57.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=311
+311,312,Sar  Cheshmeh,29.945,55.8619444444445,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=312
+312,313,Sungun,38.8075,46.3711111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=313
+313,314,Calabona,40.5319444444444,8.365,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=314
+314,315,Carbonia,39.1705555555556,8.49638888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=315
+315,316,Ogliastra,39.8169444444444,9.51583333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=316
+316,317,Aktogai,46.9333333333333,79.9666666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=317
+317,318,Almaly,48.6833333333333,73.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=318
+318,319,Baiskoe,49.1591666666667,75.6008333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=319
+319,320,Bataly,52.8833333333333,61.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=320
+320,321,Benkala,51.7666666666667,61.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=321
+321,322,Besshoky,48.2266666666667,76.2722222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=322
+322,323,Borly,47.5019444444444,74.0833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=323
+323,324,Boshchekul,51.8166666666667,74.1833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=324
+324,325,Chatyrkul,43.6202777777778,74.2611111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=325
+325,326,Karatas,46.65,73.6333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=326
+326,327,Kazkyrmyskoye,45.4833333333333,74.2833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=327
+327,328,Kenkuduk,47.3833333333333,75.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=328
+328,329,Kepcham,47.5,75.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=329
+329,330,Koksai,44.45,78.4333333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=330
+330,331,Koktasdzhal,50.1622222222222,76.1622222222222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=331
+331,332,Kounrad,46.9897222222222,74.9872222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=332
+332,333,Kyzylkain,47.5333333333333,84.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=333
+333,334,Kyzyltu,51.95,72.3333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=334
+334,335,Nurbay,47.9166666666667,79.3333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=335
+335,336,Nurkazgan,50.0269444444445,76.7272222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=336
+336,337,Ozernoe,49.3263888888889,75.9825,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=337
+337,338,Saryshagan,46.2566666666667,73.1986111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=338
+338,339,Sokurkoiy,46.6,74.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=339
+339,340,Spiridonovskoe,52.3333333333333,62.1833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=340
+340,341,Varvarinskoye,53.0166666666667,62.5666666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=341
+341,342,Yubileinoe,48.9333333333333,58.6833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=342
+342,343,Taldy-Bulak,42.7,75.65,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=343
+343,344,Phu  Kham,18.9166666666667,102.933333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=344
+344,345,Buchim,41.5105555555556,22.6019444444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=345
+345,346,Ilovitza,41.3666666666667,22.8166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=346
+346,347,Kadiica,41.6166666666667,22.8833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=347
+347,348,Osogovo,41.8,22.8666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=348
+348,349,Bongkud,6.03333333333333,116.75,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=349
+349,350,Mamut,6.03333333333333,116.466666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=350
+350,351,Mengpur,3.85,102.866666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=351
+351,352,Nungkok,6.1,116.466666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=352
+352,353,Bahuerachi,27.0516666666667,-108.341111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=353
+353,354,Batopilas,27.0333333333333,-107.7,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=354
+354,355,Caballo  Blanco,19.6805555555556,-96.4527777777778,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=355
+355,356,Cananea,30.9541666666667,-110.316666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=356
+356,357,Cerro  Colorado,26.2522222222222,-107.329444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=357
+357,358,Cuatro  Hermanos,28.3861111111111,-109.656944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=358
+358,359,Cumobabi,29.8725,-109.961944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=359
+359,360,El  Arco,28.0333333333333,-113.566666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=360
+360,361,El  Batamote,30.4819444444444,-109.752777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=361
+361,362,Inguaran,18.8808333333333,-101.640833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=362
+362,363,La  Caridad,30.3180555555556,-109.556666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=363
+363,364,La  Florida,30.3838888888889,-109.730555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=364
+364,365,La  Reyna,23.3333333333333,-106.066666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=365
+365,366,La  Verde,19.0777777777778,-102.031388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=366
+366,367,Luz  del  Cobre,28.4333333333333,-109.383333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=367
+367,368,Mariquita,31.0555555555556,-110.420833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=368
+368,369,Milpillas,31.1166666666667,-110.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=369
+369,370,Piedras  Verdes,27.1680555555556,-109.019444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=370
+370,371,Pilares,30.3338888888889,-109.632777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=371
+371,372,Rodeo,18.6225,-100.846111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=372
+372,373,San  Isidro,18.9436111111111,-101.978333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=373
+373,374,Santo  Tomás,26.7166666666667,-108.233333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=374
+374,375,Suaqui  Verde,28.4113888888889,-109.803055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=375
+375,376,Tameapa,25.6680555555556,-107.351111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=376
+376,377,Tepal,19.1166666666667,-102.916666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=377
+377,378,Tiámaro,19.3833333333333,-100.683333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=378
+378,379,Tolimán,15.3188888888889,-92.3305555555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=379
+379,380,Tuligtic,19.7,-97.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=380
+380,381,Avdartolgoi,49.6708333333333,114.844444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=381
+381,382,Bayan-Uul,46.6833333333333,104.883333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=382
+382,383,Erdenet,49.0,104.133333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=383
+383,384,Kharmagtai,44.0,106.166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=384
+384,385,Khongoot,49.1333333333333,103.65,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=385
+385,386,Khongor,43.1666666666667,102.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=386
+386,387,Naran  Bulag,48.5833333333333,97.7833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=387
+387,388,Nariin  Khudag,44.2333333333333,108.033333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=388
+388,389,Oyu  Tolgoi,43.0,106.866666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=389
+389,390,Oyuut  Ulaar  Ovoo,44.5741666666667,109.435833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=390
+390,391,Saran  Uul,45.7833333333333,100.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=391
+391,392,Shand,48.775,104.216666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=392
+392,393,Shuteen,44.1666666666667,107.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=393
+393,394,Tsagaan-Suvarga,43.8666666666667,108.333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=394
+394,395,Zos  Uul,48.7083333333333,98.3416666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=395
+395,396,Zost  Tolgoi,48.7166666666667,98.3416666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=396
+396,397,Monywa,22.25,95.0833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=397
+397,398,Shangalon,23.7083333333333,95.5166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=398
+398,399,Haib,-28.6833333333333,17.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=399
+399,400,Lorelei,-28.0666666666667,16.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=400
+400,401,Thames,-37.0958333333333,175.557222222222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=401
+401,402,Dasht-e-Kain,29.5544444444444,64.5041666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=402
+402,403,Koh-i-Dalil,29.1225,62.1941666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=403
+403,404,Reko  Diq,29.1227777777778,62.0788888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=404
+404,405,Saindak,29.2708333333333,61.5847222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=405
+405,406,Ziarat  Pir  Sultan,29.4,64.1416666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=406
+406,407,Cerro  Azul,9.28333333333333,-79.3833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=407
+407,408,Cerro  Chorcha,8.63333333333333,-82.2,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=408
+408,409,Cerro  Colorado,8.5,-81.7833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=409
+409,410,Cerro  Quema,7.63333333333333,-80.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=410
+410,411,Cobre  Panama,8.43333333333333,-81.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=411
+411,412,Petaquilla-Botija,8.83333333333333,-80.6666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=412
+412,413,Rio  Pito,8.63333333333333,-77.5666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=413
+413,414,Arie,-2.01666666666667,146.883333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=414
+414,415,Esis,-5.16666666666667,151.716666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=415
+415,416,Frieda  River,-4.7,141.783333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=416
+416,417,Legusulum,-3.2,151.65,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=417
+417,418,Mount  Bini,-9.3,147.583333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=418
+418,419,Mount  Kren,-2.11666666666667,146.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=419
+419,420,Mt.  Nakru,-5.98333333333333,150.466666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=420
+420,421,Ok  Tedi,-5.2,141.133333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=421
+421,422,Panguna,-6.31666666666667,155.5,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=422
+422,423,Plesyumi,-5.96666666666667,150.383333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=423
+423,424,Simuku,-5.71666666666667,150.016666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=424
+424,425,Star  Mt.  Futik,-5.06666666666667,141.333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=425
+425,426,Star  Mt.  Nong  River,-5.01666666666667,141.216666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=426
+426,427,Wafi  River,-6.88333333333333,146.45,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=427
+427,428,Wamum,-6.75,146.283333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=428
+428,429,Yandera,-5.75,145.166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=429
+429,430,Acos,-14.2,-74.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=430
+430,431,Aguila,-8.55972222222222,-77.8966666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=431
+431,432,Almacen,-13.2347222222222,-75.9166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=432
+432,433,Alondra,-15.8166666666667,-73.5833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=433
+433,434,Alto  Dorado,-8.16666666666667,-78.1833333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=434
+434,435,Anita  de  Tibilos,-14.1833333333333,-75.1483333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=435
+435,436,Antapaccay,-14.96,-71.3466666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=436
+436,437,Cañariaco,-6.08333333333333,-79.2833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=437
+437,438,Cerro  Colorado,-17.6816666666667,-69.9008333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=438
+438,439,Cerro  Corona,-6.76166666666667,-78.6058333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=439
+439,440,Cerro  Negro,-16.5458333333333,-71.5527777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=440
+440,441,Cerro  Verde/Santa  Rosa,-16.5352777777778,-71.5916666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=441
+441,442,Chalcobamba,-14.0266666666667,-72.3333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=442
+442,443,Chapi,-16.7736111111111,-71.3577777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=443
+443,444,"Chavez  N2,  Concesion",-14.2333333333333,-75.4166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=444
+444,445,Constancia,-14.4616666666667,-71.7666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=445
+445,446,Coroccohuayco,-14.9522222222222,-71.2625,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=446
+446,447,Cotabambas,-14.1811111111111,-72.3480555555556,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=447
+447,448,Cuajone,-17.0455555555556,-70.7072222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=448
+448,449,El  Galeno,-7.01666666666667,-78.3166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=449
+449,450,Eliana,-13.7666666666667,-75.7166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=450
+450,451,La  Granja,-6.35833333333333,-79.1194444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=451
+451,452,La  Vega,-5.70472222222222,-79.2808333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=452
+452,453,Laguna  Chamis,-7.11805555555556,-78.5755555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=453
+453,454,Lahuani,-14.4616666666667,-72.9933333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=454
+454,455,Los  Chancas,-14.1580555555556,-73.1333333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=455
+455,456,Los  Pinos,-12.9758333333333,-76.1394444444445,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=456
+456,457,Magistral,-8.21555555555556,-77.7716666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=457
+457,458,Michiquillay,-7.3,-78.3222222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=458
+458,459,Minas  Conga,-6.915,-78.3594444444445,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=459
+459,460,Paramo,-5.715,-79.2069444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=460
+460,461,Pashpap,-8.78861111111111,-77.9958333333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=461
+461,462,Puquio,-13.9291666666667,-75.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=462
+462,463,Puy-Puy,-11.4797222222222,-76.0844444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=463
+463,464,Quechua,-14.98,-71.3066666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=464
+464,465,Quellaveco,-17.1080555555556,-70.6158333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=465
+465,466,Rio  Blanco,-4.94444444444444,-79.3083333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=466
+466,467,San  Salvador  de  Patillani,-15.625,-70.9916666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=467
+467,468,Tantahuatay,-6.72527777777778,-78.6694444444445,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=468
+468,469,Tingo,-13.6861111111111,-75.0930555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=469
+469,470,Tintaya,-14.9083333333333,-71.3133333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=470
+470,471,Toquepala,-17.245,-70.6138888888889,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=471
+471,472,Toromocho,-11.6,-76.1333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=472
+472,473,Amacan,7.33333333333333,126.15,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=473
+473,474,Atlas,10.3666666666667,123.833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=474
+474,475,Aya  Aya,9.43333333333333,122.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=475
+475,476,Balak-5,10.1333333333333,124.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=476
+476,477,Basay,9.49166666666667,122.679166666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=477
+477,478,Batong  Buhay,17.3444444444444,121.058333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=478
+478,479,Boneng  Lobo,17.4666666666667,120.816666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=479
+479,480,Botilao,17.3,121.01,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=480
+480,481,Boyongan,9.55,125.488333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=481
+481,482,Cadan,7.55,126.166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=482
+482,483,Dinkidi,16.3208333333333,121.291666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=483
+483,484,Dizon,14.9738888888889,120.204444444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=484
+484,485,Far  Southeast-Bato  Tabio,16.8583333333333,120.783333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=485
+485,486,Guinaoang-Tirad,16.7916666666667,120.8,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=486
+486,487,Hale-Mayabo,17.1666666666667,120.733333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=487
+487,488,Hinobaan,9.75,122.566666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=488
+488,489,Ino-Capayang,13.5,121.883333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=489
+489,490,Kalamatan,7.59166666666667,126.066666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=490
+490,491,Kennon  South  East/Black  Mountain,16.3666666666667,120.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=491
+491,492,Kilongolao,17.4,120.866666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=492
+492,493,Kingking,7.16666666666667,125.991666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=493
+493,494,Labangan,7.93333333333333,123.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=494
+494,495,Lingig,8.04555555555556,126.381666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=495
+495,496,Lumbay,14.7666666666667,121.316666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=496
+496,497,Luna-Asiga,9.25833333333333,125.523333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=497
+497,498,Manag,17.7666666666667,121.233333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=498
+498,499,Mapula,7.35,126.016666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=499
+499,500,Marcopper,13.45,122.083333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=500
+500,501,Marian,16.75,121.35,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=501
+501,502,Matanlang,14.2333333333333,122.733333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=502
+502,503,Pisumpan,15.0083333333333,120.366666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=503
+503,504,Salatan,6.56666666666667,124.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=504
+504,505,San  AntonioPhilex,16.75,120.7,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=505
+505,506,San  Fabian,16.3833333333333,120.983333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=506
+506,507,Santo  Niño,16.4902777777778,120.655555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=507
+507,508,Santo  Tomas  II,16.2630555555556,120.6225,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=508
+508,509,Sinipsip,16.7333333333333,120.766666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=509
+509,510,Sipalay,9.81666666666667,122.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=510
+510,511,Suguibon,9.56666666666667,122.633333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=511
+511,512,Sulat,11.8166666666667,125.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=512
+512,513,Tagpura-Maangob,7.54333333333333,126.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=513
+513,514,Tampakan,6.475,125.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=514
+514,515,Tawi-Tawi,16.45,120.866666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=515
+515,516,Taysan,13.8,121.133333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=516
+516,517,Dolina  Bedkowska,50.1166666666667,19.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=517
+517,518,Myszkow,50.6166666666667,19.3666666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=518
+518,519,Pilica,50.4666666666667,19.6166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=519
+519,520,Rio  Vivi,18.25,-66.4166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=520
+520,521,Tanama,18.25,-66.8166666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=521
+521,522,Bolcana,45.9833333333333,23.0333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=522
+522,523,Bozovici,44.75,22.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=523
+523,524,Bucium  Tarnita,46.2333333333333,23.2,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=524
+524,525,Ciclova,44.9833333333333,21.7833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=525
+525,526,Cofu,45.55,22.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=526
+526,527,Deva,45.8766666666667,22.8877777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=527
+527,528,Moldova  Noua,44.7377777777778,21.7025,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=528
+528,529,Musariu,46.15,22.8,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=529
+529,530,Oravita,45.1,21.8166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=530
+530,531,Rosia  Poieni,46.3333333333333,23.1666666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=531
+531,532,Rovina,46.1666666666667,22.9,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=532
+532,533,Sasca,44.8666666666667,21.7166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=533
+533,534,Sopot,44.75,21.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=534
+534,535,Talagiu,46.2666666666667,22.15,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=535
+535,536,Tincova,45.5666666666667,22.2333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=536
+536,537,Valea  Morii,46.15,22.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=537
+537,538,Voia,46.0611111111111,22.9666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=538
+538,539,Aksug,53.4333333333333,96.6666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=539
+539,540,Birgildinskoe,54.9963888888889,61.0880555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=540
+540,541,Borgulikan,53.75,126.616666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=541
+541,542,Kiyalykh-uzen,54.05,89.5666666666667,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=542
+542,543,Krasnogorskoe,53.9166666666667,157.383333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=543
+543,544,Kyzyk-Chadr,52.9333333333333,96.7833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=544
+544,545,Lekyntelbei,67.8666666666667,66.3333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=545
+545,546,Lora,59.25,153.766666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=546
+546,547,Miheevskoye,53.2261111111111,60.8236111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=547
+547,548,Nakhodka,66.4833333333333,164.733333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=548
+548,549,Novonikolaevsk,53.2333333333333,60.5666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=549
+549,550,Osennee,59.7166666666667,150.316666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=550
+550,551,Peschanka,66.6,164.566666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=551
+551,552,Salavat,53.0875,57.4683333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=552
+552,553,Tominskoe,54.9330555555556,61.2672222222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=553
+553,554,Tumannoe,54.2833333333333,157.666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=554
+554,555,Viking,58.9666666666667,152.683333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=555
+555,556,Voznesenskoe,54.6333333333333,59.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=556
+556,557,Yaguzak,54.9611111111111,61.1255555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=557
+557,558,Zelenodolskoe,54.7166666666667,61.0666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=558
+558,559,Bor,44.095,22.0941666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=559
+559,560,Majdanpek,44.3833333333333,21.95,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=560
+560,561,Rudnitsa,43.2333333333333,20.7166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=561
+561,562,Veliki  Krivelj,44.1311111111111,22.0969444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=562
+562,563,Zlatno,48.4375,18.8619444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=563
+563,564,Hidden  Valley,-9.36666666666667,159.733333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=564
+564,565,Koloula,-9.78333333333333,160.033333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=565
+565,566,Mase,-8.08333333333333,157.516666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=566
+566,567,Mbetilonga,-9.53333333333333,159.908333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=567
+567,568,Poha,-9.43333333333333,159.833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=568
+568,569,Aitik,67.0725,20.9575,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=569
+569,570,Tallberg,64.9872222222222,19.7716666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=570
+570,571,Vaikijaur,66.525,19.8136111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=571
+571,572,Chimei,23.4333333333333,121.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=572
+572,573,Phu  Hin  Lek  Fai,17.5,101.666666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=573
+573,574,Phu  Lon,18.1166666666667,102.083333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=574
+574,575,Phu  Thong  Daeng,17.3333333333333,101.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=575
+575,576,Bakircay,40.9261111111111,35.44,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=576
+576,577,Berta,41.2,41.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=577
+577,578,Cevizlidere,39.2666666666667,39.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=578
+578,579,Derekoy,41.9113888888889,27.3166666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=579
+579,580,Gümü?hane,41.175,41.8527777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=580
+580,581,Güzelyayla,40.8566666666667,39.6530555555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=581
+581,582,Ikiztepe,41.8333333333333,27.6783333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=582
+582,583,Sukrupasa,41.9333333333333,27.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=583
+583,584,Tereoba,39.6,27.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=584
+584,585,Uluta?,40.45,40.8833333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=585
+585,586,Baultoff,62.1105555555556,-141.211944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=586
+586,587,Bee  Creek,56.5166666666667,-158.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=587
+587,588,Bond  Creek,62.2166666666667,-142.733333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=588
+588,589,Carl  Creek,62.0333333333333,-141.583333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=589
+589,590,Horsfield,62.0511111111111,-141.218055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=590
+590,591,Kijik  River,60.3530555555556,-154.315,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=591
+591,592,Margerie  Glacier,59.0194444444444,-137.083333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=592
+592,593,Nunatak,58.9875,-136.102777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=593
+593,594,Orange  Hill,62.2058333333333,-142.841944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=594
+594,595,Pebble  Copper,59.8983333333333,-155.295555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=595
+595,596,Pyramid,55.625,-160.666944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=596
+596,597,Round  Top,64.1333333333333,-157.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=597
+597,598,Taurus,63.5208333333333,-141.323611111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=598
+598,599,Venus,67.6333333333333,-149.333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=599
+599,600,Ajo,32.3569444444444,-112.865277777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=600
+600,601,Bagdad,34.5858333333333,-113.211944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=601
+601,602,Bisbee,31.4319444444444,-109.901388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=602
+602,603,Casa  Grande  West,32.8666666666667,-111.95,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=603
+603,604,Castle  Dome,33.4,-110.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=604
+604,605,Chilito,33.0652777777778,-110.796111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=605
+605,606,Christmas,33.06,-110.745277777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=606
+606,607,Copper  Basin,34.4988888888889,-112.58,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=607
+607,608,Copper  Creek,32.75,-110.48,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=608
+608,609,Esperanza-Sierrita,31.8694444444444,-111.12,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=609
+609,610,Gibson,33.3327777777778,-110.944166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=610
+610,611,Helvetia,31.83,-110.76,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=611
+611,612,Ithaca  Peak,35.3666666666667,-114.15,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=612
+612,613,Johnson  Camp,32.0986111111111,-110.065,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=613
+613,614,Lakeshore,32.5238888888889,-111.904722222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=614
+614,615,Lonesome  Pine,33.3422222222222,-110.903055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=615
+615,616,Miami-Inspiration,33.42,-110.74,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=616
+616,617,Mineral  Butte,33.11,-111.58,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=617
+617,618,Mission-Pima,31.9833333333333,-111.066666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=618
+618,619,Morenci-Metcalf,33.1036111111111,-109.361111111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=619
+619,620,Pine  Flat,34.3688888888889,-112.351944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=620
+620,621,Poston  Butte,33.1166666666667,-111.416666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=621
+621,622,Ray,33.1636111111111,-110.983055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=622
+622,623,Red  Hills,33.0361111111111,-111.216111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=623
+623,624,Red  Mountain,31.49,-110.72,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=624
+624,625,Resolution,33.3,-111.083333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=625
+625,626,Sacaton,32.9547222222222,-111.816111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=626
+626,627,Safford,32.9333333333333,-109.6,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=627
+627,628,San  Manuel-Kalamazoo,32.6997222222222,-110.677777777778,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=628
+628,629,San  Xavier  North,31.9666666666667,-111.016666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=629
+629,630,Sanchez,32.8833333333333,-109.533333333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=630
+630,631,Sheep  Mountain,34.08,-112.46,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=631
+631,632,Silver  Bell,32.4,-111.5,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=632
+632,633,Squaw  Peak,34.4802777777778,-111.865277777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=633
+633,634,Sunnyside,31.4511111111111,-110.746111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=634
+634,635,Superior  East,33.3780555555556,-110.998888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=635
+635,636,Twin  Buttes,31.8927777777778,-111.035277777778,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=636
+636,637,Two  Peaks,31.7680555555556,-110.461944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=637
+637,638,Vekol  Hills,32.58,-112.09,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=638
+638,639,Lights  Creek,40.195,-120.853888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=639
+639,640,Allard,37.4069444444444,-108.088055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=640
+640,641,Bobcat  Gulch,45.3563888888889,-113.993888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=641
+641,642,Caribou  Mountain,43.0930555555556,-111.323055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=642
+642,643,Catheart  Mt.,45.5361111111111,-70.2169444444445,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=643
+643,644,Sally  Mountain,45.6,-70.3333333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=644
+644,645,Beavertown,46.3416666666667,-112.079166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=645
+645,646,Continental/Butte,46.0172222222222,-112.511111111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=646
+646,647,Heddleston,47.0258333333333,-112.36,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=647
+647,648,Copper  Flat,32.8066666666667,-108.118611111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=648
+648,649,Hannover  Mountains,32.8463888888889,-108.090555555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=649
+649,650,Santa  Rita,32.7902777777778,-108.072777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=650
+650,651,Tyrone,32.6330555555556,-108.366944444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=651
+651,652,Ann  Mason,38.96,-119.27,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=652
+652,653,Bear-Lagomarsino,39.03,-119.18,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=653
+653,654,Butte  Valley,39.8,-115.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=654
+654,655,Contact,41.7669444444444,-114.766944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=655
+655,656,Copper  Basin,40.6119444444444,-117.036111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=656
+656,657,Copper  Canyon,40.5469444444444,-117.126666666667,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=657
+657,658,Crescent  Peak,35.4833333333333,-115.133333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=658
+658,659,Elder  Creek,40.6875,-117.083333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=659
+659,660,Ely,39.26,-114.999444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=660
+660,661,Fish  Creek,40.4166666666667,-117.216666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=661
+661,662,Kennedy,40.2666666666667,-117.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=662
+662,663,MacArthur,39.05,-119.24,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=663
+663,664,Red  Hills,38.6166666666667,-118.433333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=664
+664,665,Royston,38.3333333333333,-117.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=665
+665,666,SFS,38.4919444444444,-118.075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=666
+666,667,Sullivan,38.78,-117.95,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=667
+667,668,Yerington,38.98,-119.2,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=668
+668,669,Red  Hills,29.805,-104.402777777778,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=669
+669,670,Bingham,40.5291666666667,-112.153888888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=670
+670,671,OK,38.4805555555556,-113.299722222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=671
+671,672,Park  Premier,40.625,-111.379722222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=672
+672,673,Southwest  Tintic,39.8580555555556,-112.125,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=673
+673,674,Glacier  Peak,48.1977777777778,-120.979166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=674
+674,675,Gold  Mountain,48.2158333333333,-121.334166666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=675
+675,676,Kelsey,48.995,-119.478055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=676
+676,677,Margaret,46.3563888888889,-122.080833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=677
+677,678,Mazama,48.6147222222222,-120.381944444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=678
+678,679,Middle  Fork,47.5,-121.366666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=679
+679,680,North  Fork  Snoqualmie  River,47.6775,-121.636388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=680
+680,681,Sunrise,48.0086111111111,-121.503611111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=681
+681,682,Copper  King,41.145,-105.186111111111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=682
+682,683,Kirwin,43.8825,-109.311111111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=683
+683,684,Silver  Creek,44.0288888888889,-109.683055555556,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=684
+684,685,Stinkingwater,44.03,-109.601388888889,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=685
+685,686,Almalyk,40.8138888888889,69.6463888888889,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=686
+686,687,Kyzata,40.7986111111111,69.7061111111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=687
+687,688,Sarycheku,40.7769444444445,69.7791666666667,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=688
+688,689,Tekeli,41.0977777777778,70.1258333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=689
+689,690,Samba,-12.6072222222222,27.8819444444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=690
+690,1,Agua  Rica,-27.3708333,-66.28,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=1
+691,2,Alcaparrosa,-31.3,-69.36666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=2
+692,3,Arroyo  Chita,-30.5,-69.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=3
+693,4,Bajo  de  Agua  Tapado,-27.2666666,-66.65,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=4
+694,5,Bajo  de  la  Alumbrera,-27.3297222,-66.60888888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=5
+695,6,Bajo  de  la  Leona,-48.075,-67.30833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=6
+696,7,Bajo  de  San  Lucas,-27.4,-66.55,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=7
+697,8,Bajo  El  Durazno,-27.2833333,-66.56666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=8
+698,9,Betito,-26.3,-67.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=9
+699,10,Campana  Mahuida,-38.25,-70.58333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=10
+700,11,Carrizal,-30.0,-69.16666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=11
+701,12,Cerro  Mercedario,-31.95,-70.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=12
+702,13,El  Oculto,-24.1333333,-66.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=13
+703,14,El  Salado,-30.9333333,-69.63333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=14
+704,15,Filo  Colorado,-27.3833333,-66.21666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=15
+705,16,Inca  Viejo,-25.1444444,-66.7625,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=16
+706,17,La  Voluntad,-39.1833333,-70.63333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=17
+707,18,Los  Azules,-31.2416666,-70.17666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=18
+708,19,Nevados  de  Famatina,-29.0,-67.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=19
+709,20,Pancho  Arias,-24.2,-65.86666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=20
+710,21,Paramillos  Norte,-32.4166666,-69.08333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=21
+711,22,Paramillos  Sur,-32.4833333,-69.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=22
+712,23,Quebrada  del  Bronce,-37.4325,-70.46666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=23
+713,24,San  Jorge,-32.25,-69.43333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=24
+714,25,Taca  Taca  Alto,-24.5666666,-67.78333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=25
+715,26,Taca  Taca  Bajo,-24.5833333,-67.73333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=26
+716,27,Yalguaraz,-32.1377777,-69.43916666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=27
+717,28,Agarak,38.92194444,46.188333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=28
+718,29,Ankavan,40.63333333,44.516666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=29
+719,30,Dastakert,39.375,46.022777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=30
+720,31,Kadjaran,39.14388888,46.137777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=31
+721,32,Shikahoh,39.1,46.466666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=32
+722,33,Teghout,41.10472222,44.856666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=33
+723,34,Cadia  Hill/Ridgeway,-33.4666666,149.0,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=34
+724,35,Cargo,-33.6166666,148.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=35
+725,36,Copper  Hill,-33.05,148.86666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=36
+726,37,Endeavour,-32.9166666,148.03333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=37
+727,38,Frogmore,-34.2738888,148.84,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=38
+728,39,Mandamah,-33.9666666,147.41666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=39
+729,40,Marsden,-33.7166666,147.53333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=40
+730,41,Peak  Hill,-32.75,148.21666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=41
+731,42,Yeoval,-32.7666666,148.66666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=42
+732,43,Andromache  River,-20.57,148.26,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=43
+733,44,Chinaman  Creek,-25.235,151.61611111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=44
+734,45,Coalstoun,-25.6833333,151.91666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=45
+735,46,Kiwi  Carpet,-24.6683333,150.87638888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=46
+736,47,Limonite  Hill,-23.69,150.63,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=47
+737,48,Moonmera,-23.6,150.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=48
+738,49,Mount  Cannindah,-24.8166666,151.36666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=49
+739,50,Mt.  Abbot,-20.2,147.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=50
+740,51,Mt.  Leslie,-20.3419444,140.16888888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=51
+741,52,Mt.  Poole,-29.8394444,152.37138888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=52
+742,53,Mt.  Robin,-20.5786111,146.97777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=53
+743,54,Mt.  Turner,-18.2536111,143.42361111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=54
+744,55,Struck  Oil,-23.6111111,150.45777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=55
+745,56,Town  Creek,-20.4247222,146.77861111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=56
+746,57,Whitewash,-24.8075,150.87305555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=57
+747,58,Yeppoon,-23.0027777,150.69277777,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=58
+748,59,Anabama  Hill,-32.7655555,140.23694444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=59
+749,60,Dogwood,-37.5736111,148.00861111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=60
+750,61,Thursdays  Gossan,-37.6113888,142.6075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=61
+751,62,Copper  Hills,-21.6575,119.95777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=62
+752,63,Coppin  Gap,-20.8888888,120.10833333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=63
+753,64,Kelly,-21.7916666,119.87222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=64
+754,65,Damirli,40.01666666,46.75,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=65
+755,66,Garadag,40.63333333,45.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=66
+756,67,Goshgarchai,40.53333333,46.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=67
+757,68,Kedabek,40.56444444,45.791388888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=68
+758,69,Misdag,39.05,46.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=69
+759,70,Herzogenhugel,50.28333333,5.9166666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=70
+760,71,Bom  Jardim,-17.5333333,-51.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=71
+761,72,Chapada,-14.25,-49.36666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=72
+762,73,Estrela,-6.4,-49.61666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=73
+763,74,Assarel,42.58333333,23.983333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=74
+764,75,Byrdtseto,41.97416666,27.534444444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=75
+765,76,Elatsite,42.75,24.033333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=76
+766,77,Medet,42.72,24.085277777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=77
+767,78,Plana,42.48333333,23.416666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=78
+768,79,Prohorovo,42.34222222,26.295833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=79
+769,80,Spahievo,42.11666666,25.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=80
+770,81,Tsar  Assen,42.35527777,24.339166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=81
+771,82,Vlaykov  Vruh,42.34805555,24.228055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=82
+772,83,Afton,50.66111111,-120.515,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=83
+773,84,Ajax,50.61416666,-120.5308333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=84
+774,85,Axe,49.64833333,-120.5261111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=85
+775,86,Bell  Copper,55.00277777,-126.2319444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=86
+776,87,Berg,53.80361111,-127.435,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=87
+777,88,Bethlehem,50.49416666,-120.9966666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=88
+778,89,Big  Onion,54.80972222,-126.8944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=89
+779,90,Brenda,49.87777777,-120.0055555,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=90
+780,91,Bronson,56.66666666,-131.0925,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=91
+781,92,Catface,49.25555555,-125.9833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=92
+782,93,Chuchi,55.26305555,-124.5436111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=93
+783,94,Coles  Creek,53.53333333,-127.2333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=94
+784,95,Copper  Canyon,57.11638888,-131.3469444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=95
+785,96,Copper  Mountain,49.34027777,-120.5552777,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=96
+786,97,Dorothy,55.24777777,-126.1663888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=97
+787,98,Eaglehead,58.48388888,-129.1072222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=98
+788,99,Fish  Lake,51.46361111,-123.6255555,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=99
+789,100,Galaxy,50.64333333,-120.4233333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=100
+790,101,Galore  Creek,57.125,-131.45,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=101
+791,102,Gambier  Island,49.5,-123.4166666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=102
+792,103,Giant  Copper,49.16666666,-121.0333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=103
+793,104,Gibraltar,52.51805555,-122.2875,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=104
+794,105,Gnat  Lake,58.25361111,-129.8266666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=105
+795,106,Granisle,54.94638888,-126.1566666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=106
+796,107,Highmont,50.43277777,-120.9205555,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=107
+797,108,Huckleberry,53.68111111,-127.1780555,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=108
+798,109,Hushamu,50.67527777,-127.8580555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=109
+799,110,Island  Copper,50.6,-127.4777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=110
+800,111,Katie,49.13333333,-117.3305555,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=111
+801,112,Kemess  North,57.06,-126.7594444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=112
+802,113,Kemess  South,57.00583333,-126.7508333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=113
+803,114,Kerr,56.4675,-130.2688888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=114
+804,115,Kinaskan,57.65388888,-130.2436111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=115
+805,116,Krain,50.58333333,-120.9666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=116
+806,117,Kwanika,55.5,-125.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=117
+807,118,Lennac  Lake,54.75,-126.3333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=118
+808,119,Lornex,50.45027777,-121.0430555,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=119
+809,120,Lorraine,55.92694444,-125.4311111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=120
+810,121,Louise  Lake,54.78333333,-127.6833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=121
+811,122,Maggie,50.92388888,-121.4211111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=122
+812,123,Misty,55.91583333,-125.5136111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=123
+813,124,Morrison,55.19444444,-126.3152777,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=124
+814,125,Mt.  Milligan,55.12388888,-124.0275,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=125
+815,126,Mt.  Polly,52.55444444,-121.6416666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=126
+816,127,O.K.,50.04666666,-124.645,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=127
+817,128,Ox  Lake,53.67361111,-127.0569444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=128
+818,129,Pine,57.23333333,-126.7333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=129
+819,130,Poison  Mountain,51.13333333,-122.6141666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=130
+820,131,Poplar,54.01666666,-126.99,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=131
+821,132,Primer,49.75611111,-120.46,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=132
+822,133,Rayfield,51.31333333,-121.0888888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=133
+823,134,Red  Bluff,56.66666666,-131.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=134
+824,135,Red  Chris,57.7,-129.8052777,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=135
+825,136,Red  Dog,50.71083333,-127.9705555,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=136
+826,137,Schaft  Creek,57.36416666,-130.9902777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=137
+827,138,Sulphurets,56.50444444,-130.2627777,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=138
+828,139,Taseko,51.10444444,-123.4,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=139
+829,140,Trojan,50.56666666,-121.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=140
+830,141,Valley,50.48555555,-121.0483333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=141
+831,142,Whipsaw,49.29333333,-120.7594444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=142
+832,143,Whiting  Creek/Rusty  Zone,53.75833333,-127.215,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=143
+833,144,Willa,49.88333333,-117.3666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=144
+834,145,Coxheath,46.08333333,-60.36666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=145
+835,146,Beidelman  Bay,49.83333333,-91.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=146
+836,147,Jogran,47.04305555,-84.61527777,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=147
+837,148,McIntyre,48.5,-81.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=148
+838,149,Stancop,47.96666666,-80.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=149
+839,150,Tribag,47.09194444,-84.47833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=150
+840,151,Chibougamau,49.86666666,-74.23333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=151
+841,152,Don  Rouyn,48.26666666,-79.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=152
+842,153,GaspÃ©,48.96666666,-65.51944444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=153
+843,154,Cash,62.41666666,-137.6166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=154
+844,155,Casino,62.73611111,-138.8291666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=155
+845,156,Williams  Creek,62.34166666,-136.6916666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=156
+846,157,Andacollo,-30.25,-71.41666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=157
+847,158,Angelina,-24.3983333,-69.6075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=158
+848,159,Antucoya,-22.5333333,-69.91666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=159
+849,160,Centinela,-23.1633333,-69.16833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=160
+850,161,Cerro  Casale,-27.7833333,-69.23333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=161
+851,162,Cerro  Colorado,-20.0447222,-69.25972222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=162
+852,163,Chimborazo,-24.1333333,-69.08333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=163
+853,164,Chuquicamata,-22.275,-68.9,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=164
+854,165,Collahuasi,-20.9630555,-68.70833333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=165
+855,166,Conchi,-21.9538888,-68.73555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=166
+856,167,Copaquire,-20.9016666,-68.88527777,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=167
+857,168,Dos  Hermanos,-18.29,-69.72166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=168
+858,169,El  Abra,-21.9205555,-68.8325,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=169
+859,170,El  Loa,-21.1166666,-68.73333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=170
+860,171,El  Salvador,-26.2541666,-69.55055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=171
+861,172,El  TelÃ©grafo,-22.9877777,-69.07638888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=172
+862,173,El  Teniente,-34.0886111,-70.4625,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=173
+863,174,Escondida,-24.265,-69.07166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=174
+864,175,Esperanza,-22.9666666,-69.05833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=175
+865,176,Gaby,-23.4108333,-68.81888888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=176
+866,177,Inca  de  Oro,-26.7661111,-69.87138888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=177
+867,178,La  Fortuna,-28.6333333,-69.88333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=178
+868,179,La  Planada,-20.175,-69.08333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=179
+869,180,Lilian,-22.6666666,-68.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=180
+870,181,Lomas  Bayas,-23.445,-69.51166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=181
+871,182,Los  Bronces/Rio  Blanco,-33.1333333,-70.26666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=182
+872,183,"Los  Pelambres  -  El  Pachon,  AGTN",-31.7083333,-70.5,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=183
+873,184,ManÃ­,-22.5641666,-69.24222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=184
+874,185,Mansa  Mina,-22.3805555,-68.9125,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=185
+875,186,Mocha,-19.8097222,-69.28055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=186
+876,187,Opache,-22.4666666,-68.96666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=187
+877,188,Polo  Sur,-23.3,-69.23333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=188
+878,189,Potrerillos,-26.4875,-69.42388888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=189
+879,190,Puntillas,-21.9166666,-69.83333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=190
+880,191,Quebrada  Blanca,-21.0,-68.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=191
+881,192,Queen  Elizabeth,-19.8666666,-68.96666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=192
+882,193,Regalito,-28.2166666,-69.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=193
+883,194,Relincho,-28.5,-70.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=194
+884,195,Rio  Frio,-25.2166666,-69.23333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=195
+885,196,Sierra  Gorda,-22.8805555,-69.33888888,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=196
+886,197,Spence,-22.8394444,-69.30277777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=197
+887,198,TicnÃ¡mar,-18.5933333,-69.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=198
+888,199,Toki,-22.4166666,-68.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=199
+889,200,Turbio,-46.0333333,-72.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=200
+890,201,Ujina,-20.9927777,-68.63722222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=201
+891,202,Vizcachitas,-32.8833333,-70.23333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=202
+892,203,Anjishan,32.06666666,119.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=203
+893,204,Bainamiao,41.71666666,112.55,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=204
+894,205,Beiya,26.15,100.2,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=205
+895,206,Changâan,22.8,103.0,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=206
+896,207,Chengmenshan,29.68333333,115.83333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=207
+897,208,Chihu,42.2,92.966666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=208
+898,209,Chonjiang,29.58333333,90.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=209
+899,210,Dexing,29.01888888,117.72972222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=210
+900,211,Dongga,29.38333333,88.383333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=211
+901,212,Duobaoshan,50.16666666,125.69222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=212
+902,213,Duoxiasongduo,31.08333333,97.866666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=213
+903,214,Fengshandong,29.80916666,115.44805555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=214
+904,215,Gegongnong,30.46666666,98.5,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=215
+905,216,Habo,22.88333333,102.58333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=216
+906,217,Hengxingcuo,31.48333333,97.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=217
+907,218,Jiama,29.69166666,91.751666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=218
+908,219,Jicuo,29.91666666,98.583333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=219
+909,220,Jiru,29.68333333,88.933333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=220
+910,221,Kalatage,42.53333333,91.916666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=221
+911,222,Lakangâe,29.58333333,91.483333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=222
+912,223,Linglong,42.16666666,92.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=223
+913,224,Machangqing,25.66666666,100.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=224
+914,225,Malasongduo,31.0,97.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=225
+915,226,Mamupu,29.83333333,98.533333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=226
+916,227,Mangzhong,31.2,97.8,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=227
+917,228,Nanmu,29.46666666,90.816666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=228
+918,229,Pulang,28.03333333,99.833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=229
+919,230,Qulong,29.6,91.583333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=230
+920,231,Ridanguo,32.15,96.766666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=231
+921,232,Saishitang,35.29083333,99.818888888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=232
+922,233,Sanchakou,42.35,94.833333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=233
+923,234,Seli,30.03333333,98.516666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=234
+924,235,Shaxi,31.18333333,117.26666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=235
+925,236,Tinggong,29.55,90.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=236
+926,237,Tongchankou,30.16666666,114.8,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=237
+927,238,Tongkuangyu,35.5,111.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=238
+928,239,Tuwu,42.11666666,92.616666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=239
+929,240,Wunugetushan,49.39,117.43333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=240
+930,241,Xiariduo,31.68333333,97.133333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=241
+931,242,Xietongmen,29.51666666,88.566666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=242
+932,243,Xifanping,27.4,101.13333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=243
+933,244,Yandong,42.08333333,92.523611111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=244
+934,245,Yulong,31.4,97.733333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=245
+935,246,Zhanaga,31.25,97.733333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=246
+936,247,Zhunuo,29.43333333,87.533333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=247
+937,248,Zijinshan,25.05,116.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=248
+938,249,Acandi,8.487777777,-77.32138888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=249
+939,250,California,7.316666666,-72.86666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=250
+940,251,Dolores,3.516666666,-75.03333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=251
+941,252,Infierno-Chile,4.183333333,-75.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=252
+942,253,Mocoa,1.241666666,-76.66666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=253
+943,254,Murindo,7.05,-76.75,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=254
+944,255,Pantanos-Pegadorcito,6.7,-76.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=255
+945,256,Piedrasentada,2.1,-76.88333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=256
+946,257,Nari,9.697222222,-83.35833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=257
+947,258,Sukut,9.369444444,-82.97638888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=258
+948,259,Arimao,22.11666666,-80.03333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=259
+949,260,El  Cobre,20.0458,-75.9461,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=260
+950,261,Eureca,20.25,-76.86666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=261
+951,262,Majagual,18.51666666,-70.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=262
+952,263,Balzapamba-Las  Guardias,-1.66666666,-79.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=263
+953,264,Chaso  Juan,-1.38333333,-79.11666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=264
+954,265,Chaucha,-2.93333333,-79.41666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=265
+955,266,Cumay,-4.01666666,-78.88333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=266
+956,267,El  Hito,-4.25,-78.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=267
+957,268,Fierro  Urcu,-3.58333333,-79.33333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=268
+958,269,Gaby-Papa  Grande,-3.05,-79.68333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=269
+959,270,Junin,0.333333333,-78.58333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=270
+960,271,Los  Linderos,-4.33333333,-80.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=271
+961,272,Mirador,-4.65,-78.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=272
+962,273,Panantza,-3.6,-78.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=273
+963,274,Rio  Playas,-4.2,-79.58333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=274
+964,275,San  Carlos,-3.65,-78.41666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=275
+965,276,Telimbela,-1.56666666,-79.13333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=276
+966,277,Tumi,-4.25,-79.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=277
+967,278,Warintza,-3.78333333,-78.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=278
+968,279,Namosi,-18.0416666,178.175,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=279
+969,280,Waivaka,-18.1066666,178.17833333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=280
+970,281,Kopsa,63.77083333,25.233888888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=281
+971,282,Fakos,39.81166666,25.192222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=282
+972,283,Kassiteres,41.02333333,25.7875,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=283
+973,284,Maronia,40.86666666,25.555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=284
+974,285,Pontokerassia,41.055,23.19,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=285
+975,286,Skouries/Fisoka,40.47222222,23.703611111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=286
+976,287,Douvray,19.55,-71.78333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=287
+977,288,Terre-Neuve,19.51666666,-72.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=288
+978,289,BÃ¶rzsÃ¶ny  Mountains,47.91,19.048333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=289
+979,290,Recsk,47.93333333,20.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=290
+980,291,Malanjkhand,22.01666666,80.716666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=291
+981,292,Baroi,-0.5,113.18333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=292
+982,293,Batu  Hijau,-8.96527777,116.8725,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=293
+983,294,Bulagidun,0.951944444,121.77055555,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=294
+984,295,Ciemas,-7.22,106.56,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=295
+985,296,Grasberg,-3.81666666,137.23333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=296
+986,297,Hila,-3.61166666,128.09166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=297
+987,298,Ibu,0.833333333,109.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=298
+988,299,Kaputusan,-0.51666666,127.58333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=299
+989,300,Mudik,-1.7,101.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=300
+990,301,Sassak,-3.15833333,119.48333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=301
+991,302,Tangse,5.033333333,95.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=302
+992,303,Tapadaa,0.516666666,123.21666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=303
+993,304,Tombulilato,0.345277777,123.40222222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=304
+994,305,Ali-Abad,31.65916666,53.849722222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=305
+995,306,Dallil,34.55,49.266666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=306
+996,307,Darreh-Zerreshk,31.57638888,53.823333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=307
+997,308,Darrehzar,29.88,55.899444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=308
+998,309,Kale  Kafi,33.53583333,54.544444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=309
+999,310,Meiduk,30.42055555,55.167222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=310
+1000,311,Raigan,28.9,57.233333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=311
+1001,312,Sar  Cheshmeh,29.945,55.861944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=312
+1002,313,Sungun,38.8075,46.371111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=313
+1003,314,Calabona,40.53194444,8.365,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=314
+1004,315,Carbonia,39.17055555,8.4963888888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=315
+1005,316,Ogliastra,39.81694444,9.5158333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=316
+1006,317,Aktogai,46.93333333,79.966666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=317
+1007,318,Almaly,48.68333333,73.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=318
+1008,319,Baiskoe,49.15916666,75.600833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=319
+1009,320,Bataly,52.88333333,61.416666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=320
+1010,321,Benkala,51.76666666,61.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=321
+1011,322,Besshoky,48.22666666,76.272222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=322
+1012,323,Borly,47.50194444,74.083333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=323
+1013,324,Boshchekul,51.81666666,74.183333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=324
+1014,325,Chatyrkul,43.62027777,74.261111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=325
+1015,326,Karatas,46.65,73.633333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=326
+1016,327,Kazkyrmyskoye,45.48333333,74.283333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=327
+1017,328,Kenkuduk,47.38333333,75.233333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=328
+1018,329,Kepcham,47.5,75.1,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=329
+1019,330,Koksai,44.45,78.433333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=330
+1020,331,Koktasdzhal,50.16222222,76.162222222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=331
+1021,332,Kounrad,46.98972222,74.987222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=332
+1022,333,Kyzylkain,47.53333333,84.416666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=333
+1023,334,Kyzyltu,51.95,72.333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=334
+1024,335,Nurbay,47.91666666,79.333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=335
+1025,336,Nurkazgan,50.02694444,76.727222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=336
+1026,337,Ozernoe,49.32638888,75.9825,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=337
+1027,338,Saryshagan,46.25666666,73.198611111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=338
+1028,339,Sokurkoiy,46.6,74.416666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=339
+1029,340,Spiridonovskoe,52.33333333,62.183333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=340
+1030,341,Varvarinskoye,53.01666666,62.566666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=341
+1031,342,Yubileinoe,48.93333333,58.683333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=342
+1032,343,Taldy-Bulak,42.7,75.65,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=343
+1033,344,Phu  Kham,18.91666666,102.93333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=344
+1034,345,Buchim,41.51055555,22.601944444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=345
+1035,346,Ilovitza,41.36666666,22.816666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=346
+1036,347,Kadiica,41.61666666,22.883333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=347
+1037,348,Osogovo,41.8,22.866666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=348
+1038,349,Bongkud,6.033333333,116.75,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=349
+1039,350,Mamut,6.033333333,116.46666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=350
+1040,351,Mengpur,3.85,102.86666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=351
+1041,352,Nungkok,6.1,116.46666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=352
+1042,353,Bahuerachi,27.05166666,-108.3411111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=353
+1043,354,Batopilas,27.03333333,-107.7,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=354
+1044,355,Caballo  Blanco,19.68055555,-96.45277777,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=355
+1045,356,Cananea,30.95416666,-110.3166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=356
+1046,357,Cerro  Colorado,26.25222222,-107.3294444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=357
+1047,358,Cuatro  Hermanos,28.38611111,-109.6569444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=358
+1048,359,Cumobabi,29.8725,-109.9619444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=359
+1049,360,El  Arco,28.03333333,-113.5666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=360
+1050,361,El  Batamote,30.48194444,-109.7527777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=361
+1051,362,Inguaran,18.88083333,-101.6408333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=362
+1052,363,La  Caridad,30.31805555,-109.5566666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=363
+1053,364,La  Florida,30.38388888,-109.7305555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=364
+1054,365,La  Reyna,23.33333333,-106.0666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=365
+1055,366,La  Verde,19.07777777,-102.0313888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=366
+1056,367,Luz  del  Cobre,28.43333333,-109.3833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=367
+1057,368,Mariquita,31.05555555,-110.4208333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=368
+1058,369,Milpillas,31.11666666,-110.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=369
+1059,370,Piedras  Verdes,27.16805555,-109.0194444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=370
+1060,371,Pilares,30.33388888,-109.6327777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=371
+1061,372,Rodeo,18.6225,-100.8461111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=372
+1062,373,San  Isidro,18.94361111,-101.9783333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=373
+1063,374,Santo  TomÃ¡s,26.71666666,-108.2333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=374
+1064,375,Suaqui  Verde,28.41138888,-109.8030555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=375
+1065,376,Tameapa,25.66805555,-107.3511111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=376
+1066,377,Tepal,19.11666666,-102.9166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=377
+1067,378,TiÃ¡maro,19.38333333,-100.6833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=378
+1068,379,TolimÃ¡n,15.31888888,-92.33055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=379
+1069,380,Tuligtic,19.7,-97.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=380
+1070,381,Avdartolgoi,49.67083333,114.84444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=381
+1071,382,Bayan-Uul,46.68333333,104.88333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=382
+1072,383,Erdenet,49.0,104.13333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=383
+1073,384,Kharmagtai,44.0,106.16666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=384
+1074,385,Khongoot,49.13333333,103.65,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=385
+1075,386,Khongor,43.16666666,102.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=386
+1076,387,Naran  Bulag,48.58333333,97.783333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=387
+1077,388,Nariin  Khudag,44.23333333,108.03333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=388
+1078,389,Oyu  Tolgoi,43.0,106.86666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=389
+1079,390,Oyuut  Ulaar  Ovoo,44.57416666,109.43583333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=390
+1080,391,Saran  Uul,45.78333333,100.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=391
+1081,392,Shand,48.775,104.21666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=392
+1082,393,Shuteen,44.16666666,107.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=393
+1083,394,Tsagaan-Suvarga,43.86666666,108.33333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=394
+1084,395,Zos  Uul,48.70833333,98.341666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=395
+1085,396,Zost  Tolgoi,48.71666666,98.341666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=396
+1086,397,Monywa,22.25,95.083333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=397
+1087,398,Shangalon,23.70833333,95.516666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=398
+1088,399,Haib,-28.6833333,17.85,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=399
+1089,400,Lorelei,-28.0666666,16.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=400
+1090,401,Thames,-37.0958333,175.55722222,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=401
+1091,402,Dasht-e-Kain,29.55444444,64.504166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=402
+1092,403,Koh-i-Dalil,29.1225,62.194166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=403
+1093,404,Reko  Diq,29.12277777,62.078888888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=404
+1094,405,Saindak,29.27083333,61.584722222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=405
+1095,406,Ziarat  Pir  Sultan,29.4,64.141666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=406
+1096,407,Cerro  Azul,9.283333333,-79.38333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=407
+1097,408,Cerro  Chorcha,8.633333333,-82.2,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=408
+1098,409,Cerro  Colorado,8.5,-81.78333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=409
+1099,410,Cerro  Quema,7.633333333,-80.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=410
+1100,411,Cobre  Panama,8.433333333,-81.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=411
+1101,412,Petaquilla-Botija,8.833333333,-80.66666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=412
+1102,413,Rio  Pito,8.633333333,-77.56666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=413
+1103,414,Arie,-2.01666666,146.88333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=414
+1104,415,Esis,-5.16666666,151.71666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=415
+1105,416,Frieda  River,-4.7,141.78333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=416
+1106,417,Legusulum,-3.2,151.65,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=417
+1107,418,Mount  Bini,-9.3,147.58333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=418
+1108,419,Mount  Kren,-2.11666666,146.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=419
+1109,420,Mt.  Nakru,-5.98333333,150.46666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=420
+1110,421,Ok  Tedi,-5.2,141.13333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=421
+1111,422,Panguna,-6.31666666,155.5,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=422
+1112,423,Plesyumi,-5.96666666,150.38333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=423
+1113,424,Simuku,-5.71666666,150.01666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=424
+1114,425,Star  Mt.  Futik,-5.06666666,141.33333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=425
+1115,426,Star  Mt.  Nong  River,-5.01666666,141.21666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=426
+1116,427,Wafi  River,-6.88333333,146.45,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=427
+1117,428,Wamum,-6.75,146.28333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=428
+1118,429,Yandera,-5.75,145.16666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=429
+1119,430,Acos,-14.2,-74.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=430
+1120,431,Aguila,-8.55972222,-77.89666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=431
+1121,432,Almacen,-13.2347222,-75.91666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=432
+1122,433,Alondra,-15.8166666,-73.58333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=433
+1123,434,Alto  Dorado,-8.16666666,-78.18333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=434
+1124,435,Anita  de  Tibilos,-14.1833333,-75.14833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=435
+1125,436,Antapaccay,-14.96,-71.34666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=436
+1126,437,CaÃ±ariaco,-6.08333333,-79.28333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=437
+1127,438,Cerro  Colorado,-17.6816666,-69.90083333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=438
+1128,439,Cerro  Corona,-6.76166666,-78.60583333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=439
+1129,440,Cerro  Negro,-16.5458333,-71.55277777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=440
+1130,441,Cerro  Verde/Santa  Rosa,-16.5352777,-71.59166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=441
+1131,442,Chalcobamba,-14.0266666,-72.33333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=442
+1132,443,Chapi,-16.7736111,-71.35777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=443
+1133,444,"Chavez  N2,  Concesion",-14.2333333,-75.41666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=444
+1134,445,Constancia,-14.4616666,-71.76666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=445
+1135,446,Coroccohuayco,-14.9522222,-71.2625,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=446
+1136,447,Cotabambas,-14.1811111,-72.34805555,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=447
+1137,448,Cuajone,-17.0455555,-70.70722222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=448
+1138,449,El  Galeno,-7.01666666,-78.31666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=449
+1139,450,Eliana,-13.7666666,-75.71666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=450
+1140,451,La  Granja,-6.35833333,-79.11944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=451
+1141,452,La  Vega,-5.70472222,-79.28083333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=452
+1142,453,Laguna  Chamis,-7.11805555,-78.57555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=453
+1143,454,Lahuani,-14.4616666,-72.99333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=454
+1144,455,Los  Chancas,-14.1580555,-73.13333333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=455
+1145,456,Los  Pinos,-12.9758333,-76.13944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=456
+1146,457,Magistral,-8.21555555,-77.77166666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=457
+1147,458,Michiquillay,-7.3,-78.32222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=458
+1148,459,Minas  Conga,-6.915,-78.35944444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=459
+1149,460,Paramo,-5.715,-79.20694444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=460
+1150,461,Pashpap,-8.78861111,-77.99583333,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=461
+1151,462,Puquio,-13.9291666,-75.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=462
+1152,463,Puy-Puy,-11.4797222,-76.08444444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=463
+1153,464,Quechua,-14.98,-71.30666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=464
+1154,465,Quellaveco,-17.1080555,-70.61583333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=465
+1155,466,Rio  Blanco,-4.94444444,-79.30833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=466
+1156,467,San  Salvador  de  Patillani,-15.625,-70.99166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=467
+1157,468,Tantahuatay,-6.72527777,-78.66944444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=468
+1158,469,Tingo,-13.6861111,-75.09305555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=469
+1159,470,Tintaya,-14.9083333,-71.31333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=470
+1160,471,Toquepala,-17.245,-70.61388888,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=471
+1161,472,Toromocho,-11.6,-76.13333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=472
+1162,473,Amacan,7.333333333,126.15,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=473
+1163,474,Atlas,10.36666666,123.83333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=474
+1164,475,Aya  Aya,9.433333333,122.7,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=475
+1165,476,Balak-5,10.13333333,124.25,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=476
+1166,477,Basay,9.491666666,122.67916666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=477
+1167,478,Batong  Buhay,17.34444444,121.05833333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=478
+1168,479,Boneng  Lobo,17.46666666,120.81666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=479
+1169,480,Botilao,17.3,121.01,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=480
+1170,481,Boyongan,9.55,125.48833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=481
+1171,482,Cadan,7.55,126.16666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=482
+1172,483,Dinkidi,16.32083333,121.29166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=483
+1173,484,Dizon,14.97388888,120.20444444,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=484
+1174,485,Far  Southeast-Bato  Tabio,16.85833333,120.78333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=485
+1175,486,Guinaoang-Tirad,16.79166666,120.8,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=486
+1176,487,Hale-Mayabo,17.16666666,120.73333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=487
+1177,488,Hinobaan,9.75,122.56666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=488
+1178,489,Ino-Capayang,13.5,121.88333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=489
+1179,490,Kalamatan,7.591666666,126.06666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=490
+1180,491,Kennon  South  East/Black  Mountain,16.36666666,120.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=491
+1181,492,Kilongolao,17.4,120.86666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=492
+1182,493,Kingking,7.166666666,125.99166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=493
+1183,494,Labangan,7.933333333,123.3,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=494
+1184,495,Lingig,8.045555555,126.38166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=495
+1185,496,Lumbay,14.76666666,121.31666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=496
+1186,497,Luna-Asiga,9.258333333,125.52333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=497
+1187,498,Manag,17.76666666,121.23333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=498
+1188,499,Mapula,7.35,126.01666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=499
+1189,500,Marcopper,13.45,122.08333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=500
+1190,501,Marian,16.75,121.35,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=501
+1191,502,Matanlang,14.23333333,122.73333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=502
+1192,503,Pisumpan,15.00833333,120.36666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=503
+1193,504,Salatan,6.566666666,124.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=504
+1194,505,San  AntonioâPhilex,16.75,120.7,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=505
+1195,506,San  Fabian,16.38333333,120.98333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=506
+1196,507,Santo  NiÃ±o,16.49027777,120.65555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=507
+1197,508,Santo  Tomas  II,16.26305555,120.6225,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=508
+1198,509,Sinipsip,16.73333333,120.76666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=509
+1199,510,Sipalay,9.816666666,122.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=510
+1200,511,Suguibon,9.566666666,122.63333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=511
+1201,512,Sulat,11.81666666,125.25,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=512
+1202,513,Tagpura-Maangob,7.543333333,126.1,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=513
+1203,514,Tampakan,6.475,125.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=514
+1204,515,Tawi-Tawi,16.45,120.86666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=515
+1205,516,Taysan,13.8,121.13333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=516
+1206,517,Dolina  Bedkowska,50.11666666,19.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=517
+1207,518,Myszkow,50.61666666,19.366666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=518
+1208,519,Pilica,50.46666666,19.616666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=519
+1209,520,Rio  Vivi,18.25,-66.41666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=520
+1210,521,Tanama,18.25,-66.81666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=521
+1211,522,Bolcana,45.98333333,23.033333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=522
+1212,523,Bozovici,44.75,22.0,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=523
+1213,524,Bucium  Tarnita,46.23333333,23.2,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=524
+1214,525,Ciclova,44.98333333,21.783333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=525
+1215,526,Cofu,45.55,22.35,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=526
+1216,527,Deva,45.87666666,22.887777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=527
+1217,528,Moldova  Noua,44.73777777,21.7025,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=528
+1218,529,Musariu,46.15,22.8,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=529
+1219,530,Oravita,45.1,21.816666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=530
+1220,531,Rosia  Poieni,46.33333333,23.166666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=531
+1221,532,Rovina,46.16666666,22.9,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=532
+1222,533,Sasca,44.86666666,21.716666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=533
+1223,534,Sopot,44.75,21.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=534
+1224,535,Talagiu,46.26666666,22.15,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=535
+1225,536,Tincova,45.56666666,22.233333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=536
+1226,537,Valea  Morii,46.15,22.85,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=537
+1227,538,Voia,46.06111111,22.966666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=538
+1228,539,Aksug,53.43333333,96.666666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=539
+1229,540,Birgildinskoe,54.99638888,61.088055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=540
+1230,541,Borgulikan,53.75,126.61666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=541
+1231,542,Kiyalykh-uzen,54.05,89.566666666,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=542
+1232,543,Krasnogorskoe,53.91666666,157.38333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=543
+1233,544,Kyzyk-Chadr,52.93333333,96.783333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=544
+1234,545,Lekyntelbei,67.86666666,66.333333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=545
+1235,546,Lora,59.25,153.76666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=546
+1236,547,Miheevskoye,53.22611111,60.823611111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=547
+1237,548,Nakhodka,66.48333333,164.73333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=548
+1238,549,Novonikolaevsk,53.23333333,60.566666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=549
+1239,550,Osennee,59.71666666,150.31666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=550
+1240,551,Peschanka,66.6,164.56666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=551
+1241,552,Salavat,53.0875,57.468333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=552
+1242,553,Tominskoe,54.93305555,61.267222222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=553
+1243,554,Tumannoe,54.28333333,157.66666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=554
+1244,555,Viking,58.96666666,152.68333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=555
+1245,556,Voznesenskoe,54.63333333,59.8,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=556
+1246,557,Yaguzak,54.96111111,61.125555555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=557
+1247,558,Zelenodolskoe,54.71666666,61.066666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=558
+1248,559,Bor,44.095,22.094166666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=559
+1249,560,Majdanpek,44.38333333,21.95,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=560
+1250,561,Rudnitsa,43.23333333,20.716666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=561
+1251,562,Veliki  Krivelj,44.13111111,22.096944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=562
+1252,563,Zlatno,48.4375,18.861944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=563
+1253,564,Hidden  Valley,-9.36666666,159.73333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=564
+1254,565,Koloula,-9.78333333,160.03333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=565
+1255,566,Mase,-8.08333333,157.51666666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=566
+1256,567,Mbetilonga,-9.53333333,159.90833333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=567
+1257,568,Poha,-9.43333333,159.83333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=568
+1258,569,Aitik,67.0725,20.9575,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=569
+1259,570,Tallberg,64.98722222,19.771666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=570
+1260,571,Vaikijaur,66.525,19.813611111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=571
+1261,572,Chimei,23.43333333,121.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=572
+1262,573,Phu  Hin  Lek  Fai,17.5,101.66666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=573
+1263,574,Phu  Lon,18.11666666,102.08333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=574
+1264,575,Phu  Thong  Daeng,17.33333333,101.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=575
+1265,576,Bakircay,40.92611111,35.44,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=576
+1266,577,Berta,41.2,41.9,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=577
+1267,578,Cevizlidere,39.26666666,39.6,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=578
+1268,579,Derekoy,41.91138888,27.316666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=579
+1269,580,GÃ¼mÃ¼Åhane,41.175,41.852777777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=580
+1270,581,GÃ¼zelyayla,40.85666666,39.653055555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=581
+1271,582,Ikiztepe,41.83333333,27.678333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=582
+1272,583,Sukrupasa,41.93333333,27.45,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=583
+1273,584,Tereoba,39.6,27.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=584
+1274,585,UlutaÅ,40.45,40.883333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=585
+1275,586,Baultoff,62.11055555,-141.2119444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=586
+1276,587,Bee  Creek,56.51666666,-158.4,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=587
+1277,588,Bond  Creek,62.21666666,-142.7333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=588
+1278,589,Carl  Creek,62.03333333,-141.5833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=589
+1279,590,Horsfield,62.05111111,-141.2180555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=590
+1280,591,Kijik  River,60.35305555,-154.315,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=591
+1281,592,Margerie  Glacier,59.01944444,-137.0833333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=592
+1282,593,Nunatak,58.9875,-136.1027777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=593
+1283,594,Orange  Hill,62.20583333,-142.8419444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=594
+1284,595,Pebble  Copper,59.89833333,-155.2955555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=595
+1285,596,Pyramid,55.625,-160.6669444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=596
+1286,597,Round  Top,64.13333333,-157.05,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=597
+1287,598,Taurus,63.52083333,-141.3236111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=598
+1288,599,Venus,67.63333333,-149.3333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=599
+1289,600,Ajo,32.35694444,-112.8652777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=600
+1290,601,Bagdad,34.58583333,-113.2119444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=601
+1291,602,Bisbee,31.43194444,-109.9013888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=602
+1292,603,Casa  Grande  West,32.86666666,-111.95,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=603
+1293,604,Castle  Dome,33.4,-110.95,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=604
+1294,605,Chilito,33.06527777,-110.7961111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=605
+1295,606,Christmas,33.06,-110.7452777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=606
+1296,607,Copper  Basin,34.49888888,-112.58,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=607
+1297,608,Copper  Creek,32.75,-110.48,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=608
+1298,609,Esperanza-Sierrita,31.86944444,-111.12,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=609
+1299,610,Gibson,33.33277777,-110.9441666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=610
+1300,611,Helvetia,31.83,-110.76,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=611
+1301,612,Ithaca  Peak,35.36666666,-114.15,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=612
+1302,613,Johnson  Camp,32.09861111,-110.065,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=613
+1303,614,Lakeshore,32.52388888,-111.9047222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=614
+1304,615,Lonesome  Pine,33.34222222,-110.9030555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=615
+1305,616,Miami-Inspiration,33.42,-110.74,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=616
+1306,617,Mineral  Butte,33.11,-111.58,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=617
+1307,618,Mission-Pima,31.98333333,-111.0666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=618
+1308,619,Morenci-Metcalf,33.10361111,-109.3611111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=619
+1309,620,Pine  Flat,34.36888888,-112.3519444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=620
+1310,621,Poston  Butte,33.11666666,-111.4166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=621
+1311,622,Ray,33.16361111,-110.9830555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=622
+1312,623,Red  Hills,33.03611111,-111.2161111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=623
+1313,624,Red  Mountain,31.49,-110.72,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=624
+1314,625,Resolution,33.3,-111.0833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=625
+1315,626,Sacaton,32.95472222,-111.8161111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=626
+1316,627,Safford,32.93333333,-109.6,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=627
+1317,628,San  Manuel-Kalamazoo,32.69972222,-110.6777777,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=628
+1318,629,San  Xavier  North,31.96666666,-111.0166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=629
+1319,630,Sanchez,32.88333333,-109.5333333,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=630
+1320,631,Sheep  Mountain,34.08,-112.46,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=631
+1321,632,Silver  Bell,32.4,-111.5,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=632
+1322,633,Squaw  Peak,34.48027777,-111.8652777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=633
+1323,634,Sunnyside,31.45111111,-110.7461111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=634
+1324,635,Superior  East,33.37805555,-110.9988888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=635
+1325,636,Twin  Buttes,31.89277777,-111.0352777,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=636
+1326,637,Two  Peaks,31.76805555,-110.4619444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=637
+1327,638,Vekol  Hills,32.58,-112.09,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=638
+1328,639,Lights  Creek,40.195,-120.8538888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=639
+1329,640,Allard,37.40694444,-108.0880555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=640
+1330,641,Bobcat  Gulch,45.35638888,-113.9938888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=641
+1331,642,Caribou  Mountain,43.09305555,-111.3230555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=642
+1332,643,Catheart  Mt.,45.53611111,-70.21694444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=643
+1333,644,Sally  Mountain,45.6,-70.33333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=644
+1334,645,Beavertown,46.34166666,-112.0791666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=645
+1335,646,Continental/Butte,46.01722222,-112.5111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=646
+1336,647,Heddleston,47.02583333,-112.36,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=647
+1337,648,Copper  Flat,32.80666666,-108.1186111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=648
+1338,649,Hannover  Mountains,32.84638888,-108.0905555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=649
+1339,650,Santa  Rita,32.79027777,-108.0727777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=650
+1340,651,Tyrone,32.63305555,-108.3669444,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=651
+1341,652,Ann  Mason,38.96,-119.27,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=652
+1342,653,Bear-Lagomarsino,39.03,-119.18,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=653
+1343,654,Butte  Valley,39.8,-115.15,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=654
+1344,655,Contact,41.76694444,-114.7669444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=655
+1345,656,Copper  Basin,40.61194444,-117.0361111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=656
+1346,657,Copper  Canyon,40.54694444,-117.1266666,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=657
+1347,658,Crescent  Peak,35.48333333,-115.1333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=658
+1348,659,Elder  Creek,40.6875,-117.0833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=659
+1349,660,Ely,39.26,-114.9994444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=660
+1350,661,Fish  Creek,40.41666666,-117.2166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=661
+1351,662,Kennedy,40.26666666,-117.75,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=662
+1352,663,MacArthur,39.05,-119.24,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=663
+1353,664,Red  Hills,38.61666666,-118.4333333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=664
+1354,665,Royston,38.33333333,-117.5,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=665
+1355,666,SFS,38.49194444,-118.075,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=666
+1356,667,Sullivan,38.78,-117.95,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=667
+1357,668,Yerington,38.98,-119.2,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=668
+1358,669,Red  Hills,29.805,-104.4027777,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=669
+1359,670,Bingham,40.52916666,-112.1538888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=670
+1360,671,OK,38.48055555,-113.2997222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=671
+1361,672,Park  Premier,40.625,-111.3797222,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=672
+1362,673,Southwest  Tintic,39.85805555,-112.125,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=673
+1363,674,Glacier  Peak,48.19777777,-120.9791666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=674
+1364,675,Gold  Mountain,48.21583333,-121.3341666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=675
+1365,676,Kelsey,48.995,-119.4780555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=676
+1366,677,Margaret,46.35638888,-122.0808333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=677
+1367,678,Mazama,48.61472222,-120.3819444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=678
+1368,679,Middle  Fork,47.5,-121.3666666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=679
+1369,680,North  Fork  Snoqualmie  River,47.6775,-121.6363888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=680
+1370,681,Sunrise,48.00861111,-121.5036111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=681
+1371,682,Copper  King,41.145,-105.1861111,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=682
+1372,683,Kirwin,43.8825,-109.3111111,21a,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=683
+1373,684,Silver  Creek,44.02888888,-109.6830555,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=684
+1374,685,Stinkingwater,44.03,-109.6013888,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=685
+1375,686,Almalyk,40.81388888,69.646388888,20c,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=686
+1376,687,Kyzata,40.79861111,69.706111111,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=687
+1377,688,Sarycheku,40.77694444,69.779166666,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=688
+1378,689,Tekeli,41.09777777,70.125833333,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=689
+1379,690,Samba,-12.6072222,27.881944444,17,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=690

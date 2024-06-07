@@ -1,0 +1,61 @@
+,deposit_id,deposit_name,latitude,longitude,deposit_model,url
+0,1,Bonga,-14.2680555555556,13.9672222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=1
+1,2,Cummins Range,-19.2866666666667,127.1625,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=2
+2,3,Mount Weld,-28.8644444444444,122.548055555556,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=3
+3,4,Araxa,-19.6611111111111,-46.9419444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=4
+4,5,Catalao I,-18.13,-47.7997222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=5
+5,6,Catalao II,-18.0480555555556,-47.8744444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=6
+6,7,Jacupiranga,-24.7008333333333,-48.1325,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=7
+7,8,Salitre,-19.0341666666667,-46.7811111111111,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=8
+8,9,Seis Lagos,0.281944444444444,-66.6802777777778,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=9
+9,10,Serra Negra,-18.9202777777778,-46.8866666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=10
+10,11,Tapira,-19.8644444444444,-46.8358333333333,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=11
+11,12,Karonge,-3.50222222222222,29.4491666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=12
+12,13,Aley,56.4661111111111,-123.749166666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=13
+13,14,Upper Fir,52.3094444444444,-119.175,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=14
+14,15,Argor,50.7252777777778,-80.5794444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=15
+15,16,Lackner Lake,47.7477777777778,-83.165,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=16
+16,17,Manitou Island,46.2794444444444,-79.5672222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=17
+17,18,Martinson Lake,50.4125,-83.1513888888889,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=18
+18,19,Nemegosenda Lake,48.0188888888889,-83.0794444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=19
+19,20,Prairie Lake,49.0352777777778,-86.7175,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=20
+20,21,Oka,45.5041666666667,-74.0222222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=21
+21,22,St. Honore,48.5352777777778,-71.1491666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=22
+22,23,Bayan Obo,41.7991666666667,109.974444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=23
+23,24,Dalucao,27.1675,101.851666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=24
+24,25,Maoniuping,28.4566666666667,101.9775,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=25
+25,26,Miaoya,32.2502777777778,110.200555555556,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=26
+26,27,Weishan,34.7555555555556,117.208055555556,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=27
+27,28,Bingo,0.529722222222222,29.3169444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=28
+28,29,Lueshe,-0.986666666666667,29.1408333333333,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=29
+29,30,Mabounie,-0.592777777777778,10.3688888888889,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=30
+30,31,Amba Dongar,21.9875,74.0616666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=31
+31,32,Sung Valley,25.5691666666667,92.1172222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=32
+32,33,Mrima Hill,-4.48611111111111,39.2527777777778,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=33
+33,34,Ruri,-0.53,34.3344444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=34
+34,35,Chilwa Island,-15.3316666666667,35.6019444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=35
+35,36,Kangankunde,-15.125,34.9094444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=36
+36,37,Tundulu,-15.5391666666667,35.8075,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=37
+37,38,Bou Naga,18.9833333333333,-13.3166666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=38
+38,39,Lugiingol,42.9541666666667,108.563333333333,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=39
+39,40,Mushgai-Khudag,44.4008333333333,104.051388888889,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=40
+40,41,Eureka,-22.0558333333333,15.2636111111111,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=41
+41,42,Kalkfeld,-20.8194444444444,16.1325,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=42
+42,43,Ondurukurume,-20.7697222222222,16.2544444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=43
+43,44,Söve,59.2808333333333,9.26944444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=44
+44,45,Chuktukonskoye,59.4852777777778,99.2875,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=45
+45,46,Khibiny,67.7577777777778,34.2388888888889,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=46
+46,47,Kovdor,67.5605555555556,30.4294444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=47
+47,48,Tomtor,71.0536111111111,116.571111111111,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=48
+48,49,Glenover,-23.8688888888889,27.1627777777778,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=49
+49,50,Phalaborwa,-23.9791666666667,31.1244444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=50
+50,51,Sandkopfsdrif,-30.8841666666667,17.9419444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=51
+51,52,Panda Hill,-9.00777777777778,33.2480555555556,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=52
+52,53,Kizilcaören,39.6194444444444,31.3508333333333,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=53
+53,54,Sukulu,-0.625,34.1583333333333,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=54
+54,55,Magnet Cove,34.4358333333333,-92.8544444444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=55
+55,56,Mountain Pass,35.4786111111111,-115.532222222222,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=56
+56,57,Iron Hill,38.2347222222222,-106.708611111111,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=57
+57,58,Wet Mountains,38.2613888888889,-105.346944444444,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=58
+58,59,Bear Lodge,44.4786111111111,-104.451666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=59
+59,60,Nkombwa Hill,-10.1494444444444,32.8516666666667,NA,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=60
