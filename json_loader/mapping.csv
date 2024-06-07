@@ -1,0 +1,23 @@
+db,id,Database name,Database link on mrdata.usgs.gov,Json endpoints
+mrds,dep_id,MRDS,https://mrdata.usgs.gov/mrds/,https://mrdata.usgs.gov/to-json.php?db=mrds&id=dep_id&labno=10009306
+usmin,site_id,USMIN,https://mrdata.usgs.gov/deposit/,https://mrdata.usgs.gov/deposit/json/Re-Mr00016
+porcu,rec_id,Porphyry copper deposits of the world,https://mrdata.usgs.gov/porcu/,https://mrdata.usgs.gov/to-json.php?db=porcu&id=rec_id&labno=1
+sedznpb,rec_id,Sediment-hosted zinc-lead deposits of the world,https://mrdata.usgs.gov/sedznpb/,https://mrdata.usgs.gov/to-json.php?db=sedznpb&id=rec_id&labno=1
+sedexmvt,rec_id,Mississippi Valley-Type and clastic-dominated sediment-hosted lead-zinc deposits,https://mrdata.usgs.gov/sedexmvt/,https://mrdata.usgs.gov/to-json.php?db=sedexmvt&id=rec_id&labno=1
+sedcu,rec_id,Sediment-hosted copper deposits of the world,https://mrdata.usgs.gov/sedcu/,https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=1
+nicrpge,site_id,PGE-Ni-Cr deposit and occurrence bilbiographic database,https://mrdata.usgs.gov/nicrpge/,https://mrdata.usgs.gov/to-json.php?db=nicrpge&id=site_id&labno=7684
+carbonatite,rec_id,"Carbonatites of the world, explored deposits of Nb and REE",https://mrdata.usgs.gov/carbonatite/,https://mrdata.usgs.gov/to-json.php?db=carbonatite&id=rec_id&labno=1
+ree,rec_id,"Rare earth element mines, deposits, and occurrences",https://mrdata.usgs.gov/ree/,https://mrdata.usgs.gov/to-json.php?db=ree&id=rec_id&labno=1
+laterite,rec_id,Ni-Co laterite deposits of the world,https://mrdata.usgs.gov/laterite/,https://mrdata.usgs.gov/to-json.php?db=laterite&id=rec_id&labno=1
+ardf,ardf_num,ARDF,https://mrdata.usgs.gov/ardf/,https://mrdata.usgs.gov/to-json.php?db=ardf&id=ardf_num&labno=PA023
+sir20105090z,gmrap_id,Global assessment of undiscovered copper resources,https://mrdata.usgs.gov/sir20105090z/,https://mrdata.usgs.gov/sir20105090z/json/10003
+pp577,id,Mica deposits of the Blue Ridge in North Carolina,https://mrdata.usgs.gov/pp577/,https://mrdata.usgs.gov/to-json.php?db=pp577&id=id&labno=NCMP2-014
+ofr20051294,gid,Major mineral deposits of the world,https://mrdata.usgs.gov/major-deposits/,https://mrdata.usgs.gov/to-json.php?db=ofr20051294&id=gid&labno=1
+pp1802,gid,"Global distribution of selected mines, deposits, and districts of critical minerals",https://mrdata.usgs.gov/pp1802/,https://mrdata.usgs.gov/to-json.php?db=pp1802&id=gid&labno=1
+vms,rec_id,Volcanogenic massive sulfide deposits,https://mrdata.usgs.gov/vms/,https://mrdata.usgs.gov/to-json.php?db=vms&id=rec_id&labno=573
+asbestos,rec_id,"Asbestos mines, prospects, and occurrences in the US",https://mrdata.usgs.gov/asbestos/,https://mrdata.usgs.gov/to-json.php?db=asbestos&id=rec_id&labno=1
+phosphate,rec_no,"World phosphate mines, deposits, and occurrences",https://mrdata.usgs.gov/phosphate/,https://mrdata.usgs.gov/to-json.php?db=phosphate&id=rec_no&labno=1
+ofr20151121,gid,Phosphate occurrence and potential of south Asia,https://mrdata.usgs.gov/ofr20151121/,https://mrdata.usgs.gov/to-json.php?db=ofr20151121&id=gid&labno=2
+podchrome,rec_id,Podiform chromite deposits,https://mrdata.usgs.gov/podchrome/,https://mrdata.usgs.gov/to-json.php?db=podchrome&id=rec_id&labno=1
+sedau,recno,Sediment-hosted gold deposits,https://mrdata.usgs.gov/sedau/,https://mrdata.usgs.gov/to-json.php?db=sedau&id=recno&labno=1
+potash,gid,Evaporite-related potash resources worldwide,https://mrdata.usgs.gov/potash/,https://mrdata.usgs.gov/to-json.php?db=potash&id=gid&labno=686
