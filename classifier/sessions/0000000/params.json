@@ -1,0 +1,1 @@
+{"pdf": "4530692_GSTEH9EJ_HC6MXVK4.pdf", "options": "labels_type.csv", "lm": "NousResearch/Llama-2-7b-hf", "openai_key": "****************************", "style": "v0", "topk": 20, "L": 200, "topn": 50, "topn_nparas": 5, "T": 0.01, "bsz": 5, "argv": ["run.py", "--openai_key", "**************************************"]}

@@ -1,0 +1,36 @@
+,deposit_id,deposit_name,url
+0,AK00021,Ketchikan District,https://mrdata.usgs.gov/deposit/json/Nb-AK00021
+1,AK00022,Bokan Mountain,https://mrdata.usgs.gov/deposit/json/Nb-AK00022
+2,AR00006,Arkansas bauxite region,https://mrdata.usgs.gov/deposit/json/Nb-AR00006
+3,CO00019,Iron Hill,https://mrdata.usgs.gov/deposit/json/Nb-CO00019
+4,CO00032,Powderhorn District,https://mrdata.usgs.gov/deposit/json/Nb-CO00032
+5,NE00001,Elk Creek carbonatite area,https://mrdata.usgs.gov/deposit/json/Nb-NE00001
+6,NE00002,Elk Creek,https://mrdata.usgs.gov/deposit/json/Nb-NE00002
+7,TX00001,Sierra Blanca mining area,https://mrdata.usgs.gov/deposit/json/Nb-TX00001
+8,TX00002,Cave Peak mining area,https://mrdata.usgs.gov/deposit/json/Nb-TX00002
+9,TX00005,Round Top,https://mrdata.usgs.gov/deposit/json/Nb-TX00005
+10,TX00010,Cave Peak,https://mrdata.usgs.gov/deposit/json/Nb-TX00010
+11,Mr00012,Ketchikan District,https://mrdata.usgs.gov/deposit/json/Nb-Mr00012
+12,Mf00237,"Bokan Mountain, Ross-Adams mine",https://mrdata.usgs.gov/deposit/json/Nb-Mf00237
+13,Mo00219,"Bokan Mountain, Cheri deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00219
+14,Mo00244,"Bokan Mountain, Geiger deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00244
+15,Mo00245,"Bokan Mountain, Geoduck deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00245
+16,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/Nb-Mo00246
+17,Mo00247,"Bokan Mountain, Ross-Adams deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00247
+18,Mo00248,"Bokan Mountain, Sunday Lake deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00248
+19,Mo00250,"Bokan Mountain, Upper Cheri deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00250
+20,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/Nb-Mo00252
+21,Mo00554,"Bokan Mountain, IL&M deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00554
+22,Mr00182,Arkansas bauxite region,https://mrdata.usgs.gov/deposit/json/Nb-Mr00182
+23,Mo00286,"Iron Hill, Iron Hill pyroxenite deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00286
+24,Mo00852,"Iron Hill, Iron Hill carbonatite dikes deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00852
+25,Mo00853,"Iron Hill, Iron Hill carbonatite stock deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00853
+26,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/Nb-Mr00046
+27,Mr00174,Elk Creek carbonatite area,https://mrdata.usgs.gov/deposit/json/Nb-Mr00174
+28,Mo00255,"Elk Creek, Elk Creek deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00255
+29,Mr00176,Sierra Blanca mining area,https://mrdata.usgs.gov/deposit/json/Nb-Mr00176
+30,Mr00177,Cave Peak mining area,https://mrdata.usgs.gov/deposit/json/Nb-Mr00177
+31,Mo00233,"Round Top, Round Top deposit",https://mrdata.usgs.gov/deposit/json/Nb-Mo00233
+32,Mo00723,"Cave Peak, Main pipe",https://mrdata.usgs.gov/deposit/json/Nb-Mo00723
+265,-1111,Bokan Mountain,https://mrdata.usgs.gov/deposit/json/Nb--1111
+293,Mo00723 ,"Cave Peak, Main pipe",https://mrdata.usgs.gov/deposit/json/Nb-Mo00723 

@@ -1,0 +1,14 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Ta/Mo00233.json,Mo00233,"['Round Top, Round Top deposit']",-105.476203632,-105.476203632,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00233
+1,mrdata_json/usmin_Ta/Mo00244.json,Mo00244,"['Bokan Mountain, Geiger deposit']",-132.173255698,-132.173255698,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00244
+2,mrdata_json/usmin_Ta/Mf00237.json,Mf00237,"['Bokan Mountain, Ross-Adams mine']",-132.139239035,-132.139239035,,https://mrdata.usgs.gov/deposit/json/Ta-Mf00237
+3,mrdata_json/usmin_Ta/Mo00252.json,Mo00252,"['Bokan Mountain, Dotson Zone']",-132.117330704,-132.117330704,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00252
+4,mrdata_json/usmin_Ta/Mo00219.json,Mo00219,"['Bokan Mountain, Cheri deposit']",-132.10124809,-132.10124809,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00219
+5,mrdata_json/usmin_Ta/Mo00246.json,Mo00246,"['Bokan Mountain, I&L Zone']",-132.135738885,-132.135738885,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00246
+6,mrdata_json/usmin_Ta/Mo00245.json,Mo00245,"['Bokan Mountain, Geoduck deposit']",-132.080731648,-132.080731648,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00245
+7,mrdata_json/usmin_Ta/Mo00554.json,Mo00554,"['Bokan Mountain, IL&M deposit']",-132.149844864,-132.149844864,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00554
+8,mrdata_json/usmin_Ta/Mr00176.json,Mr00176,['Sierra Blanca mining area'],-105.44504943,-105.44504943,,https://mrdata.usgs.gov/deposit/json/Ta-Mr00176
+9,mrdata_json/usmin_Ta/Mo00247.json,Mo00247,"['Bokan Mountain, Ross-Adams deposit']",-132.139284245,-132.139284245,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00247
+10,mrdata_json/usmin_Ta/Mr00012.json,Mr00012,['Ketchikan District'],-132.293223363,-132.293223363,,https://mrdata.usgs.gov/deposit/json/Ta-Mr00012
+11,mrdata_json/usmin_Ta/Mo00248.json,Mo00248,"['Bokan Mountain, Sunday Lake deposit']",-132.173910001,-132.173910001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00248
+12,mrdata_json/usmin_Ta/Mo00250.json,Mo00250,"['Bokan Mountain, Upper Cheri deposit']",-132.108730368,-132.108730368,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ta-Mo00250

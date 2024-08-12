@@ -1,0 +1,25 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_In/Mr00077.json,Mr00077,['Bingham district'],-112.140742625,40.533857912,,https://mrdata.usgs.gov/deposit/json/In-Mr00077
+1,mrdata_json/usmin_In/Mo00091.json,Mo00091,"['Bingham, Melco deposit']",-112.157459896,40.5865059180001,['Distal disseminated silver-gold'],https://mrdata.usgs.gov/deposit/json/In-Mo00091
+2,mrdata_json/usmin_In/Sw00042.json,Sw00042,['Surface Workings'],-112.087809463545,40.5615773941007,,https://mrdata.usgs.gov/deposit/json/In-Sw00042
+3,mrdata_json/usmin_In/Sw00046.json,Sw00046,['Surface Workings'],-112.096180503328,40.5843394254812,,https://mrdata.usgs.gov/deposit/json/In-Sw00046
+4,mrdata_json/usmin_In/Mf00023.json,Mf00023,"['Bingham, Melco mine']",-112.157459896,40.5865059180001,,https://mrdata.usgs.gov/deposit/json/In-Mf00023
+5,mrdata_json/usmin_In/Sw00045.json,Sw00045,['Surface Workings'],-112.111041784443,40.6011082540998,,https://mrdata.usgs.gov/deposit/json/In-Sw00045
+6,mrdata_json/usmin_In/Mf00274.json,Mf00274,"['Bingham, Carr Fork mine']",-112.19110399,40.5313463680001,,https://mrdata.usgs.gov/deposit/json/In-Mf00274
+7,mrdata_json/usmin_In/Mo00243.json,Mo00243,"['Chino, Santa Rita deposit']",-108.068940994,32.793592833,"['Calc-alkaline porphyry copper', 'Skarn']",https://mrdata.usgs.gov/deposit/json/In-Mo00243
+8,mrdata_json/usmin_In/Mo00130.json,Mo00130,"['Bingham, Bingham polymetallic Pb-Zn-Cu-Ag-Au veins']",-112.158353584,40.5081216150001,['Replacement polymetallic'],https://mrdata.usgs.gov/deposit/json/In-Mo00130
+9,mrdata_json/usmin_In/Sw00044.json,Sw00044,['Surface Workings'],-112.156009584109,40.582838745089,,https://mrdata.usgs.gov/deposit/json/In-Sw00044
+10,mrdata_json/usmin_In/Mo00129.json,Mo00129,"['West Desert, West Desert deposit']",-113.468647395,39.8597316760001,['Skarn'],https://mrdata.usgs.gov/deposit/json/In-Mo00129
+11,mrdata_json/usmin_In/Mo00284.json,Mo00284,"['Bingham, Bingham porphyry Cu deposit']",-112.148481399,40.5178678890001,['Calc-alkaline porphyry copper'],https://mrdata.usgs.gov/deposit/json/In-Mo00284
+12,mrdata_json/usmin_In/Mf00235.json,Mf00235,"['Bingham, Bingham Canyon mine']",-112.147752831,40.5232359140001,,https://mrdata.usgs.gov/deposit/json/In-Mf00235
+13,mrdata_json/usmin_In/Mr00067.json,Mr00067,['Santa Rita district'],-108.072209644,32.8027681080001,,https://mrdata.usgs.gov/deposit/json/In-Mr00067
+14,mrdata_json/usmin_In/Mo00352.json,Mo00352,"['Bingham, Bingham skarn deposit']",-112.159444139,40.528885072,['Skarn'],https://mrdata.usgs.gov/deposit/json/In-Mo00352
+15,mrdata_json/usmin_In/Mo00088.json,Mo00088,"['Bingham, Barneys Canyon deposit']",-112.134600508,40.5973178450001,['Distal disseminated silver-gold'],https://mrdata.usgs.gov/deposit/json/In-Mo00088
+16,mrdata_json/usmin_In/Mf00025.json,Mf00025,"['Bingham, Bingham Pb-Zn-Ag mines']",-112.158353584,40.5081216150001,,https://mrdata.usgs.gov/deposit/json/In-Mf00025
+17,mrdata_json/usmin_In/Mf00022.json,Mf00022,"['Bingham, Barneys Canyon mine']",-112.134600508,40.5973178450001,,https://mrdata.usgs.gov/deposit/json/In-Mf00022
+18,mrdata_json/usmin_In/Sw00015.json,Sw00015,['Surface Workings'],-112.134681111903,40.5316801539848,,https://mrdata.usgs.gov/deposit/json/In-Sw00015
+19,mrdata_json/usmin_In/Sw00005.json,Sw00005,['Surface Workings'],-112.135110031058,40.5969859273244,,https://mrdata.usgs.gov/deposit/json/In-Sw00005
+20,mrdata_json/usmin_In/Sw00016.json,Sw00016,['Surface Workings'],-108.06851018678,32.7885979122413,,https://mrdata.usgs.gov/deposit/json/In-Sw00016
+21,mrdata_json/usmin_In/Mf00236.json,Mf00236,"['Chino, Chino mine']",-108.077055581,32.790641459,,https://mrdata.usgs.gov/deposit/json/In-Mf00236
+22,mrdata_json/usmin_In/Mo00847.json,Mo00847,"['Chino, Leach stockpiles']",-108.03711005,32.7909847230001,"['Calc-alkaline porphyry copper', 'Skarn']",https://mrdata.usgs.gov/deposit/json/In-Mo00847
+23,mrdata_json/usmin_In/Mr00084.json,Mr00084,['Fish Springs district'],-113.466731633,39.851515055,,https://mrdata.usgs.gov/deposit/json/In-Mr00084

@@ -1,0 +1,786 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/sedcu/691.json,691,['White Mesa district'],-111.38305555556,36.666666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=691
+1,mrdata_json/sedcu/223.json,223,['Weining'],104.2,26.85,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=223
+2,mrdata_json/sedcu/405.json,405,['Thundercloud Creek'],-126.63305555556,62.668055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=405
+3,mrdata_json/sedcu/232.json,232,"['TongGuTang', 'CheJiang Area']",112.16666666667,26.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=232
+4,mrdata_json/sedcu/749.json,749,['Andarapa'],-73.375,-13.500555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=749
+5,mrdata_json/sedcu/7.json,7,"['Meridja', 'Merija']",-2.9666666666667,31.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=7
+6,mrdata_json/sedcu/183.json,183,['Dzhergalansk'],79.0,42.633333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=183
+7,mrdata_json/sedcu/225.json,225,['CheJiang'],112.56666666667,26.783333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=225
+8,mrdata_json/sedcu/95.json,95,['Chernorechenskaya'],87.25,68.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=95
+9,mrdata_json/sedcu/523.json,523,['Kirkwood'],-61.149722222222,46.166666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=523
+10,mrdata_json/sedcu/176.json,176,['Mangyshlak Peninsula-Karaduan'],51.0,44.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=176
+11,mrdata_json/sedcu/607.json,607,['Little Ridge-pit 13'],-64.737222222222,45.647222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=607
+12,mrdata_json/sedcu/199.json,199,['Kungitang'],74.033333333333,39.733333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=199
+13,mrdata_json/sedcu/323.json,323,['Dolembreux'],5.6166666666667,50.533333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=323
+14,mrdata_json/sedcu/402.json,402,['Reg (central Redstone)'],-126.76666666667,63.05,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=402
+15,mrdata_json/sedcu/253.json,253,['Nong Khoum Thong'],105.63333333333,14.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=253
+16,mrdata_json/sedcu/732.json,732,['Boleo'],-112.5,27.166666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=732
+17,mrdata_json/sedcu/503.json,503,['Missoula National'],-115.74361111111,47.504444444444,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=503
+18,mrdata_json/sedcu/472.json,472,"['Castle River, Loaf Mountain-3']",-114.10277777778,49.1925,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=472
+19,mrdata_json/sedcu/529.json,529,['Musgrave showing'],-60.341388888889,46.13,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=529
+20,mrdata_json/sedcu/249.json,249,['Lampang'],99.916666666667,18.566666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=249
+21,mrdata_json/sedcu/552.json,552,['Salmon River'],-60.308055555556,45.9125,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=552
+22,mrdata_json/sedcu/205.json,205,"['Hadilik', 'KuQa']",87.0,37.633333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=205
+23,mrdata_json/sedcu/566.json,566,['Kerrs Mills'],-63.570555555556,45.772777777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=566
+24,mrdata_json/sedcu/550.json,550,"['Colonial Copper', 'Dorchester']",-64.476388888889,45.928611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=550
+25,mrdata_json/sedcu/662.json,662,['Uinta'],-111.51666666667,40.616666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=662
+26,mrdata_json/sedcu/514.json,514,['Stag Lake'],-82.604166666667,46.586111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=514
+27,mrdata_json/sedcu/98.json,98,['Sukharikha'],87.0,67.666666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=98
+28,mrdata_json/sedcu/97.json,97,['Rudnii'],86.8,67.833333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=97
+29,mrdata_json/sedcu/277.json,277,['Stora Strand'],12.5,58.983333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=277
+30,mrdata_json/sedcu/597.json,597,['Midway Copper Belt-pit 3'],-64.789722222222,45.67,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=597
+31,mrdata_json/sedcu/366.json,366,['Jabal Murryyi'],41.565555555556,20.114166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=366
+32,mrdata_json/sedcu/18.json,18,['Niami'],-9.9833333333333,15.166666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=18
+33,mrdata_json/sedcu/444.json,444,['No Mans Lake-2'],-61.776111111111,54.266944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=444
+34,mrdata_json/sedcu/448.json,448,['North Kootenay Pass area-6'],-114.57277777778,49.446388888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=448
+35,mrdata_json/sedcu/735.json,735,['Phillips Gully'],-76.633333333333,18.133333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=735
+36,mrdata_json/sedcu/742.json,742,['Araripe'],-40.166666666667,-7.1333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=742
+37,mrdata_json/sedcu/579.json,579,['French River mouth'],-63.301666666667,45.719166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=579
+38,mrdata_json/sedcu/79.json,79,['Mufumbwe'],24.783333333333,-13.625,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=79
+39,mrdata_json/sedcu/779.json,779,['Campesino Norte'],-69.05,-38.3,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=779
+40,mrdata_json/sedcu/300.json,300,['Mansfeld'],11.466666666667,51.6,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=300
+41,mrdata_json/sedcu/351.json,351,['Cap Garonne'],6.3166666666667,43.066666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=351
+42,mrdata_json/sedcu/46.json,46,['Kansanshi'],26.416666666667,-12.083333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=46
+43,mrdata_json/sedcu/589.json,589,['Cape Jack'],-61.561944444444,45.688888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=589
+44,mrdata_json/sedcu/474.json,474,['Commerce Creek'],-114.38777777778,49.169722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=474
+45,mrdata_json/sedcu/332.json,332,['Bakhmut Basinn'],36.0,48.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=332
+46,mrdata_json/sedcu/96.json,96,['Mount Sauri Pe'],66.833333333333,68.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=96
+47,mrdata_json/sedcu/653.json,653,['New Albany area'],-76.458055555556,41.583333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=653
+48,mrdata_json/sedcu/190.json,190,['Dschurger'],81.833333333333,41.8,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=190
+49,mrdata_json/sedcu/771.json,771,['Salsinho'],-53.3,-30.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=771
+50,mrdata_json/sedcu/544.json,544,['Southwest Mabou River'],-61.414722222222,45.99,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=544
+51,mrdata_json/sedcu/358.json,358,['Khanega'],51.335,31.000555555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=358
+52,mrdata_json/sedcu/368.json,368,['Wadi Yiba'],41.815833333333,19.156111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=368
+53,mrdata_json/sedcu/471.json,471,"['Castle River, Loaf Mountain-2']",-114.09666666667,49.185555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=471
+54,mrdata_json/sedcu/690.json,690,['Grant County'],-97.833055555556,36.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=690
+55,mrdata_json/sedcu/545.json,545,['Glen Morrison (gm-1)'],-60.316666666667,45.983333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=545
+56,mrdata_json/sedcu/132.json,132,['Tagul-Uda Rivers'],98.0,54.0,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=132
+57,mrdata_json/sedcu/248.json,248,['Nan'],100.83333333333,18.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=248
+58,mrdata_json/sedcu/778.json,778,['Cerro Negro'],-70.083333333333,-32.566666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=778
+59,mrdata_json/sedcu/354.json,354,['Santomera'],-1.05,38.05,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=354
+60,mrdata_json/sedcu/708.json,708,['Paoli'],-97.283055555556,34.783333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=708
+61,mrdata_json/sedcu/243.json,243,['Dahu'],114.0,24.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=243
+62,mrdata_json/sedcu/210.json,210,['Ghuldarra'],69.305555555556,34.398055555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=210
+63,mrdata_json/sedcu/68.json,68,['Chibuluma-Chibuluma West'],28.125,-12.825,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=68
+64,mrdata_json/sedcu/669.json,669,['Cotopaxi Cordova'],-105.5,38.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=669
+65,mrdata_json/sedcu/348.json,348,['Cerisier'],6.8916666666667,43.986666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=348
+66,mrdata_json/sedcu/38.json,38,['Cachoeiras de Binga'],14.094444444444,-11.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=38
+67,mrdata_json/sedcu/75.json,75,['Baluba (see Luanshya)'],28.377777777778,-13.05,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=75
+68,mrdata_json/sedcu/660.json,660,['Schuyler'],-74.133055555556,40.783333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=660
+69,mrdata_json/sedcu/766.json,766,['Caleta Coloso'],-70.5,-23.749444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=766
+70,mrdata_json/sedcu/533.json,533,['Washabuck-2'],-60.801944444444,46.054166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=533
+71,mrdata_json/sedcu/198.json,198,['Naykatskoye'],74.75,40.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=198
+72,mrdata_json/sedcu/362.json,362,['Har Timna'],34.975,29.783333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=362
+73,mrdata_json/sedcu/341.json,341,['Jambaz'],6.5166666666667,46.208333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=341
+74,mrdata_json/sedcu/446.json,446,['Ml'],-121.7775,52.591388888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=446
+75,mrdata_json/sedcu/538.json,538,['Steele Crossing'],-60.466666666667,46.041666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=538
+76,mrdata_json/sedcu/673.json,673,['Cashin'],-108.95,38.3,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=673
+77,mrdata_json/sedcu/59.json,59,['Mimbula'],27.865555555556,-12.645555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=59
+78,mrdata_json/sedcu/99.json,99,['Izluchinsk'],86.75,67.6,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=99
+79,mrdata_json/sedcu/159.json,159,['Kenen'],68.0,50.341666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=159
+80,mrdata_json/sedcu/525.json,525,['Mabou'],-61.436111111111,46.164722222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=525
+81,mrdata_json/sedcu/250.json,250,['Nam Phat'],100.8,18.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=250
+82,mrdata_json/sedcu/108.json,108,['Irkineeva River'],98.25,59.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=108
+83,mrdata_json/sedcu/623.json,623,['Glen Road'],-62.0275,45.551111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=623
+84,mrdata_json/sedcu/116.json,116,['Irkutsk Amphitheater'],107.5,58.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=116
+85,mrdata_json/sedcu/325.json,325,"['Wernersdorf', 'Horni Kalna']",15.533333333333,50.466666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=325
+86,mrdata_json/sedcu/636.json,636,['Hopewell'],-62.665,45.482222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=636
+87,mrdata_json/sedcu/424.json,424,"['Richmond Gulf', 'Copper cove']",-76.448611111111,56.35,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=424
+88,mrdata_json/sedcu/264.json,264,['Cattle Grid'],137.13333333333,-31.438888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=264
+89,mrdata_json/sedcu/530.json,530,['Mackay showing'],-60.356388888889,46.12,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=530
+90,mrdata_json/sedcu/308.json,308,['Lubin'],16.133333333333,51.4,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=308
+91,mrdata_json/sedcu/115.json,115,['Kirov Region'],49.833333333333,58.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=115
+92,mrdata_json/sedcu/180.json,180,['Mirgalim-Sai'],68.483333333333,43.45,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=180
+93,mrdata_json/sedcu/442.json,442,['Seal Lake-18'],-61.680277777778,54.295833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=442
+94,mrdata_json/sedcu/441.json,441,['Adeline Island prospect'],-62.058055555556,54.298055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=441
+95,mrdata_json/sedcu/312.json,312,['Konrad'],13.716666666667,51.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=312
+96,mrdata_json/sedcu/712.json,712,['Parker-Doyle'],-106.46666666667,34.266666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=712
+97,mrdata_json/sedcu/289.json,289,['Ballyvergin'],-8.9166666666667,52.883333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=289
+98,mrdata_json/sedcu/121.json,121,['Kukurunde'],117.08333333333,56.783333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=121
+99,mrdata_json/sedcu/378.json,378,['Rubjerg Knude'],-23.680555555556,72.617222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=378
+100,mrdata_json/sedcu/19.json,19,['Gangontery'],-9.75,14.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=19
+101,mrdata_json/sedcu/228.json,228,"['LaoXue', 'Dongchuan (Tungchuan) District']",102.33333333333,26.291666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=228
+102,mrdata_json/sedcu/261.json,261,['Blinman'],138.75,-31.1,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=261
+103,mrdata_json/sedcu/737.json,737,['Serrania de Perija'],-72.833333333333,10.666666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=737
+104,mrdata_json/sedcu/614.json,614,['East Wallace River'],-63.522222222222,45.631944444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=614
+105,mrdata_json/sedcu/136.json,136,['Bulgin Shiver'],92.4,50.7,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=136
+106,mrdata_json/sedcu/158.json,158,['Akmolynsk-Ishim'],67.883333333333,50.416666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=158
+107,mrdata_json/sedcu/175.json,175,['Naukatski'],65.466666666667,44.866666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=175
+108,mrdata_json/sedcu/443.json,443,['Adeline Lake east-showing no 7'],-61.994722222222,54.280555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=443
+109,mrdata_json/sedcu/365.json,365,['Kuhne Mes'],53.75,29.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=365
+110,mrdata_json/sedcu/12.json,12,['Agoujgal'],-9.0333333333333,29.383333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=12
+111,mrdata_json/sedcu/13.json,13,['W Araba'],32.466666666667,29.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=13
+112,mrdata_json/sedcu/590.json,590,['Matheson prospect'],-63.238611111111,45.6875,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=590
+113,mrdata_json/sedcu/461.json,461,['Middle Kootenay Pass'],-114.37472222222,49.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=461
+114,mrdata_json/sedcu/639.json,639,['Lochaber Lake'],-62.05,45.404166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=639
+115,mrdata_json/sedcu/635.json,635,"['Eureka', 'Ferrona Junction']",-62.678888888889,45.503055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=635
+116,mrdata_json/sedcu/188.json,188,['Rybachye'],75.666666666667,42.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=188
+117,mrdata_json/sedcu/237.json,237,['LiuZu'],103.25,25.416666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=237
+118,mrdata_json/sedcu/386.json,386,['Gillespie Lake'],-133.93083333333,64.783333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=386
+119,mrdata_json/sedcu/36.json,36,['Novo Redondo'],14.5,-11.008333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=36
+120,mrdata_json/sedcu/651.json,651,['Montpelier'],-111.25,42.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=651
+121,mrdata_json/sedcu/6.json,6,['Ain Sefra'],-0.58333333333333,32.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=6
+122,mrdata_json/sedcu/94.json,94,"['Duitschland', 'Nederland']",29.0,-24.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=94
+123,mrdata_json/sedcu/427.json,427,['Romanet Lake'],-67.831666666667,56.282222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=427
+124,mrdata_json/sedcu/22.json,22,['Kilembe'],30.05,0.21666666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=22
+125,mrdata_json/sedcu/125.json,125,['Pravo-Ingamakitsk'],118.66666666667,56.416666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=125
+126,mrdata_json/sedcu/599.json,599,['Oliver'],-63.321944444444,45.668333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=599
+127,mrdata_json/sedcu/167.json,167,['Kengir'],68.0,48.193333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=167
+128,mrdata_json/sedcu/495.json,495,['Grand Codroy River -S branch'],-59.073055555556,47.906111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=495
+129,mrdata_json/sedcu/212.json,212,['Zakhel'],69.266666666667,34.334722222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=212
+130,mrdata_json/sedcu/269.json,269,['Prince Alfred'],138.56666666667,-32.416666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=269
+131,mrdata_json/sedcu/548.json,548,['Whycocomagh'],-61.101111111111,45.961944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=548
+132,mrdata_json/sedcu/268.json,268,['Kanyaka'],138.3,-32.416666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=268
+133,mrdata_json/sedcu/76.json,76,"['Roan extension', 'Muliashi (see Luanshiya)']",28.275,-13.079166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=76
+134,mrdata_json/sedcu/226.json,226,"['HuiLi', 'Luchang']",102.25,26.683333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=226
+135,mrdata_json/sedcu/537.json,537,['Carr Brook'],-60.351944444444,46.056666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=537
+136,mrdata_json/sedcu/244.json,244,['HaoJiaHe'],103.58333333333,23.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=244
+137,mrdata_json/sedcu/683.json,683,['Mcguire'],-105.01666666667,37.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=683
+138,mrdata_json/sedcu/371.json,371,"[""Jabal Sa'aban"", 'Sharbon,  Sarbon']",41.943611111111,18.878055555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=371
+139,mrdata_json/sedcu/218.json,218,"['TungKung', 'HsiKu']",111.76666666667,31.366666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=218
+140,mrdata_json/sedcu/568.json,568,['Goshen'],-65.166666666667,45.766666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=568
+141,mrdata_json/sedcu/491.json,491,['Jeffreys Village'],-58.823055555556,48.242222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=491
+142,mrdata_json/sedcu/510.json,510,['White Pine'],-89.566666666667,46.766666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=510
+143,mrdata_json/sedcu/142.json,142,['Sakmara'],55.333333333333,52.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=142
+144,mrdata_json/sedcu/165.json,165,['Sarioba'],67.433333333333,48.283333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=165
+145,mrdata_json/sedcu/437.json,437,['Gull Lake'],-61.892777777778,54.311111111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=437
+146,mrdata_json/sedcu/583.json,583,['River john (east branch)'],-63.047222222222,45.695555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=583
+147,mrdata_json/sedcu/337.json,337,['South Tyrol'],11.433333333333,46.383333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=337
+148,mrdata_json/sedcu/130.json,130,"['Belebeevskaya, Belebei, Kursak Rudniki', 'Belebey']",54.116666666667,54.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=130
+149,mrdata_json/sedcu/1.json,1,['Mehirize'],-0.34166666666667,33.847222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=1
+150,mrdata_json/sedcu/417.json,417,['Juno Lake'],-104.91583333333,56.877222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=417
+151,mrdata_json/sedcu/646.json,646,['Pope-Shenon'],-113.84972222222,45.066666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=646
+152,mrdata_json/sedcu/370.json,370,"['Sharbon,  Sarbon', 'Al Munayzir']",41.9175,18.947222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=370
+153,mrdata_json/sedcu/666.json,666,['Chantilly'],-77.316666666667,38.879166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=666
+154,mrdata_json/sedcu/63.json,63,['Pitanda South'],27.976666666667,-12.713333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=63
+155,mrdata_json/sedcu/458.json,458,['Whistler Mountain-3'],-114.3025,49.328611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=458
+156,mrdata_json/sedcu/750.json,750,['Desaguadero'],-70.6,-14.083333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=750
+157,mrdata_json/sedcu/367.json,367,"['Umm ar Rummf', 'Um ar Rumf']",41.38,19.158888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=367
+158,mrdata_json/sedcu/567.json,567,['Malagash centre'],-63.323333333333,45.769444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=567
+159,mrdata_json/sedcu/728.json,728,['Farris'],-100.08305555556,33.029166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=728
+160,mrdata_json/sedcu/231.json,231,"['TangDan', 'Dongchuan (Tungchuan) District']",102.66666666667,26.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=231
+161,mrdata_json/sedcu/467.json,467,['Blind Canyon-2'],-114.00416666667,49.215,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=467
+162,mrdata_json/sedcu/265.json,265,['Dutchmans'],137.75,-31.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=265
+163,mrdata_json/sedcu/82.json,82,['Silverside'],30.270833333333,-16.944444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=82
+164,mrdata_json/sedcu/42.json,42,['Lupato'],27.261666666667,-11.621111111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=42
+165,mrdata_json/sedcu/144.json,144,['Atbasar-2'],68.033333333333,51.916666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=144
+166,mrdata_json/sedcu/763.json,763,['Avaroa'],-67.045277777778,-21.6075,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=763
+167,mrdata_json/sedcu/40.json,40,['Luishia'],27.009166666667,-11.168888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=40
+168,mrdata_json/sedcu/504.json,504,['Mission Mountains'],-114.08305555556,47.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=504
+169,mrdata_json/sedcu/434.json,434,['Spriggs Lake'],-61.683055555556,54.493055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=434
+170,mrdata_json/sedcu/696.json,696,['Coyote Creek'],-105.16666666667,36.1,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=696
+171,mrdata_json/sedcu/35.json,35,['Menda Mendipe'],25.925,-10.976666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=35
+172,mrdata_json/sedcu/181.json,181,['Dzhambul'],71.5,42.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=181
+173,mrdata_json/sedcu/643.json,643,['South March-1'],-75.933055555556,45.35,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=643
+174,mrdata_json/sedcu/297.json,297,['Osterode'],10.266666666667,51.733333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=297
+175,mrdata_json/sedcu/454.json,454,['Table Mountain'],-114.25,49.366666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=454
+176,mrdata_json/sedcu/229.json,229,"['Dongchuan (Tungchuan) District', 'LaoBeiChung']",102.33333333333,26.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=229
+177,mrdata_json/sedcu/215.json,215,['Aynak'],69.300555555556,34.266111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=215
+178,mrdata_json/sedcu/664.json,664,"['Troy Mine', 'Spar Lake']",-115.90527777778,40.230277777778,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=664
+179,mrdata_json/sedcu/733.json,733,"['Las Vigas', 'Vigas']",-105.06944444444,29.363333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=733
+180,mrdata_json/sedcu/466.json,466,['Loaf Mountain'],-114.12472222222,49.215833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=466
+181,mrdata_json/sedcu/719.json,719,['Smelter'],-99.983055555556,33.55,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=719
+182,mrdata_json/sedcu/336.json,336,['Murtschenalp'],9.25,47.066666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=336
+183,mrdata_json/sedcu/449.json,449,['North Kootenay Pass area-4'],-114.56833333333,49.437222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=449
+184,mrdata_json/sedcu/758.json,758,['Chuquichambi'],-67.739166666667,-17.988611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=758
+185,mrdata_json/sedcu/204.json,204,['Vakhsh Range'],69.166666666667,38.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=204
+186,mrdata_json/sedcu/113.json,113,['Bilyakchan Series'],139.0,58.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=113
+187,mrdata_json/sedcu/388.json,388,"['Keele River', 'June Creek']",-127.97222222222,63.821666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=388
+188,mrdata_json/sedcu/304.json,304,['Sangerhausen'],11.28,51.49,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=304
+189,mrdata_json/sedcu/356.json,356,['Nasar'],59.835555555556,35.587222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=356
+190,mrdata_json/sedcu/745.json,745,['Negra Huanusha'],-75.85,-11.3,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=745
+191,mrdata_json/sedcu/39.json,39,['Kimbwe'],27.510555555556,-11.141666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=39
+192,mrdata_json/sedcu/278.json,278,['Burray Island'],-2.9333333333333,58.85,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=278
+193,mrdata_json/sedcu/372.json,372,"['Wadi Baqarah', 'RR Horizon, Wadi Hali']",41.957777777778,18.781111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=372
+194,mrdata_json/sedcu/143.json,143,['Salmysh'],55.116666666667,52.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=143
+195,mrdata_json/sedcu/631.json,631,['Mcpherson'],-61.906944444444,45.528333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=631
+196,mrdata_json/sedcu/110.json,110,['Ugui Graben'],119.98333333333,59.0,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=110
+197,mrdata_json/sedcu/259.json,259,['Yudnamutana'],139.33333333333,-30.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=259
+198,mrdata_json/sedcu/468.json,468,['West Castle River-1'],-114.35,49.208611111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=468
+199,mrdata_json/sedcu/284.json,284,['Helgoland'],7.8666666666667,54.15,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=284
+200,mrdata_json/sedcu/531.json,531,['Macmullin Brook'],-60.384444444444,46.103888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=531
+201,mrdata_json/sedcu/31.json,31,['Kabolela'],26.480555555556,-10.84,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=31
+202,mrdata_json/sedcu/665.json,665,['Lisbon Valley'],-109.1,39.15,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=665
+203,mrdata_json/sedcu/657.json,657,['Grassmere Park area'],-76.383055555556,41.275,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=657
+204,mrdata_json/sedcu/106.json,106,['Velmo River'],92.5,60.75,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=106
+205,mrdata_json/sedcu/438.json,438,['Duck Lake east showing'],-61.758055555556,54.304166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=438
+206,mrdata_json/sedcu/72.json,72,['Chifupu'],28.054166666667,-12.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=72
+207,mrdata_json/sedcu/551.json,551,['Little Judique'],-61.437222222222,45.924722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=551
+208,mrdata_json/sedcu/734.json,734,['Ugly River'],-76.716666666667,18.241666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=734
+209,mrdata_json/sedcu/640.json,640,"['Elgin, Black Rock']",-62.633055555556,45.4,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=640
+210,mrdata_json/sedcu/313.json,313,['Korbach'],8.7833333333333,51.216666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=313
+211,mrdata_json/sedcu/396.json,396,['Hayhook'],-127.06833333333,63.469444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=396
+212,mrdata_json/sedcu/3.json,3,['Tiloula'],-0.45,32.85,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=3
+213,mrdata_json/sedcu/375.json,375,"['Wadi Shinika', 'Jabal Sawdah']",42.018611111111,18.458888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=375
+214,mrdata_json/sedcu/780.json,780,['San Romeleo'],-69.45,-36.583333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=780
+215,mrdata_json/sedcu/602.json,602,['Yellow Brook'],-63.187777777778,45.660833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=602
+216,mrdata_json/sedcu/81.json,81,['Norah'],30.15,-16.927222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=81
+217,mrdata_json/sedcu/489.json,489,"['Port au Port Penin', 'Boswarlos']",-58.813888888889,48.568611111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=489
+218,mrdata_json/sedcu/118.json,118,['Krasnoye'],119.2,56.75,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=118
+219,mrdata_json/sedcu/285.json,285,['Well 48/12-2'],1.2833333333333,53.516666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=285
+220,mrdata_json/sedcu/192.json,192,['Aksu'],80.3,41.6,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=192
+221,mrdata_json/sedcu/333.json,333,['Donbass'],38.116666666667,48.366666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=333
+222,mrdata_json/sedcu/102.json,102,"['Gravyisk', 'Graviisk']",87.55,66.516666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=102
+223,mrdata_json/sedcu/748.json,748,['Maria Magdalena'],-72.0,-13.333333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=748
+224,mrdata_json/sedcu/329.json,329,['Artemovsk Basin'],38.033333333333,48.6,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=329
+225,mrdata_json/sedcu/723.json,723,['Brazos-Wichita'],-100.04972222222,33.4,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=723
+226,mrdata_json/sedcu/83.json,83,['Avondale-(see Shackelton)'],30.05,-17.261111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=83
+227,mrdata_json/sedcu/254.json,254,['Bagacay'],125.25,11.833333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=254
+228,mrdata_json/sedcu/260.json,260,['Mount Coffin'],138.5,-30.6,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=260
+229,mrdata_json/sedcu/153.json,153,['Kokpekty'],68.166666666667,50.803333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=153
+230,mrdata_json/sedcu/321.json,321,['Okrzeszyn'],16.5,50.554166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=321
+231,mrdata_json/sedcu/540.json,540,['Bois Dale'],-60.444722222222,46.026666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=540
+232,mrdata_json/sedcu/203.json,203,['Gissar Range'],68.0,39.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=203
+233,mrdata_json/sedcu/695.json,695,['Ridenour'],-113.16666666667,36.166666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=695
+234,mrdata_json/sedcu/287.json,287,['Alderly Edge'],-2.25,53.3,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=287
+235,mrdata_json/sedcu/55.json,55,['Mufulira'],28.236111111111,-12.522777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=55
+236,mrdata_json/sedcu/177.json,177,['Mangyshlak Peninsula-Tartala'],50.75,44.466666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=177
+237,mrdata_json/sedcu/534.json,534,['Macbeth Brook'],-60.326944444444,46.072222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=534
+238,mrdata_json/sedcu/385.json,385,['Hottah Lake (fns)'],-118.58305555556,64.875,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=385
+239,mrdata_json/sedcu/147.json,147,['Vyasovka'],55.85,51.783333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=147
+240,mrdata_json/sedcu/594.json,594,['Black River-2'],-63.21,45.677222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=594
+241,mrdata_json/sedcu/16.json,16,['Ras Banas'],35.666666666667,23.983333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=16
+242,mrdata_json/sedcu/715.json,715,['Benson Farm'],-98.299722222222,34.2,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=715
+243,mrdata_json/sedcu/626.json,626,['Union Centre'],-62.754722222222,45.548333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=626
+244,mrdata_json/sedcu/576.json,576,['Blockhouse Point'],-63.338888888889,45.738333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=576
+245,mrdata_json/sedcu/69.json,69,['Nkana North Limb'],27.175,-12.831944444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=69
+246,mrdata_json/sedcu/322.json,322,"['Wernersdorf', 'Horni Vernerovice']",16.166666666667,50.566666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=322
+247,mrdata_json/sedcu/112.json,112,['Lena'],106.5,58.766666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=112
+248,mrdata_json/sedcu/593.json,593,['Black River-1'],-61.129166666667,45.690277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=593
+249,mrdata_json/sedcu/240.json,240,"['Yimen District', 'ShiZhiShan']",102.16666666667,24.183333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=240
+250,mrdata_json/sedcu/565.json,565,['Lakevale'],-61.910277777778,45.786666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=565
+251,mrdata_json/sedcu/627.json,627,['St Joseph'],-62.097222222222,45.541944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=627
+252,mrdata_json/sedcu/688.json,688,['Wiggins'],-103.08305555556,36.933333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=688
+253,mrdata_json/sedcu/129.json,129,"['Bugu\x92lminskaya', 'Bugulma']",52.766666666667,54.533333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=129
+254,mrdata_json/sedcu/580.json,580,['Fleming Brook mine'],-63.561111111111,45.718611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=580
+255,mrdata_json/sedcu/675.json,675,['Western Star'],-109.13305555556,38.15,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=675
+256,mrdata_json/sedcu/339.json,339,['Ubine'],6.7333333333333,46.304166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=339
+257,mrdata_json/sedcu/480.json,480,['Blakiston Creek'],-114.01555555556,49.1325,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=480
+258,mrdata_json/sedcu/554.json,554,"['South Pugwash, no 3']",-63.635,45.828055555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=554
+259,mrdata_json/sedcu/485.json,485,['Wall Lake 1'],-114.09555555556,49.013888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=485
+260,mrdata_json/sedcu/150.json,150,['Turgan Gulf'],67.716666666667,51.166666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=150
+261,mrdata_json/sedcu/652.json,652,['Newgate Prison'],-72.75,41.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=652
+262,mrdata_json/sedcu/166.json,166,['Itauz'],67.333333333333,48.266666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=166
+263,mrdata_json/sedcu/743.json,743,['Sucunduri River'],-59.0,-8.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=743
+264,mrdata_json/sedcu/51.json,51,"['Konkola-Kirila Bombwe', 'Bancroft']",27.826388888889,-12.39,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=51
+265,mrdata_json/sedcu/319.json,319,['Ilmenau'],10.89,50.7,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=319
+266,mrdata_json/sedcu/610.json,610,['Plainfield Brook'],-62.957222222222,45.634166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=610
+267,mrdata_json/sedcu/169.json,169,['Sorkuduk'],67.540277777778,48.016666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=169
+268,mrdata_json/sedcu/738.json,738,['Seboruco'],-72.0,8.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=738
+269,mrdata_json/sedcu/727.json,727,['Copper Queen'],-100.08305555556,33.029166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=727
+270,mrdata_json/sedcu/49.json,49,['Musoshi (see Konkola)'],27.713611111111,-12.265833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=49
+271,mrdata_json/sedcu/782.json,782,['Cerro Mesa'],-69.6,-38.683333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=782
+272,mrdata_json/sedcu/644.json,644,['Brookfield copper showing'],-63.218333333333,45.275555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=644
+273,mrdata_json/sedcu/625.json,625,['Limerock'],-62.85,45.55,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=625
+274,mrdata_json/sedcu/104.json,104,['Nidysei Syncline'],60.0,65.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=104
+275,mrdata_json/sedcu/23.json,23,['Minduli'],15.233333333333,-4.2333333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=23
+276,mrdata_json/sedcu/347.json,347,['Liouc'],6.8333333333333,44.029166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=347
+277,mrdata_json/sedcu/718.json,718,"['Pyron', 'Crowell (?)']",-99.9,33.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=718
+278,mrdata_json/sedcu/672.json,672,['Cutler'],-109.73305555556,38.361111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=672
+279,mrdata_json/sedcu/615.json,615,['Rights River-railway showing'],-62.033333333333,45.629444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=615
+280,mrdata_json/sedcu/764.json,764,"['San Bartolo', 'Artola mine']",-68.233333333333,-22.733333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=764
+281,mrdata_json/sedcu/316.json,316,['Geismar'],8.8666666666667,51.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=316
+282,mrdata_json/sedcu/178.json,178,['Urup Sandstone'],40.966666666667,43.7,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=178
+283,mrdata_json/sedcu/401.json,401,['Sh Group-3'],-126.89138888889,63.1,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=401
+284,mrdata_json/sedcu/483.json,483,"['Akamina, Flathead Valley']",-114.26805555556,49.04,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=483
+285,mrdata_json/sedcu/469.json,469,['Yarrow Creek'],-113.98222222222,49.201111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=469
+286,mrdata_json/sedcu/293.json,293,['Ballymacarbry'],-7.2,52.266666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=293
+287,mrdata_json/sedcu/393.json,393,"['Jay', 'Keele River']",-127.82972222222,63.772222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=393
+288,mrdata_json/sedcu/741.json,741,['Serra do Diamante'],-38.916666666667,-6.9166666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=741
+289,mrdata_json/sedcu/751.json,751,['San Silvestre'],-68.8875,-16.608333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=751
+290,mrdata_json/sedcu/70.json,70,['Chibuluma South'],28.05,-12.833333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=70
+291,mrdata_json/sedcu/299.json,299,['Zary'],15.091666666667,51.641666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=299
+292,mrdata_json/sedcu/263.json,263,['Yadlamalka'],137.3,-31.75,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=263
+293,mrdata_json/sedcu/500.json,500,['Daisy Creek'],-115.33305555556,47.816666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=500
+294,mrdata_json/sedcu/230.json,230,"['Dianzhong', 'TianZhong']",104.01666666667,26.266666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=230
+295,mrdata_json/sedcu/423.json,423,['La Loche'],-109.25,56.366666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=423
+296,mrdata_json/sedcu/440.json,440,['Adeline Lake-3'],-62.030277777778,54.3,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=440
+297,mrdata_json/sedcu/761.json,761,['Uyuni'],-67.21,-20.993611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=761
+298,mrdata_json/sedcu/585.json,585,['Bear Cove'],-60.355833333333,45.694444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=585
+299,mrdata_json/sedcu/340.json,340,['Le Biot'],6.65,46.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=340
+300,mrdata_json/sedcu/432.json,432,['Elizabeth Lake'],-105.36666666667,55.331111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=432
+301,mrdata_json/sedcu/490.json,490,['Fischells Brook'],-58.549722222222,48.303888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=490
+302,mrdata_json/sedcu/273.json,273,['Kanmantoo'],139.0,-35.1,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=273
+303,mrdata_json/sedcu/52.json,52,['Luansobe'],28.314722222222,-12.431666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=52
+304,mrdata_json/sedcu/53.json,53,['Mokambo'],28.379722222222,-12.477222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=53
+305,mrdata_json/sedcu/725.json,725,['Tularosa'],-105.83305555556,33.216666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=725
+306,mrdata_json/sedcu/164.json,164,['Kipshakpay'],67.566666666667,48.3,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=164
+307,mrdata_json/sedcu/213.json,213,['Jawkhar'],69.302777777778,34.315833333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=213
+308,mrdata_json/sedcu/668.json,668,['Lyons Fm.'],-104.75,38.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=668
+309,mrdata_json/sedcu/85.json,85,['Alaska'],30.008333333333,-17.430277777778,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=85
+310,mrdata_json/sedcu/710.json,710,['Scholle District'],-106.41666666667,34.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=710
+311,mrdata_json/sedcu/650.json,650,['Jasper'],-105.83305555556,42.733333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=650
+312,mrdata_json/sedcu/257.json,257,['Boorloo'],137.91666666667,-29.666666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=257
+313,mrdata_json/sedcu/197.json,197,['Ravinou'],72.4,40.2,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=197
+314,mrdata_json/sedcu/536.json,536,['Moredolphton Warehouse and Landing'],-81.785277777778,46.065555555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=536
+315,mrdata_json/sedcu/603.json,603,['Midway Copper Belt-pit 2'],-64.801666666667,45.656666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=603
+316,mrdata_json/sedcu/575.json,575,['Big Marsh'],-62.005555555556,45.739444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=575
+317,mrdata_json/sedcu/26.json,26,['Fungurume'],26.300833333333,-10.6,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=26
+318,mrdata_json/sedcu/661.json,661,['East Orange'],-74.2,40.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=661
+319,mrdata_json/sedcu/709.json,709,['Creta'],-99.35,34.65,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=709
+320,mrdata_json/sedcu/71.json,71,['Nkana South Limb'],28.211111111111,-12.859166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=71
+321,mrdata_json/sedcu/306.json,306,['Leitmar'],8.85,51.4,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=306
+322,mrdata_json/sedcu/73.json,73,['Itawa'],28.611111111111,-13.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=73
+323,mrdata_json/sedcu/754.json,754,['Paracatu'],-46.866666666667,-17.233333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=754
+324,mrdata_json/sedcu/91.json,91,['Dordabis'],17.683333333333,-22.958333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=91
+325,mrdata_json/sedcu/100.json,100,['Pad-Yaga Musyur Range'],65.5,67.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=100
+326,mrdata_json/sedcu/641.json,641,['Guysborough area 2-03-abcd'],-61.588611111111,45.376388888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=641
+327,mrdata_json/sedcu/677.json,677,['Happy jack'],-110.43305555556,37.808333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=677
+328,mrdata_json/sedcu/154.json,154,['Akken'],68.5,50.75,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=154
+329,mrdata_json/sedcu/9.json,9,['Tirzzitt'],-7.5,30.466666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=9
+330,mrdata_json/sedcu/310.json,310,['Witzenhausen'],9.8666666666667,51.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=310
+331,mrdata_json/sedcu/622.json,622,['Steep Creek'],-61.354444444444,45.566111111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=622
+332,mrdata_json/sedcu/235.json,235,['Dacun'],103.0,25.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=235
+333,mrdata_json/sedcu/345.json,345,['Bancairon'],6.86,44.054166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=345
+334,mrdata_json/sedcu/757.json,757,['Chacarilla'],-68.2,-17.583333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=757
+335,mrdata_json/sedcu/581.json,581,['Soldier Cove north'],-60.746666666667,45.716666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=581
+336,mrdata_json/sedcu/689.json,689,['Peacock Canyon'],-103.43305555556,36.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=689
+337,mrdata_json/sedcu/558.json,558,['Rockley'],-63.753888888889,45.818333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=558
+338,mrdata_json/sedcu/535.json,535,['Coxheath-contact zone'],-60.385833333333,46.071388888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=535
+339,mrdata_json/sedcu/457.json,457,['Whistler Mountain-2'],-114.30861111111,49.329722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=457
+340,mrdata_json/sedcu/201.json,201,['Daraitang'],72.5,39.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=201
+341,mrdata_json/sedcu/137.json,137,['Baruun Termis Uul'],91.5,50.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=137
+342,mrdata_json/sedcu/767.json,767,['Martín Bronce'],-64.416666666667,-24.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=767
+343,mrdata_json/sedcu/66.json,66,['Mindola-Nkana N-S'],28.171388888889,-12.804444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=66
+344,mrdata_json/sedcu/149.json,149,['Bolshoi Bogdo Mountains'],55.0,51.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=149
+345,mrdata_json/sedcu/756.json,756,['Callapa'],-68.355555555556,-17.4,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=756
+346,mrdata_json/sedcu/655.json,655,['Elk Ridge'],-111.54138888889,41.354166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=655
+347,mrdata_json/sedcu/770.json,770,['Jardin'],-70.191666666667,-27.758333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=770
+348,mrdata_json/sedcu/557.json,557,['South Pugwash-2'],-63.686388888889,45.819444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=557
+349,mrdata_json/sedcu/702.json,702,['Byars'],-97.5,35.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=702
+350,mrdata_json/sedcu/191.json,191,"['Kuqa', 'Kucha']",82.75,41.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=191
+351,mrdata_json/sedcu/422.json,422,"['Romanet River', 'Canada Tungsten']",-67.894166666667,56.393333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=422
+352,mrdata_json/sedcu/93.json,93,['Klein Aub'],16.633333333333,-23.8,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=93
+353,mrdata_json/sedcu/317.json,317,['Richelsdorf'],9.9,50.983333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=317
+354,mrdata_json/sedcu/753.json,753,['Corocoro'],-68.451111111111,-17.164166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=753
+355,mrdata_json/sedcu/245.json,245,['GeYiZha'],104.08333333333,23.583333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=245
+356,mrdata_json/sedcu/403.json,403,['Extension (kvale)'],-126.60527777778,62.891666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=403
+357,mrdata_json/sedcu/193.json,193,['Disue-2'],82.0,41.566666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=193
+358,mrdata_json/sedcu/703.json,703,['Rome Sandstone'],-84.5,35.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=703
+359,mrdata_json/sedcu/24.json,24,['Dikulushi'],28.25,-9.1666666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=24
+360,mrdata_json/sedcu/685.json,685,['Dunlap Ranch'],-102.23305555556,37.45,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=685
+361,mrdata_json/sedcu/283.json,283,['Well 41/25A-1'],5.5,54.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=283
+362,mrdata_json/sedcu/473.json,473,"['Castle River, Loaf Mountain-1']",-114.11138888889,49.180277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=473
+363,mrdata_json/sedcu/202.json,202,['Khozretishi'],68.0,39.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=202
+364,mrdata_json/sedcu/87.json,87,"['Lake Ngami', 'Ngwako Pan']",23.1,-20.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=87
+365,mrdata_json/sedcu/338.json,338,['Leysin'],7.0166666666667,46.35,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=338
+366,mrdata_json/sedcu/33.json,33,['Kambove'],26.606388888889,-10.879166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=33
+367,mrdata_json/sedcu/327.json,327,['Huttengesass'],9.1666666666667,50.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=327
+368,mrdata_json/sedcu/145.json,145,['Ushkarasu'],67.0,51.833333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=145
+369,mrdata_json/sedcu/295.json,295,['Hahausen'],10.208333333333,51.983333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=295
+370,mrdata_json/sedcu/596.json,596,['Midway Copper Belt-shaft no 1'],-64.785277777778,45.6725,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=596
+371,mrdata_json/sedcu/455.json,455,['Barnaby Ridge'],-114.36583333333,49.3325,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=455
+372,mrdata_json/sedcu/592.json,592,['Mine hole Brook'],-63.247222222222,45.679722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=592
+373,mrdata_json/sedcu/521.json,521,['Squire Point'],-60.589444444444,46.217777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=521
+374,mrdata_json/sedcu/775.json,775,['Rusa'],-71.083333333333,-32.35,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=775
+375,mrdata_json/sedcu/303.json,303,['Polkovice'],16.041666666667,51.491666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=303
+376,mrdata_json/sedcu/54.json,54,"['Benguela', 'English Mine']",13.516666666667,-12.511111111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=54
+377,mrdata_json/sedcu/315.json,315,['Nowy Kosciol'],15.9,51.1,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=315
+378,mrdata_json/sedcu/724.json,724,['Hugh-Rogers'],-100.05805555556,33.333333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=724
+379,mrdata_json/sedcu/174.json,174,['Chu River'],70.0,45.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=174
+380,mrdata_json/sedcu/395.json,395,['Lucky Joe'],-139.5,63.583333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=395
+381,mrdata_json/sedcu/634.json,634,['Ohio'],-62.077222222222,45.509166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=634
+382,mrdata_json/sedcu/227.json,227,"['YinMin', 'Dongchuan (Tungchuan) District']",102.33333333333,26.322222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=227
+383,mrdata_json/sedcu/410.json,410,"['Nueltin project', 'Ennadai Lake']",-101.2,60.613888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=410
+384,mrdata_json/sedcu/184.json,184,['Frunzeul'],74.916666666667,42.533333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=184
+385,mrdata_json/sedcu/152.json,152,['Kyzyloba'],68.433333333333,50.825,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=152
+386,mrdata_json/sedcu/377.json,377,['Brodeur Peninsula'],-86.0,73.8,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=377
+387,mrdata_json/sedcu/346.json,346,['Giordannet'],6.8583333333333,44.033333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=346
+388,mrdata_json/sedcu/431.json,431,['Northstar Main'],-126.26666666667,56.05,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=431
+389,mrdata_json/sedcu/562.json,562,['Malagash Point'],-63.239722222222,45.803888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=562
+390,mrdata_json/sedcu/699.json,699,['Hunters Point'],-109.25,35.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=699
+391,mrdata_json/sedcu/488.json,488,['Starvation Creek-2'],-114.16666666667,49.008333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=488
+392,mrdata_json/sedcu/266.json,266,['Myall Creek'],137.6,-32.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=266
+393,mrdata_json/sedcu/179.json,179,['Zhanatas'],69.833333333333,43.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=179
+394,mrdata_json/sedcu/267.json,267,['Red Hill'],138.75,-32.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=267
+395,mrdata_json/sedcu/477.json,477,"['Disraeli Lake', 'Commerce']",-88.991388888889,49.148611111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=477
+396,mrdata_json/sedcu/638.json,638,['Guysborough area 2-03-f'],-61.567777777778,45.438888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=638
+397,mrdata_json/sedcu/518.json,518,['Highway showing'],-60.266666666667,46.237777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=518
+398,mrdata_json/sedcu/251.json,251,"['Phu Wiang', 'Pratu Teema']",102.25,16.666666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=251
+399,mrdata_json/sedcu/570.json,570,['Waterside'],-62.783055555556,45.752777777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=570
+400,mrdata_json/sedcu/463.json,463,"['Spionkop Creek 1', 'Spionkop Ridge']",-114.00416666667,49.226666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=463
+401,mrdata_json/sedcu/335.json,335,"['Kal Mius', 'Torets Basin']",37.5,47.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=335
+402,mrdata_json/sedcu/591.json,591,['New Horton mine'],-64.711388888889,45.686666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=591
+403,mrdata_json/sedcu/162.json,162,['Ulutau South'],67.0,48.516666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=162
+404,mrdata_json/sedcu/399.json,399,['Ut Group-1'],-127.02611111111,63.249444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=399
+405,mrdata_json/sedcu/105.json,105,['Kurpandzha'],137.5,61.25,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=105
+406,mrdata_json/sedcu/78.json,78,['Kalengwa'],25.0,-13.416666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=78
+407,mrdata_json/sedcu/397.json,397,['Cap Mountain'],-123.22472222222,63.422222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=397
+408,mrdata_json/sedcu/755.json,755,['Veta Verde'],-68.401388888889,-17.360555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=755
+409,mrdata_json/sedcu/140.json,140,['Atbasar-3'],68.666666666667,52.166666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=140
+410,mrdata_json/sedcu/200.json,200,['Gaudan'],74.033333333333,39.716666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=200
+411,mrdata_json/sedcu/420.json,420,['Richmond Gulf-1'],-76.433055555556,56.441666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=420
+412,mrdata_json/sedcu/686.json,686,['Runnymede'],-97.933055555556,37.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=686
+413,mrdata_json/sedcu/151.json,151,['Olenty River'],73.5,50.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=151
+414,mrdata_json/sedcu/574.json,574,['Grant Brook'],-63.573055555556,45.740555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=574
+415,mrdata_json/sedcu/739.json,739,['Fazenda Boa Vista'],-40.55,-3.1833333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=739
+416,mrdata_json/sedcu/307.json,307,['Udersleben'],10.256666666667,51.4,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=307
+417,mrdata_json/sedcu/239.json,239,['TongChangQing'],103.55,24.333333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=239
+418,mrdata_json/sedcu/478.json,478,"['Sage Creek 4', 'Langemarck Mtn-2']",-114.33444444444,49.1375,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=478
+419,mrdata_json/sedcu/384.json,384,['Tawu Anticline'],-131.69972222222,65.316666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=384
+420,mrdata_json/sedcu/171.json,171,['Spasski'],67.3,47.816666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=171
+421,mrdata_json/sedcu/560.json,560,['Treen Point'],-63.296111111111,45.809444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=560
+422,mrdata_json/sedcu/211.json,211,['Khurdkabul'],69.377777777778,34.372222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=211
+423,mrdata_json/sedcu/747.json,747,['Rosario'],-74.333333333333,-12.716666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=747
+424,mrdata_json/sedcu/637.json,637,['Springhill'],-62.610555555556,45.460833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=637
+425,mrdata_json/sedcu/382.json,382,['Dumas Lake'],-116.2,66.498888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=382
+426,mrdata_json/sedcu/680.json,680,['Hideout no 1'],-110.00805555556,37.654166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=680
+427,mrdata_json/sedcu/390.json,390,['Hutch East'],-127.71666666667,63.816666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=390
+428,mrdata_json/sedcu/563.json,563,['Malagash (north shore)'],-63.348611111111,45.798888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=563
+429,mrdata_json/sedcu/280.json,280,['Firth of Forth'],-3.225,56.063333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=280
+430,mrdata_json/sedcu/663.json,663,['Steamboat Ssprings'],-106.75,40.533333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=663
+431,mrdata_json/sedcu/425.json,425,['Richmond Gulf-2'],-76.4275,56.345833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=425
+432,mrdata_json/sedcu/352.json,352,['Zaragoza'],-0.91666666666667,41.583333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=352
+433,mrdata_json/sedcu/57.json,57,['Nchanga'],27.866666666667,-12.525,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=57
+434,mrdata_json/sedcu/416.json,416,['Rafuse Lake'],-104.94305555556,56.908333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=416
+435,mrdata_json/sedcu/774.json,774,['Casa de Pedra'],-53.566666666667,-30.983333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=774
+436,mrdata_json/sedcu/731.json,731,['Lone Eagle'],-104.25,32.433333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=731
+437,mrdata_json/sedcu/360.json,360,['Abu Kashabia'],35.25,30.416666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=360
+438,mrdata_json/sedcu/320.json,320,['Kostalov'],15.666666666667,50.616666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=320
+439,mrdata_json/sedcu/618.json,618,['Monastery'],-61.645555555556,45.597222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=618
+440,mrdata_json/sedcu/608.json,608,['Lower North Grant'],-61.990277777778,45.646944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=608
+441,mrdata_json/sedcu/418.json,418,['Janice Lake'],-104.97333333333,56.875,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=418
+442,mrdata_json/sedcu/605.json,605,['Balmoral Brook'],-63.220277777778,45.652222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=605
+443,mrdata_json/sedcu/392.json,392,"['Scholtes-2, 3, 4']",-127.43305555556,63.775,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=392
+444,mrdata_json/sedcu/447.json,447,['Panther Creek'],-115.86666666667,51.466666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=447
+445,mrdata_json/sedcu/658.json,658,['Pahaquarry'],-75.033055555556,41.033333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=658
+446,mrdata_json/sedcu/376.json,376,['Ladderbjerg'],-22.029166666667,73.495833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=376
+447,mrdata_json/sedcu/50.json,50,['Kinsenda'],27.967222222222,-12.275277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=50
+448,mrdata_json/sedcu/131.json,131,['Aksakovskaya'],54.233333333333,54.0,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=131
+449,mrdata_json/sedcu/681.json,681,['W N1'],-110.04833333333,37.640277777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=681
+450,mrdata_json/sedcu/582.json,582,['Tatamagouche'],-63.280555555556,45.696388888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=582
+451,mrdata_json/sedcu/187.json,187,['Kyzyl-Bel'],72.0,42.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=187
+452,mrdata_json/sedcu/600.json,600,['Palmer mine'],-63.605,45.667222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=600
+453,mrdata_json/sedcu/687.json,687,['Sumner County occurrences'],-97.666666666667,37.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=687
+454,mrdata_json/sedcu/156.json,156,['Aschilin Bay'],68.116666666667,50.5,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=156
+455,mrdata_json/sedcu/65.json,65,['Mwambashi'],28.004722222222,-12.759166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=65
+456,mrdata_json/sedcu/208.json,208,['Surkh-i-Parso'],68.65,34.85,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=208
+457,mrdata_json/sedcu/89.json,89,['Ghanzi'],21.616666666667,-21.716666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=89
+458,mrdata_json/sedcu/601.json,601,['Oliver-no 1'],-63.325833333333,45.662222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=601
+459,mrdata_json/sedcu/721.json,721,['Alexander Ranch'],-99.75,33.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=721
+460,mrdata_json/sedcu/773.json,773,['Camaquã District'],-53.433333333333,-30.916666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=773
+461,mrdata_json/sedcu/595.json,595,['Balfron'],-63.224722222222,45.673611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=595
+462,mrdata_json/sedcu/497.json,497,['Vermillion River'],-115.36972222222,47.851111111111,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=497
+463,mrdata_json/sedcu/604.json,604,['Scotsburn Brook'],-62.878611111111,45.656111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=604
+464,mrdata_json/sedcu/421.json,421,['Richmond Gulf-3'],-76.463611111111,56.405555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=421
+465,mrdata_json/sedcu/716.json,716,['Gibbs'],-99.516666666667,34.166666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=716
+466,mrdata_json/sedcu/620.json,620,['James River station'],-62.120555555556,45.577777777778,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=620
+467,mrdata_json/sedcu/762.json,762,['Esmeralda'],-66.568888888889,-21.391666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=762
+468,mrdata_json/sedcu/670.json,670,['Adak'],-108.82055555556,38.430555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=670
+469,mrdata_json/sedcu/436.json,436,['Brandy Lake prospect'],-61.600277777778,54.303055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=436
+470,mrdata_json/sedcu/433.json,433,['Ellis Pond mineral occ no 26'],-61.966111111111,54.313888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=433
+471,mrdata_json/sedcu/705.json,705,['Pintada'],-104.86666666667,34.933333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=705
+472,mrdata_json/sedcu/407.json,407,['Thundercloud Range'],-126.21194444444,62.513055555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=407
+473,mrdata_json/sedcu/720.json,720,['Buzzard Peak'],-100.03305555556,33.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=720
+474,mrdata_json/sedcu/160.json,160,['Aktubinsk'],57.333333333333,50.266666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=160
+475,mrdata_json/sedcu/349.json,349,['Lodeve'],3.3166666666667,43.733333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=349
+476,mrdata_json/sedcu/609.json,609,['Oliver south'],-63.313333333333,45.645555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=609
+477,mrdata_json/sedcu/120.json,120,['South Muya Range'],113.5,57.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=120
+478,mrdata_json/sedcu/29.json,29,"['Kolwezi', 'Kolwezi Dome']",25.416666666667,-10.733333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=29
+479,mrdata_json/sedcu/456.json,456,['Whistler Mountain-1'],-114.30444444444,49.3325,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=456
+480,mrdata_json/sedcu/487.json,487,['Starvation Creek-1'],-114.22194444444,49.01,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=487
+481,mrdata_json/sedcu/206.json,206,"['Lake Ayakkum', 'KuQa']",89.166666666667,37.583333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=206
+482,mrdata_json/sedcu/528.json,528,['Finlay Beach'],-61.460277777778,46.131388888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=528
+483,mrdata_json/sedcu/25.json,25,['Tenke'],26.153333333333,-10.58,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=25
+484,mrdata_json/sedcu/92.json,92,['Oamites'],17.1,-22.983333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=92
+485,mrdata_json/sedcu/486.json,486,"['Wall Lake 2', 'Akamina Creek']",-114.06666666667,49.025,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=486
+486,mrdata_json/sedcu/694.json,694,['Pajarito azule'],-106.83305555556,36.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=694
+487,mrdata_json/sedcu/15.json,15,['Adrar Ouanas'],-9.2333333333333,28.266666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=15
+488,mrdata_json/sedcu/464.json,464,['Spionkop Creek 2'],-114.01666666667,49.227777777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=464
+489,mrdata_json/sedcu/470.json,470,['Yarrow Creek-main zone'],-113.99805555556,49.195277777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=470
+490,mrdata_json/sedcu/238.json,238,['KuangTung'],102.68333333333,25.066666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=238
+491,mrdata_json/sedcu/101.json,101,['Padyagin'],65.0,67.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=101
+492,mrdata_json/sedcu/255.json,255,['Wave Hill'],131.03333333333,-17.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=255
+493,mrdata_json/sedcu/630.json,630,['Pitchers Farm-2'],-61.962222222222,45.534444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=630
+494,mrdata_json/sedcu/274.json,274,['Gippsland'],147.5,-37.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=274
+495,mrdata_json/sedcu/122.json,122,['Perm Vyatka'],50.75,56.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=122
+496,mrdata_json/sedcu/286.json,286,['Well 49/20-1'],2.9,53.4,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=286
+497,mrdata_json/sedcu/288.json,288,['Mottram -St.Andews'],-2.2166666666667,53.3,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=288
+498,mrdata_json/sedcu/400.json,400,['Sh Group-5'],-126.86666666667,63.120833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=400
+499,mrdata_json/sedcu/598.json,598,['Cape Blue'],-61.591944444444,45.668888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=598
+500,mrdata_json/sedcu/88.json,88,['Matsitama'],26.75,-21.083333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=88
+501,mrdata_json/sedcu/17.json,17,['Agadez'],7.9333333333333,16.983333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=17
+502,mrdata_json/sedcu/389.json,389,['Nite'],-128.19972222222,63.816666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=389
+503,mrdata_json/sedcu/373.json,373,"['South Wadi Baqarah', 'GT Horizon, Wadi Hali']",41.971111111111,18.739444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=373
+504,mrdata_json/sedcu/546.json,546,['Christmas Island-1'],-60.739166666667,45.975277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=546
+505,mrdata_json/sedcu/355.json,355,['Granada'],-1.3666666666667,37.55,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=355
+506,mrdata_json/sedcu/693.json,693,['National'],-112.75,36.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=693
+507,mrdata_json/sedcu/32.json,32,"['Sesa', 'Msesa']",26.618611111111,-10.845,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=32
+508,mrdata_json/sedcu/768.json,768,['Juaramento'],-65.15,-25.216666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=768
+509,mrdata_json/sedcu/290.json,290,['Eardiston'],-2.9833333333333,52.833333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=290
+510,mrdata_json/sedcu/586.json,586,['Scotch Hill'],-62.828888888889,45.693055555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=586
+511,mrdata_json/sedcu/555.json,555,"['The Rocks', 'Hopewell Cape']",-64.581666666667,45.825,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=555
+512,mrdata_json/sedcu/522.json,522,['Point Edward'],-60.271944444444,46.167222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=522
+513,mrdata_json/sedcu/37.json,37,['Kalongwe'],25.208333333333,-11.026666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=37
+514,mrdata_json/sedcu/30.json,30,['Kamfundwa'],26.590555555556,-10.808333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=30
+515,mrdata_json/sedcu/479.json,479,"['Langemarck Mtn-1', 'Sage Creek 3']",-114.3775,49.133333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=479
+516,mrdata_json/sedcu/163.json,163,['Karashoshak'],67.723611111111,48.341111111111,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=163
+517,mrdata_json/sedcu/296.json,296,['Wild Goat'],-9.95,51.883333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=296
+518,mrdata_json/sedcu/114.json,114,['Yenisei Ridge'],94.0,58.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=114
+519,mrdata_json/sedcu/173.json,173,['Dzhezdy'],66.866666666667,47.583333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=173
+520,mrdata_json/sedcu/697.json,697,['Nacimiento'],-106.88333333333,36.008333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=697
+521,mrdata_json/sedcu/539.json,539,"[""Campbell's Brook""]",-61.468055555556,46.036666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=539
+522,mrdata_json/sedcu/451.json,451,['North Kootenay Pass area-2'],-114.56444444444,49.405833333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=451
+523,mrdata_json/sedcu/517.json,517,['Watersmeet'],-89.316666666667,46.35,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=517
+524,mrdata_json/sedcu/41.json,41,['Lukuni'],27.420555555556,-11.513888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=41
+525,mrdata_json/sedcu/496.json,496,['Grand Codroy River-highway one'],-59.115277777778,47.868888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=496
+526,mrdata_json/sedcu/549.json,549,['Christmas Island-2'],-60.778888888889,45.961944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=549
+527,mrdata_json/sedcu/2.json,2,"['Tamarift', 'Tansrift']",-4.25,33.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=2
+528,mrdata_json/sedcu/45.json,45,['Lubwe'],25.958333333333,-12.051666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=45
+529,mrdata_json/sedcu/359.json,359,['Fenan'],35.416666666667,30.6,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=359
+530,mrdata_json/sedcu/507.json,507,['Dingwall'],-60.498055555556,46.93,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=507
+531,mrdata_json/sedcu/242.json,242,"['Yimen District', 'ShiShan']",102.16666666667,24.116666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=242
+532,mrdata_json/sedcu/692.json,692,['Lee Uto'],-96.974722222222,36.4,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=692
+533,mrdata_json/sedcu/219.json,219,"['Zhangdu', 'Qamdo']",97.233333333333,31.166666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=219
+534,mrdata_json/sedcu/736.json,736,['Barbeque River'],-76.616666666667,18.1,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=736
+535,mrdata_json/sedcu/84.json,84,['Shackleton'],30.044444444444,-17.265555555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=84
+536,mrdata_json/sedcu/47.json,47,['Malundwe-Lumwana'],25.754166666667,-12.161666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=47
+537,mrdata_json/sedcu/217.json,217,['Jhakkar Kot'],72.466666666667,32.559166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=217
+538,mrdata_json/sedcu/730.json,730,['Warnock'],-105.79972222222,32.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=730
+539,mrdata_json/sedcu/189.json,189,['Talas Alatau'],72.5,42.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=189
+540,mrdata_json/sedcu/408.json,408,['Stark Lake-Wilson Lake'],-110.15805555556,62.466666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=408
+541,mrdata_json/sedcu/499.json,499,['Searston'],-59.329722222222,47.823611111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=499
+542,mrdata_json/sedcu/398.json,398,['18 miles nw of Dal Lake'],-127.04694444444,63.263888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=398
+543,mrdata_json/sedcu/744.json,744,['Sacsallac'],-75.833333333333,-9.7166666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=744
+544,mrdata_json/sedcu/613.json,613,['Durham'],-62.795555555556,45.632222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=613
+545,mrdata_json/sedcu/527.json,527,['Gallas Point'],-62.965555555556,46.1325,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=527
+546,mrdata_json/sedcu/465.json,465,['Bovin Lake'],-114.13694444444,49.220833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=465
+547,mrdata_json/sedcu/291.json,291,['Grinshill'],-2.6666666666667,52.75,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=291
+548,mrdata_json/sedcu/233.json,233,"['JiuQuiWan', 'JiuQuWan JinQuWan']",113.08333333333,26.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=233
+549,mrdata_json/sedcu/195.json,195,['Naukat'],71.6,40.833333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=195
+550,mrdata_json/sedcu/64.json,64,['Kasaria'],28.106388888889,-12.740833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=64
+551,mrdata_json/sedcu/729.json,729,['Courtney'],-105.78305555556,32.958333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=729
+552,mrdata_json/sedcu/561.json,561,['Johnstown'],-60.721388888889,45.805,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=561
+553,mrdata_json/sedcu/391.json,391,"['Fa gp-3, strat section bb 76-1']",-127.46666666667,63.787777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=391
+554,mrdata_json/sedcu/220.json,220,['DaTongChang'],105.06666666667,30.666666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=220
+555,mrdata_json/sedcu/520.json,520,['Gillis Dale'],-61.148055555556,46.228611111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=520
+556,mrdata_json/sedcu/453.json,453,['North Kootenay Pass'],-114.57555555556,49.386388888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=453
+557,mrdata_json/sedcu/182.json,182,['Northern Kirgizia'],75.233333333333,42.633333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=182
+558,mrdata_json/sedcu/364.json,364,['Hare Hakhlil'],34.966666666667,29.733333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=364
+559,mrdata_json/sedcu/619.json,619,['Telford'],-62.489166666667,45.581111111111,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=619
+560,mrdata_json/sedcu/216.json,216,['Khundara'],69.261111111111,34.231944444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=216
+561,mrdata_json/sedcu/776.json,776,['Veta Negra'],-71.1,-32.483333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=776
+562,mrdata_json/sedcu/406.json,406,['Y-12'],-98.806111111111,62.569444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=406
+563,mrdata_json/sedcu/127.json,127,['Kandrykul'],53.0,55.416666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=127
+564,mrdata_json/sedcu/541.json,541,['Lewis Lake'],-81.800277777778,46.014444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=541
+565,mrdata_json/sedcu/700.json,700,['Hacks Canyon'],-113.5,35.416666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=700
+566,mrdata_json/sedcu/542.json,542,['East Bay'],-60.426944444444,46.000833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=542
+567,mrdata_json/sedcu/704.json,704,['Sunlite and Moonlite'],-110.71666666667,34.983333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=704
+568,mrdata_json/sedcu/781.json,781,['Sausal Bonita'],-69.183333333333,-38.633333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=781
+569,mrdata_json/sedcu/713.json,713,['Mogollon Rim'],-111.0,34.25,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=713
+570,mrdata_json/sedcu/294.json,294,['Mallow'],-8.65,52.116666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=294
+571,mrdata_json/sedcu/671.json,671,['Copper King'],-108.43138888889,38.3925,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=671
+572,mrdata_json/sedcu/492.json,492,['JF'],-115.895,48.198611111111,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=492
+573,mrdata_json/sedcu/380.json,380,"['Escape Rapids (esc 37, 38)']",-115.54972222222,67.584722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=380
+574,mrdata_json/sedcu/515.json,515,['Kona Dolomite'],-87.45,46.533333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=515
+575,mrdata_json/sedcu/252.json,252,['Houei Phai'],105.68333333333,14.466666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=252
+576,mrdata_json/sedcu/413.json,413,['Callison'],-124.54194444444,58.339166666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=413
+577,mrdata_json/sedcu/298.json,298,['Southwest Cork'],-8.8666666666667,51.666666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=298
+578,mrdata_json/sedcu/109.json,109,['Katanga-Chadobets'],100.75,59.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=109
+579,mrdata_json/sedcu/740.json,740,['Pedra Verde'],-41.116666666667,-3.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=740
+580,mrdata_json/sedcu/493.json,493,['Rock Creek'],-115.67666666667,48.079444444444,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=493
+581,mrdata_json/sedcu/494.json,494,['Bald Mountain'],-58.855833333333,48.025,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=494
+582,mrdata_json/sedcu/246.json,246,['LaoQingShan'],103.91666666667,23.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=246
+583,mrdata_json/sedcu/412.json,412,"['Blow-Me-Down Mountain', 'Ramah']",-63.114166666667,58.738888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=412
+584,mrdata_json/sedcu/684.json,684,['Independence'],-102.23305555556,37.466666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=684
+585,mrdata_json/sedcu/524.json,524,"['Leitches Creek', 'Frenchvale']",-60.299722222222,46.166666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=524
+586,mrdata_json/sedcu/512.json,512,['Cobre Lake'],-81.2,46.629166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=512
+587,mrdata_json/sedcu/318.json,318,['Schweina'],10.3,50.83,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=318
+588,mrdata_json/sedcu/475.json,475,"['Commerce Peak', 'Sage Creek 1']",-114.34555555556,49.152777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=475
+589,mrdata_json/sedcu/616.json,616,['Keaton Point'],-61.389166666667,45.626388888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=616
+590,mrdata_json/sedcu/511.json,511,['Presque Isle'],-89.983333333333,46.683333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=511
+591,mrdata_json/sedcu/783.json,783,['Barda González'],-68.983333333333,-38.883333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=783
+592,mrdata_json/sedcu/20.json,20,['Falea'],-11.35,12.266666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=20
+593,mrdata_json/sedcu/168.json,168,['Dzhartas'],67.541666666667,48.126666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=168
+594,mrdata_json/sedcu/21.json,21,"[""N' Toum""]",9.9833333333333,1.0833333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=21
+595,mrdata_json/sedcu/746.json,746,['Doña Basilia'],-75.708333333333,-12.216666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=746
+596,mrdata_json/sedcu/571.json,571,['King mine'],-63.17,45.750555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=571
+597,mrdata_json/sedcu/784.json,784,"['El Porvenir', 'Cerro Granito']",-69.816666666667,-39.216666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=784
+598,mrdata_json/sedcu/128.json,128,['Unkursk'],118.33333333333,56.75,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=128
+599,mrdata_json/sedcu/642.json,642,['South March-3'],-75.970833333333,45.374444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=642
+600,mrdata_json/sedcu/344.json,344,['Pont des Roberts'],6.8583333333333,44.066666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=344
+601,mrdata_json/sedcu/281.json,281,"['Drumshantie', 'Gourock']",-4.7833333333333,55.933333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=281
+602,mrdata_json/sedcu/214.json,214,['Darband'],69.4,34.266666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=214
+603,mrdata_json/sedcu/765.json,765,['Serranía de las Minas'],-67.463055555556,-21.715833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=765
+604,mrdata_json/sedcu/772.json,772,['Cerro dos Martíns'],-53.45,-30.716666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=772
+605,mrdata_json/sedcu/760.json,760,['Sevaruyo'],-66.918888888889,-19.373333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=760
+606,mrdata_json/sedcu/103.json,103,['Igadei-Yugan River'],60.5,65.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=103
+607,mrdata_json/sedcu/247.json,247,['Netanar'],82.05,18.866666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=247
+608,mrdata_json/sedcu/452.json,452,['North Kootenay Pass area-1'],-114.56361111111,49.396111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=452
+609,mrdata_json/sedcu/363.json,363,['Timna'],34.95,29.766666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=363
+610,mrdata_json/sedcu/357.json,357,['Nuqeib'],35.666666666667,32.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=357
+611,mrdata_json/sedcu/148.json,148,['Kargala'],56.85,51.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=148
+612,mrdata_json/sedcu/80.json,80,['Mangula'],30.15,-16.879444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=80
+613,mrdata_json/sedcu/58.json,58,['Lubembe'],28.365555555556,-12.586388888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=58
+614,mrdata_json/sedcu/126.json,126,['Bryansk Rapids'],103.75,55.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=126
+615,mrdata_json/sedcu/649.json,649,['Watercress Canyon'],-110.75,43.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=649
+616,mrdata_json/sedcu/445.json,445,['Whiskey Lake south showing'],-61.571388888889,54.258333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=445
+617,mrdata_json/sedcu/111.json,111,['Bedoba River'],97.25,58.833333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=111
+618,mrdata_json/sedcu/155.json,155,['Kopkazgen'],68.133333333333,50.625,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=155
+619,mrdata_json/sedcu/279.json,279,['Visingso'],14.5,58.383333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=279
+620,mrdata_json/sedcu/196.json,196,['Chimbai-Saluk'],73.0,40.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=196
+621,mrdata_json/sedcu/4.json,4,['Djebel Djara'],-0.24166666666667,32.833333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=4
+622,mrdata_json/sedcu/678.json,678,['Lamotte Sandstone'],-91.083055555556,37.733333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=678
+623,mrdata_json/sedcu/498.json,498,['Grand Codroy River-on railway'],-59.184444444444,47.847222222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=498
+624,mrdata_json/sedcu/275.json,275,['Repparfjord'],24.216666666667,70.433333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=275
+625,mrdata_json/sedcu/556.json,556,['South Pugwash-1'],-63.661111111111,45.8225,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=556
+626,mrdata_json/sedcu/123.json,123,['Burpalin'],119.91666666667,56.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=123
+627,mrdata_json/sedcu/553.json,553,['Ballantynes Cove'],-61.918055555556,45.846111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=553
+628,mrdata_json/sedcu/343.json,343,['Skofje'],14.25,45.083333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=343
+629,mrdata_json/sedcu/302.json,302,['Sierozovice'],15.9,51.55,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=302
+630,mrdata_json/sedcu/262.json,262,['Mount Gunson'],137.25,-31.45,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=262
+631,mrdata_json/sedcu/564.json,564,['Mcintyre Lake'],-60.256388888889,45.79,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=564
+632,mrdata_json/sedcu/361.json,361,['Chehel Kureh'],59.998611111111,30.183333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=361
+633,mrdata_json/sedcu/587.json,587,['Midway Copper Belt-occ 7'],-64.741666666667,45.691944444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=587
+634,mrdata_json/sedcu/107.json,107,['Kamo River'],97.5,60.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=107
+635,mrdata_json/sedcu/648.json,648,['Hot Brook Canyon'],-103.5,43.433333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=648
+636,mrdata_json/sedcu/326.json,326,['Rouveroy'],4.0666666666667,50.366666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=326
+637,mrdata_json/sedcu/659.json,659,['Glen Ridge'],-74.166666666667,40.8,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=659
+638,mrdata_json/sedcu/706.json,706,['Mangum'],-99.5,34.883333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=706
+639,mrdata_json/sedcu/676.json,676,['Cougar'],-107.88305555556,38.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=676
+640,mrdata_json/sedcu/383.json,383,['Cc Lake'],-118.87638888889,65.409444444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=383
+641,mrdata_json/sedcu/752.json,752,['Chacoma'],-68.420277777778,-16.800555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=752
+642,mrdata_json/sedcu/476.json,476,['Sage Creek 2'],-114.28583333333,49.15,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=476
+643,mrdata_json/sedcu/647.json,647,['Sloop Cove'],-66.873055555556,44.686388888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=647
+644,mrdata_json/sedcu/777.json,777,['Carmen'],-71.0,-32.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=777
+645,mrdata_json/sedcu/707.json,707,['Stauber'],-104.84972222222,34.85,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=707
+646,mrdata_json/sedcu/387.json,387,['Frank'],-128.09638888889,63.875833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=387
+647,mrdata_json/sedcu/611.json,611,['Willies Brook'],-62.05,45.633888888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=611
+648,mrdata_json/sedcu/573.json,573,['Riverside mine'],-63.845277777778,45.749722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=573
+649,mrdata_json/sedcu/722.json,722,['Mcfaddin'],-99.95,33.483333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=722
+650,mrdata_json/sedcu/679.json,679,['Sedgwick County occurrences'],-97.666666666667,37.666666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=679
+651,mrdata_json/sedcu/572.json,572,['Caribou River'],-62.804166666667,45.750555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=572
+652,mrdata_json/sedcu/462.json,462,['West Castle River-2'],-114.33777777778,49.273888888889,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=462
+653,mrdata_json/sedcu/334.json,334,['Darno-Hegy'],21.5,48.333333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=334
+654,mrdata_json/sedcu/48.json,48,['Chimiwungo-Lumwana'],25.851388888889,-12.178888888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=48
+655,mrdata_json/sedcu/331.json,331,['Dnestr'],27.0,48.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=331
+656,mrdata_json/sedcu/124.json,124,['Udokan'],118.5,56.583333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=124
+657,mrdata_json/sedcu/404.json,404,"['Redstone', 'Coates Lake']",-126.62,62.694166666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=404
+658,mrdata_json/sedcu/207.json,207,['West Sinkiang'],111.25,35.583333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=207
+659,mrdata_json/sedcu/172.json,172,['Shipisai'],67.133333333333,47.8,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=172
+660,mrdata_json/sedcu/701.json,701,['Mirabal'],-108.09972222222,35.2,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=701
+661,mrdata_json/sedcu/621.json,621,['Pomquet River'],-61.831944444444,45.570555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=621
+662,mrdata_json/sedcu/8.json,8,['Argana'],-9.1,30.783333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=8
+663,mrdata_json/sedcu/547.json,547,['Iona'],-60.809722222222,45.9625,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=547
+664,mrdata_json/sedcu/502.json,502,['Nepisiguit River copper'],-65.620555555556,47.570833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=502
+665,mrdata_json/sedcu/342.json,342,['La Riolle'],6.5416666666667,46.085,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=342
+666,mrdata_json/sedcu/146.json,146,['Atbasar-1'],68.45,51.830555555556,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=146
+667,mrdata_json/sedcu/119.json,119,['Olekma Branch'],119.91666666667,57.333333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=119
+668,mrdata_json/sedcu/324.json,324,['Exmouth'],-3.5,50.516666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=324
+669,mrdata_json/sedcu/698.json,698,['Bronze Lake'],-114.16666666667,35.983333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=698
+670,mrdata_json/sedcu/139.json,139,['Federovo Sterlibasevo'],55.083333333333,53.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=139
+671,mrdata_json/sedcu/86.json,86,['Bushman Group'],26.558333333333,-20.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=86
+672,mrdata_json/sedcu/161.json,161,['Ulutau North'],67.0,49.1,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=161
+673,mrdata_json/sedcu/353.json,353,['Menorca Island'],4.0833333333333,39.983333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=353
+674,mrdata_json/sedcu/10.json,10,['Talat n Ouamane'],-8.35,30.094444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=10
+675,mrdata_json/sedcu/769.json,769,['Perau'],-49.0,-25.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=769
+676,mrdata_json/sedcu/170.json,170,"['Dzhezkazgan', 'Jeskesgan, Zhezkazgan']",67.391944444444,48.122222222222,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=170
+677,mrdata_json/sedcu/62.json,62,['Fitula'],27.916666666667,-12.681944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=62
+678,mrdata_json/sedcu/394.json,394,"['Keele River', 'Lisa']",-127.30305555556,63.722222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=394
+679,mrdata_json/sedcu/241.json,241,"['Yimen District', 'FengShan']",102.16666666667,24.15,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=241
+680,mrdata_json/sedcu/282.json,282,"['Larkfield', 'Gourock']",-4.7,55.883333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=282
+681,mrdata_json/sedcu/459.json,459,['Grizzly Creek'],-114.34305555556,49.308055555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=459
+682,mrdata_json/sedcu/224.json,224,['Tang tang'],104.2,26.483333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=224
+683,mrdata_json/sedcu/569.json,569,['Canfield Dome'],-63.666666666667,45.766666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=569
+684,mrdata_json/sedcu/314.json,314,['Lena'],15.816666666667,51.108333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=314
+685,mrdata_json/sedcu/667.json,667,['Copper Globe'],-110.9,38.8,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=667
+686,mrdata_json/sedcu/236.json,236,"['Niutoushan', 'KuQa']",111.5,25.75,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=236
+687,mrdata_json/sedcu/430.json,430,['Dunphy Lake'],-67.716666666667,56.058333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=430
+688,mrdata_json/sedcu/577.json,577,['Nappan'],-64.25,45.733333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=577
+689,mrdata_json/sedcu/369.json,369,['Al Mehdadah'],41.81,19.126666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=369
+690,mrdata_json/sedcu/276.json,276,['Aitik'],21.0,67.116666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=276
+691,mrdata_json/sedcu/501.json,501,['Niagara'],-115.86055555556,47.683055555556,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=501
+692,mrdata_json/sedcu/726.json,726,['Wiley Ranch'],-100.16666666667,33.083333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=726
+693,mrdata_json/sedcu/532.json,532,"['Crow Point', 'Washabuck-1']",-60.766666666667,46.075,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=532
+694,mrdata_json/sedcu/429.json,429,['Bacon Lake'],-67.795555555556,56.271111111111,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=429
+695,mrdata_json/sedcu/309.json,309,['Malomice'],16.183333333333,51.383333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=309
+696,mrdata_json/sedcu/617.json,617,['Brierly Brook-2'],-62.0625,45.612222222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=617
+697,mrdata_json/sedcu/186.json,186,['Kara Balty'],73.833333333333,42.516666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=186
+698,mrdata_json/sedcu/460.json,460,['Drywood Creek'],-114.0375,49.296388888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=460
+699,mrdata_json/sedcu/56.json,56,['Chingola'],27.830555555556,-12.55,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=56
+700,mrdata_json/sedcu/185.json,185,['Przheval'],78.666666666667,42.525,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=185
+701,mrdata_json/sedcu/584.json,584,['Biz Brook'],-63.169166666667,45.695277777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=584
+702,mrdata_json/sedcu/270.json,270,"['Burra Burra', 'Burra']",138.83333333333,-33.666666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=270
+703,mrdata_json/sedcu/714.json,714,['Broome'],-106.5,34.25,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=714
+704,mrdata_json/sedcu/14.json,14,['Sarabit Al Khadin'],32.466666666667,28.966666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=14
+705,mrdata_json/sedcu/632.json,632,['Mclellan Brook holes 1 2 and 3'],-62.613888888889,45.524444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=632
+706,mrdata_json/sedcu/134.json,134,['Malokos'],108.0,53.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=134
+707,mrdata_json/sedcu/135.json,135,['Baza'],96.8,53.666666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=135
+708,mrdata_json/sedcu/450.json,450,['North Kootenay Pass area-3'],-114.575,49.421944444444,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=450
+709,mrdata_json/sedcu/426.json,426,['Richmond Gulf-4'],-76.416666666667,56.316666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=426
+710,mrdata_json/sedcu/292.json,292,['Shore Hill'],-2.0166666666667,52.75,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=292
+711,mrdata_json/sedcu/439.json,439,['Seal Lake-19'],-61.690833333333,54.302777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=439
+712,mrdata_json/sedcu/674.json,674,['Big Indian'],-109.21666666667,38.233333333333,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=674
+713,mrdata_json/sedcu/157.json,157,['Teniz-Sarysu Divide'],67.883333333333,50.416666666667,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=157
+714,mrdata_json/sedcu/711.json,711,['Abiquiu'],-106.29972222222,34.433333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=711
+715,mrdata_json/sedcu/612.json,612,['Rights River-main showing'],-62.02,45.633333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=612
+716,mrdata_json/sedcu/526.json,526,['Yankee Line Road'],-60.916666666667,46.133055555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=526
+717,mrdata_json/sedcu/519.json,519,['Mcleod Point'],-60.611111111111,46.235277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=519
+718,mrdata_json/sedcu/311.json,311,['Lubichow'],15.566666666667,51.275,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=311
+719,mrdata_json/sedcu/67.json,67,['Mwerkera'],28.5,-12.804444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=67
+720,mrdata_json/sedcu/624.json,624,"['Kennco hole 6', 'Meadow Green']",-61.813611111111,45.551111111111,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=624
+721,mrdata_json/sedcu/785.json,785,['Kennecott'],-142.86666666667,61.533333333333,['Unclassified'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=785
+722,mrdata_json/sedcu/379.json,379,['Kent Peninsula-1'],-108.18305555556,68.2,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=379
+723,mrdata_json/sedcu/656.json,656,['Beaver Lake area'],-76.599722222222,41.291666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=656
+724,mrdata_json/sedcu/350.json,350,['Suva Planina Mountain'],22.25,43.166666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=350
+725,mrdata_json/sedcu/328.json,328,['Bieber'],9.3333333333333,50.166666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=328
+726,mrdata_json/sedcu/194.json,194,['Disue-1'],81.25,41.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=194
+727,mrdata_json/sedcu/505.json,505,['Snowstorm'],-115.72472222222,47.4825,['Revett Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=505
+728,mrdata_json/sedcu/629.json,629,['Pitchers Farm-1'],-61.984722222222,45.537222222222,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=629
+729,mrdata_json/sedcu/221.json,221,['ChienChupa'],103.0,30.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=221
+730,mrdata_json/sedcu/301.json,301,['Spremberg'],14.366666666667,51.583333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=301
+731,mrdata_json/sedcu/117.json,117,['Kan-Taseyeva Basin'],95.0,57.5,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=117
+732,mrdata_json/sedcu/374.json,374,['Wadi Raysh'],42.0,18.683333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=374
+733,mrdata_json/sedcu/234.json,234,['TuanShan'],103.11666666667,26.0,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=234
+734,mrdata_json/sedcu/411.json,411,"['Poorfish Lake(Nueltin project)', 'Nueltin projec']",-100.52333333333,60.185555555556,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=411
+735,mrdata_json/sedcu/271.json,271,['Copper Claim'],138.25,-34.0,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=271
+736,mrdata_json/sedcu/330.json,330,['Sankovce'],20.3,48.566666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=330
+737,mrdata_json/sedcu/74.json,74,['Bwana Mkubwa'],28.685277777778,-13.020833333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=74
+738,mrdata_json/sedcu/606.json,606,['Midway Copper Belt-pit 1'],-64.809722222222,45.651388888889,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=606
+739,mrdata_json/sedcu/435.json,435,['Duck Lake south'],-61.794722222222,54.306944444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=435
+740,mrdata_json/sedcu/209.json,209,['Taghar'],69.378611111111,34.431388888889,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=209
+741,mrdata_json/sedcu/34.json,34,['Kamatanda'],26.776666666667,-10.949722222222,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=34
+742,mrdata_json/sedcu/578.json,578,['Knoydart Point and Brook'],-62.235833333333,45.721944444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=578
+743,mrdata_json/sedcu/60.json,60,['Pitanda'],27.986666666667,-12.658333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=60
+744,mrdata_json/sedcu/682.json,682,['Bear Creek'],-108.16666666667,37.616666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=682
+745,mrdata_json/sedcu/61.json,61,['Chambishi'],28.045833333333,-12.677777777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=61
+746,mrdata_json/sedcu/77.json,77,"['Luanshya', 'Roan Antelope']",28.383333333333,-13.130555555556,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=77
+747,mrdata_json/sedcu/256.json,256,"['Waterhouse Range', 'Owen Springs']",133.26666666667,-24.05,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=256
+748,mrdata_json/sedcu/633.json,633,['Churchville Road'],-62.648055555556,45.509444444444,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=633
+749,mrdata_json/sedcu/588.json,588,['Feeley mine'],-63.552222222222,45.69,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=588
+750,mrdata_json/sedcu/428.json,428,['Tosi'],-105.71666666667,56.233333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=428
+751,mrdata_json/sedcu/481.json,481,['Mount Lineham'],-114.0075,49.080833333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=481
+752,mrdata_json/sedcu/133.json,133,"['Urshak', 'Belebei, Kursak Rudniki']",54.916666666667,53.916666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=133
+753,mrdata_json/sedcu/138.json,138,['Baruun Turaag Uul'],91.479166666667,50.144444444444,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=138
+754,mrdata_json/sedcu/628.json,628,"['Mclellan Brook', 'Stewart Brook']",-62.596944444444,45.538333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=628
+755,mrdata_json/sedcu/509.json,509,['Wolf Creek'],-112.11666666667,46.866666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=509
+756,mrdata_json/sedcu/141.json,141,['Iliktinsk Suite'],107.91666666667,53.5,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=141
+757,mrdata_json/sedcu/419.json,419,['Swampy Bay River'],-68.583055555556,56.655555555556,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=419
+758,mrdata_json/sedcu/654.json,654,['Forkston'],-76.116666666667,41.5,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=654
+759,mrdata_json/sedcu/90.json,90,"['Pos , Copper Causeway, Malachite Pan prospects', 'Witvlei']",18.533333333333,-22.383333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=90
+760,mrdata_json/sedcu/516.json,516,['Desbarats'],-83.966666666667,46.359166666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=516
+761,mrdata_json/sedcu/759.json,759,['Turco'],-68.064444444444,-18.265277777778,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=759
+762,mrdata_json/sedcu/508.json,508,"['Canyon Creek, Rogers Pass']",-112.08305555556,46.916666666667,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=508
+763,mrdata_json/sedcu/258.json,258,['Warra Warra'],137.81666666667,-29.883333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=258
+764,mrdata_json/sedcu/381.json,381,['Bud 942-947'],-115.89555555556,67.534722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=381
+765,mrdata_json/sedcu/645.json,645,['Middle Stewiacke'],-63.197777777778,45.194722222222,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=645
+766,mrdata_json/sedcu/506.json,506,"['Red Ridge', 'Scapegoat Wilderness']",-112.76666666667,47.233333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=506
+767,mrdata_json/sedcu/44.json,44,['Kipapila'],27.916666666667,-12.016666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=44
+768,mrdata_json/sedcu/513.json,513,['Flack Lake area'],-82.766666666667,46.6,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=513
+769,mrdata_json/sedcu/28.json,28,['Kakanda'],26.406944444444,-10.725,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=28
+770,mrdata_json/sedcu/43.json,43,"['l\x92Etoile, Star of the Congo', 'Etoile']",27.577222222222,-11.648333333333,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=43
+771,mrdata_json/sedcu/543.json,543,['Catalone Lake'],-59.991388888889,45.990277777778,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=543
+772,mrdata_json/sedcu/27.json,27,['Mutoshi'],25.516666666667,-10.666666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=27
+773,mrdata_json/sedcu/222.json,222,['OmeiHsien'],106.2,29.283333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=222
+774,mrdata_json/sedcu/484.json,484,['Kishinena Creek'],-114.27194444444,49.033333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=484
+775,mrdata_json/sedcu/305.json,305,['Marsberg'],8.8875,51.466666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=305
+776,mrdata_json/sedcu/409.json,409,['Flat River'],-127.08305555556,61.266666666667,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=409
+777,mrdata_json/sedcu/717.json,717,['Mcclellan'],-99.833055555556,34.083333333333,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=717
+778,mrdata_json/sedcu/272.json,272,['Kapunda'],138.68333333333,-34.45,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=272
+779,mrdata_json/sedcu/482.json,482,['Cameron Brook'],-114.01472222222,49.065,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=482
+780,mrdata_json/sedcu/11.json,11,['Iminirfi'],-8.4083333333333,30.0625,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=11
+781,mrdata_json/sedcu/414.json,414,['Nekweaga Bay'],-103.73305555556,57.783333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=414
+782,mrdata_json/sedcu/559.json,559,['Garbarus Lake'],-60.216666666667,45.816666666667,['Reduced facies Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=559
+783,mrdata_json/sedcu/415.json,415,['Johnson Lake area'],-104.16916666667,57.458333333333,['Uncl.'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=415
+784,mrdata_json/sedcu/5.json,5,['Garat Debba'],-0.66666666666667,32.77,['Redbed Cu'],https://mrdata.usgs.gov/to-json.php?db=sedcu&id=rec_id&labno=5

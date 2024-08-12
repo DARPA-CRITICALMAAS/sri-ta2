@@ -1,0 +1,24 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Nb/Mo00852.json,Mo00852,"['Iron Hill, Iron Hill carbonatite dikes deposit']",-107.071044607,38.2599246410001,['Carbonatite-hosted REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00852
+1,mrdata_json/usmin_Nb/Mo00233.json,Mo00233,"['Round Top, Round Top deposit']",-105.476203632,31.276683721,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00233
+2,mrdata_json/usmin_Nb/Mo00244.json,Mo00244,"['Bokan Mountain, Geiger deposit']",-132.173255698,54.9433135640001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00244
+3,mrdata_json/usmin_Nb/Mf00237.json,Mf00237,"['Bokan Mountain, Ross-Adams mine']",-132.139239035,54.909674339,,https://mrdata.usgs.gov/deposit/json/Nb-Mf00237
+4,mrdata_json/usmin_Nb/Mr00174.json,Mr00174,['Elk Creek carbonatite area'],-96.179964833,40.2758671810001,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00174
+5,mrdata_json/usmin_Nb/Mo00252.json,Mo00252,"['Bokan Mountain, Dotson Zone']",-132.117330704,54.9076755980001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00252
+6,mrdata_json/usmin_Nb/Mo00219.json,Mo00219,"['Bokan Mountain, Cheri deposit']",-132.10124809,54.8920196620001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00219
+7,mrdata_json/usmin_Nb/Mo00246.json,Mo00246,"['Bokan Mountain, I&L Zone']",-132.135738885,54.9123742450001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00246
+8,mrdata_json/usmin_Nb/Mo00245.json,Mo00245,"['Bokan Mountain, Geoduck deposit']",-132.080731648,54.888607183,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00245
+9,mrdata_json/usmin_Nb/Mr00046.json,Mr00046,['Powderhorn District'],-107.11798793,38.3224261330001,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00046
+10,mrdata_json/usmin_Nb/Mo00255.json,Mo00255,"['Elk Creek, Elk Creek deposit']",-96.186244336,40.267956988,['Carbonatite-hosted REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00255
+11,mrdata_json/usmin_Nb/Mo00853.json,Mo00853,"['Iron Hill, Iron Hill carbonatite stock deposit']",-107.071044606,38.2599246400001,['Carbonatite-hosted REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00853
+12,mrdata_json/usmin_Nb/Mo00554.json,Mo00554,"['Bokan Mountain, IL&M deposit']",-132.149844864,54.9155447520001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00554
+13,mrdata_json/usmin_Nb/Mr00182.json,Mr00182,['Arkansas bauxite region'],-92.3079661799999,34.586625972,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00182
+14,mrdata_json/usmin_Nb/Mr00176.json,Mr00176,['Sierra Blanca mining area'],-105.44504943,31.26574879,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00176
+15,mrdata_json/usmin_Nb/Mo00723 .json,Mo00723 ,"['Cave Peak, Main pipe']",-104.880891776,31.441786683,['Porphyry Mo(-Nb) deposit'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00723 
+16,mrdata_json/usmin_Nb/Mr00177.json,Mr00177,['Cave Peak mining area'],-104.892889556,31.4322634710001,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00177
+17,mrdata_json/usmin_Nb/Mo00247.json,Mo00247,"['Bokan Mountain, Ross-Adams deposit']",-132.139284245,54.9088022670001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00247
+18,mrdata_json/usmin_Nb/Mo00723.json,Mo00723,"['Cave Peak, Main pipe']",-104.880891776,31.441786683,['Porphyry Mo(-Nb) deposit'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00723
+19,mrdata_json/usmin_Nb/Mr00012.json,Mr00012,['Ketchikan District'],-132.293223363,55.46449661,,https://mrdata.usgs.gov/deposit/json/Nb-Mr00012
+20,mrdata_json/usmin_Nb/Mo00248.json,Mo00248,"['Bokan Mountain, Sunday Lake deposit']",-132.173910001,54.92839323,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00248
+21,mrdata_json/usmin_Nb/Mo00286.json,Mo00286,"['Iron Hill, Iron Hill pyroxenite deposit']",-107.044983616,38.261419775,['Carbonatite-hosted REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00286
+22,mrdata_json/usmin_Nb/Mo00250.json,Mo00250,"['Bokan Mountain, Upper Cheri deposit']",-132.108730368,54.8899065750001,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Nb-Mo00250

@@ -1,0 +1,53 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Co/Mo00634.json,Mo00634,West deposit,-66.9935339849999,18.1549185420001,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00634
+1,mrdata_json/usmin_Co/Mr00144.json,Mr00144,Chichagof District,-135.198532122,57.6135211210001,,https://mrdata.usgs.gov/deposit/json/Co-Mr00144
+2,mrdata_json/usmin_Co/Mo00633.json,Mo00633,South deposit,-67.021373678,18.165411965,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00633
+3,mrdata_json/usmin_Co/Mo00732.json,Mo00732,Side Hill Body,-136.421654704,57.974158575,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00732
+4,mrdata_json/usmin_Co/Sw00126.json,Sw00126,Surface workings,-90.2762637975548,37.5450267954046,,https://mrdata.usgs.gov/deposit/json/Co-Sw00126
+5,mrdata_json/usmin_Co/Sw00040.json,Sw00040,Surface workings,-87.8816060930197,46.7481146078645,,https://mrdata.usgs.gov/deposit/json/Co-Sw00040
+6,mrdata_json/usmin_Co/Mo00632.json,Mo00632,North deposit,-67.037672986,18.171336823,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00632
+7,mrdata_json/usmin_Co/Mo00752.json,Mo00752,Footwall No Name Zone,-114.122013396,44.958487566,,https://mrdata.usgs.gov/deposit/json/Co-Mo00752
+8,mrdata_json/usmin_Co/Mr00036.json,Mr00036,Fredericktown District,-90.2167873879999,37.572884485,,https://mrdata.usgs.gov/deposit/json/Co-Mr00036
+9,mrdata_json/usmin_Co/Mo00716.json,Mo00716,Ram,-114.359939411,45.143779953,Shear zone hosted Cu-Co-Au,https://mrdata.usgs.gov/deposit/json/Co-Mo00716
+10,mrdata_json/usmin_Co/Mo00629.json,Mo00629,Guanajibo,-67.1597869249999,18.1361208000001,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00629
+11,mrdata_json/usmin_Co/Mo00756.json,Mo00756,Lowry Middle Zone,-110.881314295,46.770900785,Shale-hosted massive sulfide,https://mrdata.usgs.gov/deposit/json/Co-Mo00756
+12,mrdata_json/usmin_Co/Mo00719.json,Mo00719,Birch Lake,-91.808167533,47.7329388570001,Contact-type magmatic Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00719
+13,mrdata_json/usmin_Co/Sw00132.json,Sw00132,Surface workings,-156.948158042449,67.0622727325769,,https://mrdata.usgs.gov/deposit/json/Co-Sw00132
+14,mrdata_json/usmin_Co/Mo00753.json,Mo00753,Jackass Zone,-114.114696553,44.951991637,,https://mrdata.usgs.gov/deposit/json/Co-Mo00753
+15,mrdata_json/usmin_Co/Mo00754.json,Mo00754,Johnny Lee Upper Zone,-110.913938173,46.779813609,Shale-hosted massive sulfide,https://mrdata.usgs.gov/deposit/json/Co-Mo00754
+16,mrdata_json/usmin_Co/Mo00755.json,Mo00755,Johnny Lee Lower Zone,-110.909994708,46.7815926860001,Shale-hosted massive sulfide,https://mrdata.usgs.gov/deposit/json/Co-Mo00755
+17,mrdata_json/usmin_Co/Mo00630.json,Mo00630,Punta Guanajibo,-67.1784418989999,18.1637225470001,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00630
+18,mrdata_json/usmin_Co/Mo00733.json,Mo00733,North Muskeg Body,-136.421555053,57.97626832,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00733
+19,mrdata_json/usmin_Co/Mo00746.json,Mo00746,NorthMet,-91.970236067,47.6196067590001,Contact-type magmatic Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00746
+20,mrdata_json/usmin_Co/Mr00061.json,Mr00061,Ambler District,-156.15177819,67.13638345,,https://mrdata.usgs.gov/deposit/json/Co-Mr00061
+21,mrdata_json/usmin_Co/Mo00760.json,Mo00760,Lowry Upper Zone,-110.88165432,46.771136239,,https://mrdata.usgs.gov/deposit/json/Co-Mo00760
+22,mrdata_json/usmin_Co/Mr00145.json,Mr00145,Blackbird District,-114.307557497,45.1071561960001,,https://mrdata.usgs.gov/deposit/json/Co-Mr00145
+23,mrdata_json/usmin_Co/Mo00731.json,Mo00731,Tunnel Body,-136.425867807,57.975271272,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00731
+24,mrdata_json/usmin_Co/Mr00148.json,Mr00148,Smith River District,-111.149437325,46.836069073,,https://mrdata.usgs.gov/deposit/json/Co-Mr00148
+25,mrdata_json/usmin_Co/Mo00635.json,Mo00635,East deposit,-66.98097043,18.1492792190001,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00635
+26,mrdata_json/usmin_Co/Mo00757.json,Mo00757,Lowry 0/1 Zone,-110.874408964,46.7689591180001,,https://mrdata.usgs.gov/deposit/json/Co-Mo00757
+27,mrdata_json/usmin_Co/Mo00761.json,Mo00761,Pine Flat,-123.993849683,41.990848941,38a - Lateritic Ni,https://mrdata.usgs.gov/deposit/json/Co-Mo00761
+28,mrdata_json/usmin_Co/Mo00631.json,Mo00631,Las Mesas,-67.109247173,18.1862798380001,Nickel-Cobalt Laterites,https://mrdata.usgs.gov/deposit/json/Co-Mo00631
+29,mrdata_json/usmin_Co/Mo00730.json,Mo00730,East Tripod Body,-136.42517974,57.9769557440001,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00730
+30,mrdata_json/usmin_Co/Mo00759.json,Mo00759,Lowry II Zone,-110.874026736,46.768908378,,https://mrdata.usgs.gov/deposit/json/Co-Mo00759
+31,mrdata_json/usmin_Co/Mo00750.json,Mo00750,Sulfate Zone,-114.113554412,44.9686597620001,,https://mrdata.usgs.gov/deposit/json/Co-Mo00750
+32,mrdata_json/usmin_Co/Mo00571.json,Mo00571,South Reef Zone,-156.919515446,67.0652560020001,32c - Kipushi Cu-Pb-Zn,https://mrdata.usgs.gov/deposit/json/Co-Mo00571
+33,mrdata_json/usmin_Co/Mo00749.json,Mo00749,Cornwall,-76.411040199,40.2667045040001,Fe skarn,https://mrdata.usgs.gov/deposit/json/Co-Mo00749
+34,mrdata_json/usmin_Co/Mo00758.json,Mo00758,Lowry Lower Zone,-110.880517031,46.7703844000001,,https://mrdata.usgs.gov/deposit/json/Co-Mo00758
+35,mrdata_json/usmin_Co/Mo00550.json,Mo00550,Ruby Creek Zone,-156.945007087,67.064413673,32c - Kipushi Cu-Pb-Zn,https://mrdata.usgs.gov/deposit/json/Co-Mo00550
+36,mrdata_json/usmin_Co/Mo00722.json,Mo00722,Spruce Road,-91.671348525,47.8345418420001,Contact-type magmatic Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00722
+37,mrdata_json/usmin_Co/Mo00767.json,Mo00767,Nickel Mountain,-123.43632186,42.960210927,38a - Lateritic Ni,https://mrdata.usgs.gov/deposit/json/Co-Mo00767
+38,mrdata_json/usmin_Co/Sw00122.json,Sw00122,Surface workings,-114.354449719136,45.1359488633557,,https://mrdata.usgs.gov/deposit/json/Co-Sw00122
+39,mrdata_json/usmin_Co/Mr00154.json,Mr00154,Black Hawk District,-108.510677008,32.7064382460001,,https://mrdata.usgs.gov/deposit/json/Co-Mr00154
+40,mrdata_json/usmin_Co/Mo00729.json,Mo00729,West Tripod Body,-136.426751971,57.9764899900001,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00729
+41,mrdata_json/usmin_Co/Mo00751.json,Mo00751,No Name Zone,-114.121799245,44.9626992120001,Iron oxide-copper-gold,https://mrdata.usgs.gov/deposit/json/Co-Mo00751
+42,mrdata_json/usmin_Co/Mo00720.json,Mo00720,Maturi Southwest,-91.789131845,47.784097268,Contact-type magmatic Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00720
+43,mrdata_json/usmin_Co/Mo00736.json,Mo00736,South Takanis Body,-136.435642251,57.9857472250001,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00736
+44,mrdata_json/usmin_Co/Mo00362.json,Mo00362,Eagle,-87.897286225,46.748153497,Conduit-type Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00362
+45,mrdata_json/usmin_Co/Mo00748.json,Mo00748,Turner,-123.757930964,41.9995806200001,"Volcanogenic massive sulfide, Cyprus model",https://mrdata.usgs.gov/deposit/json/Co-Mo00748
+46,mrdata_json/usmin_Co/Sw00125.json,Sw00125,Surface workings,-123.435909963115,42.9658568657137,,https://mrdata.usgs.gov/deposit/json/Co-Sw00125
+47,mrdata_json/usmin_Co/Mo00721.json,Mo00721,Maturi,-91.728693535,47.8047985790001,Contact-type magmatic Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00721
+48,mrdata_json/usmin_Co/Mo00734.json,Mo00734,South Muskeg Body,-136.420553102,57.97523528,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00734
+49,mrdata_json/usmin_Co/Mr00037.json,Mr00037,Ducktown District,-84.3833751559999,35.0484420430001,Massive sulfide,https://mrdata.usgs.gov/deposit/json/Co-Mr00037
+50,mrdata_json/usmin_Co/Mo00363.json,Mo00363,Eagle East,-87.8804836199999,46.7462395050001,Conduit-type Ni-Cu-PGE,https://mrdata.usgs.gov/deposit/json/Co-Mo00363
+51,mrdata_json/usmin_Co/Mo00735.json,Mo00735,North Takanis Body,-136.435201305,57.9844777440001,Synorogenic-synvolcanic Ni-Cu,https://mrdata.usgs.gov/deposit/json/Co-Mo00735

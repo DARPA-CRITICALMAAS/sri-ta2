@@ -1,0 +1,132 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Sn/Mo00437.json,Mo00437,Dalton Gulch,-150.843312694,65.098511655,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00437
+6,mrdata_json/usmin_Sn/Mf00350.json,Mf00350,Bartels Mine,-167.956457543,65.5837913760001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00350
+10,mrdata_json/usmin_Sn/Mf00533.json,Mf00533,Goodwin Gulch,-167.919234188,65.587754352,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00533
+15,mrdata_json/usmin_Sn/Mo00455.json,Mo00455,Birch Creek,-155.358792281,64.4586643270001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00455
+20,mrdata_json/usmin_Sn/Sw00115.json,Sw00115,Surface workings,-150.98354067829,65.0603084536345,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00115
+21,mrdata_json/usmin_Sn/Mf00573.json,Mf00573,Meeke Mine,-118.742886636,34.836769083,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00573
+25,mrdata_json/usmin_Sn/Mf00456.json,Mf00456,Etta Mine,-103.418647257,43.88076177,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00456
+29,mrdata_json/usmin_Sn/Mf00571.json,Mf00571,Giant-Volney Mine,-104.049225774,44.3768112650001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00571
+37,mrdata_json/usmin_Sn/Mo00383.json,Mo00383,Lime Peak Pluton,-146.755614576,65.6291255610001,15c - Sn greisen,https://mrdata.usgs.gov/deposit/json/Sn-Mo00383
+43,mrdata_json/usmin_Sn/Mo00431.json,Mo00431,Greenstone Creek,-155.532819369,64.2989720730001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00431
+47,mrdata_json/usmin_Sn/Mf00454.json,Mf00454,Addie Mine,-103.523555793,43.9286704880001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00454
+52,mrdata_json/usmin_Sn/Mo00514.json,Mo00514,Etta,-103.418647257,43.88076177,Lithium pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00514
+56,mrdata_json/usmin_Sn/Mo00462.json,Mo00462,Addie,-103.523555793,43.9286704880001,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00462
+61,mrdata_json/usmin_Sn/Mf00240.json,Mf00240,Climax Mine,-106.17,39.3700000000001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00240
+66,mrdata_json/usmin_Sn/Mf00439.json,Mf00439,Fifth of July Creek,-155.548857859,64.3809348360001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00439
+69,mrdata_json/usmin_Sn/Mo00429.json,Mo00429,Mason Creek,-153.316666667,65.1833333330001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00429
+74,mrdata_json/usmin_Sn/Mo00430.json,Mo00430,Fifth of July Creek,-155.548857859,64.3809348360001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00430
+77,mrdata_json/usmin_Sn/Mr00141.json,Mr00141,Tolovana District,-147.594707782,65.5978897860001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00141
+79,mrdata_json/usmin_Sn/Mr00112.json,Mr00112,Hill City District,-103.546246609,43.9242387570001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00112
+81,mrdata_json/usmin_Sn/Mf00508.json,Mf00508,No. 1 Mine,-86.192150129,32.9069549590001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00508
+82,mrdata_json/usmin_Sn/Mr00082.json,Mr00082,Port Clarence District,-166.481007745,65.652905425,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00082
+84,mrdata_json/usmin_Sn/Mo00454.json,Mo00454,Patterson Creek,-150.934894795,65.0437153070001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00454
+88,mrdata_json/usmin_Sn/Mo00727.json,Mo00727,Upper Butler,-118.730011463,34.840041166,Sn skarn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00727
+95,mrdata_json/usmin_Sn/Mo00338.json,Mo00338,Kougarok,-165.216666667,65.6666666670001,15c - Sn greisen,https://mrdata.usgs.gov/deposit/json/Sn-Mo00338
+103,mrdata_json/usmin_Sn/Mo00441.json,Mo00441,Miller Gulch,-150.932045175,65.0715547410001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00441
+109,mrdata_json/usmin_Sn/Mo00432.json,Mo00432,Tozimoran Creek,-152.806392729,65.376802012,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00432
+114,mrdata_json/usmin_Sn/Mf00407.json,Mf00407,Tozimoran Creek,-152.806392729,65.376802012,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00407
+118,mrdata_json/usmin_Sn/Mf00443.json,Mf00443,Cache Creek,-150.822462112,65.098096431,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00443
+123,mrdata_json/usmin_Sn/Mo00688.json,Mo00688,Goodwin Gulch,-167.919234188,65.587754352,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00688
+128,mrdata_json/usmin_Sn/Mo00387.json,Mo00387,Anikovik River,-167.634721095,65.5035320420001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00387
+132,mrdata_json/usmin_Sn/Mf00572.json,Mf00572,Franklin Mountains Tin Mine,-106.488223543,31.936030766,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00572
+135,mrdata_json/usmin_Sn/Mo00325.json,Mo00325,Big Creek,-155.452923821,64.664620331,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00325
+138,mrdata_json/usmin_Sn/Mo00453.json,Mo00453,Tofty Gulch,-150.901383441,65.0851319440001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00453
+144,mrdata_json/usmin_Sn/Mo00523.json,Mo00523,Zone 3,-117.327986157,47.5575952200001,"Tin pegmatite, W veins",https://mrdata.usgs.gov/deposit/json/Sn-Mo00523
+148,mrdata_json/usmin_Sn/Sw00116.json,Sw00116,Surface workings,-150.976655747063,65.0622798820169,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00116
+149,mrdata_json/usmin_Sn/Mf00374.json,Mf00374,Sullivan Creek,-150.881200853,65.091894374,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00374
+154,mrdata_json/usmin_Sn/Mo00711.json,Mo00711,"Ingersoll, Dike No. 1",-103.451735104,43.911061768,"Potassium feldspar pegmatite, Lithium pegmatite",https://mrdata.usgs.gov/deposit/json/Sn-Mo00711
+160,mrdata_json/usmin_Sn/Mo00522.json,Mo00522,Zone 2,-117.327479332,47.5568623450001,"Tin pegmatite, W veins",https://mrdata.usgs.gov/deposit/json/Sn-Mo00522
+164,mrdata_json/usmin_Sn/Mo00689.json,Mo00689,Cape Creek,-167.935740251,65.5759494100001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00689
+170,mrdata_json/usmin_Sn/Mo00728.json,Mo00728,Crowbar Gulch,-118.764481904,34.826040779,Sn skarn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00728
+177,mrdata_json/usmin_Sn/Sw00110.json,Sw00110,Surface workings,-150.911833794935,65.0784675324649,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00110
+178,mrdata_json/usmin_Sn/Mo00336.json,Mo00336,Sleitat Mountain,-157.081525311,60.0466848550001,Sn greisen,https://mrdata.usgs.gov/deposit/json/Sn-Mo00336
+185,mrdata_json/usmin_Sn/Mf00474.json,Mf00474,Tin Boom Mine,-103.589191424,43.9340945660001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00474
+189,mrdata_json/usmin_Sn/Mf00371.json,Mf00371,Deep Creek,-150.989725213,65.0579109120001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00371
+196,mrdata_json/usmin_Sn/Mo00330.json,Mo00330,Bismarck Creek,-157.039810713,62.4268796160001,20b - Sn-polymetallic veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00330
+205,mrdata_json/usmin_Sn/Mf00445.json,Mf00445,Mason Creek,-153.316666667,65.1833333330001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00445
+208,mrdata_json/usmin_Sn/Mo00337.json,Mo00337,Glacier Creek,-155.448914096,64.696065241,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00337
+211,mrdata_json/usmin_Sn/Mo00546.json,Mo00546,Bonanza Creek,-151.333880609,65.3309362700001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00546
+217,mrdata_json/usmin_Sn/Mr00126.json,Mr00126,Irish Creek District,-79.1447366639999,37.822514235,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00126
+218,mrdata_json/usmin_Sn/Mr00083.json,Mr00083,Valdez Creek District,-148.658249279,62.8111104490001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00083
+220,mrdata_json/usmin_Sn/Mo00518.json,Mo00518,Panther Run,-79.164091551,37.849990926,"Sn veins, Sn greisen",https://mrdata.usgs.gov/deposit/json/Sn-Mo00518
+229,mrdata_json/usmin_Sn/Mf00460.json,Mf00460,Anikovik River,-167.634721095,65.5035320420001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00460
+232,mrdata_json/usmin_Sn/Mo00439.json,Mo00439,Idaho Gulch,-150.910386369,65.0785693920001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00439
+238,mrdata_json/usmin_Sn/Mo00521.json,Mo00521,Zone 1,-117.328606006,47.556998569,"Tin pegmatite, W veins",https://mrdata.usgs.gov/deposit/json/Sn-Mo00521
+242,mrdata_json/usmin_Sn/Mr00140.json,Mr00140,Etta District,-103.39403284,43.8719062650001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00140
+244,mrdata_json/usmin_Sn/Sw00111.json,Sw00111,Surface workings,-150.938177909875,65.0763034402092,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00111
+245,mrdata_json/usmin_Sn/Mo00461.json,Mo00461,Potato Mountain,-167.571998104,65.6542432420001,15b - Sn veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00461
+250,mrdata_json/usmin_Sn/Mo00714.json,Mo00714,"Ingersoll, Dike No. 4",-103.452849723,43.911866106,"Potassium feldspar pegmatite, Lithium pegmatite",https://mrdata.usgs.gov/deposit/json/Sn-Mo00714
+256,mrdata_json/usmin_Sn/Mf00440.json,Mf00440,Glacier Creek,-155.448914096,64.696065241,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00440
+259,mrdata_json/usmin_Sn/Mo00517.json,Mo00517,Coosa Cassiterite,-86.192031156,32.9068121920001,"Replacement Sn, Sn in quartz veins, Placer Sn",https://mrdata.usgs.gov/deposit/json/Sn-Mo00517
+267,mrdata_json/usmin_Sn/Mo00726.json,Mo00726,"Meeke, East gossan",-118.742071012,34.8368157200001,Sn skarn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00726
+272,mrdata_json/usmin_Sn/Mr00089.json,Mr00089,Hot Springs District,-151.376243485,64.8571254610001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00089
+274,mrdata_json/usmin_Sn/Mf00375.json,Mf00375,Idaho Gulch,-150.910386369,65.0785693920001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00375
+277,mrdata_json/usmin_Sn/Mf00372.json,Mf00372,Miller Gulch,-150.932045175,65.0715547410001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00372
+281,mrdata_json/usmin_Sn/Mf00473.json,Mf00473,Peerless Mine,-103.420030992,43.8903490100001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00473
+288,mrdata_json/usmin_Sn/Mr00069.json,Mr00069,Climax District,-106.174771842,39.3767804290001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00069
+291,mrdata_json/usmin_Sn/Mo00725.json,Mo00725,"Meeke, West gossan",-118.742841404,34.836761278,Sn skarn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00725
+296,mrdata_json/usmin_Sn/Mo00715.json,Mo00715,Giant-Volney,-104.049225774,44.3768112650001,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00715
+302,mrdata_json/usmin_Sn/Mf00512.json,Mf00512,No. 1 Workings,-79.1635390389999,37.8501446390001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00512
+306,mrdata_json/usmin_Sn/Sw00117.json,Sw00117,Surface workings,-150.840880187615,65.0938023510047,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00117
+307,mrdata_json/usmin_Sn/Mf00570.json,Mf00570,Ingersoll Mine,-103.452675491,43.910926116,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00570
+318,mrdata_json/usmin_Sn/Mr00113.json,Mr00113,Tinton District,-104.044066059,44.379648079,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00113
+321,mrdata_json/usmin_Sn/Mo00710.json,Mo00710,Peerless,-103.420030992,43.8903490100001,"Potassium feldspar pegmatite, Beryllium pegmatite",https://mrdata.usgs.gov/deposit/json/Sn-Mo00710
+326,mrdata_json/usmin_Sn/Mo00492.json,Mo00492,Boulder Creek,-152.133243983,62.8833539990001,15b - Sn veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00492
+334,mrdata_json/usmin_Sn/Mo00513.json,Mo00513,Tin Boom,-103.589191424,43.9340945660001,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00513
+340,mrdata_json/usmin_Sn/Mo00713.json,Mo00713,"Ingersoll, Dike No. 3",-103.450870788,43.910703993,"Potassium feldspar pegmatite, Lithium pegmatite",https://mrdata.usgs.gov/deposit/json/Sn-Mo00713
+346,mrdata_json/usmin_Sn/Mf00376.json,Mf00376,Dalton Gulch,-150.843312694,65.098511655,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00376
+350,mrdata_json/usmin_Sn/Mf00513.json,Mf00513,No. 2 Workings,-79.166485289,37.846651115,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00513
+352,mrdata_json/usmin_Sn/Mo00510.json,Mo00510,Cowboy,-103.596359577,43.9257492840001,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00510
+359,mrdata_json/usmin_Sn/Mf00423.json,Mf00423,Cassiterite Creek,-167.168379879,65.4670949700001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00423
+364,mrdata_json/usmin_Sn/Mf00509.json,Mf00509,No. 2 Mine,-86.1919478739999,32.9065385540001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00509
+365,mrdata_json/usmin_Sn/Mo00512.json,Mo00512,Rough and Ready,-104.051448311,44.378930854,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00512
+371,mrdata_json/usmin_Sn/Mo00528.json,Mo00528,Ida Bell Dike,-167.166545217,65.476219889,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mo00528
+374,mrdata_json/usmin_Sn/Mo00440.json,Mo00440,Woodchopper Creek,-151.02061252,65.052733205,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00440
+380,mrdata_json/usmin_Sn/Mo00446.json,Mo00446,Sullivan Creek,-150.881200853,65.091894374,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00446
+386,mrdata_json/usmin_Sn/Sw00114.json,Sw00114,Surface workings,-150.991411524142,65.0570167945755,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00114
+387,mrdata_json/usmin_Sn/Mf00369.json,Mf00369,Daisy,-167.571998104,65.6542432420001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00369
+389,mrdata_json/usmin_Sn/Mf00441.json,Mf00441,Greenstone Creek,-155.532819369,64.2989720730001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00441
+392,mrdata_json/usmin_Sn/Mr00139.json,Mr00139,Hugo District,-103.409489806,43.8772613620001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00139
+394,mrdata_json/usmin_Sn/Mf00450.json,Mf00450,Cowboy Mine,-103.596359577,43.9257492840001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00450
+401,mrdata_json/usmin_Sn/Mf00451.json,Mf00451,Birch Creek,-155.358792281,64.4586643270001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00451
+403,mrdata_json/usmin_Sn/Mo00511.json,Mo00511,Gertie,-103.58882698,43.920329732,Tin-Tungsten pegmatite,https://mrdata.usgs.gov/deposit/json/Sn-Mo00511
+408,mrdata_json/usmin_Sn/Mf00511.json,Mf00511,No. 7 Mine,-86.195124455,32.904991904,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00511
+409,mrdata_json/usmin_Sn/Sw00112.json,Sw00112,Surface workings,-150.899494114857,65.0833379672558,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00112
+410,mrdata_json/usmin_Sn/Mo00524.json,Mo00524,Zone 4,-117.326859483,47.558023522,"Tin pegmatite, W veins",https://mrdata.usgs.gov/deposit/json/Sn-Mo00524
+414,mrdata_json/usmin_Sn/Sw00121.json,Sw00121,Surface workings,-104.049560781313,44.3777056972451,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00121
+415,mrdata_json/usmin_Sn/Mf00453.json,Mf00453,Big Creek,-155.452923821,64.664620331,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00453
+418,mrdata_json/usmin_Sn/Mr00085.json,Mr00085,Aniak District,-157.800747112,61.3170400720001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00085
+420,mrdata_json/usmin_Sn/Sw00113.json,Sw00113,Surface workings,-150.881224995951,65.0933611195807,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00113
+421,mrdata_json/usmin_Sn/Mo00547.json,Mo00547,Cape Mountain,-167.956425,65.5839,15b - Sn veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00547
+428,mrdata_json/usmin_Sn/Mr00142.json,Mr00142,Black Range District,-107.955735606,33.427904486,"Placer Sn, Rhyolite-hosted Sn",https://mrdata.usgs.gov/deposit/json/Sn-Mr00142
+439,mrdata_json/usmin_Sn/Mf00343.json,Mf00343,Cape Creek,-167.93574,65.575949,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00343
+444,mrdata_json/usmin_Sn/Mr00104.json,Mr00104,Ruby District,-154.7656101,64.412918205,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00104
+446,mrdata_json/usmin_Sn/Mr00143.json,Mr00143,Gorman District,-118.745899319,34.8435003880001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00143
+450,mrdata_json/usmin_Sn/Mf00444.json,Mf00444,Patterson Creek,-150.934894795,65.0437153070001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00444
+454,mrdata_json/usmin_Sn/Mr00013.json,Mr00013,Bristol Bay Region,-156.559921987,59.6307964480001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00013
+456,mrdata_json/usmin_Sn/Mo00262.json,Mo00262,Climax,-106.164702132,39.369089811,Climax Mo,https://mrdata.usgs.gov/deposit/json/Sn-Mo00262
+469,mrdata_json/usmin_Sn/Mr00088.json,Mr00088,Melozitna District,-152.652648727,65.533644339,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00088
+471,mrdata_json/usmin_Sn/Mo00527.json,Mo00527,Cassiterite Dike,-167.162749977,65.4754108720001,"14b - Sn skarn, 15c - Sn greisen",https://mrdata.usgs.gov/deposit/json/Sn-Mo00527
+479,mrdata_json/usmin_Sn/Mo00723.json,Mo00723,Cave Peak,-104.881309938,31.4396873310001,Porphyry Mo,https://mrdata.usgs.gov/deposit/json/Sn-Mo00723
+490,mrdata_json/usmin_Sn/Mo00374.json,Mo00374,Coal Creek,-149.863276864,62.9919985060001,15c - Sn greisen,https://mrdata.usgs.gov/deposit/json/Sn-Mo00374
+498,mrdata_json/usmin_Sn/Mf00373.json,Mf00373,Tofty Gulch,-150.901383441,65.0851319440001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00373
+502,mrdata_json/usmin_Sn/Sw00019.json,Sw00019,Surface workings,-106.183140852519,39.4024202057735,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Sw00019
+503,mrdata_json/usmin_Sn/Mo00435.json,Mo00435,Midnight Creek,-155.535451053,64.3184750570001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00435
+506,mrdata_json/usmin_Sn/Mf00354.json,Mf00354,Lost River Mine,-167.158581089,65.475308516,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00354
+515,mrdata_json/usmin_Sn/Mf00518.json,Mf00518,Silver Hill Mine,-117.32717714,47.55750956,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00518
+520,mrdata_json/usmin_Sn/Mr00087.json,Mr00087,Circle District,-144.445244511,65.4603415340001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00087
+522,mrdata_json/usmin_Sn/Mo00332.json,Mo00332,Won,-155.672579108,63.4933401750001,15b - Sn veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00332
+529,mrdata_json/usmin_Sn/Mo00712.json,Mo00712,"Ingersoll, Dike No. 2",-103.453435594,43.9116487420001,"Potassium feldspar pegmatite, Lithium pegmatite",https://mrdata.usgs.gov/deposit/json/Sn-Mo00712
+535,mrdata_json/usmin_Sn/Mr00111.json,Mr00111,Keystone District,-103.429068858,43.902755047,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00111
+537,mrdata_json/usmin_Sn/Mf00481.json,Mf00481,Rough and Ready Mine,-104.051448311,44.378930854,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00481
+541,mrdata_json/usmin_Sn/Mf00370.json,Mf00370,Woodchopper Creek,-151.02061252,65.052733205,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00370
+545,mrdata_json/usmin_Sn/Mo00438.json,Mo00438,Deep Creek,-150.966653959,65.0666482930001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00438
+550,mrdata_json/usmin_Sn/Mr00105.json,Mr00105,Mcgrath District,-154.237369757,62.8745966650001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mr00105
+552,mrdata_json/usmin_Sn/Mf00442.json,Mf00442,Midnight Creek,-155.535451053,64.3184750570001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00442
+557,mrdata_json/usmin_Sn/Mo00515.json,Mo00515,McAllister,-86.2485689969999,32.8855536190001,Lithium-Cesium-Tantalum pegmatites,https://mrdata.usgs.gov/deposit/json/Sn-Mo00515
+566,mrdata_json/usmin_Sn/Mo00378.json,Mo00378,Buck Creek,-167.521369671,65.6491291180001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00378
+574,mrdata_json/usmin_Sn/Mf00452.json,Mf00452,Gertie Mine,-103.58882698,43.920329732,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00452
+579,mrdata_json/usmin_Sn/Mf00347.json,Mf00347,Buck Creek,-167.52137,65.6491290000001,Unknown,https://mrdata.usgs.gov/deposit/json/Sn-Mf00347
+586,mrdata_json/usmin_Sn/Mo00434.json,Mo00434,Cassiterite Creek,-167.168379879,65.4670949700001,39e - Alluvial placer Sn,https://mrdata.usgs.gov/deposit/json/Sn-Mo00434
+590,mrdata_json/usmin_Sn/Mo00724.json,Mo00724,Franklin Mountains Tin,-106.487613232,31.9360842140001,Sn veins,https://mrdata.usgs.gov/deposit/json/Sn-Mo00724

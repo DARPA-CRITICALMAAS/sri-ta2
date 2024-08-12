@@ -1,0 +1,296 @@
+,deposit_id,deposit_name,url
+0,Sw00134,Surface workings,https://mrdata.usgs.gov/deposit/json/Li-Sw00134
+1,Sw00128,Surface workings,https://mrdata.usgs.gov/deposit/json/Li-Sw00128
+2,Sw00129,Surface workings,https://mrdata.usgs.gov/deposit/json/Li-Sw00129
+3,Sw00135,Surface workings,https://mrdata.usgs.gov/deposit/json/Li-Sw00135
+4,Mf00293,"Smackover-Lanxess, BSW-4S",https://mrdata.usgs.gov/deposit/json/Li-Mf00293
+5,Mf00294,"Smackover-Lanxess, BSW-5S",https://mrdata.usgs.gov/deposit/json/Li-Mf00294
+6,Mf00295,"Smackover-Lanxess, BSW-10S",https://mrdata.usgs.gov/deposit/json/Li-Mf00295
+7,Mf00296,"Smackover-Lanxess, BSW-20S",https://mrdata.usgs.gov/deposit/json/Li-Mf00296
+8,Mf00297,"Smackover-Lanxess, BSW-21S",https://mrdata.usgs.gov/deposit/json/Li-Mf00297
+9,Mf00298,"Smackover-Lanxess, BSW-13",https://mrdata.usgs.gov/deposit/json/Li-Mf00298
+10,Mf00299,"Smackover-Lanxess, BSW-14",https://mrdata.usgs.gov/deposit/json/Li-Mf00299
+11,Mf00300,"Smackover-Lanxess, BSW-15",https://mrdata.usgs.gov/deposit/json/Li-Mf00300
+12,Mf00301,"Smackover-Lanxess, Spencer 1",https://mrdata.usgs.gov/deposit/json/Li-Mf00301
+13,Mf00302,"Smackover-Lanxess, H. Carroll 1",https://mrdata.usgs.gov/deposit/json/Li-Mf00302
+14,Mf00303,"Smackover-Lanxess, Joy Kadison 2",https://mrdata.usgs.gov/deposit/json/Li-Mf00303
+15,Mf00306,"Smackover-Lanxess, BSW-5M",https://mrdata.usgs.gov/deposit/json/Li-Mf00306
+16,Mf00307,"Smackover-Lanxess, BSW-6M",https://mrdata.usgs.gov/deposit/json/Li-Mf00307
+17,Mf00308,"Smackover-Lanxess, BSW-7M",https://mrdata.usgs.gov/deposit/json/Li-Mf00308
+18,Mf00309,"Smackover-Lanxess, BSW-A8M",https://mrdata.usgs.gov/deposit/json/Li-Mf00309
+19,Mf00310,"Smackover-Lanxess, BSW-10M",https://mrdata.usgs.gov/deposit/json/Li-Mf00310
+20,Mf00311,"Smackover-Lanxess, BSW-12M",https://mrdata.usgs.gov/deposit/json/Li-Mf00311
+21,Mf00312,"Smackover-Lanxess, BSW-13M",https://mrdata.usgs.gov/deposit/json/Li-Mf00312
+22,Mf00313,"Smackover-Lanxess, BSW-14M",https://mrdata.usgs.gov/deposit/json/Li-Mf00313
+23,Mf00314,"Smackover-Lanxess, BSW-15M",https://mrdata.usgs.gov/deposit/json/Li-Mf00314
+24,Mf00315,"Smackover-Lanxess, BSW-16M",https://mrdata.usgs.gov/deposit/json/Li-Mf00315
+25,Mf00316,"Smackover-Lanxess, BSW-17M",https://mrdata.usgs.gov/deposit/json/Li-Mf00316
+26,Mf00317,"Smackover-Lanxess, BSW-18M",https://mrdata.usgs.gov/deposit/json/Li-Mf00317
+27,Mf00318,"Smackover-Lanxess, BSW-19M",https://mrdata.usgs.gov/deposit/json/Li-Mf00318
+28,Mo00612,"Smackover-Lanxess, South Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00612
+29,Mo00616,"Smackover-Lanxess, Central Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00616
+30,Mo00617,"Smackover-Lanxess, West Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00617
+31,Mr00127,Regional Smackover brine,https://mrdata.usgs.gov/deposit/json/Li-Mr00127
+32,Mo00647,"Smackover-Tetra, North Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00647
+33,Mo00648,"Smackover-Tetra, South Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00648
+34,Mf00304,"Fort Cady, Pilot plant",https://mrdata.usgs.gov/deposit/json/Li-Mf00304
+35,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+36,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+37,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+38,Mr00159,Salton Trough,https://mrdata.usgs.gov/deposit/json/Li-Mr00159
+39,Mf00292,"Searles Lake, Searles Lake mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00292
+40,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+41,Mo00697,"Searles Lake, Searles Lake evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00697
+42,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+43,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+44,Mf00287,"Bessemer City, Hallman-Beam mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00287
+45,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+46,Mr00161,Kings Mountain District,https://mrdata.usgs.gov/deposit/json/Li-Mr00161
+47,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+48,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+49,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+50,Mo00577,"Kings Valley, Stage 3 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00577
+51,Mo00580,"Kings Valley, Stage 4 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00580
+52,Mo00581,"Kings Valley, Stage 5 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00581
+53,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+54,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+55,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+56,Mo00587,"Rhyolite Ridge, North Basin occurrence",https://mrdata.usgs.gov/deposit/json/Li-Mo00587
+57,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+58,Mf00291,"Clayton Valley brine operation, Silver Peak mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00291
+59,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+60,Mr00080,Silver Peak Marsh,https://mrdata.usgs.gov/deposit/json/Li-Mr00080
+61,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640
+62,Mr00162,McDermitt Caldera,https://mrdata.usgs.gov/deposit/json/Li-Mr00162
+63,Mo00641,"Great Salt Lake, North Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00641
+64,Mo00642,"Great Salt Lake, South Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00642
+65,Mr00127,Regional Smackover brine,https://mrdata.usgs.gov/deposit/json/Li-Mr00127
+66,Mo00617,"Smackover-Lanxess, West Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00617
+67,Mo00616,"Smackover-Lanxess, Central Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00616
+68,Mo00612,"Smackover-Lanxess, South Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00612
+69,Mo00647,"Smackover-Tetra, North Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00647
+70,Mo00648,"Smackover-Tetra, South Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00648
+71,Mr00159,Salton Trough,https://mrdata.usgs.gov/deposit/json/Li-Mr00159
+72,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+73,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+74,Mo00697,"Searles Lake, Searles Lake evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00697
+75,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+76,Mr00161,Kings Mountain District,https://mrdata.usgs.gov/deposit/json/Li-Mr00161
+77,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+78,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+79,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+80,Mr00162,McDermitt Caldera,https://mrdata.usgs.gov/deposit/json/Li-Mr00162
+81,Mr00080,Silver Peak Marsh,https://mrdata.usgs.gov/deposit/json/Li-Mr00080
+82,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+83,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+84,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+85,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640
+86,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+87,Mo00581,"Kings Valley, Stage 5 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00581
+88,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+89,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+90,Mo00580,"Kings Valley, Stage 4 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00580
+91,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+92,Mo00577,"Kings Valley, Stage 3 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00577
+93,Mo00642,"Great Salt Lake, South Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00642
+94,Mo00641,"Great Salt Lake, North Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00641
+95,Mo00612,"Smackover-Lanxess, South Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00612
+96,Mo00616,"Smackover-Lanxess, Central Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00616
+97,Mo00617,"Smackover-Lanxess, West Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00617
+98,Mo00647,"Smackover-Tetra, North Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00647
+99,Mo00648,"Smackover-Tetra, South Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00648
+100,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+101,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+102,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+103,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+104,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+105,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+106,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+107,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+108,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+109,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+110,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+111,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+112,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+113,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+114,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+115,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+116,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+117,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+118,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+119,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+120,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+121,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+122,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+123,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+124,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+125,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+126,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+127,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+128,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+129,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+130,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+131,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+132,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+133,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+134,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+135,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+136,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+137,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+138,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+139,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+140,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+141,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+142,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+143,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+144,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+145,Mo00577,"Kings Valley, Stage 3 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00577
+146,Mo00580,"Kings Valley, Stage 4 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00580
+147,Mo00581,"Kings Valley, Stage 5 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00581
+148,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+149,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+150,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+151,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+152,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+153,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+154,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+155,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+156,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+157,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+158,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+159,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+160,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+161,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+162,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+163,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+164,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+165,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640
+166,Mo00641,"Great Salt Lake, North Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00641
+167,Mo00642,"Great Salt Lake, South Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00642
+168,Mo00612,"Smackover-Lanxess, South Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00612
+169,Mo00616,"Smackover-Lanxess, Central Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00616
+170,Mo00617,"Smackover-Lanxess, West Unit",https://mrdata.usgs.gov/deposit/json/Li-Mo00617
+171,Mo00647,"Smackover-Tetra, North Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00647
+172,Mo00648,"Smackover-Tetra, South Resource Area",https://mrdata.usgs.gov/deposit/json/Li-Mo00648
+173,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+174,Mo00611,"Fort Cady, Fort Cady evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00611
+175,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+176,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+177,Mo00697,"Searles Lake, Searles Lake evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00697
+178,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+179,Mo00568,"Bessemer City, Bessemer City deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00568
+180,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+181,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+182,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+183,Mo00577,"Kings Valley, Stage 3 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00577
+184,Mo00580,"Kings Valley, Stage 4 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00580
+185,Mo00581,"Kings Valley, Stage 5 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00581
+186,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+187,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+188,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+189,Mo00587,"Rhyolite Ridge, North Basin occurrence",https://mrdata.usgs.gov/deposit/json/Li-Mo00587
+190,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+191,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+192,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640
+193,Mo00641,"Great Salt Lake, North Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00641
+194,Mo00642,"Great Salt Lake, South Arm",https://mrdata.usgs.gov/deposit/json/Li-Mo00642
+195,Mf00293,"Smackover-Lanxess, BSW-4S",https://mrdata.usgs.gov/deposit/json/Li-Mf00293
+196,Mf00294,"Smackover-Lanxess, BSW-5S",https://mrdata.usgs.gov/deposit/json/Li-Mf00294
+197,Mf00295,"Smackover-Lanxess, BSW-10S",https://mrdata.usgs.gov/deposit/json/Li-Mf00295
+198,Mf00296,"Smackover-Lanxess, BSW-20S",https://mrdata.usgs.gov/deposit/json/Li-Mf00296
+199,Mf00297,"Smackover-Lanxess, BSW-21S",https://mrdata.usgs.gov/deposit/json/Li-Mf00297
+200,Mf00298,"Smackover-Lanxess, BSW-13",https://mrdata.usgs.gov/deposit/json/Li-Mf00298
+201,Mf00299,"Smackover-Lanxess, BSW-14",https://mrdata.usgs.gov/deposit/json/Li-Mf00299
+202,Mf00300,"Smackover-Lanxess, BSW-15",https://mrdata.usgs.gov/deposit/json/Li-Mf00300
+203,Mf00301,"Smackover-Lanxess, Spencer 1",https://mrdata.usgs.gov/deposit/json/Li-Mf00301
+204,Mf00302,"Smackover-Lanxess, H. Carroll 1",https://mrdata.usgs.gov/deposit/json/Li-Mf00302
+205,Mf00303,"Smackover-Lanxess, Joy Kadison 2",https://mrdata.usgs.gov/deposit/json/Li-Mf00303
+206,Mf00306,"Smackover-Lanxess, BSW-5M",https://mrdata.usgs.gov/deposit/json/Li-Mf00306
+207,Mf00307,"Smackover-Lanxess, BSW-6M",https://mrdata.usgs.gov/deposit/json/Li-Mf00307
+208,Mf00308,"Smackover-Lanxess, BSW-7M",https://mrdata.usgs.gov/deposit/json/Li-Mf00308
+209,Mf00309,"Smackover-Lanxess, BSW-A8M",https://mrdata.usgs.gov/deposit/json/Li-Mf00309
+210,Mf00310,"Smackover-Lanxess, BSW-10M",https://mrdata.usgs.gov/deposit/json/Li-Mf00310
+211,Mf00311,"Smackover-Lanxess, BSW-12M",https://mrdata.usgs.gov/deposit/json/Li-Mf00311
+212,Mf00312,"Smackover-Lanxess, BSW-13M",https://mrdata.usgs.gov/deposit/json/Li-Mf00312
+213,Mf00313,"Smackover-Lanxess, BSW-14M",https://mrdata.usgs.gov/deposit/json/Li-Mf00313
+214,Mf00314,"Smackover-Lanxess, BSW-15M",https://mrdata.usgs.gov/deposit/json/Li-Mf00314
+215,Mf00315,"Smackover-Lanxess, BSW-16M",https://mrdata.usgs.gov/deposit/json/Li-Mf00315
+216,Mf00316,"Smackover-Lanxess, BSW-17M",https://mrdata.usgs.gov/deposit/json/Li-Mf00316
+217,Mf00317,"Smackover-Lanxess, BSW-18M",https://mrdata.usgs.gov/deposit/json/Li-Mf00317
+218,Mf00318,"Smackover-Lanxess, BSW-19M",https://mrdata.usgs.gov/deposit/json/Li-Mf00318
+219,Mf00304,"Fort Cady, Pilot plant",https://mrdata.usgs.gov/deposit/json/Li-Mf00304
+220,Mf00304,"Fort Cady, Pilot plant",https://mrdata.usgs.gov/deposit/json/Li-Mf00304
+221,Mf00292,"Searles Lake, Searles Lake mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00292
+222,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+223,Mf00287,"Bessemer City, Hallman-Beam mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00287
+224,Mf00291,"Clayton Valley brine operation, Silver Peak mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00291
+225,-1111,Smackover-Lanxess,https://mrdata.usgs.gov/deposit/json/Li--1111
+226,-1111,Smackover-Lanxess,https://mrdata.usgs.gov/deposit/json/Li--1111
+227,-1111,Smackover-Lanxess,https://mrdata.usgs.gov/deposit/json/Li--1111
+228,-1111,Smackover-Lanxess,https://mrdata.usgs.gov/deposit/json/Li--1111
+229,-1111,Smackover-Tetra,https://mrdata.usgs.gov/deposit/json/Li--1111
+230,-1111,Smackover-Tetra,https://mrdata.usgs.gov/deposit/json/Li--1111
+231,Mf00304,"Fort Cady, Pilot plant",https://mrdata.usgs.gov/deposit/json/Li-Mf00304
+232,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+233,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+234,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+235,Mo00588,"Fort Cady, Fort Cady brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00588
+236,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+237,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+238,Mo00589,"Salton Sea, Salton Sea brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00589
+239,Mf00292,"Searles Lake, Searles Lake mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00292
+240,Mf00292,"Searles Lake, Searles Lake mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00292
+241,Mo00593,"Searles Lake, Searles Lake brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00593
+242,Mo00697,"Searles Lake, Searles Lake evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00697
+243,Mo00697,"Searles Lake, Searles Lake evaporite deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00697
+244,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+245,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+246,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+247,Mf00233,"Kings Mountain, Kings Mountain mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00233
+248,Mo00567,"Kings Mountain, Foote deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00567
+249,Mf00287,"Bessemer City, Hallman-Beam mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00287
+250,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+251,Mo00639,"Piedmont, Core deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00639
+252,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+253,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+254,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+255,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+256,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+257,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+258,-1111,Kings Valley,https://mrdata.usgs.gov/deposit/json/Li--1111
+259,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+260,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+261,Mo00574,"Kings Valley, Thacker Pass deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00574
+262,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+263,Mo00576,"Kings Valley, Stage 2 Lens",https://mrdata.usgs.gov/deposit/json/Li-Mo00576
+264,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+265,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+266,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+267,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+268,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+269,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+270,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+271,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+272,Mo00582,"Clayton Valley-Zeus, Zeus deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00582
+273,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+274,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+275,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+276,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+277,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+278,Mo00584,"Clayton Valley South, Clayton Valley South deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00584
+279,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+280,Mo00585,"Rhyolite Ridge, South Basin deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00585
+281,Mo00587,"Rhyolite Ridge, North Basin occurrence",https://mrdata.usgs.gov/deposit/json/Li-Mo00587
+282,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+283,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+284,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+285,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+286,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+287,Mo00572,"Clayton Valley-Cypress, Clayton Valley-Cypress deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00572
+288,Mf00291,"Clayton Valley brine operation, Silver Peak mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00291
+289,Mf00291,"Clayton Valley brine operation, Silver Peak mine",https://mrdata.usgs.gov/deposit/json/Li-Mf00291
+290,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+291,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+292,Mo00586,"Clayton Valley brine operation, Clayton Valley brine deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00586
+293,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640
+294,Mo00640,"Bonnie Claire, Bonnie Claire deposit",https://mrdata.usgs.gov/deposit/json/Li-Mo00640

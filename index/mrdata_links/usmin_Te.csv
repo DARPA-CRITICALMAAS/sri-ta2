@@ -1,0 +1,12 @@
+,deposit_id,deposit_name,url
+0,Sw00023,Surface workings,https://mrdata.usgs.gov/deposit/json/Te-Sw00023
+1,Mf00244,"Butte, Berkeley pit",https://mrdata.usgs.gov/deposit/json/Te-Mf00244
+2,Mf00245,"Butte, Continental pit",https://mrdata.usgs.gov/deposit/json/Te-Mf00245
+3,Mo00783,"Butte, Butte deposit",https://mrdata.usgs.gov/deposit/json/Te-Mo00783
+4,Mr00016,Butte Mining District,https://mrdata.usgs.gov/deposit/json/Te-Mr00016
+22,Mf00244,NA,https://mrdata.usgs.gov/deposit/json/Te-Mf00244
+23,Mf00245,NA,https://mrdata.usgs.gov/deposit/json/Te-Mf00245
+24,Mo00783,NA,https://mrdata.usgs.gov/deposit/json/Te-Mo00783
+25,Mr00016,NA,https://mrdata.usgs.gov/deposit/json/Te-Mr00016
+26,-1111,Butte,https://mrdata.usgs.gov/deposit/json/Te--1111
+42,,,https://mrdata.usgs.gov/deposit/json/Te-nan

@@ -1,0 +1,7 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Ga/Mo00233.json,Mo00233,"['Round Top, Round Top deposit']",-105.476203632,-105.476203632,['Peralkaline intrusion-related REE deposits'],https://mrdata.usgs.gov/deposit/json/Ga-Mo00233
+1,mrdata_json/usmin_Ga/Mo00849.json,Mo00849,"['Apex, Apex surface dumps']",-113.80572895,-113.80572895,['32c - Kipushi Cu-Pb-Zn'],https://mrdata.usgs.gov/deposit/json/Ga-Mo00849
+2,mrdata_json/usmin_Ga/Mr00187.json,Mr00187,['Tutsagubet Mining District'],-113.877,-113.877,[None],https://mrdata.usgs.gov/deposit/json/Ga-Mr00187
+3,mrdata_json/usmin_Ga/Mf00589.json,Mf00589,"['Apex, Apex mine']",-113.803888889,-113.803888889,[None],https://mrdata.usgs.gov/deposit/json/Ga-Mf00589
+4,mrdata_json/usmin_Ga/Mo00838.json,Mo00838,"['Apex, Apex deposit']",-113.803888889,-113.803888889,['32c - Kipushi Cu-Pb-Zn'],https://mrdata.usgs.gov/deposit/json/Ga-Mo00838
+5,mrdata_json/usmin_Ga/Mr00176.json,Mr00176,['Sierra Blanca mining area'],-105.44504943,-105.44504943,[None],https://mrdata.usgs.gov/deposit/json/Ga-Mr00176

@@ -1,0 +1,982 @@
+,deposit_id,deposit_name,latitude,longitude,deposit_model,url
+0,508,Sardalas,25.7926,10.4503,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=508
+1,563,Biserica Slanic,46.25,26.55,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=563
+2,839,Deep Springs Lake,37.2738,-118.0451,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=839
+3,255,Flachstockheim,52.084,10.439,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=255
+4,802,Modrych,49.3181,23.4804,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=802
+5,964,Mosqueiro area,-11.0167,-37.1833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=964
+6,392,Mount Sdom,31.08,35.39,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=392
+7,750,Sabkha el Mehabeul,33.4125,10.8517,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=750
+8,361,Tsokar Lake,33.304,78.008,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=361
+9,476,sylvite occurrence,47.4646,58.946,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=476
+10,915,Vaughn,42.373,-104.617,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=915
+11,580,Balykley,49.5667,45.1667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=580
+12,583,Boevogor,51.1025,54.9497,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=583
+13,429,Bolganmola,49.225,49.597,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=429
+14,26,Bury No. 1,-25.0444,145.6056,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=26
+15,136,Dachaidan,37.83,95.23,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=136
+16,987,Dangxiongcuo,31.5772,86.7268,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=987
+17,790,Dologoluka,49.1682,23.6856,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=790
+18,988,Fuerti,39.5167,9.0167,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=988
+19,986,Gas Hure,38.1333,90.75,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=986
+20,101,Havre-Aubert,47.235,-61.948,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=101
+21,861,Hecla Day,32.2896,-103.7813,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=861
+22,373,Hormuz Island,27.0663,56.4585,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=373
+23,733,Jisr Ash Shaddadi,36.0667,40.75,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=733
+24,795,Kalmius-Toretskaya A,48.6683,36.9578,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=795
+25,377,Khurghoo,27.5445,56.295,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=377
+26,448,Lake Inder,48.4603,51.86,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=448
+27,629,Linevenoe,51.1406,54.1169,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=629
+28,636,Mertvosol,51.2747,54.8981,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=636
+29,639,Mokrousov,51.293,48.025,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=639
+30,475,occurrence,48.6678,58.499,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=475
+31,956,Petrobras potash occurrence,-3.6626,-58.9041,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=956
+32,653,Roven,50.7667,46.05,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=653
+33,968,Salinas Grandes,-23.623,-65.873,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=968
+34,775,Sundukli,38.3449,64.4709,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=775
+35,510,Tauorga,31.917,15.2,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=510
+36,709,Yartsevo,55.0667,32.6667,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=709
+37,514,Zuwarah,32.933,12.067,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=514
+38,62,Aneba,-2.796,-58.774,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=62
+39,162,Mengla,21.4667,101.5833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=162
+40,577,Abganerov,48.1374,44.1059,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=577
+41,499,Abu Khammash,33.0484,11.7264,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=499
+42,417,Alekseev,50.9667,52.4167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=417
+43,516,Taoudenni,22.667,-3.9833,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=516
+44,186,Abu Nigar A,27.3307,33.9083,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=186
+45,187,Abu Shaar NE 1,27.446,33.7481,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=187
+46,916,Adamtash,38.6581,67.1321,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=916
+47,500,Agedabia,30.6,19.917,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=500
+48,719,Agenaise,41.882,1.856,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=719
+49,130,Agua Verde,-25.4,-70.0333,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=130
+50,233,Ahnebergen-Hauslingen,52.85,9.333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=233
+51,917,Aizovat,38.967,65.3,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=917
+52,918,Akbash,38.1703,66.571,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=918
+53,416,Akdzhar,49.35,57.85,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=416
+54,414,Akmal,49.359,49.026,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=414
+55,423,Bajsak,48.3333,54.25,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=423
+56,919,Akrabat,38.2706,66.7906,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=919
+57,578,Aksaray,46.8473,48.0437,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=578
+58,415,Akshat,50.4422,57.3172,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=415
+59,501,Al Jawi,31.5813,20.3939,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=501
+60,502,Al Kufrah,24.1833,23.1333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=502
+61,712,Al Qunfudhah,19.1228,41.0856,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=712
+62,213,Alex,47.854,7.274,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=213
+63,234,Alexandershall,50.928,10.056,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=234
+64,720,Alfa,41.838,1.66,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=720
+65,985,Alimtay,37.749,69.432,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=985
+66,102,Allan,51.9318,-106.0744,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=102
+67,579,Altatinskiy,51.191,49.033,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=579
+68,920,Alyaudyn-Tau,38.4,65.55,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=920
+69,367,Amarloo,32.32,50.83,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=367
+70,859,Amax,32.6708,-103.9681,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=859
+71,214,Amelie,47.794,7.2485,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=214
+72,215,Anna,47.7954,7.2995,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=215
+73,216,Anna West,47.7949,7.2964,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=216
+74,696,Borovski,59.7564,56.8002,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=696
+75,426,Bestamak,50.0472,57.351,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=426
+76,100,Anse-a-la-Cabane,47.387,-61.947,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=100
+77,952,Aracaju area,-10.905,-37.0786,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=952
+78,419,Araltyubessor,49.478,48.239,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=419
+79,63,Arari,-3.3997,-58.6631,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=63
+80,889,Arths Pasture,38.6119,-109.7169,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=889
+81,420,Asche-Bulak,49.3606,56.5731,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=420
+82,235,Aschersleben,51.7656,11.4276,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=235
+83,236,Asse,52.1297,10.6705,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=236
+84,394,Assoro,37.617,14.417,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=394
+85,360,Astakos 1,38.562,21.114,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=360
+86,421,Auketaychagyl,48.953,49.968,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=421
+87,422,Azikuduk,48.384,52.332,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=422
+88,781,Bakhmutskaya,48.6494,37.3419,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=781
+89,690,Balakhontsevo,59.2589,56.8831,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=690
+90,562,Baltatesti Cracaoani,47.1064,26.3023,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=562
+91,737,Bamnet Narong,15.497,101.687,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=737
+92,424,Barkhannaya,48.537,51.087,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=424
+93,536,Barradeel,53.217,5.517,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=536
+94,890,Bartlett Flat,38.645,-109.8647,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=890
+95,425,Barylbaj,48.6667,54.5,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=425
+96,581,Baskunchak,48.2025,46.9288,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=581
+97,552,Bayovar,-5.689,-80.624,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=552
+98,582,Bazyrev,51.0814,54.4489,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=582
+99,891,Beehive Butte,38.5525,-109.8294,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=891
+100,237,Beesen-Laublingen,51.717,11.7,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=237
+101,188,Behar NE 1,27.7481,33.5515,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=188
+102,238,Beienrode-Dorm,52.305,10.824,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=238
+103,921,Belesyainak,38.3891,66.4833,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=921
+104,782,Belina Velikaya,49.5294,23.46,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=782
+105,241,Bestandigkeit,51.975,10.131,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=241
+106,103,Belle-Plaine,50.4295,-105.1976,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=103
+107,524,Ben Hillal,32.8,-8.3333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=524
+108,310,Benthe,52.35,9.65,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=310
+109,692,Berezniki 1,59.3901,56.7775,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=692
+110,693,Berezniki 2,59.3448,56.9284,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=693
+111,694,Berezniki 3,59.2788,56.8435,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=694
+112,695,Berezniki 4,59.4289,56.8722,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=695
+113,239,Bergmannssegen-Hugo,52.3464,9.9577,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=239
+114,721,Beriain,42.7333,-1.6333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=721
+115,258,Bernburg,51.775,11.7312,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=258
+116,240,Bernterode,51.416,10.457,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=240
+117,525,Berrichid,33.25,-7.4333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=525
+118,922,Beshkent,38.821,65.653,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=922
+119,722,Beta,41.824,1.826,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=722
+120,362,Bharusari,29.3083,74.2717,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=362
+121,885,Big Hill,29.3039,-95.8883,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=885
+122,427,Biikzhal,46.8669,54.6636,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=427
+123,783,Bilyna Velyka,49.5209,23.5282,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=783
+124,428,Bis-Buljuk,47.3333,53.3333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=428
+125,242,Bischofferode,51.4905,10.4149,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=242
+126,210,Black Mountain,14.2207,40.2869,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=210
+127,243,Bleicherode,51.4523,10.5976,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=243
+128,244,Bokeloh,52.4,9.4,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=244
+129,232,Bokolo area,-2.646,10.242,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=232
+130,784,Bolekhov,49.0727,23.859,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=784
+131,478,sylvite occurrence,45.5014,57.1419,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=478
+132,785,Bolokhov,49.2965,23.9046,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=785
+133,24,Bonnie No. 1,-25.0003,145.3669,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=24
+134,25,Boree No. 1,-24.7589,145.5767,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=25
+135,245,Borth,51.6,6.55,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=245
+136,786,Borislav,49.3153,23.4538,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=786
+137,526,Boufekrane,33.883,-5.55,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=526
+138,87,Boularderie,46.0753,-60.6439,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=87
+139,837,Boulby,54.5524,-0.8251,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=837
+140,104,Bredenbury,50.9424,-102.0457,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=104
+141,886,Bryan Mound,28.9164,-95.3772,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=886
+142,246,Buggingen,47.8581,7.6195,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=246
+143,584,Buran,50.9786,54.4647,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=584
+144,247,Burbach,52.25,11.09,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=247
+145,105,Burr,52.0121,-105.1949,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=105
+146,585,Buzuluk,52.417,52.25,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=585
+147,697,Bygelsko-Troizki,59.4297,56.9594,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=697
+148,588,Chapaev,47.65,44.515,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=588
+149,564,Calu,46.8353,26.4374,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=564
+150,892,Cane Creek,38.5225,-109.6578,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=892
+151,82,Captain Cook 1,48.4025,-58.5291,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=82
+152,723,Cardona,41.9045,1.6766,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=723
+153,848,Carey,38.0472,-97.8721,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=848
+154,858,Carlsbad District,32.4903,-103.9375,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=858
+155,867,Carlsbad-Lea Mine,32.5708,-103.5519,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=867
+156,248,Carlsfund,51.951,10.108,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=248
+157,842,Carmack Potash,38.3358,-108.8726,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=842
+158,446,Central Kurgantau,48.548,51.907,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=446
+159,565,Cerdac,46.2337,26.4954,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=565
+160,5,Cerro Chiuido Sur-Canadon Amarillo,-36.9287,-69.4003,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=5
+161,518,Cerro Prieto,32.425,-115.2786,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=518
+162,156,Chalaka,32.912,82.513,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=156
+163,587,Chalyklin,51.1667,49.4,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=587
+164,430,Chapurin,51.5833,51.0167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=430
+165,753,Chashranta,37.5856,66.1969,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=753
+166,754,Chashtepe,39.1991,63.5844,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=754
+167,738,Chaturaphak-Phiman,15.85,103.55,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=738
+168,368,Chehr Abad,36.9144,47.8589,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=368
+169,431,Chelkar,50.5656,51.699,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=431
+170,31,Chervonaya Sloboda,52.5237,28.4651,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=31
+171,432,Chinarev,51.5631,52.4692,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=432
+172,557,Chlapcwo,54.7833,18.2833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=557
+173,748,Chott Djerid,33.7167,8.6167,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=748
+174,589,Chukhonastov,49.8667,45.1,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=589
+175,88,Cleveland,45.6478,-61.154,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=88
+176,137,Dalangtan,38.5597,91.3939,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=137
+177,79,Clover Hill,45.56,-65.5708,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=79
+178,207,Colluli,14.392,40.345,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=207
+179,106,Colonsay,51.9331,-105.7664,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=106
+180,249,Conow,53.223,11.331,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=249
+181,395,Corvillo,37.631,14.133,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=395
+182,107,Cory,52.093,-106.8534,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=107
+183,396,Cozzo Campana,37.517,14.096,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=396
+184,211,Crescent,14.2417,40.2972,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=211
+185,566,Cucueti Vest,46.3162,26.5528,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=566
+186,567,Cucueti-Culmea Berzunti,46.4087,26.6501,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=567
+187,568,Cut,46.8836,26.4164,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=568
+188,141,Dabiele,37.0192,94.557,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=141
+189,142,Dabusun,36.9166,95.25,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=142
+190,208,Dallol,14.35,40.2333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=208
+191,209,Danikil,14.33,40.26,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=209
+192,992,Darasinsky,52.9,27.78,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=992
+193,923,Darbaza,39.2179,64.8379,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=923
+194,590,Datyi,42.94,45.291,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=590
+195,153,Dawenkou,35.948,117.096,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=153
+196,217,Dax,43.7083,-1.0494,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=217
+197,108,Day Star,51.517,-104.223,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=108
+198,893,Dead Man Point,38.6017,-109.9661,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=893
+199,787,Delyatin,48.516,24.6776,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=787
+200,591,Demidov,49.2333,45.3667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=591
+201,924,Dengizkul,39.095,64.118,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=924
+202,250,Desdemona,52.012,9.792,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=250
+203,547,Dhariala,32.65,73.219,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=547
+204,251,Dietlas,50.817,10.083,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=251
+205,854,Dixie Marsh,39.8333,-117.9642,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=854
+206,788,Dobrohostiv,49.2387,23.6266,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=788
+207,592,Dolina,51.1465,47.4179,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=592
+208,789,Dolina,48.9854,23.977,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=789
+209,791,Dombrov,49.1887,24.4508,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=791
+210,143,Dongling,37.283,94.8287,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=143
+211,755,Donguzsyrt,37.4667,65.4094,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=755
+212,433,Dossor,47.5272,52.9811,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=433
+213,527,Doukkala,32.5993,-8.8536,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=527
+214,434,Dragomirov,50.5667,57.1,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=434
+215,894,Dripping Spring,38.7542,-109.9414,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=894
+216,593,Dubov,49.0556,44.8287,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=593
+217,698,Duryman,59.3033,56.9369,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=698
+218,369,Duz Kand,36.5042,47.8958,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=369
+219,594,Dvoryan,50.245,45.275,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=594
+220,435,Dzhamantau,48.3333,51.8667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=435
+221,925,Dzhambulak,38.8666,66.4006,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=925
+222,444,Dzhien-Kazgantau,48.585,51.904,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=444
+223,370,Gave Khoni,32.0672,52.7697,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=370
+224,845,Eagle,39.691,-106.898,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=845
+225,926,East Karail,38.7272,67.0819,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=926
+226,595,East Sharnut,47.607,44.047,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=595
+227,860,Eddy,32.5732,-103.9995,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=860
+228,503,Edri,27.5333,13.15,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=503
+229,252,Ehmen,52.398,10.71,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=252
+230,254,Einigkeit,53.045,11.4,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=254
+231,504,El Agheila,30.283,19.567,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=504
+232,413,El Lisan,31.283,35.467,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=413
+233,895,Elephant Knoll SE,40.2778,-113.7592,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=895
+234,129,Elkhorn,49.915,-101.249,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=129
+235,596,Elton,49.1348,46.6782,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=596
+236,597,Elton North,49.2244,46.6936,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=597
+237,598,Elton Ulagan,49.1952,46.8022,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=598
+238,600,Gazhenka,59.167,108.35,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=600
+239,218,Ensisheim,47.8622,7.3355,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=218
+240,346,Ernst Thalman,50.8215,10.123,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=346
+241,599,Ershov,51.241,48.209,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=599
+242,189,Esh El Mellaha,27.7419,33.4049,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=189
+243,724,Esparza-Undino,42.75,-1.6833,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=724
+244,756,Etymdag,37.4178,66.2919,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=756
+245,219,Eugene,47.8246,7.327,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=219
+246,849,Ewing Bank,28.5,-91.0,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=849
+247,73,Eyehill Creek,52.256,-110.3519,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=73
+248,757,Farab,39.1737,63.6076,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=757
+249,64,Faro,-2.1575,-56.7365,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=64
+250,65,Fazendinha,-3.7539,-58.8356,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=65
+251,220,Fernand,47.8014,7.3239,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=220
+252,792,Girne,49.1989,23.7269,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=792
+253,190,FF83-2,28.8222,32.9159,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=190
+254,191,FF83-3,28.8232,32.9071,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=191
+255,989,Fioristella,37.4833,14.3667,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=989
+256,83,Fischells Brook,48.3016,-58.564,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=83
+257,74,Fort Ellice 2-14-16-28W,50.36,-101.2301,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=74
+258,640,Morozov,49.05,45.5,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=640
+259,257,Friedenshall,51.771,11.7705,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=257
+260,256,Friedenshall-Bernburg,51.773,11.74,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=256
+261,260,Friedrichshall,52.3114,9.9591,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=260
+262,569,Frumoasa,47.59,25.92,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=569
+263,436,Furmanova III,49.66,49.347,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=436
+264,570,Galeanu,46.2839,26.6053,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=570
+265,75,Gambler 2-14-18-29W,50.5368,-101.3701,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=75
+266,927,Girsan,38.6167,65.1667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=927
+267,758,Gaurdak,37.8847,66.0408,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=758
+268,192,Gebel El Zeit 2,27.9713,33.3821,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=192
+269,261,Gebra-Lohra,51.409,10.5726,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=261
+270,193,GG83-1,28.7826,32.9239,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=193
+271,806,Niniev,49.1329,23.7977,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=806
+272,194,GG83-2,28.759,32.9159,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=194
+273,195,GG83-3,28.7246,32.9154,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=195
+274,196,GG83-5,28.7418,32.9015,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=196
+275,544,Ghaba,20.92,56.611,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=544
+276,371,Ghare Aghaj,37.25,47.6611,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=371
+277,372,Ghoi Garmab,35.9292,48.2961,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=372
+278,505,Giarabutio,29.667,24.667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=505
+279,262,Gilten,52.7111,9.5742,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=262
+280,571,Gircoina Pietra Neamt,46.9351,26.3737,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=571
+281,601,Gmelinka,50.35,46.9167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=601
+282,896,Gold Hills,40.2378,-113.76,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=896
+283,263,Gorleban,53.0269,11.3482,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=263
+284,603,Gorodishche,48.7962,44.4778,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=603
+285,35,Gorokhov,52.2101,29.0476,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=35
+286,264,Grasleben,52.317,11.017,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=264
+287,897,Great Salt Lake,41.2169,-112.4989,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=897
+288,604,Greben,51.9333,54.3,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=604
+289,850,Green Canyon,27.5,-91.0,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=850
+290,605,Gremuchiy,51.1734,49.6877,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=605
+291,265,Grethem,52.7264,9.5712,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=265
+292,437,Grigorev,51.0544,52.9381,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=437
+293,266,Gross Rhuden,51.95,10.117,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=266
+294,267,Guben,51.95,14.6833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=267
+295,928,Gumbulak,38.5798,66.8533,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=928
+296,363,Gusainsar,28.2486,73.95,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=363
+297,479,sylvite occurrence,47.2984,59.0863,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=479
+298,843,Gypsum Valley,38.0442,-108.6988,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=843
+299,844,Gypsum Valley #2,38.1381,-108.9126,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=844
+300,898,H and K Potash,40.9292,-112.7131,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=898
+301,268,Habighorst,52.706,10.229,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=268
+302,269,Hackel,51.844,11.336,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=269
+303,270,Hainrode,51.4167,10.7,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=270
+304,27,Hamlin Pool No. 1,-26.024,114.2061,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=27
+305,28,Hamlin Pool No. 2,-26.1474,114.3581,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=28
+306,311,Hansa-Empelde,52.3472,9.6455,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=311
+307,312,Hansa-Silberberg,52.3457,9.6507,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=312
+308,271,Harlyberg,51.96,10.58,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=271
+309,272,Hattorf,50.8412,9.9788,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=272
+310,274,Hedwigsburg,52.132,10.585,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=274
+311,273,Heimboldshausen,50.841,9.916,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=273
+312,841,Salton Trough,33.1418,-115.605,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=841
+313,275,Heitersheim,47.8581,7.6195,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=275
+314,355,Herfa-Neurode,50.881,9.939,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=355
+315,851,Hershey,43.8299,-85.3599,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=851
+316,84,Highland's River,48.1218,-58.791,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=84
+317,277,Hildesheim,52.1372,9.8999,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=277
+318,276,Hildesia,52.0934,9.9035,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=276
+319,862,Hobbs,32.5047,-103.7797,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=862
+320,863,Hodges,32.3085,-103.9488,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=863
+321,967,Hohenfels,52.292,9.932,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=967
+322,278,Hohenzollern,51.927,9.773,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=278
+323,838,Holbrook,34.75,-109.8333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=838
+324,166,Holle,-4.552,12.0879,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=166
+325,793,Holyn,49.0308,24.2414,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=793
+326,279,Hope,52.6153,9.6554,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=279
+327,280,Hupstedt,51.3322,10.4258,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=280
+328,181,Hvornum,56.611,9.705,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=181
+329,607,Iletsk,51.1524,55.0007,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=607
+330,374,Iljagh,37.0353,47.5558,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=374
+331,864,"IMC (T22S, R29E)",32.4169,-103.935,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=864
+332,72,Imperial Provost 2,52.333,-110.267,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=72
+333,364,Jaitpura,28.8583,74.05,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=364
+334,438,Inder,48.5076,51.8567,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=438
+335,441,Inder Area III,48.5641,51.8213,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=441
+336,442,Inder Area IV,48.5466,51.7905,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=442
+337,439,Inder Area XI,48.5973,51.9931,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=439
+338,443,Inder Deposit 99,48.536,51.987,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=443
+339,445,Inder North,48.5309,51.9106,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=445
+340,865,Intrepid East,32.5084,-103.7897,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=865
+341,66,Juruti,-2.2303,-55.9499,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=66
+342,480,sylvite occurrence,45.8885,57.1603,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=480
+343,866,Intrepid West,32.4847,-103.9386,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=866
+344,608,Irtek,51.5253,52.6739,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=608
+345,609,Ishimbaev,53.4333,56.3,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=609
+346,449,Iskine,47.3667,52.6667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=449
+347,528,Issouggare,31.85,-4.8167,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=528
+348,713,Ithrah,31.3803,37.6136,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=713
+349,794,Ivano-Frankov,48.9359,24.7354,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=794
+350,610,Ivanov,52.417,52.383,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=610
+351,714,Jabal al Buwanah,24.7494,37.3375,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=714
+352,89,James River,45.5607,-62.1261,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=89
+353,109,Jansen,51.783,-104.717,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=109
+354,281,Jessenitz,53.2697,11.0843,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=281
+355,282,Johannashall,51.574,11.772,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=282
+356,221,Joseph-Else,47.7785,7.2314,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=221
+357,572,Juga,46.6351,26.4786,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=572
+358,611,Juldashev,53.2833,55.4333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=611
+359,283,Justus I,51.714,9.22,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=283
+360,110,K-1,50.7277,-101.9316,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=110
+361,111,K-2,50.6603,-101.845,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=111
+362,167,K-3,-4.6706,11.9607,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=167
+363,375,Kahmir,26.95,55.6,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=375
+364,450,Kaidak,44.8894,53.5726,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=450
+365,612,Kairovka,51.7847,56.5325,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=612
+366,284,Kaiseroda,50.837,10.164,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=284
+367,548,Kalabagh,32.9116,71.5887,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=548
+368,36,Kalinovo,52.5657,28.2327,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=36
+369,796,Kalmius-Toretskaya B,48.3964,37.2395,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=796
+370,797,Kalush,49.0221,24.3487,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=797
+371,929,Kamashi,38.85,65.383,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=929
+372,613,Kamyshin,50.1,45.4,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=613
+373,614,Kamyshok,50.2611,48.3611,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=614
+374,816,Solotvin,48.7023,24.4276,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=816
+375,930,Kantau,38.4667,66.7333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=930
+376,931,Karabay,38.6004,66.565,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=931
+377,451,Karabek,49.45,51.9333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=451
+378,759,Karabil,37.6828,66.2019,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=759
+379,615,Karabulak-Achaluk,43.3586,44.9034,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=615
+380,932,Karail,38.5142,66.6567,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=932
+381,452,Karakamys-Akkalin group,49.0506,53.0885,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=452
+382,616,Karasal,47.769,43.805,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=616
+383,453,Karaton,46.4353,53.4864,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=453
+384,617,Kardailov,51.5386,53.9042,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=617
+385,760,Karlyuk,37.5696,66.3011,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=760
+386,618,Karpen,51.2,47.868,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=618
+387,933,Karshi,38.8667,65.8,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=933
+388,454,Kenkiyak,48.6033,57.1219,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=454
+389,934,Khamkan,38.0925,66.7388,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=934
+390,455,Kharkinskaya I,48.7333,51.8167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=455
+391,456,Kharkinskaya II,48.7333,51.8167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=456
+392,761,Khauzak,39.1415,63.6689,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=761
+393,529,Khemisset,33.7667,-6.0333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=529
+394,549,Khewra,32.6481,73.0086,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=549
+395,935,Khodzhaikan,37.573,66.547,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=935
+396,798,Kholmy,51.3193,32.2306,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=798
+397,739,Khon Kaen,16.428,102.826,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=739
+398,376,Khour,33.833,55.583,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=376
+399,900,King 1,38.8031,-109.6469,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=900
+400,762,Kishtuvan,39.1276,63.3448,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=762
+401,285,Kleinbodungen,51.4631,10.5366,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=285
+402,288,Kleinschierstedt,51.7539,11.5672,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=288
+403,553,Klodawa,52.25,18.9167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=553
+404,763,Kokmiyar,38.0104,66.1356,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=763
+405,37,Komarovichi,52.4733,28.7703,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=37
+406,619,Komsomolsk,47.32,53.6653,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=619
+407,286,Konigshall-Hindenburg,51.6125,9.9983,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=286
+408,38,Kopatkevichy,52.2997,28.4595,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=38
+409,457,Koschagyl,46.8458,53.8047,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=457
+410,168,KOU-11,-4.8429,11.9199,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=168
+411,287,Kraja,51.4485,10.5144,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=287
+412,621,Krasnoarmeysk,48.5119,44.5681,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=621
+413,622,Krasnojarka,51.5153,55.316,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=622
+414,623,Krasnokholm,51.5958,54.1564,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=623
+415,624,Krasnokut,51.245,47.567,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=624
+416,799,Krotenkovsko-Grigorovskaya,49.489,34.9344,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=799
+417,458,Krugly,49.2833,51.8667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=458
+418,459,Krugly-Lebyazhin,50.9333,50.6167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=459
+419,447,Kshi-Kurgantau,48.561,51.88,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=447
+420,764,Kugitang,37.8791,66.4159,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=764
+421,765,Kultai,38.7183,64.7021,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=765
+422,936,Kultak,38.75,64.8833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=936
+423,625,Kumertau,52.7833,55.8833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=625
+424,138,Kunteyi,38.4528,92.4722,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=138
+425,626,Kurilov,50.723,48.027,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=626
+426,937,Kuruksay,38.483,65.9,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=937
+427,460,Kuttubaj,47.9167,53.0833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=460
+428,627,Kuzhor,44.6154,40.2974,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=627
+429,938,Kyzylbayrak,38.5697,67.0047,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=938
+430,766,Kyzylmazar,37.8999,66.2261,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=766
+431,628,Laba,44.4986,40.8549,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=628
+432,60,Lagunas Pastos Grandes,-21.6417,-67.7944,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=60
+433,963,Lake Barlee,-29.1775,119.2502,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=963
+434,780,Lake Katwe,-0.1333,29.8667,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=780
+435,29,Lake Macleod,-24.2207,113.6429,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=29
+436,492,Lake Magadi,-1.8667,36.2833,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=492
+437,391,Lake Rezayeh,37.6483,45.6056,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=391
+438,365,Lakhasar,29.1,73.8694,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=365
+439,800,Lanchin,48.55,24.75,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=800
+440,112,Langham,52.381,-106.911,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=112
+441,113,Lanigan,51.8535,-105.2086,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=113
+442,868,Lea County Mine,32.5711,-103.804,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=868
+443,114,Legacy,50.6853,-105.353,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=114
+444,289,Leinetal,51.909,9.94,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=289
+445,222,Marie,47.8307,7.2631,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=222
+446,329,Leopoldshall,51.8499,11.6062,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=329
+447,630,Linievka,51.133,54.117,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=630
+448,901,Lisbon Valley,38.1972,-109.2078,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=901
+449,725,Llobregat,41.8197,1.9012,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=725
+450,631,Lobodin,49.3667,45.3833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=631
+451,290,Lohberg,51.5381,6.7599,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=290
+452,846,Long Park,38.2897,-108.8168,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=846
+453,158,Lop Nur,40.75,90.9,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=158
+454,632,Lower Tsaritsin,48.442,43.858,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=632
+455,291,Lubtheen,53.2997,11.0833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=291
+456,292,Luchow,52.967,11.15,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=292
+457,852,Ludington,43.9386,-86.4331,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=852
+458,293,Ludwig,51.85,11.7524,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=293
+459,294,Luneburg,53.238,10.403,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=294
+460,767,Lyalimkan,37.9516,66.2675,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=767
+461,39,Lyuban,52.7421,27.9639,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=39
+462,397,M. Mimiani,37.575,13.928,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=397
+463,90,Macintyre Lake,45.6664,-61.2803,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=90
+464,398,Madre,37.717,14.334,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=398
+465,506,Madrusali,24.833,14.533,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=506
+466,139,Mahai,38.099,94.499,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=139
+467,461,Makat,47.6511,53.3593,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=461
+468,169,Makola,-4.5667,12.1333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=169
+469,91,Malagash,45.7943,-63.3542,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=91
+470,92,Malagawatch,45.8671,-60.948,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=92
+471,295,Malchin,53.745,12.751,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=295
+472,378,Malmal,35.375,53.726,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=378
+473,229,Mamana,-0.4889,9.9402,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=229
+474,507,Marada,29.2333,19.2167,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=507
+475,296,Mariagluck,52.6924,10.2755,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=296
+476,223,Marie-Louise,47.831,7.2606,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=223
+477,224,Marie-Louise Ouest,47.8325,7.2674,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=224
+478,633,Marin,43.8825,43.4914,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=633
+479,634,Marin,47.696,44.105,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=634
+480,887,Markham,29.0017,-96.0572,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=887
+481,481,sylvite occurrence,47.0603,58.5018,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=481
+482,801,Markovo,48.6436,24.4668,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=801
+483,462,Matenkozha,48.749,52.75,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=462
+484,225,Max,47.7873,7.2611,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=225
+485,230,Mayumba,-3.556,10.912,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=230
+486,530,Mediouna,33.3667,-7.3333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=530
+487,749,Megrine,36.7828,10.2203,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=749
+488,635,Meleuz,52.9613,55.9318,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=635
+489,379,Melhe,35.375,53.717,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=379
+490,170,Mengo,-4.6691,11.9622,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=170
+491,297,Menzengraben,50.7928,10.0998,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=297
+492,531,Mesri,31.85,-4.2833,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=531
+493,573,Mesteacan,46.792,26.4492,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=573
+494,768,Metedzhan,38.857,64.2561,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=768
+495,380,Mianaj,36.9219,47.4583,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=380
+496,853,Midland,43.6229,-84.2167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=853
+497,558,Mieroszyno,54.7812,18.3548,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=558
+498,637,Mikhailov,54.7,56.2333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=637
+499,399,Milena,37.468,13.764,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=399
+500,117,Milestone,50.2394,-104.2639,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=117
+501,80,Millstream,45.5469,-65.6022,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=80
+502,638,Miloradov,51.6167,48.7667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=638
+503,869,Mississippi Chemical Company,32.3066,-104.0024,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=869
+504,902,Moab Canyon,38.6244,-109.6667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=902
+505,939,Mobik,38.665,66.8619,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=939
+506,803,Molodkov,48.6422,24.5278,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=803
+507,400,Montedoro,37.45,13.817,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=400
+508,182,Mors,56.8167,8.7333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=182
+509,804,Morshin,49.1818,23.9504,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=804
+510,298,Morsleben,52.223,11.103,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=298
+511,870,Mosaic,32.335,-103.9282,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=870
+512,550,Nurpur,32.6667,72.5833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=550
+513,179,occurrence,-4.2432,11.6427,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=179
+514,871,Mosaic Nash Draw,32.3501,-103.8852,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=871
+515,40,Mozyr,52.0225,29.0951,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=40
+516,347,Muhlwarts,50.8139,9.9762,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=347
+517,463,Mukan,49.0595,53.5455,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=463
+518,212,Musely,14.2326,40.2541,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=212
+519,535,Myitkyina,25.3833,97.4,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=535
+520,381,Nahand,38.253,46.469,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=381
+521,493,Nahe,17.983,102.55,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=493
+522,93,Nappan,45.7811,-64.2414,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=93
+523,769,Narazym,38.7622,63.5948,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=769
+524,641,Narimanov,48.164,44.311,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=641
+525,872,National,32.5447,-104.0281,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=872
+526,903,National Lead Co.,40.8961,-112.7056,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=903
+527,464,Nekhvoroshchan,50.8833,53.1167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=464
+528,642,Nepa,59.2476,108.2328,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=642
+529,299,Neuhof Ellers,50.4601,9.5976,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=299
+530,20,Neuquen Project,-37.19,-69.35,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=20
+531,300,Neu-Sollstedt,51.3945,10.5273,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=300
+532,644,Nezhinka,51.7655,55.374,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=644
+533,43,Nezhinsky,52.6529,28.1601,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=43
+534,805,Nezhukhiv,49.3568,23.7973,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=805
+535,231,N'goya,0.124,9.762,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=231
+536,301,Niedersachsen-Riedel,52.4912,10.11,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=301
+537,41,Nikolaveka,51.7789,28.7423,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=41
+538,42,Nikulino,52.2773,29.4872,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=42
+539,940,Nishan,38.622,65.687,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=940
+540,643,Nizhne-Peledui,59.2775,112.3622,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=643
+541,2,occurrence,-5.1081,12.2534,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=2
+542,740,Non Sung,15.477,101.74,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=740
+543,482,sylvite occurrence,47.6376,59.1625,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=482
+544,494,Nongbak,17.0047,104.7453,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=494
+545,155,Nongle,30.8833,107.2167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=155
+546,495,Nonglom,16.4,104.882,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=495
+547,303,Nordsteimboke,52.423,10.758,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=303
+548,873,North,32.5689,-103.9189,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=873
+549,44,North Bobrovichi,52.3025,29.196,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=44
+550,770,North Gaurdak,37.9219,66.2085,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=770
+551,144,North Huobusan,36.9331,95.9331,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=144
+552,45,North Kalinovo,52.6749,28.4063,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=45
+553,941,North Kamashi,38.9784,65.7249,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=941
+554,465,Novobogatin,47.3517,51.1942,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=465
+555,699,Novosolikamsk,59.6348,56.9071,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=699
+556,807,Novostebnik,49.3,23.55,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=807
+557,555,Nowa Sol,51.8,15.7167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=555
+558,3,occurrence,-9.8119,13.3105,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=3
+559,178,occurrence,-4.4865,12.0529,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=178
+560,483,sylvite occurrence,45.7877,57.5732,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=483
+561,474,occurrence,50.0657,57.4641,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=474
+562,511,occurrence,30.2,18.75,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=511
+563,512,occurrence,29.083,21.583,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=512
+564,522,occurrence,23.0167,-102.167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=522
+565,523,occurrence,17.8667,-94.7,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=523
+566,969,occurrence,31.7186,-107.5752,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=969
+567,970,occurrence,31.1564,-107.3084,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=970
+568,971,occurrence,31.7349,-107.1855,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=971
+569,972,occurrence,31.0577,-107.8795,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=972
+570,973,occurrence,24.8909,-101.4893,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=973
+571,974,occurrence,24.7376,-101.9423,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=974
+572,975,occurrence,24.841,-100.3409,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=975
+573,976,occurrence,24.4867,-100.3614,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=976
+574,977,occurrence,24.3862,-101.0578,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=977
+575,978,occurrence,24.2335,-101.9311,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=978
+576,979,occurrence,24.2181,-101.8349,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=979
+577,118,Ochapowace-Chacachas,50.48,-102.38,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=118
+578,874,Ochoa Polyhalite Project,32.1459,-103.1451,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=874
+579,304,Oedesse-Berkhopen,52.3947,10.2367,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=304
+580,305,Oelsburg-Molme,52.24,10.183,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=305
+581,402,Pantanelle,37.429,13.737,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=402
+582,46,Oktyabrsk,52.6322,28.7035,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=46
+583,771,Okuzbulak,37.4945,66.3969,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=771
+584,94,Orangedale,45.9135,-61.1309,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=94
+585,645,Orel,50.938,47.928,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=645
+586,646,Otkaznensk,44.2856,43.825,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=646
+587,532,Oued Mellah,33.4167,-7.2333,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=532
+588,95,Oxford,45.7079,-63.8213,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=95
+589,647,Ozinki,51.1616,49.7075,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=647
+590,888,Palangana,27.667,-98.375,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=888
+591,700,Palasher,59.2279,56.7752,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=700
+592,401,Palo,37.485,13.88,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=401
+593,131,Pampa de Tamarugal,-19.6667,-69.6667,not determined,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=131
+594,651,Privolnin,48.236,44.187,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=651
+595,726,Pamplona,42.8,-1.5667,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=726
+596,648,Paromnaya,48.8457,44.7303,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=648
+597,403,Pasquasia,37.524,14.17,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=403
+598,119,Patience Lake,52.0899,-106.3776,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=119
+599,875,PCA,32.5994,-103.9756,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=875
+600,81,Penobsquis-Piccadilly,45.7473,-65.4138,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=81
+601,727,Perdon,42.7333,-1.7167,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=727
+602,649,Perevolot,51.875,54.1989,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=649
+603,808,Pereyaslovka-Ivangorodekaya,51.2487,31.943,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=808
+604,47,Petrikov,52.134,28.5548,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=47
+605,957,Petrobras potash occurrence,-3.7983,-58.9716,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=957
+606,958,Petrobras potash occurrence,-3.6175,-58.9716,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=958
+607,959,Petrobras potash occurrence,-3.6175,-59.0166,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=959
+608,960,Petrobras potash occurrence,-3.7372,-59.0086,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=960
+609,961,Petrobras potash occurrence,-3.7183,-59.0056,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=961
+610,962,Petrobras potash occurrence,-3.7384,-58.9969,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=962
+611,466,Petropavlovka,50.5321,57.4603,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=466
+612,120,Piapot-Muscowpetung,50.76,-104.27,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=120
+613,538,Pieterburen,53.4011,6.4459,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=538
+614,953,Pirambu-Aquilhada area,-10.6333,-36.8583,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=953
+615,515,Pisida,33.0833,11.75,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=515
+616,650,Piter,50.584,47.44,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=650
+617,904,Pitts 1,38.6394,-109.6614,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=904
+618,171,Pointe Indienne,-4.6875,11.8045,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=171
+619,172,Pointe Noire,-4.1547,11.7215,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=172
+620,383,Pol,27.0333,55.7667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=383
+621,701,Polovodov,59.6929,56.9547,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=701
+622,96,Port Richmond,45.5883,-61.2597,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=96
+623,69,Projecto Carnalita da Vale,-10.5566,-37.0059,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=69
+624,556,Puck Gulf,54.76,18.3,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=556
+625,97,Pugwash,45.8434,-63.6552,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=97
+626,140,Qarhan Salt Plain,36.981,95.147,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=140
+627,306,Querfurter Mulde - Bad Bibra,51.2,11.583,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=306
+628,121,Wynyard,51.7062,-104.1063,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=121
+629,404,Racalmuto,37.4307,13.7538,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=404
+630,384,Rahrahak,35.267,52.289,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=384
+631,197,Ramadah 1,27.9682,33.3612,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=197
+632,198,Ras El Behar 1,27.6913,33.5414,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=198
+633,199,Ras El Behar 6,27.7326,33.5442,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=199
+634,856,Salt Wells,39.3333,-118.5,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=856
+635,200,Ras Gemsa,27.6663,33.5816,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=200
+636,715,Ra's Hassis,16.745,42.05,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=715
+637,718,Ra's Karkuma,25.8514,36.6536,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=718
+638,537,Ratum,51.9769,6.8006,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=537
+639,405,Realmonte,37.307,13.461,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=405
+640,48,Rechitsa,52.3187,30.312,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=48
+641,906,Red Wash,38.7531,-110.0672,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=906
+642,905,Redd Ranch,38.3368,-109.1728,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=905
+643,907,Reeder 1,38.9208,-109.8222,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=907
+644,908,Reilly Wendover,40.6914,-114.0356,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=908
+645,307,Reinkenhagen,54.2,13.1833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=307
+646,855,Rhodes Marsh,38.2869,-118.0747,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=855
+647,899,Ringbolt leases,38.1896,-109.2254,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=899
+648,21,Rio Colorado,-37.1144,-69.3842,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=21
+649,520,Rio Verde,22.283,-100.017,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=520
+650,308,Robertshall-Immenrode,51.3667,10.7333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=308
+651,85,Robinsons,48.2622,-58.7693,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=85
+652,122,Rocanville,50.4736,-101.545,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=122
+653,226,Rodolphe,47.8479,7.2847,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=226
+654,741,Roi-Et,16.03,103.82,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=741
+655,652,Romanovo,59.1497,56.8,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=652
+656,811,Romny,50.7402,33.5888,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=811
+657,313,Ronnenberg,52.3128,9.6451,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=313
+658,309,Ronnenberg-Hansa,52.325,9.645,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=309
+659,812,Rosilna,48.7267,24.3224,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=812
+660,314,Rossleben,51.2998,11.4693,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=314
+661,315,Rothenfelde-Hehlingen,52.391,10.852,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=315
+662,488,Zarechen,49.347,48.084,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=488
+663,201,RR-89-3,27.7646,33.5596,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=201
+664,202,RR-89-5B,27.7512,33.5669,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=202
+665,316,Rudersdorf,52.4708,13.7991,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=316
+666,76,Russell-Binscarth,50.693,-101.461,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=76
+667,77,Russell-Miniota,50.575,-101.384,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=77
+668,67,RUT 1,-2.7847,-58.2048,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=67
+669,734,S171A,35.7667,40.1167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=734
+670,735,S171B,35.65,40.0333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=735
+671,545,Sabkha Umm as Samim,21.6403,55.8994,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=545
+672,716,Sabkhah Hazawza,30.783,38.15,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=716
+673,385,Saeid Mohammad,35.8592,48.7394,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=385
+674,533,Safi,32.3333,-9.1667,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=533
+675,654,Safronov,47.74,43.083,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=654
+676,467,Sagiz,47.5075,53.2742,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=467
+677,772,Sakar,38.8685,63.1728,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=772
+678,655,Sakmar,51.9579,55.3706,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=655
+679,132,Salar de Atacama,-23.526,-68.3463,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=132
+680,133,Salar de Bellavista,-20.75,-69.617,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=133
+681,980,Salar de Cauchari,-23.7868,-66.758,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=980
+682,981,Salar de Centenario,-24.8351,-66.7015,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=981
+683,982,Salar de Diablillos,-25.2453,-66.7677,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=982
+684,983,Salar de Maricunga,-26.9167,-69.0833,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=983
+685,16,Salar de Olaroz,-23.414,-66.6991,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=16
+686,19,Salar de Rincon,-24.0833,-67.1667,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=19
+687,61,Salar de Uyuni,-20.25,-67.44,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=61
+688,13,Salar del Hombre Muerto,-25.4072,-67.1211,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=13
+689,909,Salduro Salt Deposit,40.7211,-113.8933,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=909
+690,728,Salt Mountain,41.9061,1.6769,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=728
+691,910,Salt Valley Anticline,38.9217,-109.8361,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=910
+692,663,Sobolev,51.933,51.717,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=663
+693,68,Salvador,-13.0467,-38.7328,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=68
+694,317,Salzdetfurth,52.0619,9.9987,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=317
+695,318,Salzgitter,52.156,10.324,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=318
+696,773,Saman-tepe,38.953,63.7051,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=773
+697,406,San Antonio,37.4204,13.3172,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=406
+698,407,San Cataldo,37.492,13.964,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=407
+699,185,San Pablo,-2.1667,-80.7833,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=185
+700,409,Santa Caterina,37.595,14.03,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=409
+701,70,Santa Rosa de Lima,-10.6446,-37.196,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=70
+702,521,Santa Tecla Lago,26.9458,-101.9361,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=521
+703,656,Saratov,50.691,46.243,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=656
+704,657,Sarpinsky-Tingutin,48.095,44.409,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=657
+705,468,Satimola,49.142,52.368,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=468
+706,366,Satipura,29.6333,74.3167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=366
+707,876,Saunders,32.5695,-103.919,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=876
+708,496,Savannakhet Plain-Kengkok,16.5,105.1833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=496
+709,49,Savich,52.3977,28.9692,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=49
+710,319,Schonebeck-Salzelmen,52.013,11.736,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=319
+711,410,Sciacca Ribera,37.5245,13.1723,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=410
+712,847,Scott Brothers,38.3067,-108.759,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=847
+713,840,Searles Lake,35.7333,-117.3342,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=840
+714,751,Sebkha el Melah,33.3867,10.9769,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=751
+715,386,Seid Lor,36.852,47.598,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=386
+716,145,Senie,37.0433,94.3034,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=145
+717,911,Sevier Lake,38.8125,-113.2011,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=911
+718,942,Shady,39.298,63.6523,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=942
+719,658,Shar Tsaryn,47.55,44.45,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=658
+720,659,Sharlyk,52.9167,54.75,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=659
+721,660,Sharnut,47.67,43.776,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=660
+722,661,Shcherbakov,50.5167,45.7667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=661
+723,469,Shchuchkin,51.6833,50.8167,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=469
+724,736,Shehiry,34.65,38.3167,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt(?),https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=736
+725,484,sylvite occurrence,50.3114,57.4099,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=484
+726,50,Shestovichi,52.0953,28.5323,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=50
+727,509,Shiggah,32.25,23.033,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=509
+728,813,Shilovskaya,49.8795,34.393,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=813
+729,470,Shoktybay,51.1692,53.935,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=470
+730,471,Shugul,49.384,53.125,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=471
+731,943,Shurtan,38.5292,66.1687,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=943
+732,662,Shuvalov,51.75,54.6667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=662
+733,320,Siegfried-Giesen,52.2043,9.8755,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=320
+734,517,Sierra del Fraile,25.0,-101.2833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=517
+735,321,Sigmundshall,52.4182,9.3688,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=321
+736,857,Silver Peak,37.75,-117.6333,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=857
+737,173,Sintoukola Project-Dougou,-4.234,11.608,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=173
+738,174,Sintoukola Project-Kandi,-4.171,11.415,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=174
+739,670,Sportivnaya,50.513,48.172,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=670
+740,175,Sintoukola Project-Kola,-4.093,11.695,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=175
+741,814,Sivka,49.1836,24.5326,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=814
+742,877,Snowden-McSweeney 1,32.523,-103.883,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=877
+743,53,Starobin 1,52.8168,27.5598,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=53
+744,54,Starobin 2,52.8563,27.4697,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=54
+745,55,Starobin 3,52.862,27.5918,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=55
+746,56,Starobin 4,52.8,27.7643,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=56
+747,703,Solikamsk 1,59.6191,56.7568,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=703
+748,704,Solikamsk 2,59.5797,56.7648,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=704
+749,322,Sollstedt,51.4224,10.5256,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=322
+750,664,Solomatin,50.0,44.8667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=664
+751,477,sylvite occurrence,47.444,59.2574,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=477
+752,259,Solvay,51.8013,11.7506,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=259
+753,665,Solyan,51.6667,49.9667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=665
+754,744,Somboon,17.311,102.799,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=744
+755,324,Sonderhausen #5,51.3938,10.8155,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=324
+756,323,Sondershausen,51.3918,10.83,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=323
+757,666,Sorochin,52.4167,53.15,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=666
+758,667,South Ershov,51.132,48.403,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=667
+759,146,South Huobusan,36.7271,95.8183,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=146
+760,668,South Kislovo,49.8,45.3833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=668
+761,774,South Lyalimkin,37.9443,66.2686,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=774
+762,546,South Oman,19.2,55.7,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=546
+763,944,South Pamuk,39.029,65.097,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=944
+764,669,South Umetov,50.23,45.191,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=669
+765,98,Southside Harbour,45.6519,-61.8638,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=98
+766,325,Sperenberg,52.1378,13.368,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=325
+767,411,Spina,37.52,13.724,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=411
+768,912,Spring Canyon,38.6817,-109.96,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=912
+769,23,Spring Lake and other small Amadeus Basin playas,-25.2819,131.9236,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=23
+770,348,Springen,50.868,10.101,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=348
+771,817,Srebnenskaya,50.6812,32.9111,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=817
+772,742,Sri Chiengmai,17.95,102.5833,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=742
+773,86,St. Fintans,48.195,-58.8584,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=86
+774,78,St. Lazare,50.317,-101.3144,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=78
+775,99,St. Peters,45.6482,-60.8976,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=99
+776,326,Staakow,51.9844,14.411,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=326
+777,327,Stade,53.5906,9.4733,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=327
+778,818,Starunya,48.7167,24.5,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=818
+779,328,Stassfurt,51.8513,11.5886,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=328
+780,819,Stebnik,49.3121,23.5595,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=819
+781,333,Steinhuder-Meer,52.467,9.333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=333
+782,820,Stepkovsko-Gusarovskaya,49.7437,35.2213,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=820
+783,671,Stepnovskiy,47.714,43.64,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=671
+784,672,Sterlibashev,53.4359,55.2592,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=672
+785,673,Sterlitamak,53.6295,55.9543,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=673
+786,729,Subiza,42.7167,-1.6667,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=729
+787,674,Sudbodarev,52.3667,54.0833,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=674
+788,675,Sukhorechen,51.2728,53.7139,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=675
+789,183,Suldrup,56.85,9.6333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=183
+790,147,Suli Hu,37.0667,94.3167,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=147
+791,884,Summer Lake Eastern Playa,42.8333,-120.6833,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=884
+792,730,Suria,41.8264,1.7612,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=730
+793,731,Suria-Cabanasas,41.8406,1.7521,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=731
+794,676,Suvodskaya,49.5,45.0667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=676
+795,677,Svetloyar,48.4167,44.75,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=677
+796,559,Swarzewo,54.7667,18.4,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=559
+797,387,Syahoo,27.8228,56.255,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=387
+798,472,Tabantal,50.1125,57.8217,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=472
+799,705,Talid,59.2837,56.9965,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=705
+800,679,Talov,49.967,45.05,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=679
+801,473,Tamdy-Kul,48.761,54.3833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=473
+802,519,Tancamichapa,17.8373,-94.738,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=519
+803,71,Taquari-Vassouras,-10.6495,-37.0342,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=71
+804,680,Tashlin,51.558,52.868,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=680
+805,574,Tazlau,46.7,26.4667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=574
+806,176,Tchibota,-4.243,11.456,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=176
+807,177,Tchivoula,-4.6778,12.1368,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=177
+808,913,Ten Mile,38.6833,-109.8161,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=913
+809,334,Teutschenthal,51.4676,11.7848,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=334
+810,497,Thagone,18.2272,102.7964,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=497
+811,390,Zahtar Abad,36.8417,49.0536,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=390
+812,498,Thakhek,17.333,104.815,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=498
+813,914,The Knoll,38.5603,-109.7961,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=914
+814,227,Theodore,47.8297,7.3235,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=227
+815,335,Thiede,52.183,10.49,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=335
+816,776,Tigarin,37.7229,65.9698,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=776
+817,954,Timbo - Piranhas area,-10.5972,-36.7911,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=954
+818,681,Tingutin,48.2553,44.3647,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=681
+819,575,Tirgu-Ocna,46.2333,26.6667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=575
+820,576,Tisoasa,46.6105,26.4675,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=576
+821,388,Toghrud,34.75,50.6667,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=388
+822,184,Tostrup,56.6399,9.4144,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=184
+823,534,Touggan,31.5167,-7.4833,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=534
+824,336,Treischfeld 2 and 3,50.757,9.89,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=336
+825,1,Trias a Evaporites,32.4882,7.0703,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1
+826,1025,Gingerah Hill No. 1,-19.4689,122.3671,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1025
+827,124,Triton,51.0723,-102.5524,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=124
+828,821,Trostyanets,49.0768,24.0336,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=821
+829,148,Tuanjie,36.8038,95.372,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=148
+830,539,Tubbergen,52.4333,6.9,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=539
+831,822,Tura Velyka,49.1424,24.1167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=822
+832,57,Turovo,52.1625,27.8687,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=57
+833,752,Tuzgolu,38.7261,33.3715,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=752
+834,682,Tuz-Tag,50.7186,92.7293,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=682
+835,949,Tyubegatan,38.0563,66.3757,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=949
+836,745,Udon,17.342,102.883,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=745
+837,743,Udon Thani,17.4,102.8,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=743
+838,683,Ukraine,52.1667,51.05,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=683
+839,823,Ulychne,49.2015,23.6966,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=823
+840,684,Umetov,50.2833,45.35,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=684
+841,685,Umetov-Chukhonastov,49.949,44.97,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=685
+842,228,Ungersheim,47.8719,7.2965,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=228
+843,878,unidentified mine,32.4066,-103.9541,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=878
+844,879,unidentified mine,32.7272,-103.9605,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=879
+845,125,Unity,52.429,-109.1132,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=125
+846,349,Unterbreizbach,50.8139,9.9764,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=349
+847,835,Urozh,49.3959,23.2256,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=835
+848,945,Urtabulak,39.04,64.068,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=945
+849,686,Ushakov,48.39,45.157,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=686
+850,485,Ushkultas,49.324,49.344,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=485
+851,687,Usov,51.6,51.7167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=687
+852,689,Ust Yaivinskii,59.3268,56.7639,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=689
+853,487,West Teplov,51.528,51.077,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=487
+854,688,Ust-Pogozh,49.4753,44.6185,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=688
+855,777,Uzonshor,39.197,63.3055,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=777
+856,778,Uzunkuduk,37.7379,66.2264,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=778
+857,126,Vade,52.0088,-107.0916,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=126
+858,540,Veendam,53.1167,6.8167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=540
+859,706,Verkhnepechorskoe 1,61.8185,56.9927,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=706
+860,707,Verkhnepechorskoe 2,61.625,56.969,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=707
+861,486,Vetelkin,51.3833,51.12,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=486
+862,732,Victoria,41.9001,1.7124,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=732
+863,337,Vienenburg,51.9478,10.544,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=337
+864,338,Vienenburg 1,51.9588,10.5709,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=338
+865,339,Vienenburg 2,51.9618,10.5464,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=339
+866,340,Vienenburg 3,51.967,10.5183,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=340
+867,341,Vogelbeck,51.777,9.947,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=341
+868,342,Volkenroda,51.3173,10.5706,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=342
+869,343,Volkenroda-Pothen,51.2877,10.5778,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=343
+870,717,Wadi Ifal,28.1169,35.0439,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=717
+871,203,Wadi Mehalla-1,27.5789,33.5578,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=203
+872,344,Walbeck,52.283,11.067,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=344
+873,746,Wanon Niwat,17.6333,103.75,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=746
+874,561,Wapno,52.9036,17.4775,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=561
+875,551,Warcha,32.4268,71.9483,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=551
+876,204,Zalf,27.933,33.5,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=204
+877,302,Wathlingen,52.5238,10.1333,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=302
+878,513,Waw an Namus,24.9107,17.7567,evaporite,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=513
+879,345,Werra,50.83,10.0,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=345
+880,149,West Dabusan,37.0733,94.8628,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=149
+881,779,West Kishtuvan,39.262,63.1973,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=779
+882,946,West Zevardy,38.8773,64.5383,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=946
+883,351,Westeregeln,51.965,11.3887,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=351
+884,880,"Western Ag-Minerals (T20S, R30E)",32.5362,-103.935,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=880
+885,881,"Western Ag-Minerals (T22S, R29E)",32.384,-103.9548,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=881
+886,541,Wetergo,53.25,5.5333,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=541
+887,994,Whitby,54.46,-0.578,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=994
+888,352,Wietze-Hambuhren,52.6447,9.8619,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=352
+889,350,Wilhelm Pieck,50.8882,10.0707,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=350
+890,353,Wilhelmshall,51.967,10.933,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=353
+891,882,Wills-Weaver,32.7265,-103.9616,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=882
+892,710,Zapadnyi and Ozernoe,60.5284,111.165,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=710
+893,354,Wintershall,50.8965,9.9927,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=354
+894,883,WIPP,32.3712,-103.7937,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=883
+895,356,Wittekind,51.6614,9.7475,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=356
+896,357,Wustrow,52.9182,11.112,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=357
+897,150,Xiaobiele,37.0192,94.557,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=150
+898,152,Xiaochaidan,37.17,95.5,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=152
+899,151,Xiezuo,36.9561,95.6361,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=151
+900,947,Yangikent,38.7003,66.0611,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=947
+901,708,Yar-Bishkadak,53.4989,56.0339,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=708
+902,30,Yaringa No. 1,-26.0649,114.3611,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=30
+903,747,Yasothon,15.782,104.156,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=747
+904,389,Yengije,36.883,47.583,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=389
+905,995,York,54.457,-0.684,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=995
+906,127,Yorkton,51.132,-101.993,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=127
+907,180,Youbi,-4.1518,11.732,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=180
+908,59,Zarechinsk,52.4453,28.5379,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=59
+909,711,Zaymnsche,47.98,46.41,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=711
+910,560,Zdrada,54.7132,18.3032,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=560
+911,206,Zeit Bay,27.9248,33.4131,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=206
+912,14,Salinas de Huitrin,-37.7641,-69.8595,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=14
+913,205,Zeit Bay 2,27.9279,33.4286,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=205
+914,948,Zevardy,38.9754,64.713,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=948
+915,157,Zhabuye,31.3609,84.0443,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=157
+916,489,Zhakendysay,49.156,54.324,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=489
+917,836,Zhdanovskaya,50.2923,33.4029,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=836
+918,490,Zhilian,50.2333,57.4052,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=490
+919,491,Zhirenkara,48.0833,53.25,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=491
+920,358,Zielitz,52.298,11.678,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=358
+921,359,Zienken,47.8486,7.5803,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=359
+922,542,Zuidwending,53.1,6.933,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=542
+923,543,Zuidwolde,52.6167,6.4833,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=543
+924,160,Anbanjing,23.95,100.917,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=160
+925,161,Jinggu,23.459,100.572,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=161
+926,163,Mengyejing,21.428,101.316,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=163
+927,1003,Sergi,-10.8864,-37.2068,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1003
+928,159,Mengyejing District,22.6333,101.6583,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=159
+929,164,Mohei,23.1627,101.1642,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=164
+930,165,Zhengdong,22.3667,101.5167,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=165
+931,990,Idda,33.833,-5.3,mixed stratabound potash-bearing salt and halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=990
+932,998,Atlantic,-10.9151,-37.1166,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=998
+933,999,Autazes,-3.5196,-58.9935,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=999
+934,1000,Capela 1,-10.5224,-36.9703,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1000
+935,1017,Dong Tai,17.2368,104.8392,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1017
+936,11,El Porton,-37.1701,-69.6287,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=11
+937,15,K-2,-38.271373,-69.8036,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=15
+938,965,K-3,-36.682456,-69.86995,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=965
+939,966,K-4,-36.321871,-69.86903,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=966
+940,12,K5,-37.2713,-69.733,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=12
+941,1015,K-6,-37.743,-69.6563,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1015
+942,22,Sierra Negra - Chihuido de la Sierra Negra area,-37.2761,-69.2193,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=22
+943,1010,Khodzhamartis,37.9463,69.6619,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1010
+944,1011,Khodzhamumyn,37.7285,69.6368,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1011
+945,4,Las Barriales-Punta Barda Auca Mahuida,-37.4242,-69.3956,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=4
+946,17,Loma Pedregosa-Cerro Guanaco-Chihuido Bayo,-37.3612,-69.3274,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=17
+947,1005,Manenga,-4.85,12.1667,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1005
+948,996,Mogilno II,52.6335,17.8417,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=996
+949,1004,Muskowekwan,51.31536,-104.07567,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1004
+950,1013,Nurek,37.9373,69.53,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1013
+951,1016,Panqueca,-10.5761,-36.7608,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1016
+952,7,Paso de Las Bardas (North),-37.1521,-69.4531,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=7
+953,8,Paso de Las Bardas (South),-37.1936,-69.4203,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=8
+954,10,Pinchanal,-37.0628,-69.2692,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=10
+955,18,Ranquiles - Pampa de las Liebres,-37.5572,-69.8152,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=18
+956,1002,Rio do Sal,-10.8948,-37.0768,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1002
+957,997,Salar de Llullaillaco,-24.7978,-68.2952,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=997
+958,412,Ghor Al-Safi,31.1062,35.5073,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=412
+959,1014,Tanapchi,37.9158,69.5033,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1014
+960,1006,Tchitondi,-4.5333,12.2083,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1006
+961,1009,Thongmang,18.233,102.693,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1009
+962,1026,Lake Disappointment,-23.3145,122.8156,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1026
+963,1027,Lake Mackay,-22.44191,128.7576,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1027
+964,1018,Biggar,52.032,-107.814,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1018
+965,1019,Clavet,52.034,-106.416,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1019
+966,1020,Foam Lake,51.555,-103.469,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1020
+967,1021,Outlook,51.456,-107.295,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1021
+968,1022,Round Lake,50.617,-102.419,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1022
+969,1024,North Atlantic Potash-Rio Tinto,50.439,-103.229,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1024
+970,1007,Bada,14.6407,40.132,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1007
+971,678,Talitsky,59.3342,57.0676,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=678
+972,1008,Dead Sea,31.0236,35.3751,potash-bearing brine,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1008
+973,1028,Smolovo,52.5706,28.5864,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1028
+974,1029,Zhitkovichy,52.1876,27.8816,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=1029
+975,52,Starobin,52.8168,27.5598,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=52
+976,606,Gremyachinsk,47.7084,43.3359,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=606
+977,815,Solokhov,49.9564,34.4596,halokinetic potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=815
+978,991,Berezovsky,52.7578,27.676,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=991
+979,6,Cerro Guillermo,-37.0567,-69.4007,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=6
+980,993,Krasnoslobodsky,52.8809,27.3803,stratabound potash-bearing salt,https://mrdata.usgs.gov/to-json.php?db=potash&id=rec_no&labno=993

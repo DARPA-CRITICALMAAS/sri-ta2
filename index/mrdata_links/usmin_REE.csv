@@ -1,0 +1,1688 @@
+,deposit_id,deposit_name,url
+0,AK00022,Bokan Mountain,https://mrdata.usgs.gov/deposit/json/REE-AK00022
+1,AK00031,Draken Claims,https://mrdata.usgs.gov/deposit/json/REE-AK00031
+2,AK00057,Salmon Bay,https://mrdata.usgs.gov/deposit/json/REE-AK00057
+3,AK00089,Dora Bay,https://mrdata.usgs.gov/deposit/json/REE-AK00089
+4,AK00092,Aichilik River,https://mrdata.usgs.gov/deposit/json/REE-AK00092
+5,AK00098,Boston Ridge,https://mrdata.usgs.gov/deposit/json/REE-AK00098
+6,AK00101,Cape Darby,https://mrdata.usgs.gov/deposit/json/REE-AK00101
+7,AK00102,Clear Creek,https://mrdata.usgs.gov/deposit/json/REE-AK00102
+8,AK00104,Eudialyte,https://mrdata.usgs.gov/deposit/json/REE-AK00104
+9,AK00108,Golovnin Bay,https://mrdata.usgs.gov/deposit/json/REE-AK00108
+10,AK00113,Hot Springs Creek,https://mrdata.usgs.gov/deposit/json/REE-AK00113
+11,AK00120,Karshner Creek,https://mrdata.usgs.gov/deposit/json/REE-AK00120
+12,AK00122,Kilolitna River,https://mrdata.usgs.gov/deposit/json/REE-AK00122
+13,AK00123,Kwiniuk River,https://mrdata.usgs.gov/deposit/json/REE-AK00123
+14,AK00127,Lucky Six,https://mrdata.usgs.gov/deposit/json/REE-AK00127
+15,AK00130,No Name Creek,https://mrdata.usgs.gov/deposit/json/REE-AK00130
+16,AK00132,Paystreak and Marker Veins,https://mrdata.usgs.gov/deposit/json/REE-AK00132
+17,AK00135,Ray River,https://mrdata.usgs.gov/deposit/json/REE-AK00135
+18,AK00138,Ruby Creek,https://mrdata.usgs.gov/deposit/json/REE-AK00138
+19,AK00140,Section 35,https://mrdata.usgs.gov/deposit/json/REE-AK00140
+20,AK00146,Tofty Ridge,https://mrdata.usgs.gov/deposit/json/REE-AK00146
+21,AK00152,Unnamed (Half-Way Pillar),https://mrdata.usgs.gov/deposit/json/REE-AK00152
+22,AK00156,Unnamed (east fork of Kilolitna River),https://mrdata.usgs.gov/deposit/json/REE-AK00156
+23,AK00157,Unnamed (east of Berg Mountain),https://mrdata.usgs.gov/deposit/json/REE-AK00157
+24,AK00158,Unnamed (east of Eagle Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00158
+25,AK00159,Unnamed (in Zane Hills),https://mrdata.usgs.gov/deposit/json/REE-AK00159
+26,AK00164,Unnamed (near Mallard Bay),https://mrdata.usgs.gov/deposit/json/REE-AK00164
+27,AK00166,Unnamed (near Salmon Bay),https://mrdata.usgs.gov/deposit/json/REE-AK00166
+28,AK00167,Unnamed (near Salmon River),https://mrdata.usgs.gov/deposit/json/REE-AK00167
+29,AK00168,Unnamed (near Swift River),https://mrdata.usgs.gov/deposit/json/REE-AK00168
+30,AK00171,"Unnamed (north shore, Stone Rock Bay)",https://mrdata.usgs.gov/deposit/json/REE-AK00171
+31,AK00172,Unnamed (northeast of lower Sue Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00172
+32,AK00174,Unnamed (northeast ridge of Caribou Mountain),https://mrdata.usgs.gov/deposit/json/REE-AK00174
+33,AK00175,Unnamed (on Rock Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00175
+34,AK00176,Unnamed (on Slate Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00176
+35,AK00183,Unnamed (tributaries to Clear Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00183
+36,AK00188,Unnamed (tributary to Vulcan Creek),https://mrdata.usgs.gov/deposit/json/REE-AK00188
+37,AK00189,Unnamed (upper Idaho Gulch),https://mrdata.usgs.gov/deposit/json/REE-AK00189
+38,AK00192,William Henry,https://mrdata.usgs.gov/deposit/json/REE-AK00192
+39,AK00194,Windy Fork Placer,https://mrdata.usgs.gov/deposit/json/REE-AK00194
+40,AR00004,Magnet Cove District,https://mrdata.usgs.gov/deposit/json/REE-AR00004
+41,AZ00017,La Paz,https://mrdata.usgs.gov/deposit/json/REE-AZ00017
+42,CA00041,Mountain Pass,https://mrdata.usgs.gov/deposit/json/REE-CA00041
+43,CA00053,Music Valley,https://mrdata.usgs.gov/deposit/json/REE-CA00053
+44,CO00019,Iron Hill Carbonatite Complex,https://mrdata.usgs.gov/deposit/json/REE-CO00019
+45,CO00029,Climax,https://mrdata.usgs.gov/deposit/json/REE-CO00029
+46,CO00031,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-CO00031
+47,CO00032,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-CO00032
+48,CO00033,Powderhorn Exploration Project,https://mrdata.usgs.gov/deposit/json/REE-CO00033
+49,CO00036,Climax District,https://mrdata.usgs.gov/deposit/json/REE-CO00036
+50,FL00001,Green Cove Springs,https://mrdata.usgs.gov/deposit/json/REE-FL00001
+51,FL00003,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE-FL00003
+52,FL00004,Ponte Vedra,https://mrdata.usgs.gov/deposit/json/REE-FL00004
+53,FL00005,Jacksonville,https://mrdata.usgs.gov/deposit/json/REE-FL00005
+54,FL00007,Melbourne,https://mrdata.usgs.gov/deposit/json/REE-FL00007
+55,FL00008,Vero Beach,https://mrdata.usgs.gov/deposit/json/REE-FL00008
+56,FL00010,Boulogne,https://mrdata.usgs.gov/deposit/json/REE-FL00010
+57,FL00011,Little Talbot Island,https://mrdata.usgs.gov/deposit/json/REE-FL00011
+58,GA00007,Cumberland Island,https://mrdata.usgs.gov/deposit/json/REE-GA00007
+59,GA00009,Folkston,https://mrdata.usgs.gov/deposit/json/REE-GA00009
+60,GA00011,Cabin Bluff,https://mrdata.usgs.gov/deposit/json/REE-GA00011
+61,GA00012,Altama ,https://mrdata.usgs.gov/deposit/json/REE-GA00012
+62,ID00010,Silver Queen,https://mrdata.usgs.gov/deposit/json/REE-ID00010
+63,ID00011,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00011
+64,ID00012,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00012
+65,ID00013,Burgdorf-Warren Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00013
+66,ID00014,Clearwater River Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00014
+67,ID00015,Dismal Swamp Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00015
+68,ID00016,Dixie-Florence Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00016
+69,ID00017,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00017
+70,ID00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00018
+71,ID00019,Rock Creek-Camp Creek Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00019
+72,ID00020,Salmon River Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00020
+73,ID00021,Stanley Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-ID00021
+74,ID00023,Lemhi Pass District,https://mrdata.usgs.gov/deposit/json/REE-ID00023
+75,ID00024,Lucky Horseshoe,https://mrdata.usgs.gov/deposit/json/REE-ID00024
+76,ID00025,Hall Mountain Group,https://mrdata.usgs.gov/deposit/json/REE-ID00025
+77,ID00026,Diamond Creek District,https://mrdata.usgs.gov/deposit/json/REE-ID00026
+78,ID00028,Blackfoot Bridge,https://mrdata.usgs.gov/deposit/json/REE-ID00028
+79,ID00029,Caldwell Canyon,https://mrdata.usgs.gov/deposit/json/REE-ID00029
+80,ID00030,Champ,https://mrdata.usgs.gov/deposit/json/REE-ID00030
+81,ID00031,Conda,https://mrdata.usgs.gov/deposit/json/REE-ID00031
+82,ID00032,Gay-South Forty,https://mrdata.usgs.gov/deposit/json/REE-ID00032
+83,ID00034,Henry,https://mrdata.usgs.gov/deposit/json/REE-ID00034
+84,ID00035,Husky,https://mrdata.usgs.gov/deposit/json/REE-ID00035
+85,ID00036,Maybe Canyon,https://mrdata.usgs.gov/deposit/json/REE-ID00036
+86,ID00037,Mountain Fuel,https://mrdata.usgs.gov/deposit/json/REE-ID00037
+87,ID00038,North Henry,https://mrdata.usgs.gov/deposit/json/REE-ID00038
+88,ID00040,Smokey Canyon,https://mrdata.usgs.gov/deposit/json/REE-ID00040
+89,ID00042,Wooley Valley,https://mrdata.usgs.gov/deposit/json/REE-ID00042
+90,ID00043,Swan Lake Gulch,https://mrdata.usgs.gov/deposit/json/REE-ID00043
+91,ID00044,Trail Creek,https://mrdata.usgs.gov/deposit/json/REE-ID00044
+92,ID00045,Monumental Summit,https://mrdata.usgs.gov/deposit/json/REE-ID00045
+93,ID00046,Mineral Hill District,https://mrdata.usgs.gov/deposit/json/REE-ID00046
+94,IL00002,Hicks Dome,https://mrdata.usgs.gov/deposit/json/REE-IL00002
+95,MO00012,Pea Ridge,https://mrdata.usgs.gov/deposit/json/REE-MO00012
+96,MT00018,Last Chance,https://mrdata.usgs.gov/deposit/json/REE-MT00018
+97,MT00024,Rocky Boy,https://mrdata.usgs.gov/deposit/json/REE-MT00024
+98,MT00025,Snowbird,https://mrdata.usgs.gov/deposit/json/REE-MT00025
+99,MT00026,Southern Ravalli County,https://mrdata.usgs.gov/deposit/json/REE-MT00026
+100,NC00019,Christy-Destiny,https://mrdata.usgs.gov/deposit/json/REE-NC00019
+101,NC00020,Sandy Run Creek,https://mrdata.usgs.gov/deposit/json/REE-NC00020
+102,NC00023,Buffalo Creek,https://mrdata.usgs.gov/deposit/json/REE-NC00023
+103,NC00025,Knob Creek,https://mrdata.usgs.gov/deposit/json/REE-NC00025
+104,NC00026,First Broad River,https://mrdata.usgs.gov/deposit/json/REE-NC00026
+105,NC00029,South Muddy Creek,https://mrdata.usgs.gov/deposit/json/REE-NC00029
+106,NC00032,Silver Creek,https://mrdata.usgs.gov/deposit/json/REE-NC00032
+107,NE00002,Elk Creek,https://mrdata.usgs.gov/deposit/json/REE-NE00002
+108,NJ00006,Scrub Oaks,https://mrdata.usgs.gov/deposit/json/REE-NJ00006
+109,NM00019,Pajarito Mountain,https://mrdata.usgs.gov/deposit/json/REE-NM00019
+110,NM00020,Gallinas Mountains Project,https://mrdata.usgs.gov/deposit/json/REE-NM00020
+111,NM00022,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00022
+112,NM00023,Lemitar Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00023
+113,NM00024,Capitan Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00024
+114,NM00025,El Porvenir District,https://mrdata.usgs.gov/deposit/json/REE-NM00025
+115,NM00026,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-NM00026
+116,NM00027,Laughlin Peak District,https://mrdata.usgs.gov/deposit/json/REE-NM00027
+117,NM00028,Chupadera Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00028
+118,NM00029,Petaca District,https://mrdata.usgs.gov/deposit/json/REE-NM00029
+119,NM00030,Caballo Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00030
+120,NM00032,Cornudas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-NM00032
+121,NM00033,Pajarito District,https://mrdata.usgs.gov/deposit/json/REE-NM00033
+122,NV00128,Thor,https://mrdata.usgs.gov/deposit/json/REE-NV00128
+123,NV00129,Crescent District,https://mrdata.usgs.gov/deposit/json/REE-NV00129
+124,NY00014,Mineville District,https://mrdata.usgs.gov/deposit/json/REE-NY00014
+125,NY00015,Port Leyden,https://mrdata.usgs.gov/deposit/json/REE-NY00015
+126,NY00016,Cheever,https://mrdata.usgs.gov/deposit/json/REE-NY00016
+127,NY00017,Mineville Group,https://mrdata.usgs.gov/deposit/json/REE-NY00017
+128,NY00019,Smith,https://mrdata.usgs.gov/deposit/json/REE-NY00019
+129,NY00020,Pelfshire,https://mrdata.usgs.gov/deposit/json/REE-NY00020
+130,NY00021,Sherman,https://mrdata.usgs.gov/deposit/json/REE-NY00021
+131,SC00003,Hilton Head Island,https://mrdata.usgs.gov/deposit/json/REE-SC00003
+132,SC00004,Horse Creek,https://mrdata.usgs.gov/deposit/json/REE-SC00004
+133,SC00005,Broad River,https://mrdata.usgs.gov/deposit/json/REE-SC00005
+134,SC00006,Thicketty Creek,https://mrdata.usgs.gov/deposit/json/REE-SC00006
+135,SC00007,North Tyger River,https://mrdata.usgs.gov/deposit/json/REE-SC00007
+136,SC00008,Rabon Creek,https://mrdata.usgs.gov/deposit/json/REE-SC00008
+137,SC00009,Hollow Creek,https://mrdata.usgs.gov/deposit/json/REE-SC00009
+138,SC00010,Big Generostee Creek,https://mrdata.usgs.gov/deposit/json/REE-SC00010
+139,TN00009,Oak Grove,https://mrdata.usgs.gov/deposit/json/REE-TN00009
+140,TN00010,Silica,https://mrdata.usgs.gov/deposit/json/REE-TN00010
+141,TX00005,Round Top,https://mrdata.usgs.gov/deposit/json/REE-TX00005
+142,TX00009,Rode Ranch,https://mrdata.usgs.gov/deposit/json/REE-TX00009
+143,VA00009,Little Friar Mountain,https://mrdata.usgs.gov/deposit/json/REE-VA00009
+144,WY00003,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE-WY00003
+145,WY00006,Bear Lodge District,https://mrdata.usgs.gov/deposit/json/REE-WY00006
+146,WY00008,Platt,https://mrdata.usgs.gov/deposit/json/REE-WY00008
+147,WY00009,Onemile Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00009
+148,WY00010,Beaver Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00010
+149,WY00011,Gafco,https://mrdata.usgs.gov/deposit/json/REE-WY00011
+150,WY00012,Ranger,https://mrdata.usgs.gov/deposit/json/REE-WY00012
+151,WY00013,Grass Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00013
+152,WY00014,Cottonwood Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00014
+153,WY00015,Spring Gap,https://mrdata.usgs.gov/deposit/json/REE-WY00015
+154,WY00016,Frontier Formation-Spring Gap,https://mrdata.usgs.gov/deposit/json/REE-WY00016
+155,WY00017,North Sheldon Gulch,https://mrdata.usgs.gov/deposit/json/REE-WY00017
+156,WY00018,Middle Fork Pine Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00018
+157,WY00019,Raymond Canyon,https://mrdata.usgs.gov/deposit/json/REE-WY00019
+158,WY00020,Snow King Mountain,https://mrdata.usgs.gov/deposit/json/REE-WY00020
+159,WY00021,Table Mountain,https://mrdata.usgs.gov/deposit/json/REE-WY00021
+160,WY00022,Crystal Creek ,https://mrdata.usgs.gov/deposit/json/REE-WY00022
+161,WY00023,Crystal Creek Canyon,https://mrdata.usgs.gov/deposit/json/REE-WY00023
+162,WY00024,Unnamed (S of Shorty Creek),https://mrdata.usgs.gov/deposit/json/REE-WY00024
+163,WY00025,Crystal Peak,https://mrdata.usgs.gov/deposit/json/REE-WY00025
+164,WY00026,Granite Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00026
+165,WY00027,Bear Cabin Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00027
+166,WY00028,Unnamed (Little Grizzly Basin),https://mrdata.usgs.gov/deposit/json/REE-WY00028
+167,WY00029,Tosi Creek,https://mrdata.usgs.gov/deposit/json/REE-WY00029
+168,WY00030,Bald Mountain,https://mrdata.usgs.gov/deposit/json/REE-WY00030
+169,Sw00018,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00018
+170,Sw00019,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00019
+171,Sw00060,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00060
+172,Sw00062,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00062
+173,Sw00053,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00053
+174,Sw00068,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00068
+175,Sw00069,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00069
+176,Sw00066,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00066
+177,Sw00043,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00043
+178,Sw00098,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00098
+179,Sw00050,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00050
+180,Sw00057,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00057
+181,Sw00061,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00061
+182,Sw00083,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00083
+183,Sw00082,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00082
+184,Sw00075,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00075
+185,Sw00073,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00073
+186,Sw00081,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00081
+187,Sw00092,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00092
+188,Sw00089,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00089
+189,Sw00100,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00100
+190,Sw00099,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00099
+191,Sw00084,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00084
+192,Sw00096,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00096
+193,Sw00091,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00091
+194,Sw00095,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00095
+195,Sw00090,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00090
+196,Sw00088,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00088
+197,Sw00080,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00080
+198,Sw00076,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00076
+199,Sw00074,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00074
+200,Sw00078,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00078
+201,Sw00097,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00097
+202,Sw00024,Surface workings,https://mrdata.usgs.gov/deposit/json/REE-Sw00024
+203,Mf00237,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00237
+204,Mo00219,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+205,Mo00244,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+206,Mo00245,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+207,Mo00246,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+208,Mo00247,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+209,Mo00248,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+210,Mo00250,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+211,Mo00252,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+212,Mo00294,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00294
+213,Mo00554,"ILM; I, L, and M Nos. 1-3",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+214,Mo00555,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00555
+215,Mo00556,Little Joe No. 1; Little Joe No. 2,https://mrdata.usgs.gov/deposit/json/REE-Mo00556
+216,Mo00557,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00557
+217,Mo00565,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00565
+218,Mo00627,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00627
+219,Mo00471,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+220,Mo00497,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00497
+221,Mo00583,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00583
+222,Mo00626,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00626
+223,Mo00599,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00599
+224,Mo00603,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00603
+225,Mo00596,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00596
+226,Mo00600,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00600
+227,Mo00592,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+228,Mo00613,Hot Springs Slough,https://mrdata.usgs.gov/deposit/json/REE-Mo00613
+229,Mo00573,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00573
+230,Mo00602,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00602
+231,Mo00620,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+232,Mo00579,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+233,Mo00594,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+234,Mo00691,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+235,Mo00575,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+236,Mo00622,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+237,Mo00566,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+238,Mo00558,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00558
+239,Mo00590,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00590
+240,Mo00578,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00578
+241,Mo00621,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00621
+242,Mo00601,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00601
+243,Mo00624,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00624
+244,Mo00553,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00553
+245,Mo00595,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00595
+246,Mo00618,Salmon River Junction,https://mrdata.usgs.gov/deposit/json/REE-Mo00618
+247,Mo00614,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00614
+248,Mo00552,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+249,Mf00557,Murray Gulch; Unnamed (northeast of lower Sue Creek),https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+250,Mo00645,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00645
+251,Mo00625,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00625
+252,Mo00610,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00610
+253,Mo00623,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00623
+254,Mo00604,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00604
+255,Mo00605,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00605
+256,Mo00606,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00606
+257,Mo00607,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00607
+258,Mo00608,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00608
+259,Mo00609,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00609
+260,Mo00551,Columbium-Bearing Regolith on Upper Idaho Gulch,https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+261,Mo00619,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00619
+262,Mo00597,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+263,Mr00004,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00004
+264,Mo00253,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+265,Mf00238,Sulphide Queen Mine,https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+266,Mo00254,Mountain Pass REE Deposit,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+267,Mo00300,Dixie Girl,https://mrdata.usgs.gov/deposit/json/REE-Mo00300
+268,Mo00301,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+269,Mo00302,Hansen Group; Hansen Number 2,https://mrdata.usgs.gov/deposit/json/REE-Mo00302
+270,Mo00303,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00303
+271,Mo00286,"Iron Hill Carbonatite, REE-Nb-Th-U",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+272,Mo00335,"Iron Hill Pyroxenite, Ti-V-Fe-Vermiculite; White Earth; Cebolla Creek Iron Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+273,Mf00240,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00240
+274,Mo00262,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+275,Mr00053,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+276,Mr00046,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+277,Mo00350,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00350
+278,Mo00351,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00351
+279,Mr00069,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00069
+280,Mf00339,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00339
+281,Mo00287,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+282,Mf00260,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00260
+283,Mf00261,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00261
+284,Mf00262,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00262
+285,Mo00483,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+286,Mo00484,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+287,Mo00485,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+288,Mf00319,Mineral City,https://mrdata.usgs.gov/deposit/json/REE-Mf00319
+289,Mo00292,Mineral City,https://mrdata.usgs.gov/deposit/json/REE-Mo00292
+290,Mf00530,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00530
+291,Mo00291,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00291
+292,Mo00529,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+293,Mo00530,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+294,Mf00529,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00529
+295,Mo00290,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+296,Mo00305,Talbot Island,https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+297,Mo00288,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00288
+298,Mf00340,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00340
+299,Mo00289,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+300,Mo00652,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00652
+301,Mo00660,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00660
+302,Mo00661,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00661
+303,Mo00662,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00662
+304,Mo00663,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00663
+305,Mo00653,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00653
+306,Mo00293,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+307,Mo00379,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00379
+308,Mr00019,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+309,Mr00020,Grimes Creek Placer; Mores Creek Placer,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+310,Mr00021,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00021
+311,Mr00017,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00017
+312,Mr00027,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00027
+313,Mr00022,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00022
+314,Mr00023,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+315,Mr00018,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+316,Mr00026,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00026
+317,Mr00025,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00025
+318,Mr00024,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00024
+319,Mr00081,Beaverhead; Bobbitt; Bloody Dick,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+320,Mf00348,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00348
+321,Mf00349,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00349
+322,Mo00377,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+323,Mo00388,Golden Sceptre Locality No. 1,https://mrdata.usgs.gov/deposit/json/REE-Mo00388
+324,Mo00389,Golden Sceptre Locality No. 2,https://mrdata.usgs.gov/deposit/json/REE-Mo00389
+325,Mo00390,T.M.U. No. 1,https://mrdata.usgs.gov/deposit/json/REE-Mo00390
+326,Mo00391,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00391
+327,Mo00392,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00392
+328,Mo00393,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00393
+329,Mo00394,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00394
+330,Mo00395,Wawa No. 1,https://mrdata.usgs.gov/deposit/json/REE-Mo00395
+331,Mo00396,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00396
+332,Mo00397,Wawa No. 2,https://mrdata.usgs.gov/deposit/json/REE-Mo00397
+333,Mo00398,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00398
+334,Mo00399,Scheller,https://mrdata.usgs.gov/deposit/json/REE-Mo00399
+335,Mo00400,Scheller,https://mrdata.usgs.gov/deposit/json/REE-Mo00400
+336,Mo00401,Scheller,https://mrdata.usgs.gov/deposit/json/REE-Mo00401
+337,Mr00097,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+338,Mf00427,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00427
+339,Mo00532,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00532
+340,Mf00428,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00428
+341,Mo00533,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00533
+342,Mf00429,Dry Valley,https://mrdata.usgs.gov/deposit/json/REE-Mf00429
+343,Mo00534,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00534
+344,Mf00430,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00430
+345,Mo00535,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00535
+346,Mf00431,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00431
+347,Mo00536,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00536
+348,Mf00432,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00432
+349,Mo00537,Maybie,https://mrdata.usgs.gov/deposit/json/REE-Mo00537
+350,Mo00495,Dry Ridge,https://mrdata.usgs.gov/deposit/json/REE-Mo00495
+351,Mf00433,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00433
+352,Mo00538,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00538
+353,Mf00434,Conda,https://mrdata.usgs.gov/deposit/json/REE-Mf00434
+354,Mo00539,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00539
+355,Mf00435,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00435
+356,Mo00540,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00540
+357,Mf00436,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00436
+358,Mo00541,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00541
+359,Mf00437,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00437
+360,Mo00542,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00542
+361,Mo00544,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00544
+362,Mo00545,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00545
+363,Mo00654,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+364,Mr00130,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00130
+365,Mo00285,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+366,Mf00239,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00239
+367,Mo00256,Pea Ridge Iron Orebody,https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+368,Mo00257,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00257
+369,Mo00258,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00258
+370,Mo00259,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00259
+371,Mo00260,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00260
+372,Mo00306,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+373,Mo00655,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00655
+374,Mo00656,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00656
+375,Mo00657,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+376,Mf00378,Permit Number 59-21,https://mrdata.usgs.gov/deposit/json/REE-Mf00378
+377,Mo00295,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00295
+378,Mo00463,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00463
+379,Mo00466,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00466
+380,Mo00468,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00468
+381,Mo00469,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00469
+382,Mo00315,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00315
+383,Mo00346,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00346
+384,Mo00255,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+385,Mf00342,Replogle Mine; Ross Shaft; Dell Mine; No. 1 Shaft,https://mrdata.usgs.gov/deposit/json/REE-Mf00342
+386,Mo00376,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+387,Mo00276,Pajarito Mountain Area,https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+388,Mo00282,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00282
+389,Mr00028,Corona; Gallinas; Gallinas-Red Cloud; Iron Mountain; Red Cloud,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+390,Mr00029,Box Canyon; Lemitar; Polvadera; Polvadero; Limitar; Sierra Lemitar; Ginger M,https://mrdata.usgs.gov/deposit/json/REE-Mr00029
+391,Mr00054,Arabela; Arabela Manganese; Arabella; Capitan; Capitan Mountain; El Capitan; Major; Pine Lodge; Red Wing; Thorite,https://mrdata.usgs.gov/deposit/json/REE-Mr00054
+392,Mr00042,El Porvenior; Hermit Mountain; Mineral Hill; Porvenir,https://mrdata.usgs.gov/deposit/json/REE-Mr00042
+393,Mr00044,Cow Spring; Kithill; Saddle Mountain,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+394,Mr00057,Chico Hills,https://mrdata.usgs.gov/deposit/json/REE-Mr00057
+395,Mr00098,Cactus; Coyote Hills; Jim Crow,https://mrdata.usgs.gov/deposit/json/REE-Mr00098
+396,Mr00045,Alamos; Cribbensville; Cribbenville; La Madera; Las Tablas; Ojo Callente; Paloma Canyon; Servilleta; Tres Piedras; Vallecitos,https://mrdata.usgs.gov/deposit/json/REE-Mr00045
+397,Mr00099,"Apache Chief, Black Jack, Cox, Cutter, Cutter-Engle, Dakota, Derry, Engle, Hillside-Sierra, Humbolt Camp, Illinois, Independence, Lincoln, Lyda-K, Oakland, Palomas Gap, Parker, Riverside, Sierrite, Sirra Caballo, Sunset, Universal, Wild Horse, Pi",https://mrdata.usgs.gov/deposit/json/REE-Mr00099
+398,Mr00055,Wind Mountain,https://mrdata.usgs.gov/deposit/json/REE-Mr00055
+399,Mr00056,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00056
+400,Mo00269,Thor Project,https://mrdata.usgs.gov/deposit/json/REE-Mo00269
+401,Mo00299,Thor Project,https://mrdata.usgs.gov/deposit/json/REE-Mo00299
+402,Mo00304,Thor Project,https://mrdata.usgs.gov/deposit/json/REE-Mo00304
+403,Mr00038,Crescent Peak; New York; Timber Mountain,https://mrdata.usgs.gov/deposit/json/REE-Mr00038
+404,Mr00062,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+405,Mf00275,Port Leyden Iron Mine,https://mrdata.usgs.gov/deposit/json/REE-Mf00275
+406,Mo00355,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+407,Mf00334,Port Henry Mines,https://mrdata.usgs.gov/deposit/json/REE-Mf00334
+408,Mo00366,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00366
+409,Mf00335,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00335
+410,Mf00336,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00336
+411,Mf00337,Old Bed Mine; 23 Mine,https://mrdata.usgs.gov/deposit/json/REE-Mf00337
+412,Mf00338,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00338
+413,Mo00364,Sanford,https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+414,Mo00367,Bonanza Orebody; Joker-Bonanza,https://mrdata.usgs.gov/deposit/json/REE-Mo00367
+415,Mf00282,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00282
+416,Mo00365,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00365
+417,Mf00281,Pilfershire; Pilfshire,https://mrdata.usgs.gov/deposit/json/REE-Mf00281
+418,Mo00368,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00368
+419,Mf00283,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00283
+420,Mo00369,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00369
+421,Mo00296,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+422,Mf00361,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00361
+423,Mo00297,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+424,Mo00470,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00470
+425,Mo00464,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00464
+426,Mo00465,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00465
+427,Mo00467,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00467
+428,Mo00307,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00307
+429,Mo00308,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00308
+430,Mo00496,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00496
+431,Mf00438,Camden,https://mrdata.usgs.gov/deposit/json/REE-Mf00438
+432,Mo00543,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00543
+433,Mf00232,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00232
+434,Mo00233,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+435,Mo00659,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00659
+436,Mf00556,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mf00556
+437,Mo00658,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00658
+438,Mo00240,Bull Hill SW,https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+439,Mo00241,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00241
+440,Mo00242,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+441,Mo00249,East Taylor,https://mrdata.usgs.gov/deposit/json/REE-Mo00249
+442,Mo00251,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00251
+443,Mr00010,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mr00010
+444,Mf00531,Uranium King Mine,https://mrdata.usgs.gov/deposit/json/REE-Mf00531
+445,Mo00687,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00687
+446,Mo00664,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00664
+447,Mf00532,Ramsbottom Property,https://mrdata.usgs.gov/deposit/json/REE-Mf00532
+448,Mo00665,Ramsbottom Property,https://mrdata.usgs.gov/deposit/json/REE-Mo00665
+449,Mo00666,Shirley #22 claims,https://mrdata.usgs.gov/deposit/json/REE-Mo00666
+450,Mo00667,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00667
+451,Mo00668,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00668
+452,Mo00669,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00669
+453,Mo00670,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00670
+454,Mo00671,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00671
+455,Mo00672,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00672
+456,Mo00673,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00673
+457,Mo00674,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00674
+458,Mo00675,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00675
+459,Mo00676,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00676
+460,Mo00677,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00677
+461,Mo00678,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00678
+462,Mo00679,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00679
+463,Mo00680,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00680
+464,Mo00681,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00681
+465,Mo00682,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00682
+466,Mo00683,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00683
+467,Mo00684,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00684
+468,Mo00685,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+469,Mo00686,<Null>,https://mrdata.usgs.gov/deposit/json/REE-Mo00686
+470,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+471,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+472,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+473,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+474,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+475,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+476,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+477,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+478,Mo00294,"Bokan Mountain, Wennie",https://mrdata.usgs.gov/deposit/json/REE-Mo00294
+479,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+480,Mo00555,"Bokan Mountain, Irene-D",https://mrdata.usgs.gov/deposit/json/REE-Mo00555
+481,Mo00556,"Bokan Mountain, Little Jim and Little Joe",https://mrdata.usgs.gov/deposit/json/REE-Mo00556
+482,Mo00557,"Bokan Mountain, Boots",https://mrdata.usgs.gov/deposit/json/REE-Mo00557
+483,Mo00565,"Bokan Mountain, Shore",https://mrdata.usgs.gov/deposit/json/REE-Mo00565
+484,Mo00627,"Draken Claims, Silver Lining Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00627
+485,Mo00471,"Salmon Bay, Salmon Bay Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+486,Mo00497,"Dora Bay, Dora Bay Occurrence",https://mrdata.usgs.gov/deposit/json/REE-Mo00497
+487,Mo00583,"Aichilik River, Aichilik River Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00583
+488,Mo00626,"Boston Ridge, Boston Ridge Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00626
+489,Mo00599,"Cape Darby, Cape Darby Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00599
+490,Mo00603,"Clear Creek, Clear Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00603
+491,Mo00596,"Eudialyte, Eudialyte Occurrence",https://mrdata.usgs.gov/deposit/json/REE-Mo00596
+492,Mo00600,"Golovnin Bay, Golovnin Bay Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00600
+493,Mo00592,"Hot Springs Creek, Hot Springs Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+494,Mo00613,"Karshner Creek, Karshner Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00613
+495,Mo00573,"Kilolitna River, Kilolitna River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00573
+496,Mo00602,"Kwiniuk River, Kwiniuk River Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00602
+497,Mo00620,"Lucky Six, Lucky Six Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+498,Mo00579,"No Name Creek, No Name Creek Occurrence",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+499,Mo00594,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+500,Mo00691,"Paystreak and Marker Veins, Marker Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+501,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+502,Mo00622,"Ruby Creek, Ruby Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+503,Mo00566,"Section 35, Section 35 Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+504,Mo00558,"Tofty Ridge, Tofty Ridge Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00558
+505,Mo00590,"Unnamed (Half-Way Pillar), Unnamed (Half-Way Pillar) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00590
+506,Mo00578,"Unnamed (east fork of Kilolitna River), Unnamed (east fork of Kilolitna River) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00578
+507,Mo00621,"Unnamed (east of Berg Mountain), Unnamed (east of Berg Mountain) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00621
+508,Mo00601,"Unnamed (east of Eagle Creek), Unnamed (east of Eagle Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00601
+509,Mo00624,"Unnamed (in Zane Hills), Unnamed (in Zane Hills) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00624
+510,Mo00553,"Unnamed (near Mallard Bay), Unnamed (near Mallard Bay) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00553
+511,Mo00595,"Unnamed (near Salmon Bay), Unnamed (near Salmon Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00595
+512,Mo00618,"Unnamed (near Salmon River), Unnamed (near Salmon River) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00618
+513,Mo00614,"Unnamed (near Swift River), Unnamed (near Swift River) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00614
+514,Mo00552,"Unnamed (north shore, Stone Rock Bay), Unnamed (north shore, Stone Rock Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+515,Mo00645,"Unnamed (northeast of lower Sue Creek), Unnamed (northeast of lower Sue Creek) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00645
+516,Mo00625,"Unnamed (northeast ridge of Caribou Mountain), Unnamed (northeast ridge of Caribou Mountain) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00625
+517,Mo00610,"Unnamed (on Rock Creek), Unnamed (on Rock Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00610
+518,Mo00623,"Unnamed (on Slate Creek), Unnamed (on Slate Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00623
+519,Mo00604,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2983",https://mrdata.usgs.gov/deposit/json/REE-Mo00604
+520,Mo00605,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2974",https://mrdata.usgs.gov/deposit/json/REE-Mo00605
+521,Mo00606,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2993",https://mrdata.usgs.gov/deposit/json/REE-Mo00606
+522,Mo00607,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2992",https://mrdata.usgs.gov/deposit/json/REE-Mo00607
+523,Mo00608,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2995, 2996",https://mrdata.usgs.gov/deposit/json/REE-Mo00608
+524,Mo00609,"Unnamed (tributary to Vulcan Creek), Unnamed (tributary to Vulcan Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00609
+525,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+526,Mo00619,"William Henry, William Henry Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00619
+527,Mo00597,"Windy Fork Placer, Windy Fork Placer Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+528,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+529,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+530,Mo00300,"Music Valley, Baby Blue",https://mrdata.usgs.gov/deposit/json/REE-Mo00300
+531,Mo00301,"Music Valley, U-Thor",https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+532,Mo00302,"Music Valley, Hansen",https://mrdata.usgs.gov/deposit/json/REE-Mo00302
+533,Mo00303,"Music Valley, Uranus Prospects",https://mrdata.usgs.gov/deposit/json/REE-Mo00303
+534,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+535,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+536,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+537,Mo00350,"Powderhorn Exploration Project, Satellite",https://mrdata.usgs.gov/deposit/json/REE-Mo00350
+538,Mo00351,"Powderhorn Exploration Project, Rudolph Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00351
+539,Mo00287,"Green Cove Springs, Green Cove Springs Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+540,-1111,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+541,Mo00483,"Trail Ridge, Trail Ridge Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+542,Mo00484,"Trail Ridge, Maxville Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+543,Mo00485,"Trail Ridge, Highland Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+544,Mo00292,"Ponte Vedra, Ponte Vedra Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00292
+545,Mo00291,"Jacksonville, Jacksonville Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00291
+546,Mo00529,"Melbourne, Melbourne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+547,Mo00530,"Vero Beach, Vero Beach Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+548,Mo00290,"Boulogne, Boulougne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+549,Mo00305,"Little Talbot Island, Little Talbot Island Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+550,Mo00288,"Cumberland Island, Cumberland Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00288
+551,Mo00289,"Folkston, Folkston Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+552,Mo00652,"Cabin Bluff, Cabin Bluff Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00652
+553,Mo00660,"Cabin Bluff, Ceylon",https://mrdata.usgs.gov/deposit/json/REE-Mo00660
+554,Mo00661,"Cabin Bluff, Ocean Pond",https://mrdata.usgs.gov/deposit/json/REE-Mo00661
+555,Mo00662,"Cabin Bluff, Pine Barren",https://mrdata.usgs.gov/deposit/json/REE-Mo00662
+556,Mo00663,"Cabin Bluff, Copeland",https://mrdata.usgs.gov/deposit/json/REE-Mo00663
+557,Mo00653,"Altama, Altama orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00653
+558,Mo00293,"Silver Queen, Silver Queen 52B Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+559,Mo00379,"Silver Queen, Silver Queen 38A Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00379
+560,Mo00377,"Lucky Horseshoe, Lucky Horseshoe Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+561,-1111,Hall Mountain Group,https://mrdata.usgs.gov/deposit/json/REE--1111
+562,Mo00388,"Hall Mountain Group, No. 1",https://mrdata.usgs.gov/deposit/json/REE-Mo00388
+563,Mo00389,"Hall Mountain Group, No. 2",https://mrdata.usgs.gov/deposit/json/REE-Mo00389
+564,Mo00390,"Hall Mountain Group, No. 3",https://mrdata.usgs.gov/deposit/json/REE-Mo00390
+565,Mo00391,"Hall Mountain Group, No. 4",https://mrdata.usgs.gov/deposit/json/REE-Mo00391
+566,Mo00392,"Hall Mountain Group, No. 5",https://mrdata.usgs.gov/deposit/json/REE-Mo00392
+567,Mo00393,"Hall Mountain Group, No. 6",https://mrdata.usgs.gov/deposit/json/REE-Mo00393
+568,Mo00394,"Hall Mountain Group, No. 7",https://mrdata.usgs.gov/deposit/json/REE-Mo00394
+569,Mo00395,"Hall Mountain Group, No. 8",https://mrdata.usgs.gov/deposit/json/REE-Mo00395
+570,Mo00396,"Hall Mountain Group, No. 9",https://mrdata.usgs.gov/deposit/json/REE-Mo00396
+571,Mo00397,"Hall Mountain Group, No. 10",https://mrdata.usgs.gov/deposit/json/REE-Mo00397
+572,Mo00398,"Hall Mountain Group, No. 11",https://mrdata.usgs.gov/deposit/json/REE-Mo00398
+573,Mo00399,"Hall Mountain Group, No. 12",https://mrdata.usgs.gov/deposit/json/REE-Mo00399
+574,Mo00400,"Hall Mountain Group, No. 13",https://mrdata.usgs.gov/deposit/json/REE-Mo00400
+575,Mo00401,"Hall Mountain Group, No. 14",https://mrdata.usgs.gov/deposit/json/REE-Mo00401
+576,Mo00532,"Blackfoot Bridge, Blackfoot Bridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00532
+577,Mo00533,"Caldwell Canyon, Caldwell Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00533
+578,Mo00534,"Champ, Champ Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00534
+579,Mo00535,"Conda, Conda Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00535
+580,Mo00536,"Gay-South Forty, Gay-South Forty Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00536
+581,Mo00537,"Henry, Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00537
+582,Mo00495,"Husky, Husky Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00495
+583,Mo00538,"Maybe Canyon, Maybe Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00538
+584,Mo00539,"Mountain Fuel, Mountain Fuel Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00539
+585,Mo00540,"North Henry, North Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00540
+586,Mo00541,"Smokey Canyon, Smoky Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00541
+587,Mo00542,"Wooley Valley, Wooley Valley Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00542
+588,Mo00544,"Swan Lake Gulch, Swan Lake Gulch Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00544
+589,Mo00545,"Trail Creek, Trail Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00545
+590,Mo00654,"Monumental Summit, Monumental Summit rare-earth Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+591,Mo00285,"Hicks Dome, Hicks Dome Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+592,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+593,Mo00257,"Pea Ridge, V-12 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00257
+594,Mo00258,"Pea Ridge, V-14 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00258
+595,Mo00259,"Pea Ridge, X-11 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00259
+596,Mo00260,"Pea Ridge, X-13 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00260
+597,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+598,Mo00655,"Rocky Boy, Rocky Boy stock",https://mrdata.usgs.gov/deposit/json/REE-Mo00655
+599,Mo00656,"Snowbird, Snowbird Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00656
+600,Mo00657,"Southern Ravalli County, Sheep Creek-Beaver Creek-West Fork-Woods Creek Deposits",https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+601,Mo00295,"Christy-Destiny, Unnamed Placer",https://mrdata.usgs.gov/deposit/json/REE-Mo00295
+602,Mo00463,"Sandy Run Creek, Sandy Run Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00463
+603,Mo00466,"Buffalo Creek, Buffalo Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00466
+604,Mo00468,"Knob Creek, Knob Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00468
+605,Mo00469,"First Broad River, First Broad River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00469
+606,Mo00315,"South Muddy Creek, South Muddy Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00315
+607,Mo00346,"Silver Creek, Silver Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00346
+608,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+609,Mo00376,"Scrub Oaks, Scrub Oaks Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+610,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+611,Mo00282,"Gallinas Mountains Project, Gallinas Mountains Project Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00282
+612,Mo00269,"Thor, Lopez Trend",https://mrdata.usgs.gov/deposit/json/REE-Mo00269
+613,Mo00299,"Thor, Black Butte",https://mrdata.usgs.gov/deposit/json/REE-Mo00299
+614,Mo00304,"Thor, Ned",https://mrdata.usgs.gov/deposit/json/REE-Mo00304
+615,Mo00355,"Port Leyden, Port Leyden Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+616,Mo00366,"Cheever, Cheever Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00366
+617,Mo00364,"Mineville Group, Old Bed Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+618,Mo00367,"Mineville Group, Joker Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00367
+619,Mo00365,"Smith, Smith Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00365
+620,Mo00368,"Pelfshire, Pilfershire Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00368
+621,Mo00369,"Sherman, Sherman Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00369
+622,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+623,Mo00297,"Horse Creek, Horse Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+624,Mo00470,"Broad River, Broad River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00470
+625,Mo00464,"Thicketty Creek, Thicketty Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00464
+626,Mo00465,"North Tyger River, North Tyger River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00465
+627,Mo00467,"Rabon Creek, Rabon Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00467
+628,Mo00307,"Hollow Creek, Hollow Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00307
+629,Mo00308,"Big Generostee Creek, Big Generostee Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00308
+630,Mo00496,"Oak Grove, Oak Grove Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00496
+631,Mo00543,"Silica, Silica Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00543
+632,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+633,Mo00235,"Round Top, West End Structure",https://mrdata.usgs.gov/deposit/json/REE-Mo00235
+634,Mo00659,"Rode Ranch, Rode Ranch Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00659
+635,Mo00658,"Little Friar Mountain, Little Friar Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00658
+636,Mo00240,"Bear Lodge, Bull Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+637,Mo00241,"Bear Lodge, Carbon",https://mrdata.usgs.gov/deposit/json/REE-Mo00241
+638,Mo00242,"Bear Lodge, Whitetail Ridge",https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+639,Mo00249,"Bear Lodge, Taylor",https://mrdata.usgs.gov/deposit/json/REE-Mo00249
+640,Mo00251,"Bear Lodge, Unnamed Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00251
+641,Mo00687,"Platt, Platt Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00687
+642,Mo00664,"Onemile Creek, Onemile Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00664
+643,Mo00665,"Beaver Creek, Beaver Creek Prospect ",https://mrdata.usgs.gov/deposit/json/REE-Mo00665
+644,Mo00666,"Gafco, Gafco Placer Claims",https://mrdata.usgs.gov/deposit/json/REE-Mo00666
+645,Mo00667,"Ranger, Ranger no. 1 Claim",https://mrdata.usgs.gov/deposit/json/REE-Mo00667
+646,Mo00668,"Grass Creek, Grass Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00668
+647,Mo00669,"Cottonwood Creek, Cottonwood Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00669
+648,Mo00670,"Spring Gap, Spring Gap Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00670
+649,Mo00671,"Frontier Formation-Spring Gap, Frontier Formation-Spring Gap Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00671
+650,Mo00672,"North Sheldon Gulch, North Sheldon Gulch Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00672
+651,Mo00673,"Middle Fork Pine Creek, Middle Fork Pine Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00673
+652,Mo00674,"Raymond Canyon, Raymond Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00674
+653,Mo00675,"Snow King Mountain, Snow King Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00675
+654,Mo00676,"Table Mountain, Table Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00676
+655,Mo00677,"Crystal Creek, Crystal Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00677
+656,Mo00678,Crystal Creek Canyon,https://mrdata.usgs.gov/deposit/json/REE-Mo00678
+657,Mo00679,"Unnamed (S of Shorty Creek), Unnamed (S of Shorty Creek) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00679
+658,Mo00680,"Crystal Peak, Crystal Peak Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00680
+659,Mo00681,"Granite Creek, Granite Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00681
+660,Mo00682,"Bear Cabin Creek, Bear Cabin Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00682
+661,Mo00683,"Unnamed (Little Grizzly Basin), Unnamed (Little Grizzly Basin) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00683
+662,Mo00684,"Tosi Creek, Tosi Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00684
+663,Mo00685,"Bald Mountain, Bald Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+664,Mo00686,"Bald Mountain, Rooster Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00686
+665,Mr00004,Magnet Cove District,https://mrdata.usgs.gov/deposit/json/REE-Mr00004
+666,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+667,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+668,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+669,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+670,Mr00069,Climax District,https://mrdata.usgs.gov/deposit/json/REE-Mr00069
+671,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+672,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+673,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+674,Mo00287,"Green Cove Springs, Green Cove Springs Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+675,Mo00483,"Trail Ridge, Trail Ridge Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+676,Mo00484,"Trail Ridge, Maxville Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+677,Mo00485,"Trail Ridge, Highland Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+678,Mo00290,"Boulogne, Boulougne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+679,Mo00291,"Jacksonville, Jacksonville Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00291
+680,Mo00305,"Little Talbot Island, Little Talbot Island Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+681,Mo00289,"Folkston, Folkston Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+682,Mr00081,Lemhi Pass District,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+683,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+684,Mr00025,Salmon River Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00025
+685,Mr00017,Clearwater River Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00017
+686,Mr00026,Rock Creek-Camp Creek Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00026
+687,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+688,Mr00023,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+689,Mr00021,Burgdorf-Warren Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00021
+690,Mr00022,Dixie-Florence Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00022
+691,Mr00024,Stanley Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00024
+692,Mr00027,Dismal Swamp Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00027
+693,Mr00020,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+694,Mo00397,"Hall Mountain Group, No. 10",https://mrdata.usgs.gov/deposit/json/REE-Mo00397
+695,Mo00377,"Lucky Horseshoe, Lucky Horseshoe Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+696,Mo00399,"Hall Mountain Group, No. 12",https://mrdata.usgs.gov/deposit/json/REE-Mo00399
+697,Mo00388,"Hall Mountain Group, No. 1",https://mrdata.usgs.gov/deposit/json/REE-Mo00388
+698,Mo00398,"Hall Mountain Group, No. 11",https://mrdata.usgs.gov/deposit/json/REE-Mo00398
+699,Mo00390,"Hall Mountain Group, No. 3",https://mrdata.usgs.gov/deposit/json/REE-Mo00390
+700,Mo00400,"Hall Mountain Group, No. 13",https://mrdata.usgs.gov/deposit/json/REE-Mo00400
+701,Mo00395,"Hall Mountain Group, No. 8",https://mrdata.usgs.gov/deposit/json/REE-Mo00395
+702,Mo00401,"Hall Mountain Group, No. 14",https://mrdata.usgs.gov/deposit/json/REE-Mo00401
+703,Mo00393,"Hall Mountain Group, No. 6",https://mrdata.usgs.gov/deposit/json/REE-Mo00393
+704,Mo00394,"Hall Mountain Group, No. 7",https://mrdata.usgs.gov/deposit/json/REE-Mo00394
+705,Mo00396,"Hall Mountain Group, No. 9",https://mrdata.usgs.gov/deposit/json/REE-Mo00396
+706,Mo00392,"Hall Mountain Group, No. 5",https://mrdata.usgs.gov/deposit/json/REE-Mo00392
+707,Mo00391,"Hall Mountain Group, No. 4",https://mrdata.usgs.gov/deposit/json/REE-Mo00391
+708,Mo00285,"Hicks Dome, Hicks Dome Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+709,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+710,Mo00260,"Pea Ridge, X-13 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00260
+711,Mo00259,"Pea Ridge, X-11 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00259
+712,Mo00258,"Pea Ridge, V-14 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00258
+713,Mo00257,"Pea Ridge, V-12 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00257
+714,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+715,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+716,Mo00376,"Scrub Oaks, Scrub Oaks Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+717,Mr00099,Caballo Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00099
+718,Mr00054,Capitan Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00054
+719,Mr00057,Laughlin Peak District,https://mrdata.usgs.gov/deposit/json/REE-Mr00057
+720,Mr00045,Petaca District,https://mrdata.usgs.gov/deposit/json/REE-Mr00045
+721,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+722,Mr00055,Cornudas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00055
+723,Mr00029,Lemitar Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00029
+724,Mr00042,El Porvenir District,https://mrdata.usgs.gov/deposit/json/REE-Mr00042
+725,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+726,Mr00056,Pajarito District,https://mrdata.usgs.gov/deposit/json/REE-Mr00056
+727,Mr00098,Chupadera Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00098
+728,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+729,Mr00038,Crescent District,https://mrdata.usgs.gov/deposit/json/REE-Mr00038
+730,Mo00269,"Thor, Lopez Trend",https://mrdata.usgs.gov/deposit/json/REE-Mo00269
+731,Mo00299,"Thor, Black Butte",https://mrdata.usgs.gov/deposit/json/REE-Mo00299
+732,Mo00304,"Thor, Ned",https://mrdata.usgs.gov/deposit/json/REE-Mo00304
+733,Mo00364,"Mineville Group, Old Bed Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+734,Mo00367,"Mineville Group, Joker Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00367
+735,Mo00365,"Smith, Smith Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00365
+736,Mo00355,"Port Leyden, Port Leyden Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+737,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+738,Mr00010,Bear Lodge District,https://mrdata.usgs.gov/deposit/json/REE-Mr00010
+739,Mo00240,"Bear Lodge, Bull Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+740,Mo00242,"Bear Lodge, Whitetail Ridge",https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+741,Mo00241,"Bear Lodge, Carbon",https://mrdata.usgs.gov/deposit/json/REE-Mo00241
+742,Mo00249,"Bear Lodge, Taylor",https://mrdata.usgs.gov/deposit/json/REE-Mo00249
+743,Mo00251,"Bear Lodge, Unnamed Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00251
+744,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+745,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+746,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+747,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+748,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+749,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+750,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+751,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+752,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+753,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+754,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+755,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+756,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+757,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+758,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+759,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+760,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+761,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+762,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+763,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+764,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+765,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+766,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+767,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+768,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+769,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+770,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+771,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+772,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+773,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+774,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+775,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+776,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+777,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+778,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+779,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+780,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+781,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+782,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+783,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+784,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+785,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+786,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+787,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+788,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+789,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+790,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+791,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+792,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+793,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+794,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+795,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+796,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+797,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+798,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+799,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+800,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+801,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+802,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+803,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+804,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+805,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+806,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+807,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+808,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+809,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+810,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+811,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+812,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+813,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+814,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+815,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+816,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+817,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+818,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+819,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+820,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+821,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+822,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+823,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+824,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+825,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+826,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+827,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+828,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+829,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+830,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+831,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+832,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+833,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+834,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+835,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+836,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+837,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+838,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+839,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+840,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+841,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+842,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+843,Mo00252,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+844,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+845,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+846,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+847,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+848,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+849,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+850,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+851,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+852,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+853,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+854,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+855,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+856,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+857,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+858,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+859,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+860,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+861,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+862,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+863,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+864,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+865,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+866,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+867,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+868,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+869,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+870,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+871,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+872,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+873,Mo00579,"No Name Creek, No Name Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+874,Mo00579,"No Name Creek, No Name Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+875,Mo00579,"No Name Creek, No Name Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+876,Mo00579,"No Name Creek, No Name Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+877,Mo00691,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+878,Mo00691,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+879,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+880,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+881,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+882,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+883,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+884,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+885,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+886,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+887,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+888,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+889,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+890,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+891,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+892,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+893,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+894,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+895,-1111,Music Valley,https://mrdata.usgs.gov/deposit/json/REE--1111
+896,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+897,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+898,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+899,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+900,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+901,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+902,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+903,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+904,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+905,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+906,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+907,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+908,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+909,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+910,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+911,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+912,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+913,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+914,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+915,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+916,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+917,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+918,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+919,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+920,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+921,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+922,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+923,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+924,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+925,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+926,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+927,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+928,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+929,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+930,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+931,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+932,-1111,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+933,-1111,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+934,-1111,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+935,-1111,Trail Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+936,Mo00290,"Boulogne, Boulougne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+937,Mo00289,"Folkston, Folkston Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+938,Mo00652,"Cabin Bluff, Cabin Bluff Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00652
+939,Mo00652,"Cabin Bluff, Cabin Bluff Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00652
+940,Mo00660,"Cabin Bluff, Ceylon",https://mrdata.usgs.gov/deposit/json/REE-Mo00660
+941,Mo00660,"Cabin Bluff, Ceylon",https://mrdata.usgs.gov/deposit/json/REE-Mo00660
+942,Mo00661,"Cabin Bluff, Ocean Pond",https://mrdata.usgs.gov/deposit/json/REE-Mo00661
+943,Mo00661,"Cabin Bluff, Ocean Pond",https://mrdata.usgs.gov/deposit/json/REE-Mo00661
+944,Mo00662,"Cabin Bluff, Pine Barren",https://mrdata.usgs.gov/deposit/json/REE-Mo00662
+945,Mo00662,"Cabin Bluff, Pine Barren",https://mrdata.usgs.gov/deposit/json/REE-Mo00662
+946,Mo00663,"Cabin Bluff, Copeland",https://mrdata.usgs.gov/deposit/json/REE-Mo00663
+947,Mo00663,"Cabin Bluff, Copeland",https://mrdata.usgs.gov/deposit/json/REE-Mo00663
+948,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+949,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+950,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+951,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+952,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+953,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+954,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+955,Mr00019,Bear Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00019
+956,Mr00020,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+957,Mr00020,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+958,Mr00020,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+959,Mr00020,Boise Basin Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00020
+960,Mr00021,Burgdorf-Warren Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00021
+961,Mr00021,Burgdorf-Warren Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00021
+962,Mr00021,Burgdorf-Warren Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00021
+963,Mr00023,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+964,Mr00023,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+965,Mr00023,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+966,Mr00023,Elk City-Newsome Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00023
+967,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+968,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+969,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+970,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+971,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+972,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+973,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+974,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+975,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+976,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+977,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+978,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+979,Mr00081,Lemhi Pass District,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+980,Mr00081,Lemhi Pass District,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+981,Mr00081,Lemhi Pass District,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+982,-1111,Hall Mountain Group,https://mrdata.usgs.gov/deposit/json/REE--1111
+983,-1111,Hall Mountain Group,https://mrdata.usgs.gov/deposit/json/REE--1111
+984,Mr00097,Diamond Creek District,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+985,Mr00097,Diamond Creek District,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+986,Mr00097,Diamond Creek District,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+987,Mr00097,Diamond Creek District,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+988,Mo00532,"Blackfoot Bridge, Blackfoot Bridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00532
+989,Mo00533,"Caldwell Canyon, Caldwell Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00533
+990,Mo00536,"Gay-South Forty, Gay-South Forty Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00536
+991,Mo00537,"Henry, Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00537
+992,Mo00495,"Husky, Husky Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00495
+993,Mo00538,"Maybe Canyon, Maybe Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00538
+994,Mo00539,"Mountain Fuel, Mountain Fuel Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00539
+995,Mo00540,"North Henry, North Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00540
+996,Mo00541,"Smokey Canyon, Smoky Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00541
+997,Mo00545,"Trail Creek, Trail Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00545
+998,Mo00654,"Monumental Summit, Monumental Summit rare-earth Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+999,Mo00285,"Hicks Dome, Hicks Dome Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+1000,-1111,Pea Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1001,-1111,Pea Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1002,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+1003,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+1004,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1005,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1006,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1007,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1008,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1009,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1010,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1011,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1012,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1013,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1014,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1015,Mr00062,Mineville District,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1016,Mr00062,Mineville District,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1017,Mr00062,Mineville District,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1018,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1019,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1020,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1021,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1022,Mo00496,"Oak Grove, Oak Grove Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00496
+1023,Mo00543,"Silica, Silica Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00543
+1024,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1025,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1026,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1027,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1028,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1029,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1030,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1031,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1032,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1033,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1034,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1035,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1036,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1037,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1038,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1039,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1040,Mo00685,"Bald Mountain, Bald Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1041,Mo00685,"Bald Mountain, Bald Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1042,Mo00685,"Bald Mountain, Bald Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1043,Mo00686,"Bald Mountain, Rooster Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00686
+1044,Mo00219,"Bokan Mountain, Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+1045,Mo00244,"Bokan Mountain, Geiger",https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+1046,Mo00245,"Bokan Mountain, Geoduck Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+1047,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+1048,Mo00247,"Bokan Mountain, Ross-Adams",https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+1049,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+1050,Mo00250,"Bokan Mountain, Upper Cheri",https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+1051,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+1052,Mo00294,"Bokan Mountain, Wennie",https://mrdata.usgs.gov/deposit/json/REE-Mo00294
+1053,-1111,"Bokan Mountain, I,L, and M; ILM; I, L, and M Nos. 1-3",https://mrdata.usgs.gov/deposit/json/REE--1111
+1054,Mo00555,"Bokan Mountain, Irene-D",https://mrdata.usgs.gov/deposit/json/REE-Mo00555
+1055,-1111,"Bokan Mountain, Little Jim; Little Joe No. 1, Little Joe No. 2",https://mrdata.usgs.gov/deposit/json/REE--1111
+1056,Mo00557,"Bokan Mountain, Boots",https://mrdata.usgs.gov/deposit/json/REE-Mo00557
+1057,Mo00565,"Bokan Mountain, Shore",https://mrdata.usgs.gov/deposit/json/REE-Mo00565
+1058,Mo00627,"Draken Claims, Silver Lining Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00627
+1059,Mo00471,"Salmon Bay, Salmon Bay Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+1060,Mo00497,"Dora Bay, Dora Bay Occurrence",https://mrdata.usgs.gov/deposit/json/REE-Mo00497
+1061,Mo00583,"Aichilik River, Aichilik River Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00583
+1062,Mo00626,"Boston Ridge, Boston Ridge Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00626
+1063,Mo00599,"Cape Darby, Cape Darby Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00599
+1064,Mo00603,"Clear Creek, Clear Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00603
+1065,Mo00596,"Eudialyte, Eudialyte Occurrence",https://mrdata.usgs.gov/deposit/json/REE-Mo00596
+1066,Mo00600,"Golovnin Bay, Golovnin Bay Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00600
+1067,Mo00592,"Hot Springs Creek, Hot Springs Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+1068,Mo00613,"Karshner Creek, Karshner Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00613
+1069,Mo00573,"Kilolitna River, Kilolitna River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00573
+1070,Mo00602,"Kwiniuk River, Kwiniuk River Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00602
+1071,Mo00620,"Lucky Six, Lucky Six Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1072,Mo00579,"No Name Creek, No Name Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+1073,Mo00594,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1074,Mo00691,"Paystreak and Marker Veins, Marker Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+1075,Mo00575,"Ray River, Ray River Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+1076,Mo00622,"Ruby Creek, Ruby Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+1077,Mo00566,"Section 35, Section 35 Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+1078,Mo00558,"Tofty Ridge, Tofty Ridge Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00558
+1079,Mo00558,"Tofty Ridge, Tofty Ridge Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00558
+1080,Mo00590,"Unnamed (Half-Way Pillar), Unnamed (Half-Way Pillar) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00590
+1081,Mo00578,"Unnamed (east fork of Kilolitna River), Unnamed (east fork of Kilolitna River) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00578
+1082,Mo00621,"Unnamed (east of Berg Mountain), Unnamed (east of Berg Mountain) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00621
+1083,Mo00601,"Unnamed (east of Eagle Creek), Unnamed (east of Eagle Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00601
+1084,Mo00624,"Unnamed (in Zane Hills), Unnamed (in Zane Hills) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00624
+1085,Mo00553,"Unnamed (near Mallard Bay), Unnamed (near Mallard Bay) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00553
+1086,Mo00595,"Unnamed (near Salmon Bay), Unnamed (near Salmon Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00595
+1087,Mo00618,"Unnamed (near Salmon River), Unnamed (near Salmon River) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00618
+1088,Mo00614,"Unnamed (near Swift River), Unnamed (near Swift River) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00614
+1089,Mo00552,"Unnamed (north shore, Stone Rock Bay), Unnamed (north shore, Stone Rock Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+1090,Mo00645,"Unnamed (northeast of lower Sue Creek), Unnamed (northeast of lower Sue Creek) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00645
+1091,Mo00625,"Unnamed (northeast ridge of Caribou Mountain), Unnamed (northeast ridge of Caribou Mountain) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00625
+1092,Mo00610,"Unnamed (on Rock Creek), Unnamed (on Rock Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00610
+1093,Mo00623,"Unnamed (on Slate Creek), Unnamed (on Slate Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00623
+1094,Mo00604,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2983",https://mrdata.usgs.gov/deposit/json/REE-Mo00604
+1095,Mo00605,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2974",https://mrdata.usgs.gov/deposit/json/REE-Mo00605
+1096,Mo00606,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2993",https://mrdata.usgs.gov/deposit/json/REE-Mo00606
+1097,Mo00607,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2992",https://mrdata.usgs.gov/deposit/json/REE-Mo00607
+1098,Mo00608,"Unnamed (tributary to Clear Creek), Unnamed (tributary to Clear Creek) Sample Loc 2995, 2996",https://mrdata.usgs.gov/deposit/json/REE-Mo00608
+1099,Mo00609,"Unnamed (tributary to Vulcan Creek), Unnamed (tributary to Vulcan Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00609
+1100,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+1101,Mo00619,"William Henry, William Henry Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00619
+1102,Mo00597,"Windy Fork Placer, Windy Fork Placer Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+1103,Mo00597,"Windy Fork Placer, Windy Fork Placer Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+1104,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1105,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1106,Mo00300,"Music Valley, Baby Blue",https://mrdata.usgs.gov/deposit/json/REE-Mo00300
+1107,Mo00301,"Music Valley, U-Thor",https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+1108,Mo00302,"Music Valley, Hansen",https://mrdata.usgs.gov/deposit/json/REE-Mo00302
+1109,Mo00303,"Music Valley, Uranus Prospects",https://mrdata.usgs.gov/deposit/json/REE-Mo00303
+1110,Mo00286,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite",https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+1111,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1112,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+1113,Mo00350,"Powderhorn Exploration Project, Satellite",https://mrdata.usgs.gov/deposit/json/REE-Mo00350
+1114,Mo00351,"Powderhorn Exploration Project, Rudolph Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00351
+1115,Mo00287,"Green Cove Springs, Green Cove Springs Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+1116,Mo00483,"Trail Ridge, Trail Ridge Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+1117,Mo00484,"Trail Ridge, Maxville Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+1118,Mo00485,"Trail Ridge, Highland Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+1119,Mo00292,"Ponte Vedra, Ponte Vedra Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00292
+1120,Mo00291,"Jacksonville, Jacksonville Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00291
+1121,Mo00529,"Melbourne, Melbourne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+1122,Mo00530,"Vero Beach, Vero Beach Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+1123,Mo00290,"Boulogne, Boulougne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+1124,Mo00305,"Little Talbot Island, Little Talbot Island Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+1125,Mo00288,"Cumberland Island, Cumberland Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00288
+1126,Mo00289,"Folkston, Folkston Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+1127,Mo00652,"Cabin Bluff, Cabin Bluff Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00652
+1128,Mo00660,"Cabin Bluff, Ceylon",https://mrdata.usgs.gov/deposit/json/REE-Mo00660
+1129,Mo00661,"Cabin Bluff, Ocean Pond",https://mrdata.usgs.gov/deposit/json/REE-Mo00661
+1130,Mo00662,"Cabin Bluff, Pine Barren",https://mrdata.usgs.gov/deposit/json/REE-Mo00662
+1131,Mo00663,"Cabin Bluff, Copeland",https://mrdata.usgs.gov/deposit/json/REE-Mo00663
+1132,Mo00653,"Altama, Altama orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00653
+1133,Mo00293,"Silver Queen, Silver Queen 52B Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1134,Mo00379,"Silver Queen, Silver Queen 38A Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00379
+1135,Mo00377,"Lucky Horseshoe, Lucky Horseshoe Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+1136,Mo00388,"Hall Mountain Group, No. 1",https://mrdata.usgs.gov/deposit/json/REE-Mo00388
+1137,Mo00389,"Hall Mountain Group, No. 2",https://mrdata.usgs.gov/deposit/json/REE-Mo00389
+1138,Mo00390,"Hall Mountain Group, No. 3",https://mrdata.usgs.gov/deposit/json/REE-Mo00390
+1139,Mo00391,"Hall Mountain Group, No. 4",https://mrdata.usgs.gov/deposit/json/REE-Mo00391
+1140,Mo00392,"Hall Mountain Group, No. 5",https://mrdata.usgs.gov/deposit/json/REE-Mo00392
+1141,Mo00393,"Hall Mountain Group, No. 6",https://mrdata.usgs.gov/deposit/json/REE-Mo00393
+1142,Mo00394,"Hall Mountain Group, No. 7",https://mrdata.usgs.gov/deposit/json/REE-Mo00394
+1143,Mo00395,"Hall Mountain Group, No. 8",https://mrdata.usgs.gov/deposit/json/REE-Mo00395
+1144,Mo00396,"Hall Mountain Group, No. 9",https://mrdata.usgs.gov/deposit/json/REE-Mo00396
+1145,Mo00397,"Hall Mountain Group, No. 10",https://mrdata.usgs.gov/deposit/json/REE-Mo00397
+1146,Mo00398,"Hall Mountain Group, No. 11",https://mrdata.usgs.gov/deposit/json/REE-Mo00398
+1147,Mo00399,"Hall Mountain Group, No. 12",https://mrdata.usgs.gov/deposit/json/REE-Mo00399
+1148,Mo00400,"Hall Mountain Group, No. 13",https://mrdata.usgs.gov/deposit/json/REE-Mo00400
+1149,Mo00401,"Hall Mountain Group, No. 14",https://mrdata.usgs.gov/deposit/json/REE-Mo00401
+1150,Mo00532,"Blackfoot Bridge, Blackfoot Bridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00532
+1151,Mo00533,"Caldwell Canyon, Caldwell Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00533
+1152,Mo00534,"Champ, Champ Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00534
+1153,Mo00535,"Conda, Conda Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00535
+1154,Mo00536,"Gay-South Forty, Gay-South Forty Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00536
+1155,Mo00537,"Henry, Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00537
+1156,Mo00495,"Husky, Husky Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00495
+1157,Mo00538,"Maybe Canyon, Maybe Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00538
+1158,Mo00539,"Mountain Fuel, Mountain Fuel Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00539
+1159,Mo00540,"North Henry, North Henry Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00540
+1160,Mo00541,"Smokey Canyon, Smoky Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00541
+1161,Mo00542,"Wooley Valley, Wooley Valley Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00542
+1162,Mo00544,"Swan Lake Gulch, Swan Lake Gulch Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00544
+1163,Mo00545,"Trail Creek, Trail Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00545
+1164,Mo00654,"Monumental Summit, Monumental Summit rare-earth Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+1165,Mo00285,"Hicks Dome, Hicks Dome Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+1166,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+1167,Mo00257,"Pea Ridge, V-12 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00257
+1168,Mo00258,"Pea Ridge, V-14 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00258
+1169,Mo00259,"Pea Ridge, X-11 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00259
+1170,Mo00260,"Pea Ridge, X-13 Pipe",https://mrdata.usgs.gov/deposit/json/REE-Mo00260
+1171,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1172,Mo00655,"Rocky Boy, Rocky Boy stock",https://mrdata.usgs.gov/deposit/json/REE-Mo00655
+1173,Mo00656,"Snowbird, Snowbird Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00656
+1174,Mo00657,"Southern Ravalli County, Sheep Creek-Beaver Creek-West Fork-Woods Creek Deposits",https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+1175,Mo00295,"Christy-Destiny, Unnamed Placer",https://mrdata.usgs.gov/deposit/json/REE-Mo00295
+1176,Mo00463,"Sandy Run Creek, Sandy Run Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00463
+1177,Mo00466,"Buffalo Creek, Buffalo Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00466
+1178,Mo00468,"Knob Creek, Knob Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00468
+1179,Mo00469,"First Broad River, First Broad River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00469
+1180,Mo00315,"South Muddy Creek, South Muddy Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00315
+1181,Mo00346,"Silver Creek, Silver Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00346
+1182,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1183,Mo00376,"Scrub Oaks, Scrub Oaks Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+1184,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1185,Mo00282,"Gallinas Mountains Project, Gallinas Mountains Project Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00282
+1186,Mo00269,"Thor, Lopez Trend",https://mrdata.usgs.gov/deposit/json/REE-Mo00269
+1187,Mo00299,"Thor, Black Butte",https://mrdata.usgs.gov/deposit/json/REE-Mo00299
+1188,Mo00304,"Thor, Ned",https://mrdata.usgs.gov/deposit/json/REE-Mo00304
+1189,Mo00355,"Port Leyden, Port Leyden Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+1190,Mo00366,"Cheever, Cheever Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00366
+1191,Mo00364,"Mineville Group, Old Bed Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+1192,Mo00367,"Mineville Group, Joker Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00367
+1193,Mo00365,"Smith, Smith Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00365
+1194,Mo00368,"Pelfshire, Pilfershire Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00368
+1195,Mo00369,"Sherman, Sherman Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00369
+1196,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1197,Mo00297,"Horse Creek, Horse Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+1198,Mo00470,"Broad River, Broad River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00470
+1199,Mo00464,"Thicketty Creek, Thicketty Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00464
+1200,Mo00465,"North Tyger River, North Tyger River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00465
+1201,Mo00467,"Rabon Creek, Rabon Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00467
+1202,Mo00307,"Hollow Creek, Hollow Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00307
+1203,Mo00308,"Big Generostee Creek, Big Generostee Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00308
+1204,Mo00496,"Oak Grove, Oak Grove Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00496
+1205,Mo00543,"Silica, Silica Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00543
+1206,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1207,Mo00659,"Rode Ranch, Rode Ranch Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00659
+1208,Mo00658,"Little Friar Mountain, Little Friar Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00658
+1209,Mo00240,"Bear Lodge, Bull Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+1210,Mo00241,"Bear Lodge, Carbon",https://mrdata.usgs.gov/deposit/json/REE-Mo00241
+1211,Mo00242,"Bear Lodge, Whitetail Ridge",https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+1212,Mo00249,"Bear Lodge, Taylor",https://mrdata.usgs.gov/deposit/json/REE-Mo00249
+1213,Mo00251,"Bear Lodge, Unnamed Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00251
+1214,Mo00687,"Platt, Platt Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00687
+1215,Mo00664,"Onemile Creek, Onemile Creek Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00664
+1216,Mo00665,"Beaver Creek, Beaver Creek Prospect ",https://mrdata.usgs.gov/deposit/json/REE-Mo00665
+1217,Mo00666,"Gafco, Gafco Placer Claims",https://mrdata.usgs.gov/deposit/json/REE-Mo00666
+1218,Mo00667,"Ranger, Ranger no. 1 Claim",https://mrdata.usgs.gov/deposit/json/REE-Mo00667
+1219,Mo00668,"Grass Creek, Grass Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00668
+1220,Mo00669,"Cottonwood Creek, Cottonwood Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00669
+1221,Mo00670,"Spring Gap, Spring Gap Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00670
+1222,Mo00671,"Frontier Formation-Spring Gap, Frontier Formation-Spring Gap Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00671
+1223,Mo00672,"North Sheldon Gulch, North Sheldon Gulch Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00672
+1224,Mo00673,"Middle Fork Pine Creek, Middle Fork Pine Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00673
+1225,Mo00674,"Raymond Canyon, Raymond Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00674
+1226,Mo00675,"Snow King Mountain, Snow King Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00675
+1227,Mo00676,"Table Mountain, Table Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00676
+1228,Mo00677,"Crystal Creek, Crystal Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00677
+1229,Mo00678,"Crystal Creek Canyon, Crystal Creek Canyon Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00678
+1230,Mo00679,"Unnamed (S of Shorty Creek), Unnamed (S of Shorty Creek) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00679
+1231,Mo00680,"Crystal Peak, Crystal Peak Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00680
+1232,Mo00681,"Granite Creek, Granite Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00681
+1233,Mo00682,"Bear Cabin Creek, Bear Cabin Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00682
+1234,Mo00683,"Unnamed (Little Grizzly Basin), Unnamed (Little Grizzly Basin) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00683
+1235,Mo00684,"Tosi Creek, Tosi Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00684
+1236,Mo00685,"Bald Mountain, Bald Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1237,Mo00686,"Bald Mountain, Rooster Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00686
+1238,Mo00219,,https://mrdata.usgs.gov/deposit/json/REE-Mo00219
+1239,Mo00244,,https://mrdata.usgs.gov/deposit/json/REE-Mo00244
+1240,Mo00245,,https://mrdata.usgs.gov/deposit/json/REE-Mo00245
+1241,Mo00246,,https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+1242,Mo00247,,https://mrdata.usgs.gov/deposit/json/REE-Mo00247
+1243,Mo00248,,https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+1244,Mo00248,,https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+1245,Mo00250,,https://mrdata.usgs.gov/deposit/json/REE-Mo00250
+1246,Mo00252,,https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+1247,Mo00627,,https://mrdata.usgs.gov/deposit/json/REE-Mo00627
+1248,Mo00627,,https://mrdata.usgs.gov/deposit/json/REE-Mo00627
+1249,Mo00471,,https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+1250,Mo00471,,https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+1251,Mo00497,,https://mrdata.usgs.gov/deposit/json/REE-Mo00497
+1252,Mo00583,,https://mrdata.usgs.gov/deposit/json/REE-Mo00583
+1253,Mo00626,,https://mrdata.usgs.gov/deposit/json/REE-Mo00626
+1254,Mo00599,,https://mrdata.usgs.gov/deposit/json/REE-Mo00599
+1255,Mo00603,,https://mrdata.usgs.gov/deposit/json/REE-Mo00603
+1256,Mo00603,,https://mrdata.usgs.gov/deposit/json/REE-Mo00603
+1257,Mo00596,,https://mrdata.usgs.gov/deposit/json/REE-Mo00596
+1258,Mo00600,,https://mrdata.usgs.gov/deposit/json/REE-Mo00600
+1259,Mo00592,,https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+1260,Mo00592,,https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+1261,Mo00592,,https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+1262,Mo00613,,https://mrdata.usgs.gov/deposit/json/REE-Mo00613
+1263,Mo00573,,https://mrdata.usgs.gov/deposit/json/REE-Mo00573
+1264,Mo00602,,https://mrdata.usgs.gov/deposit/json/REE-Mo00602
+1265,Mo00620,,https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1266,Mo00620,,https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1267,Mo00620,,https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1268,Mo00579,,https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+1269,Mo00579,,https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+1270,Mo00579,,https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+1271,Mo00579,,https://mrdata.usgs.gov/deposit/json/REE-Mo00579
+1272,Mo00594,,https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1273,Mo00594,,https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1274,Mo00594,,https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1275,Mo00594,,https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1276,Mo00691,,https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+1277,Mo00691,,https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+1278,Mo00575,,https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+1279,Mo00575,,https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+1280,Mo00575,,https://mrdata.usgs.gov/deposit/json/REE-Mo00575
+1281,Mo00622,,https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+1282,Mo00622,,https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+1283,Mo00622,,https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+1284,Mo00566,,https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+1285,Mo00558,,https://mrdata.usgs.gov/deposit/json/REE-Mo00558
+1286,Mo00590,,https://mrdata.usgs.gov/deposit/json/REE-Mo00590
+1287,Mo00578,,https://mrdata.usgs.gov/deposit/json/REE-Mo00578
+1288,Mo00601,,https://mrdata.usgs.gov/deposit/json/REE-Mo00601
+1289,Mo00553,,https://mrdata.usgs.gov/deposit/json/REE-Mo00553
+1290,Mo00595,,https://mrdata.usgs.gov/deposit/json/REE-Mo00595
+1291,Mo00618,,https://mrdata.usgs.gov/deposit/json/REE-Mo00618
+1292,Mo00614,,https://mrdata.usgs.gov/deposit/json/REE-Mo00614
+1293,Mo00552,,https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+1294,Mo00552,,https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+1295,Mf00557,,https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1296,Mf00557,,https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1297,Mo00550,,https://mrdata.usgs.gov/deposit/json/REE-Mo00550
+1298,Mo00550,,https://mrdata.usgs.gov/deposit/json/REE-Mo00550
+1299,Mo00550,,https://mrdata.usgs.gov/deposit/json/REE-Mo00550
+1300,Mo00550,,https://mrdata.usgs.gov/deposit/json/REE-Mo00550
+1301,Mo00610,,https://mrdata.usgs.gov/deposit/json/REE-Mo00610
+1302,Mo00623,,https://mrdata.usgs.gov/deposit/json/REE-Mo00623
+1303,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1304,Mo00609,,https://mrdata.usgs.gov/deposit/json/REE-Mo00609
+1305,Mo00619,,https://mrdata.usgs.gov/deposit/json/REE-Mo00619
+1306,Mo00597,,https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+1307,Mo00597,,https://mrdata.usgs.gov/deposit/json/REE-Mo00597
+1308,Mr00004,,https://mrdata.usgs.gov/deposit/json/REE-Mr00004
+1309,Mr00004,,https://mrdata.usgs.gov/deposit/json/REE-Mr00004
+1310,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1311,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1312,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1313,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1314,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1315,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1316,Mo00253,,https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1317,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1318,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1319,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1320,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1321,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1322,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1323,Mo00254,,https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1324,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1325,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1326,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1327,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1328,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1329,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1330,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1331,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1332,Mo00300,,https://mrdata.usgs.gov/deposit/json/REE-Mo00300
+1333,Mo00301,,https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+1334,Mo00301,,https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+1335,Mo00301,,https://mrdata.usgs.gov/deposit/json/REE-Mo00301
+1336,Mo00302,,https://mrdata.usgs.gov/deposit/json/REE-Mo00302
+1337,Mo00303,,https://mrdata.usgs.gov/deposit/json/REE-Mo00303
+1338,Mo00303,,https://mrdata.usgs.gov/deposit/json/REE-Mo00303
+1339,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1340,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1341,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1342,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1343,Mo00286,,https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+1344,Mo00286,,https://mrdata.usgs.gov/deposit/json/REE-Mo00286
+1345,Mo00335,,https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1346,Mo00335,,https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1347,Mo00262,,https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+1348,Mo00262,,https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+1349,Mr00053,,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+1350,Mr00053,,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+1351,Mr00046,,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1352,Mr00046,,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1353,Mr00046,,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1354,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1355,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1356,Mo00350,,https://mrdata.usgs.gov/deposit/json/REE-Mo00350
+1357,Mo00351,,https://mrdata.usgs.gov/deposit/json/REE-Mo00351
+1358,Mr00069,,https://mrdata.usgs.gov/deposit/json/REE-Mr00069
+1359,Mo00287,,https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+1360,Mo00287,,https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+1361,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1362,Mo00483,,https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+1363,Mo00484,,https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+1364,Mo00485,,https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+1365,Mo00292,,https://mrdata.usgs.gov/deposit/json/REE-Mo00292
+1366,Mo00291,,https://mrdata.usgs.gov/deposit/json/REE-Mo00291
+1367,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1368,Mo00529,,https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+1369,Mo00529,,https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+1370,Mo00530,,https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+1371,Mo00290,,https://mrdata.usgs.gov/deposit/json/REE-Mo00290
+1372,Mo00305,,https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+1373,Mo00288,,https://mrdata.usgs.gov/deposit/json/REE-Mo00288
+1374,Mo00289,,https://mrdata.usgs.gov/deposit/json/REE-Mo00289
+1375,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1376,Mo00653,,https://mrdata.usgs.gov/deposit/json/REE-Mo00653
+1377,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1378,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1379,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1380,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1381,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1382,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1383,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1384,Mo00293,,https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1385,Mo00379,,https://mrdata.usgs.gov/deposit/json/REE-Mo00379
+1386,Mr00081,,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+1387,Mr00081,,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+1388,Mr00081,,https://mrdata.usgs.gov/deposit/json/REE-Mr00081
+1389,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1390,Mf00348,,https://mrdata.usgs.gov/deposit/json/REE-Mf00348
+1391,Mo00377,,https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+1392,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1393,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1394,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1395,Mo00388,,https://mrdata.usgs.gov/deposit/json/REE-Mo00388
+1396,Mo00389,,https://mrdata.usgs.gov/deposit/json/REE-Mo00389
+1397,Mo00390,,https://mrdata.usgs.gov/deposit/json/REE-Mo00390
+1398,Mo00391,,https://mrdata.usgs.gov/deposit/json/REE-Mo00391
+1399,Mo00392,,https://mrdata.usgs.gov/deposit/json/REE-Mo00392
+1400,Mo00393,,https://mrdata.usgs.gov/deposit/json/REE-Mo00393
+1401,Mo00394,,https://mrdata.usgs.gov/deposit/json/REE-Mo00394
+1402,Mo00395,,https://mrdata.usgs.gov/deposit/json/REE-Mo00395
+1403,Mo00396,,https://mrdata.usgs.gov/deposit/json/REE-Mo00396
+1404,Mo00397,,https://mrdata.usgs.gov/deposit/json/REE-Mo00397
+1405,Mo00398,,https://mrdata.usgs.gov/deposit/json/REE-Mo00398
+1406,Mo00399,,https://mrdata.usgs.gov/deposit/json/REE-Mo00399
+1407,Mo00400,,https://mrdata.usgs.gov/deposit/json/REE-Mo00400
+1408,Mo00401,,https://mrdata.usgs.gov/deposit/json/REE-Mo00401
+1409,Mr00097,,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+1410,Mr00097,,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+1411,Mr00097,,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+1412,Mr00097,,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+1413,Mr00097,,https://mrdata.usgs.gov/deposit/json/REE-Mr00097
+1414,Mo00654,,https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+1415,Mr00130,,https://mrdata.usgs.gov/deposit/json/REE-Mr00130
+1416,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1417,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1418,Mo00285,,https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+1419,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1420,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1421,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1422,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1423,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1424,Mo00306,,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1425,Mo00306,,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1426,Mo00306,,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1427,Mo00306,,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1428,Mo00306,,https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1429,Mo00655,,https://mrdata.usgs.gov/deposit/json/REE-Mo00655
+1430,Mo00656,,https://mrdata.usgs.gov/deposit/json/REE-Mo00656
+1431,Mo00657,,https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+1432,Mo00295,,https://mrdata.usgs.gov/deposit/json/REE-Mo00295
+1433,Mo00463,,https://mrdata.usgs.gov/deposit/json/REE-Mo00463
+1434,Mo00466,,https://mrdata.usgs.gov/deposit/json/REE-Mo00466
+1435,Mo00468,,https://mrdata.usgs.gov/deposit/json/REE-Mo00468
+1436,Mo00469,,https://mrdata.usgs.gov/deposit/json/REE-Mo00469
+1437,Mo00315,,https://mrdata.usgs.gov/deposit/json/REE-Mo00315
+1438,Mo00346,,https://mrdata.usgs.gov/deposit/json/REE-Mo00346
+1439,Mo00255,,https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1440,Mo00255,,https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1441,Mo00255,,https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1442,Mf00342,,https://mrdata.usgs.gov/deposit/json/REE-Mf00342
+1443,Mf00342,,https://mrdata.usgs.gov/deposit/json/REE-Mf00342
+1444,Mo00376,,https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+1445,Mo00376,,https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+1446,Mo00276,,https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1447,Mo00276,,https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1448,Mo00282,,https://mrdata.usgs.gov/deposit/json/REE-Mo00282
+1449,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1450,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1451,Mr00038,,https://mrdata.usgs.gov/deposit/json/REE-Mr00038
+1452,Mr00062,,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1453,Mr00062,,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1454,Mr00062,,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1455,Mr00062,,https://mrdata.usgs.gov/deposit/json/REE-Mr00062
+1456,Mo00355,,https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+1457,Mo00355,,https://mrdata.usgs.gov/deposit/json/REE-Mo00355
+1458,Mo00366,,https://mrdata.usgs.gov/deposit/json/REE-Mo00366
+1459,Mo00364,,https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+1460,Mo00364,,https://mrdata.usgs.gov/deposit/json/REE-Mo00364
+1461,Mo00365,,https://mrdata.usgs.gov/deposit/json/REE-Mo00365
+1462,Mo00368,,https://mrdata.usgs.gov/deposit/json/REE-Mo00368
+1463,Mo00369,,https://mrdata.usgs.gov/deposit/json/REE-Mo00369
+1464,Mo00296,,https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1465,Mo00297,,https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+1466,Mo00297,,https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+1467,Mo00470,,https://mrdata.usgs.gov/deposit/json/REE-Mo00470
+1468,Mo00464,,https://mrdata.usgs.gov/deposit/json/REE-Mo00464
+1469,Mo00465,,https://mrdata.usgs.gov/deposit/json/REE-Mo00465
+1470,Mo00467,,https://mrdata.usgs.gov/deposit/json/REE-Mo00467
+1471,Mo00307,,https://mrdata.usgs.gov/deposit/json/REE-Mo00307
+1472,Mo00308,,https://mrdata.usgs.gov/deposit/json/REE-Mo00308
+1473,Mo00496,,https://mrdata.usgs.gov/deposit/json/REE-Mo00496
+1474,Mo00233,,https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1475,Mo00233,,https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1476,Mo00659,,https://mrdata.usgs.gov/deposit/json/REE-Mo00659
+1477,Mf00556,,https://mrdata.usgs.gov/deposit/json/REE-Mf00556
+1478,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1479,Mo00240,,https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+1480,Mo00242,,https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+1481,Mo00242,,https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+1482,Mo00251,,https://mrdata.usgs.gov/deposit/json/REE-Mo00251
+1483,Mf00531,,https://mrdata.usgs.gov/deposit/json/REE-Mf00531
+1484,Mo00687,,https://mrdata.usgs.gov/deposit/json/REE-Mo00687
+1485,Mo00664,,https://mrdata.usgs.gov/deposit/json/REE-Mo00664
+1486,Mo00665,,https://mrdata.usgs.gov/deposit/json/REE-Mo00665
+1487,Mo00666,,https://mrdata.usgs.gov/deposit/json/REE-Mo00666
+1488,Mo00667,,https://mrdata.usgs.gov/deposit/json/REE-Mo00667
+1489,Mo00668,,https://mrdata.usgs.gov/deposit/json/REE-Mo00668
+1490,Mo00669,,https://mrdata.usgs.gov/deposit/json/REE-Mo00669
+1491,Mo00670,,https://mrdata.usgs.gov/deposit/json/REE-Mo00670
+1492,Mo00671,,https://mrdata.usgs.gov/deposit/json/REE-Mo00671
+1493,Mo00672,,https://mrdata.usgs.gov/deposit/json/REE-Mo00672
+1494,Mo00673,,https://mrdata.usgs.gov/deposit/json/REE-Mo00673
+1495,Mo00674,,https://mrdata.usgs.gov/deposit/json/REE-Mo00674
+1496,Mo00675,,https://mrdata.usgs.gov/deposit/json/REE-Mo00675
+1497,Mo00676,,https://mrdata.usgs.gov/deposit/json/REE-Mo00676
+1498,Mo00677,,https://mrdata.usgs.gov/deposit/json/REE-Mo00677
+1499,Mo00678,,https://mrdata.usgs.gov/deposit/json/REE-Mo00678
+1500,Mo00679,,https://mrdata.usgs.gov/deposit/json/REE-Mo00679
+1501,Mo00680,,https://mrdata.usgs.gov/deposit/json/REE-Mo00680
+1502,Mo00681,,https://mrdata.usgs.gov/deposit/json/REE-Mo00681
+1503,Mo00682,,https://mrdata.usgs.gov/deposit/json/REE-Mo00682
+1504,Mo00683,,https://mrdata.usgs.gov/deposit/json/REE-Mo00683
+1505,Mo00684,,https://mrdata.usgs.gov/deposit/json/REE-Mo00684
+1506,-1111,,https://mrdata.usgs.gov/deposit/json/REE--1111
+1507,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1508,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1509,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1510,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1511,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1512,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1513,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1514,Mo00685,,https://mrdata.usgs.gov/deposit/json/REE-Mo00685
+1515,Mf00237,"Bokan Mountain, Ross-Adams Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00237
+1516,Mf00557,"Unnamed (northeast of lower Sue Creek), New York Creek Placer Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1517,Mf00557,"Unnamed (northeast of lower Sue Creek), New York Creek Placer Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1518,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1519,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1520,Mf00240,"Climax, Climax Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00240
+1521,Mf00240,"Climax, Climax Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00240
+1522,Mf00240,"Climax, Climax Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00240
+1523,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1524,Mf00339,"Green Cove Springs, Green Cove Springs Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00339
+1525,Mf00319,"Ponte Vedra, Mineral City",https://mrdata.usgs.gov/deposit/json/REE-Mf00319
+1526,Mf00530,"Jacksonville, Jacksonville Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00530
+1527,Mf00529,"Boulogne, Boulougne Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00529
+1528,Mf00340,"Folkston, Folkston Plant",https://mrdata.usgs.gov/deposit/json/REE-Mf00340
+1529,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+1530,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+1531,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+1532,Mr00018,Long Valley Monazite Placer District,https://mrdata.usgs.gov/deposit/json/REE-Mr00018
+1533,Mf00239,"Pea Ridge, Pea Ridge Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00239
+1534,Mf00342,"Scrub Oaks, Scrub Oaks Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00342
+1535,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1536,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1537,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1538,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1539,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1540,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+1541,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+1542,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+1543,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+1544,Mf00531,"Platt, Platt Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00531
+1545,Mf00531,"Platt, Platt Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00531
+1546,Mf00532,"Beaver Creek, Beaver Creek Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00532
+1547,-1111,"Bokan Mountain, Bokan Mountain Mineralization",https://mrdata.usgs.gov/deposit/json/REE--1111
+1548,Mo00246,"Bokan Mountain, I&L Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00246
+1549,Mo00248,"Bokan Mountain, Sunday Lake Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00248
+1550,Mo00252,"Bokan Mountain, Dotson Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00252
+1551,Mo00554,"Bokan Mountain, I, L, and M",https://mrdata.usgs.gov/deposit/json/REE-Mo00554
+1552,Mo00471,"Salmon Bay, Salmon Bay Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00471
+1553,Mo00583,"Aichilik River, Aichilik River Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00583
+1554,Mo00592,"Hot Springs Creek, Hot Springs Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00592
+1555,Mo00573,"Kilolitna River, Kilolitna River Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00573
+1556,Mo00620,"Lucky Six, Lucky Six Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1557,Mo00620,"Lucky Six, Lucky Six Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00620
+1558,Mo00594,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1559,Mo00594,"Paystreak and Marker Veins, Paystreak Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00594
+1560,Mo00691,"Paystreak and Marker Veins, Marker Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00691
+1561,Mo00622,"Ruby Creek, Ruby Creek Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00622
+1562,Mo00566,"Section 35, Section 35 Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+1563,Mo00566,"Section 35, Section 35 Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00566
+1564,Mo00578,"Unnamed (east fork of Kilolitna River), Unnamed (east fork of Kilolitna River) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00578
+1565,Mo00595,"Unnamed (near Salmon Bay), Unnamed (near Salmon Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00595
+1566,Mo00618,"Unnamed (near Salmon River), Unnamed (near Salmon River) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00618
+1567,Mo00552,"Unnamed (north shore, Stone Rock Bay), Unnamed (north shore, Stone Rock Bay) Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00552
+1568,Mf00557,"Unnamed (northeast of lower Sue Creek), New York Creek Placer Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1569,Mf00557,"Unnamed (northeast of lower Sue Creek), New York Creek Placer Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00557
+1570,Mo00623,"Unnamed (on Slate Creek), Unnamed (on Slate Creek) Showing",https://mrdata.usgs.gov/deposit/json/REE-Mo00623
+1571,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+1572,Mo00551,"Unnamed (upper Idaho Gulch), Unnamed (upper Idaho Gulch) Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00551
+1573,Mo00619,"William Henry, William Henry Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00619
+1574,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1575,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1576,Mo00253,"La Paz, La Paz Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00253
+1577,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1578,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1579,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1580,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1581,Mf00238,"Mountain Pass, Mountain Pass Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00238
+1582,Mo00254,"Mountain Pass, Sulphide Queen Body",https://mrdata.usgs.gov/deposit/json/REE-Mo00254
+1583,-1111,"Music Valley, Music Valley",https://mrdata.usgs.gov/deposit/json/REE--1111
+1584,-1111,"Music Valley, Music Valley",https://mrdata.usgs.gov/deposit/json/REE--1111
+1585,-1111,"Music Valley, Music Valley",https://mrdata.usgs.gov/deposit/json/REE--1111
+1586,-1111,"Iron Hill Carbonatite Complex, Iron Hill Carbonatite Complex",https://mrdata.usgs.gov/deposit/json/REE--1111
+1587,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1588,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1589,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1590,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1591,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1592,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1593,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1594,Mo00335,"Iron Hill Carbonatite Complex, Iron Hill Pyroxenite",https://mrdata.usgs.gov/deposit/json/REE-Mo00335
+1595,Mf00240,"Climax, Climax Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00240
+1596,Mo00262,"Climax, Climax Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00262
+1597,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+1598,Mr00053,Wet Mountains Area,https://mrdata.usgs.gov/deposit/json/REE-Mr00053
+1599,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1600,Mr00046,Powderhorn District,https://mrdata.usgs.gov/deposit/json/REE-Mr00046
+1601,-1111,Powderhorn Exploration Project,https://mrdata.usgs.gov/deposit/json/REE--1111
+1602,-1111,Powderhorn Exploration Project,https://mrdata.usgs.gov/deposit/json/REE--1111
+1603,Mf00339,"Green Cove Springs, Green Cove Springs Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00339
+1604,Mf00339,"Green Cove Springs, Green Cove Springs Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00339
+1605,Mo00287,"Green Cove Springs, Green Cove Springs Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00287
+1606,Mo00483,"Trail Ridge, Trail Ridge Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00483
+1607,Mo00484,"Trail Ridge, Maxville Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00484
+1608,Mo00485,"Trail Ridge, Highland Zone",https://mrdata.usgs.gov/deposit/json/REE-Mo00485
+1609,Mf00319,"Ponte Vedra, Mineral City",https://mrdata.usgs.gov/deposit/json/REE-Mf00319
+1610,Mo00292,"Ponte Vedra, Ponte Vedra Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00292
+1611,-1111,Jacksonville,https://mrdata.usgs.gov/deposit/json/REE--1111
+1612,-1111,Jacksonville,https://mrdata.usgs.gov/deposit/json/REE--1111
+1613,-1111,Jacksonville,https://mrdata.usgs.gov/deposit/json/REE--1111
+1614,Mo00529,"Melbourne, Melbourne Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00529
+1615,Mo00530,"Vero Beach, Vero Beach Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+1616,Mo00530,"Vero Beach, Vero Beach Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00530
+1617,-1111,Boulogne,https://mrdata.usgs.gov/deposit/json/REE--1111
+1618,Mo00305,"Little Talbot Island, Little Talbot Island Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00305
+1619,Mo00288,"Cumberland Island, Cumberland Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00288
+1620,Mf00340,"Folkston, Folkston Plant",https://mrdata.usgs.gov/deposit/json/REE-Mf00340
+1621,Mo00293,"Silver Queen, Silver Queen 52B Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00293
+1622,Mo00379,"Silver Queen, Silver Queen 38A Veins",https://mrdata.usgs.gov/deposit/json/REE-Mo00379
+1623,Mf00348,"Lucky Horseshoe, Lucky Horseshoe Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00348
+1624,Mo00377,"Lucky Horseshoe, Lucky Horseshoe Vein",https://mrdata.usgs.gov/deposit/json/REE-Mo00377
+1625,Mo00654,"Monumental Summit, Monumental Summit rare-earth Prospect",https://mrdata.usgs.gov/deposit/json/REE-Mo00654
+1626,Mr00130,Mineral Hill District,https://mrdata.usgs.gov/deposit/json/REE-Mr00130
+1627,Mo00285,"Hicks Dome, Hicks Dome Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00285
+1628,-1111,Pea Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1629,-1111,Pea Ridge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1630,Mf00239,"Pea Ridge, Pea Ridge Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00239
+1631,Mf00239,"Pea Ridge, Pea Ridge Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00239
+1632,Mo00256,"Pea Ridge, Pea Ridge Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00256
+1633,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1634,Mo00306,"Last Chance, Last Chance Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00306
+1635,Mo00657,"Southern Ravalli County, Sheep Creek-Beaver Creek-West Fork-Woods Creek Deposits",https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+1636,Mo00657,"Southern Ravalli County, Sheep Creek-Beaver Creek-West Fork-Woods Creek Deposits",https://mrdata.usgs.gov/deposit/json/REE-Mo00657
+1637,Mf00378,"Christy-Destiny, Christy-Destiny Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00378
+1638,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1639,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1640,Mo00255,"Elk Creek, Elk Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00255
+1641,Mf00342,"Scrub Oaks, Scrub Oaks Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00342
+1642,Mo00376,"Scrub Oaks, Scrub Oaks Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+1643,Mo00376,"Scrub Oaks, Scrub Oaks Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00376
+1644,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1645,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1646,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1647,Mo00276,"Pajarito Mountain, Pajarito Mountain Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00276
+1648,Mr00028,Gallinas Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00028
+1649,Mr00029,Lemitar Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00029
+1650,Mr00054,Capitan Mountains District,https://mrdata.usgs.gov/deposit/json/REE-Mr00054
+1651,Mr00042,El Porvenir District,https://mrdata.usgs.gov/deposit/json/REE-Mr00042
+1652,Mr00044,White Signal District,https://mrdata.usgs.gov/deposit/json/REE-Mr00044
+1653,Mr00057,Laughlin Peak District,https://mrdata.usgs.gov/deposit/json/REE-Mr00057
+1654,Mr00045,Petaca District,https://mrdata.usgs.gov/deposit/json/REE-Mr00045
+1655,Mr00056,Pajarito District,https://mrdata.usgs.gov/deposit/json/REE-Mr00056
+1656,-1111,Thor,https://mrdata.usgs.gov/deposit/json/REE--1111
+1657,-1111,Thor,https://mrdata.usgs.gov/deposit/json/REE--1111
+1658,Mr00038,Crescent District,https://mrdata.usgs.gov/deposit/json/REE-Mr00038
+1659,Mf00275,"Port Leyden, Port Leyden Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00275
+1660,Mf00334,"Cheever, Cheever Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00334
+1661,Mf00334,"Cheever, Cheever Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00334
+1662,Mo00366,"Cheever, Cheever Orebody",https://mrdata.usgs.gov/deposit/json/REE-Mo00366
+1663,Mf00282,"Smith, Smith Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00282
+1664,Mo00296,"Hilton Head Island, Hilton Head Island Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00296
+1665,Mf00361,"Horse Creek, Heavy Minerals Co. Mine",https://mrdata.usgs.gov/deposit/json/REE-Mf00361
+1666,Mo00297,"Horse Creek, Horse Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+1667,Mo00297,"Horse Creek, Horse Creek Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00297
+1668,Mf00232,"Round Top, West End Structure Exploration Drift",https://mrdata.usgs.gov/deposit/json/REE-Mf00232
+1669,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1670,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1671,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1672,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1673,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1674,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1675,Mo00233,"Round Top, Round Top Deposit",https://mrdata.usgs.gov/deposit/json/REE-Mo00233
+1676,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1677,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1678,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1679,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1680,-1111,Bear Lodge,https://mrdata.usgs.gov/deposit/json/REE--1111
+1681,Mo00240,"Bear Lodge, Bull Hill",https://mrdata.usgs.gov/deposit/json/REE-Mo00240
+1682,Mo00241,"Bear Lodge, Carbon",https://mrdata.usgs.gov/deposit/json/REE-Mo00241
+1683,Mo00242,"Bear Lodge, Whitetail Ridge",https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+1684,Mo00242,"Bear Lodge, Whitetail Ridge",https://mrdata.usgs.gov/deposit/json/REE-Mo00242
+1685,Mo00249,"Bear Lodge, Taylor",https://mrdata.usgs.gov/deposit/json/REE-Mo00249
+1686,-1111,Bald Mountain,https://mrdata.usgs.gov/deposit/json/REE--1111

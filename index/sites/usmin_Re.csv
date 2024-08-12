@@ -1,0 +1,140 @@
+,path,deposit_id,name,longitude,latitude,deposit_type,url
+0,mrdata_json/usmin_Re/Mo00359.json,Mo00359,Tripp,-115.021921819,39.259488092,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00359
+1,mrdata_json/usmin_Re/Mr00076.json,Mr00076,Mineral Creek District,-111.004308489,33.1964938290001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00076
+2,mrdata_json/usmin_Re/Mo00236.json,Mo00236,Morenci,-109.36575106,33.1339492390001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00236
+3,mrdata_json/usmin_Re/Sw00020.json,Sw00020,Surface workings,-105.847473555913,39.7696044420932,,https://mrdata.usgs.gov/deposit/json/Re-Sw00020
+4,mrdata_json/usmin_Re/Mf00363.json,Mf00363,Kimbley Pit,-114.959188579,39.260448495,,https://mrdata.usgs.gov/deposit/json/Re-Mf00363
+5,mrdata_json/usmin_Re/Mo00275.json,Mo00275,Global Breccia,-110.489999643,32.759850537,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00275
+6,mrdata_json/usmin_Re/Mo00264.json,Mo00264,Urad,-105.837419971,39.7563512930001,Climax Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00264
+7,mrdata_json/usmin_Re/Mr00077.json,Mr00077,Bingham District,-112.139771805,40.5361993010001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00077
+8,mrdata_json/usmin_Re/Mf00250.json,Mf00250,Childs-Aldwinkle Mine,-110.481813268,32.7521927280001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00250
+9,mrdata_json/usmin_Re/Sw00035.json,Sw00035,Surface workings,-110.678989011015,32.694848233713,,https://mrdata.usgs.gov/deposit/json/Re-Sw00035
+10,mrdata_json/usmin_Re/Mo00508.json,Mo00508,Tomichi,-106.367900443,38.565296145,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00508
+11,mrdata_json/usmin_Re/Mf00240.json,Mf00240,Climax Mine,-106.17,39.3700000000001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00240
+12,mrdata_json/usmin_Re/Mr00066.json,Mr00066,Questa District,-105.519821364,36.698792702,,https://mrdata.usgs.gov/deposit/json/Re-Mr00066
+13,mrdata_json/usmin_Re/Mo00349.json,Mo00349,Miami-Inspiration,-110.891250942,33.4056174140001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00349
+14,mrdata_json/usmin_Re/Mo00238.json,Mo00238,"Pebble, West Zone",-155.298104761,59.8987762240001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00238
+15,mrdata_json/usmin_Re/Sw00030.json,Sw00030,Surface workings,-111.042029423567,31.8826625393889,,https://mrdata.usgs.gov/deposit/json/Re-Sw00030
+16,mrdata_json/usmin_Re/Mf00269.json,Mf00269,Oxide Pit,-111.505473117,32.3971895660001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00269
+17,mrdata_json/usmin_Re/Mo00447.json,Mo00447,Alpha,-115.026616181,39.2516405390001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00447
+18,mrdata_json/usmin_Re/Mr00073.json,Mr00073,San Manuel District,-110.697550565,32.6902288360001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00073
+19,mrdata_json/usmin_Re/Mf00245.json,Mf00245,Continental Mine,-112.480352526,46.0104824000001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00245
+20,mrdata_json/usmin_Re/Mf00231.json,Mf00231,Morenci Mine,-109.360288011,33.096507887,,https://mrdata.usgs.gov/deposit/json/Re-Mf00231
+21,mrdata_json/usmin_Re/Mo00274.json,Mo00274,Copper Prince,-110.485740408,32.757768508,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00274
+22,mrdata_json/usmin_Re/Mo00354.json,Mo00354,Fortuna,-112.147796607,40.5308788470001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00354
+23,mrdata_json/usmin_Re/Mo00310.json,Mo00310,Northwest orebody,-111.04551774,31.896950604,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00310
+24,mrdata_json/usmin_Re/Mo00357.json,Mo00357,Ruth,-114.9712393,39.258060415,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00357
+25,mrdata_json/usmin_Re/Sw00012.json,Sw00012,Surface workings,-113.22820571837,34.5859747651421,,https://mrdata.usgs.gov/deposit/json/Re-Sw00012
+26,mrdata_json/usmin_Re/Mf00271.json,Mf00271,North Silver Bell Pit,-111.536116656,32.4334303260001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00271
+27,mrdata_json/usmin_Re/Mf00244.json,Mf00244,Berkeley Pit,-112.511111111,46.017222222,,https://mrdata.usgs.gov/deposit/json/Re-Mf00244
+28,mrdata_json/usmin_Re/Mf00230.json,Mf00230,Bagdad Mine,-113.21008003,34.584345731,,https://mrdata.usgs.gov/deposit/json/Re-Mf00230
+29,mrdata_json/usmin_Re/Mo00353.json,Mo00353,North Ore Shoot,-112.156820713,40.5326455960001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00353
+30,mrdata_json/usmin_Re/Sw00039.json,Sw00039,Surface workings,-115.008119606537,39.2531909393315,,https://mrdata.usgs.gov/deposit/json/Re-Sw00039
+31,mrdata_json/usmin_Re/Mo00309.json,Mo00309,Twin Buttes orebody,-111.041738015,31.8920639400001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00309
+32,mrdata_json/usmin_Re/Mo00450.json,Mo00450,Wedge,-114.954710878,39.263850893,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00450
+33,mrdata_json/usmin_Re/Mo00239.json,Mo00239,Sierrita,-111.138611963,31.8716423180001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00239
+34,mrdata_json/usmin_Re/Mr00068.json,Mr00068,Dailey District,-106.170714142,39.376956379,,https://mrdata.usgs.gov/deposit/json/Re-Mr00068
+35,mrdata_json/usmin_Re/Mo00348.json,Mo00348,Ray,-110.997008715,33.176983681,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00348
+36,mrdata_json/usmin_Re/Mr00075.json,Mr00075,Eureka District,-113.216417461,34.5995726250001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00075
+37,mrdata_json/usmin_Re/Mo00329.json,Mo00329,Pima,-111.07128089,31.9850547720001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00329
+38,mrdata_json/usmin_Re/Mo00265.json,Mo00265,Quartz Hill,-130.47933563,55.406331245,Arc-related porphyry molybdenum,https://mrdata.usgs.gov/deposit/json/Re-Mo00265
+39,mrdata_json/usmin_Re/Mf00365.json,Mf00365,Emma Mine,-115.009566578,39.2566271160001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00365
+40,mrdata_json/usmin_Re/Sw00031.json,Sw00031,Surface workings,-111.04088729444,31.988554564358,,https://mrdata.usgs.gov/deposit/json/Re-Sw00031
+41,mrdata_json/usmin_Re/Sw00032.json,Sw00032,Surface workings,-111.080964035793,32.0329868306718,,https://mrdata.usgs.gov/deposit/json/Re-Sw00032
+42,mrdata_json/usmin_Re/Mf00252.json,Mf00252,Pinto Valley Mine,-110.964952774,33.411424923,,https://mrdata.usgs.gov/deposit/json/Re-Mf00252
+43,mrdata_json/usmin_Re/Mo00272.json,Mo00272,Childs-Adwinkle,-110.482440838,32.752990595,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00272
+44,mrdata_json/usmin_Re/Mo00270.json,Mo00270,Keel-American Eagle,-110.479723492,32.746414954,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00270
+45,mrdata_json/usmin_Re/Mf00277.json,Mf00277,Liberty Pit,-114.99934935,39.2569649600001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00277
+46,mrdata_json/usmin_Re/Mo00313.json,Mo00313,North Porphyry Contact orebody,-111.03209758,31.89837828,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00313
+47,mrdata_json/usmin_Re/Mf00274.json,Mf00274,Carr Fork Mine,-112.174282127,40.5214882880001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00274
+48,mrdata_json/usmin_Re/Mr00070.json,Mr00070,Silver Bell District,-111.523518003,32.425187726,,https://mrdata.usgs.gov/deposit/json/Re-Mr00070
+49,mrdata_json/usmin_Re/Mo00243.json,Mo00243,Santa Rita,-108.070265067,32.794046844,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00243
+50,mrdata_json/usmin_Re/Mo00449.json,Mo00449,Taylor,-115.032866146,39.264185926,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00449
+51,mrdata_json/usmin_Re/Mf00251.json,Mf00251,Castle Dome Mine,-110.964267248,33.4107979940001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00251
+52,mrdata_json/usmin_Re/Mr00032.json,Mr00032,Tomichi District,-106.448725643,38.557494542,,https://mrdata.usgs.gov/deposit/json/Re-Mr00032
+53,mrdata_json/usmin_Re/Mo00263.json,Mo00263,Henderson,-105.839275951,39.758940146,Climax Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00263
+54,mrdata_json/usmin_Re/Mo00234.json,Mo00234,Bagdad,-113.208791658,34.58452463,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00234
+55,mrdata_json/usmin_Re/Sw00014.json,Sw00014,Surface workings,-111.130461284964,31.8669724377675,,https://mrdata.usgs.gov/deposit/json/Re-Sw00014
+56,mrdata_json/usmin_Re/Mo00278.json,Mo00278,Pinto Valley,-110.964680246,33.4098880290001,Porphyry Cu-Au,https://mrdata.usgs.gov/deposit/json/Re-Mo00278
+57,mrdata_json/usmin_Re/Mo00277.json,Mo00277,Castle Dome,-110.964009209,33.4105276980001,Porphyry Cu-Au,https://mrdata.usgs.gov/deposit/json/Re-Mo00277
+58,mrdata_json/usmin_Re/Mf00248.json,Mf00248,Copper Prince Mine,-110.485417879,32.758014476,,https://mrdata.usgs.gov/deposit/json/Re-Mf00248
+59,mrdata_json/usmin_Re/Mf00272.json,Mf00272,Ray Mine,-110.99133608,33.175365648,,https://mrdata.usgs.gov/deposit/json/Re-Mf00272
+60,mrdata_json/usmin_Re/Mr00072.json,Mr00072,Bunker Hill District,-110.481220652,32.7488352780001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00072
+61,mrdata_json/usmin_Re/Mo00342.json,Mo00342,El Tiro,-111.535305609,32.416968836,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00342
+62,mrdata_json/usmin_Re/Mo00339.json,Mo00339,San Manuel,-110.685067056,32.6903383120001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00339
+63,mrdata_json/usmin_Re/Mo00261.json,Mo00261,Mount Tolman,-118.698874388,48.055900626,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00261
+64,mrdata_json/usmin_Re/Mo00343.json,Mo00343,Oxide,-111.505473117,32.3971895660001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00343
+65,mrdata_json/usmin_Re/Mr00051.json,Mr00051,Globe-Miami District,-110.875476487,33.4225685270001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00051
+66,mrdata_json/usmin_Re/Mo00360.json,Mo00360,Veteran,-115.030916182,39.2632000510001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00360
+67,mrdata_json/usmin_Re/Sw00028.json,Sw00028,Surface workings,-114.156748919794,35.3536709266607,,https://mrdata.usgs.gov/deposit/json/Re-Sw00028
+68,mrdata_json/usmin_Re/Mr00069.json,Mr00069,Climax District,-106.174771842,39.3767804290001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00069
+69,mrdata_json/usmin_Re/Mf00256.json,Mf00256,Runge Mine,-103.81593,43.3833700000001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00256
+70,mrdata_json/usmin_Re/Mo00237.json,Mo00237,"Pebble, East Zone",-155.270522049,59.897976725,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00237
+71,mrdata_json/usmin_Re/Mf00268.json,Mf00268,El Tiro Pit,-111.535305609,32.416968836,,https://mrdata.usgs.gov/deposit/json/Re-Mf00268
+72,mrdata_json/usmin_Re/Sw00022.json,Sw00022,Surface workings,-114.540111427774,44.3167024278148,,https://mrdata.usgs.gov/deposit/json/Re-Sw00022
+73,mrdata_json/usmin_Re/Sw00013.json,Sw00013,Surface workings,-109.3558952482,33.0755914658898,,https://mrdata.usgs.gov/deposit/json/Re-Sw00013
+74,mrdata_json/usmin_Re/Mo00340.json,Mo00340,Kalamazoo,-110.708130746,32.673332321,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00340
+75,mrdata_json/usmin_Re/Mf00265.json,Mf00265,San Xavier North Mine,-111.081399059,32.028170113,,https://mrdata.usgs.gov/deposit/json/Re-Mf00265
+76,mrdata_json/usmin_Re/Mo00509.json,Mo00509,CUMO,-115.78297729,44.0339373690001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00509
+77,mrdata_json/usmin_Re/Mo00311.json,Mo00311,Arkose orebody,-111.03955719,31.8888842310001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00311
+78,mrdata_json/usmin_Re/Mf00278.json,Mf00278,Tripp-Veteran Pit,-115.029183934,39.2619865250001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00278
+79,mrdata_json/usmin_Re/Mo00267.json,Mo00267,Butte,-112.49962616,46.011803001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00267
+80,mrdata_json/usmin_Re/Mr00016.json,Mr00016,Butte District,-112.522883574,46.0230867440001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00016
+81,mrdata_json/usmin_Re/Mf00247.json,Mf00247,American Eagle Mine,-110.477684928,32.747091858,,https://mrdata.usgs.gov/deposit/json/Re-Mf00247
+82,mrdata_json/usmin_Re/Mo00284.json,Mo00284,Bingham,-112.155703228,40.523455961,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00284
+83,mrdata_json/usmin_Re/Mr00011.json,Mr00011,Pima District,-111.09392678,31.957048953,,https://mrdata.usgs.gov/deposit/json/Re-Mr00011
+84,mrdata_json/usmin_Re/Mo00358.json,Mo00358,Liberty,-114.998793458,39.2571324250001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00358
+85,mrdata_json/usmin_Re/Mr00063.json,Mr00063,Robinson District,-114.953194322,39.2702832750001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00063
+86,mrdata_json/usmin_Re/Mo00448.json,Mo00448,Richard,-115.017100769,39.2506166360001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00448
+87,mrdata_json/usmin_Re/Mf00242.json,Mf00242,Urad Mine,-105.826803838,39.756021108,,https://mrdata.usgs.gov/deposit/json/Re-Mf00242
+88,mrdata_json/usmin_Re/Mf00266.json,Mf00266,San Manuel Mine,-110.680409664,32.6932159730001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00266
+89,mrdata_json/usmin_Re/Mf00235.json,Mf00235,Bingham Canyon Mine,-112.136458578,40.5299731900001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00235
+90,mrdata_json/usmin_Re/Mo00314.json,Mo00314,Northeast orebody,-111.029670529,31.8947733970001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00314
+91,mrdata_json/usmin_Re/Mf00264.json,Mf00264,Mission Mine Complex,-111.064199219,31.9922904330001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00264
+92,mrdata_json/usmin_Re/Sw00021.json,Sw00021,Surface workings,-105.832253671499,39.752462386952,,https://mrdata.usgs.gov/deposit/json/Re-Sw00021
+93,mrdata_json/usmin_Re/Mo00328.json,Mo00328,Mission,-111.064199219,31.9922904330001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00328
+94,mrdata_json/usmin_Re/Mo00445.json,Mo00445,Emma,-115.009566578,39.2566271160001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00445
+95,mrdata_json/usmin_Re/Mr00067.json,Mr00067,Santa Rita District,-108.072209644,32.8027681080001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00067
+96,mrdata_json/usmin_Re/Sw00025.json,Sw00025,Surface workings,-105.513357843555,36.697056385331,,https://mrdata.usgs.gov/deposit/json/Re-Sw00025
+97,mrdata_json/usmin_Re/Sw00102.json,Sw00102,Surface workings,-112.087755340624,40.5615966923911,,https://mrdata.usgs.gov/deposit/json/Re-Sw00102
+98,mrdata_json/usmin_Re/Mf00243.json,Mf00243,Thompson Creek Mine,-114.554119594,44.3170566850001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00243
+99,mrdata_json/usmin_Re/Mo00352.json,Mo00352,Carr Fork,-112.164173247,40.5234668250001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00352
+100,mrdata_json/usmin_Re/Mf00263.json,Mf00263,Pima Mine,-111.07128089,31.9850547720001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00263
+101,mrdata_json/usmin_Re/Mo00273.json,Mo00273,Old Reliable,-110.490618303,32.7527954350001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00273
+102,mrdata_json/usmin_Re/Mo00266.json,Mo00266,Thompson Creek,-114.556751021,44.319238711,Arc-related porphyry molybdenum,https://mrdata.usgs.gov/deposit/json/Re-Mo00266
+103,mrdata_json/usmin_Re/Mo00317.json,Mo00317,Runge,-103.81593,43.3833700000001,,https://mrdata.usgs.gov/deposit/json/Re-Mo00317
+104,mrdata_json/usmin_Re/Sw00036.json,Sw00036,Surface workings,-111.516530536999,32.4071462343023,,https://mrdata.usgs.gov/deposit/json/Re-Sw00036
+105,mrdata_json/usmin_Re/Mf00273.json,Mf00273,Miami Mine,-110.884480872,33.4052949310001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00273
+106,mrdata_json/usmin_Re/Mo00262.json,Mo00262,Climax,-106.164702132,39.369089811,Climax Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00262
+107,mrdata_json/usmin_Re/Mf00234.json,Mf00234,Sierrita Mine,-111.133186792,31.869453214,,https://mrdata.usgs.gov/deposit/json/Re-Mf00234
+108,mrdata_json/usmin_Re/Mf00241.json,Mf00241,Henderson Mine,-105.846974226,39.7694940110001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00241
+109,mrdata_json/usmin_Re/Mr00074.json,Mr00074,Wallapai District,-114.158446269,35.3653308080001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00074
+110,mrdata_json/usmin_Re/Mf00253.json,Mf00253,Mineral Park Mine,-114.146942183,35.3613957910001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00253
+111,mrdata_json/usmin_Re/Sw00027.json,Sw00027,Surface workings,-110.981578998046,33.4485781521897,,https://mrdata.usgs.gov/deposit/json/Re-Sw00027
+112,mrdata_json/usmin_Re/Mf00246.json,Mf00246,Questa Mine,-105.506886272,36.698955187,,https://mrdata.usgs.gov/deposit/json/Re-Mf00246
+113,mrdata_json/usmin_Re/Sw00023.json,Sw00023,Surface workings,-112.498482278757,46.0283217577639,,https://mrdata.usgs.gov/deposit/json/Re-Sw00023
+114,mrdata_json/usmin_Re/Sw00015.json,Sw00015,Surface workings,-112.134690704735,40.5316843613445,,https://mrdata.usgs.gov/deposit/json/Re-Sw00015
+115,mrdata_json/usmin_Re/Mo00318.json,Mo00318,Sun Valley,-111.794727712,36.716973006,,https://mrdata.usgs.gov/deposit/json/Re-Mo00318
+116,mrdata_json/usmin_Re/Mf00279.json,Mf00279,Robinson Mine,-114.993460184,39.2626161790001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00279
+117,mrdata_json/usmin_Re/Mo00279.json,Mo00279,Mineral Park,-114.146966187,35.360777501,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00279
+118,mrdata_json/usmin_Re/Sw00026.json,Sw00026,Surface workings,-110.976759776535,33.4022964316466,,https://mrdata.usgs.gov/deposit/json/Re-Sw00026
+119,mrdata_json/usmin_Re/Sw00019.json,Sw00019,Surface workings,-106.183140852519,39.4024202057735,,https://mrdata.usgs.gov/deposit/json/Re-Sw00019
+120,mrdata_json/usmin_Re/Mo00312.json,Mo00312,Shaft orebody,-111.039128887,31.8951303160001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00312
+121,mrdata_json/usmin_Re/Mf00276.json,Mf00276,Ruth Pit,-114.970617358,39.2569649600001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00276
+122,mrdata_json/usmin_Re/Sw00029.json,Sw00029,Surface workings,-114.190382707701,35.3652453735472,,https://mrdata.usgs.gov/deposit/json/Re-Sw00029
+123,mrdata_json/usmin_Re/Mo00268.json,Mo00268,Questa,-105.528702564,36.7003807140001,Climax Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00268
+124,mrdata_json/usmin_Re/Mr00065.json,Mr00065,Bayhorse District,-114.382814891,44.383977719,,https://mrdata.usgs.gov/deposit/json/Re-Mr00065
+125,mrdata_json/usmin_Re/Sw00033.json,Sw00033,Surface workings,-110.98457818496,33.1664230888114,,https://mrdata.usgs.gov/deposit/json/Re-Sw00033
+126,mrdata_json/usmin_Re/Sw00016.json,Sw00016,Surface workings,-108.068334912545,32.7888244176761,,https://mrdata.usgs.gov/deposit/json/Re-Sw00016
+127,mrdata_json/usmin_Re/Mf00249.json,Mf00249,Old Reliable Mine,-110.489976133,32.753355888,,https://mrdata.usgs.gov/deposit/json/Re-Mf00249
+128,mrdata_json/usmin_Re/Mf00258.json,Mf00258,Sun Valley Mine,-111.794727712,36.716973006,,https://mrdata.usgs.gov/deposit/json/Re-Mf00258
+129,mrdata_json/usmin_Re/Mf00236.json,Mf00236,Chino Mine,-108.068325903,32.7938307700001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00236
+130,mrdata_json/usmin_Re/Mo00271.json,Mo00271,Mammoth,-110.483233198,32.750414828,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00271
+131,mrdata_json/usmin_Re/Sw00038.json,Sw00038,Surface workings,-110.86956562629,33.4444337352503,,https://mrdata.usgs.gov/deposit/json/Re-Sw00038
+132,mrdata_json/usmin_Re/Mr00071.json,Mr00071,Vermilion Cliffs District,-111.713261009,36.7898041170001,,https://mrdata.usgs.gov/deposit/json/Re-Mr00071
+133,mrdata_json/usmin_Re/Mf00270.json,Mf00270,West Oxide Pit,-111.517616347,32.3989281410001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00270
+134,mrdata_json/usmin_Re/Mf00254.json,Mf00254,Twin Buttes Mine,-111.035809539,31.8923898910001,,https://mrdata.usgs.gov/deposit/json/Re-Mf00254
+135,mrdata_json/usmin_Re/Mo00344.json,Mo00344,West Oxide,-111.517616347,32.3989281410001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00344
+136,mrdata_json/usmin_Re/Mo00341.json,Mo00341,North Silver Bell,-111.536644056,32.4310671430001,Porphyry Cu-Mo,https://mrdata.usgs.gov/deposit/json/Re-Mo00341
+137,mrdata_json/usmin_Re/Mo00356.json,Mo00356,Kimbley,-114.957890524,39.2602733140001,Porphyry Cu,https://mrdata.usgs.gov/deposit/json/Re-Mo00356
+138,mrdata_json/usmin_Re/Sw00037.json,Sw00037,Surface workings,-110.887087758012,33.4082487310375,,https://mrdata.usgs.gov/deposit/json/Re-Sw00037
