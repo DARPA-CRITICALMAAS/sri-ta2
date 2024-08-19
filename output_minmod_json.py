@@ -16,10 +16,10 @@ def default_params():
     params=smartparse.obj();
     
     params.score_threshold=0.2
-    params.split='index/all_sites.csv'
+    params.split='index/demo_sites.csv'
     params.scores='predictions/scores_qa_gpt-4o-mini'
     params.json='dataset/'
-    params.out='minmod/sri/SRI_deptype_minmod_gpt-4o-mini.json'
+    params.out='minmod/demo/SRI_deptype_minmod_gpt-4o-mini.json'
     
     params.override=False
     return params

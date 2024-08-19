@@ -18,7 +18,7 @@ default_params.root='dataset/'
 default_params.lm='gpt-4o-mini'
 default_params.openai_api_key='your_key'
 default_params.options='taxonomy/cmmi_options_full_description_with_number.csv'
-default_params.split='splits/run.csv'
+default_params.split='index/demo_sites.csv'
 default_params.out='predictions/scores_qa_gpt-4o-mini/'
 
 default_params.world_size=1
@@ -27,6 +27,7 @@ default_params.rank=0
 params = smartparse.parse()
 params = smartparse.merge(params, default_params)
 params.argv=sys.argv;
+print(smartparse.obj2dict(params))
 
 
 data=pandas.read_csv(params.split)
@@ -83,7 +84,7 @@ def run(text,max_retries=20):
         
         #Obtain top5 answers and their logprobs
         pred=[]
-        for x in response.logprobs.content[1].top_logprobs
+        for x in response.logprobs.content[1].top_logprobs:
             try:
                 pred_x=(int(x.token)-1,x.logprob)
                 assert pred_x[0]<len(options)
@@ -97,7 +98,7 @@ def run(text,max_retries=20):
         
         #Compose probability distribution
         p=torch.zeros(len(options))+math.log(1e-20)
-        for x in predictions:
+        for x in pred:
             p[x[0]]=x[1]
         
         return p

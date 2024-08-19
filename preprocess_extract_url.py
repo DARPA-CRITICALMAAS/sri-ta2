@@ -6,7 +6,16 @@
 import os
 import pandas
 import util.agent as agent
-#agent.set_openai_key('')
+
+import sys
+import util.smartparse as smartparse
+import util.session_manager as session_manager
+default_params=smartparse.obj();
+default_params.openai_api_key='your_key'
+params = smartparse.parse()
+params = smartparse.merge(params, default_params)
+params.argv=sys.argv
+agent.set_openai_key(params.openai_api_key)
 
 
 idmap={'mrds': 'dep_id', 'usmin': 'site_id', 'porcu': 'rec_id', 'sedznpb': 'rec_id', 'sedexmvt': 'rec_id', 'sedcu': 'rec_id', 'nicrpge': 'site_id', 'carbonatite': 'rec_id', 'ree': 'rec_id', 'laterite': 'rec_id', 'ardf': 'ardf_num', 'sir20105090z': 'gmrap_id', 'pp577': 'id', 'ofr20051294': 'gid', 'pp1802': 'gid', 'vms': 'rec_id', 'asbestos': 'rec_id', 'phosphate': 'rec_no', 'ofr20151121': 'gid', 'podchrome': 'rec_id', 'sedau': 'recno', 'potash': 'rec_no'}

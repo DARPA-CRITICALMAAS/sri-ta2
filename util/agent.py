@@ -11,7 +11,7 @@ def set_openai_key(new_key):
     )
     return
 
-set_openai_key('your key')
+#set_openai_key('your key')
 
 @backoff.on_exception(backoff.expo, openai.RateLimitError)
 def completions_with_backoff(**kwargs):
@@ -115,3 +115,34 @@ def run_df_agent(request,max_iter=20,return_code=False):
         return code
     else:
         return df_out
+
+
+#Convert a table: dict of lists representation
+#into a markdown
+def markdown_table(data):
+    header=list(data.keys())
+    n=[min(max([len(str(x)) for x in data[k]]),len(k)) for k in data]
+    s=''
+    #header
+    for i,k in enumerate(header):
+        s+='|%s'%k
+        if i==len(header)-1:
+            s+='|\n'
+    
+    #bar
+    for i,k in enumerate(header):
+        s+='|'+'-'*n[i]
+        if i==len(header)-1:
+            s+='|\n'
+    
+    #data
+    for i in range(len(data[header[0]])):
+        for j,k in enumerate(header):
+            s+='|%s'%str(data[k][i])
+            if j==len(header)-1:
+                s+='|'
+                if i!=len(header)-1:
+                    s+='\n'
+    
+    s+='\n'
+    return s

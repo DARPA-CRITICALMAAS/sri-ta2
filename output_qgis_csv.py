@@ -17,8 +17,6 @@ import torch.optim as optim
 import util.db as db
 import util.smartparse as smartparse
 import util.session_manager as session_manager
-import torch
-import torch.nn.functional as F
 
 import util.smartparse as smartparse
 import util.session_manager as session_manager
@@ -27,9 +25,9 @@ def default_params():
     params=smartparse.obj();
     
     params.score_threshold=0.2
-    params.split='index/all_sites.csv'
+    params.split='index/demo_sites.csv'
     params.scores='predictions/scores_qa_gpt-4o-mini'
-    params.out='predictions/SRI_deptype_qgis_gpt-4o-mini.csv'
+    params.out='predictions/SRI_deptype_qgis_gpt-4o-mini_demo.csv'
     
     params.override=False
     return params

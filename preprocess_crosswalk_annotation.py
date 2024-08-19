@@ -3,6 +3,18 @@ import pandas
 import util.agent as agent
 import random
 
+
+import sys
+import util.smartparse as smartparse
+import util.session_manager as session_manager
+default_params=smartparse.obj();
+default_params.openai_api_key='your_key'
+params = smartparse.parse()
+params = smartparse.merge(params, default_params)
+params.argv=sys.argv
+agent.set_openai_key(params.openai_api_key)
+
+
 # Crosswalk deposit type annotations
 # Use USGS deposit code to CMMI mapping provided by Graham
 table_usgs_cmmi=pandas.read_csv('taxonomy/usgs_num_cmmi_crosswalk.csv',encoding='latin1')
@@ -10,35 +22,7 @@ table_usgs_cmmi={'Deposit type':table_usgs_cmmi['Deposit type'],'USGS_Model':tab
 table_usgs=pandas.read_csv('taxonomy/usgs_num.csv',encoding='latin1')
 table_usgs={'model_name':table_usgs['model_name'],'usgs_num':table_usgs['usgs_num']}
 
-table_usgs_cmmi=agent.print_table(table_usgs_cmmi)
-def markdown_table(data):
-    header=list(data.keys())
-    n=[min(max([len(str(x)) for x in data[k]]),len(k)) for k in data]
-    s=''
-    #header
-    for i,k in enumerate(header):
-        s+='|%s'%k
-        if i==len(header)-1:
-            s+='|\n'
-    
-    #bar
-    for i,k in enumerate(header):
-        s+='|'+'-'*n[i]
-        if i==len(header)-1:
-            s+='|\n'
-    
-    #data
-    for i in range(len(data[header[0]])):
-        for j,k in enumerate(header):
-            s+='|%s'%str(data[k][i])
-            if j==len(header)-1:
-                s+='|'
-                if i!=len(header)-1:
-                    s+='\n'
-    
-    return s
-
-print(markdown_table(table_usgs_cmmi))
+table_usgs_cmmi=agent.markdown_table(table_usgs_cmmi)
 
 table_examples={}
 table_examples['28-APR-03, Massive sulfide, kuroko, 12-MAR-02, 28a']="'28a'"
@@ -55,7 +39,7 @@ table_examples={'deposit_type':list(table_examples.keys()),'usgs_num':[table_exa
 # MRDS
 input_file='index/sites/mrds.csv'
 fname_out='index/annotations/mrds.csv'
-df_out=agent.run_df_agent("I have collected a data frame of mineral site records in {input_file}, where some sites have been annotated with a deposit_type field. Please follow this table to extract the USGS model number:\n {table_usgs}\nAs you notice, there are two ways to get the deposit number. One is inferring the deposit number from the deposit type. The other is just reading the model number off the string. Here are some example input and outputs:\n{table_examples}\nPlease first filter for records with valid deposit_type annotations, and then add a new column `usgs_num` for the extracted USGS model number. Return a data frame with path, name, longitude, latitude, deposit_type and usgs_num columns. Notice that when inferring deposit number from the deposit type name, the deposit names can also have commas in them, so try to process the whole string. Also the deposit names can have overlaps, for example 'Placer Au-PGE' deposits are not 'Placer Au', so you'll need to return the longer string match 'Placer Au-PGE' which is '39a' and not 'Placer Au' or '17a'. ".format(input_file=input_file,table_usgs=markdown_table(table_usgs),table_examples=markdown_table(table_examples)))
+df_out=agent.run_df_agent("I have collected a data frame of mineral site records in {input_file}, where some sites have been annotated with a deposit_type field. Please follow this table to extract the USGS model number:\n {table_usgs}\nAs you notice, there are two ways to get the deposit number. One is inferring the deposit number from the deposit type. The other is just reading the model number off the string. Here are some example input and outputs:\n{table_examples}\nPlease first filter for records with valid deposit_type annotations, and then add a new column `usgs_num` for the extracted USGS model number. Return a data frame with path, name, longitude, latitude, deposit_type and usgs_num columns. Notice that when inferring deposit number from the deposit type name, the deposit names can also have commas in them, so try to process the whole string. Also the deposit names can have overlaps, for example 'Placer Au-PGE' deposits are not 'Placer Au', so you'll need to return the longer string match 'Placer Au-PGE' which is '39a' and not 'Placer Au' or '17a'. ".format(input_file=input_file,table_usgs=agent.markdown_table(table_usgs),table_examples=agent.markdown_table(table_examples)))
 #validate
 print(len([x for x in list(df_out['usgs_num']) if not x is None]))
 df_all.to_csv(fname_out)

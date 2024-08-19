@@ -1,4 +1,4 @@
-
+import gzip
 import time
 import os
 import gc
@@ -21,18 +21,17 @@ import torch
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM,AutoModel
 from transformers import pipeline
-import gzip
 
 
-import helper
+import util.helper_lm as helper
 
 
 default_params=smartparse.obj();
 default_params.root='dataset/'
 default_params.lm='meta-llama/Meta-Llama-3-8B'
 default_params.hf_token='your_token'
-default_params.load='./llama3-8b_ft_011-014.pt'
-default_params.options='../science-ft-2/dataset/taxonomy/cmmi_options_full_gpt4_number.csv'
+default_params.load='model_checkpoints/llama3-8b-ft_011_014.pt'
+default_params.options='taxonomy/cmmi_options_full_gpt4_number.csv'
 default_params.split='index/all_sites.csv'
 default_params.out='predictions/scores_llama3-8b-ft/'
 
@@ -153,11 +152,11 @@ queue=[]
 t0=time.time()
 queue_size=20
 for i,fname in enumerate(fnames):
-    print('%d/%d, time %.2f '%(i,len(fnames),time.time()-t0))
+    print('%d/%d, time %.2f '%(i,len(fnames),time.time()-t0),end='\r')
     fname_out=os.path.join(params.out,fname.replace('.json','.gz'))
     if i%params.world_size==params.rank and not os.path.exists(fname_out):
         text=json.load(open(os.path.join(params.root,fname),'r'))
-        text=json.dumps(clear_json(),indent=2)
+        text=json.dumps(clear_json(text),indent=2)
         queue.append((i,text,fname_out))
     
     #Run and clear queue when queue is filled
@@ -165,6 +164,7 @@ for i,fname in enumerate(fnames):
         scores=run(model,tokenizer,[x[1] for x in queue],options,descriptions,L=params.L)
         for j in range(len(queue)):
             fname_out=queue[j][2]
+            print('Computed scores %s'%fname_out)
             os.makedirs(os.path.dirname(fname_out),exist_ok=True)
             torch.save(scores[j],gzip.open(fname_out,'wb'))
         

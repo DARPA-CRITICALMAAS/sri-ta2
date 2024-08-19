@@ -4,6 +4,17 @@ import util.agent as agent
 import random
 import copy
 
+import sys
+import util.smartparse as smartparse
+import util.session_manager as session_manager
+default_params=smartparse.obj();
+default_params.openai_api_key='your_key'
+params = smartparse.parse()
+params = smartparse.merge(params, default_params)
+params.argv=sys.argv
+agent.set_openai_key(params.openai_api_key)
+
+
 if False:
     #  Create redacted json records: remove deposit type information from data
     #  Used for split generation
