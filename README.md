@@ -10,6 +10,7 @@ Older versions are available at https://github.com/DARPA-CRITICALMAAS/sri-ta2/cl
 ```
 conda create --name cmaas-sri-ta2 python=3.9 -y
 conda activate cmaas-sri-ta2
+
 ```
 
 In a python>=3.6 environment, install the following packages
@@ -19,12 +20,14 @@ cd sri-ta2
 pip install pandas
 pip install openai backoff
 conda install pytorch::pytorch torchvision torchaudio -c pytorch
+
 ```
 
 PDF to text with OCR
 ```
 pip install pdf2image pytesseract opencv-python
 conda install tesseract poppler -y
+
 ```
 
 Packages for running open source models
@@ -34,6 +37,7 @@ pip install transformers accelerate tokenizers sentencepiece openpyxl
 pip install peft
 conda install nvidia/label/cuda-11.8.0::cuda -y
 pip install flash-attn
+
 ```
 
 Note that GPUs with >=24GB of combined GPU RAM is required to run the open source pipeline.
