@@ -70,6 +70,16 @@ python output_minmod_json.py --split index/sites/{your database}.csv --scores pr
 ```
 This will gather the scores based in the index and create one or more JSON files for CDR integration​.
 
+## Run OCR on folder of reports
+
+Organize PDF reports under a single folder, e.g. `dataset/{your database}​/{id}.pdf`.
+
+Launch OCR​. Run
+```
+python preprocess_ocr.py --pdf dataset/{your database} --out dataset/{your database in json} --threads 8
+```
+This will run OCR on the reports, using 8 threads, and save the OCR results in json files under `dataset/{your database in json}/{id}.json`. The json files contain list of strings, one string for each text block in the PDF. The next step, deposit classification, will operate on the concatenated text.
+
 ## Classify new reports using the OpenAI pipeline
 
 Follow these steps:
