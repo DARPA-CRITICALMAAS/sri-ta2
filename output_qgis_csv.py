@@ -85,6 +85,12 @@ for i in range(len(data['path'])):
         continue;
     
     scores=torch.load(gzip.open(fname,'rb'),map_location='cpu')
+    if isinstance(scores,dict):
+        justification=scores['justification']
+        scores=scores['scores']
+    else:
+        justification=''
+    
     scores=F.softmax(scores[:len(options)]+bias,dim=-1)
     scores[~torch.isfinite(scores)]=1/len(options)
     s,ind=scores.sort(dim=0,descending=True)
@@ -110,7 +116,7 @@ for i in range(len(data['path'])):
     record['y']=lat
     record['algorithm']='SRI deposit classifier v2'
     record['prediction']=pred
-    record['justification']=''
+    record['justification']=justification
     record['relevant_data']=''
     record['vis_label']=options[ind[0]]
     s,ind=torch.Tensor(senv).sort(dim=0,descending=True)

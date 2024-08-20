@@ -18,6 +18,7 @@ def default_params():
     params.score_threshold=0.2
     params.split='index/demo_sites.csv'
     params.scores='predictions/scores_qa_gpt-4o-mini'
+    params.gt='index/annotations/mrds_with_ca.csv'
     params.json='dataset/'
     params.out='minmod/demo/SRI_deptype_minmod_gpt-4o-mini.json'
     
@@ -201,6 +202,12 @@ index = index.where(pandas.notnull(index), None)
 index={k:list(index[k]) for k in index.keys()}
 index_type=[parse_gt_type(x) for x in list(index['deposit_type'])]
 index['type']=index_type
+
+ann=pandas.read_csv(params.gt,low_memory=False)
+ann = ann.where(ann.notnull(ann), None)
+ann=dict(zip(list(ann['path']),list(ann['deposit_type'])))
+
+
 root_scores=params.scores
 root_json=params.json
 
@@ -236,6 +243,12 @@ for i in range(len(index['path'])):
     path_scores=os.path.join(root_scores,path.replace('.json','.gz'))
     if os.path.exists(path_scores):
         s=torch.load(gzip.open(path_scores,'rb'),map_location='cpu')
+        if isinstance(s,dict):
+            justification=s['justification']
+            s=s['scores']
+        else:
+            justification=''
+        
         s=F.softmax(s,dim=-1)[:len(options)]
         s,ind=s.sort(dim=-1,descending=True)
         s=s.tolist()
@@ -266,6 +279,9 @@ for i in range(len(index['path'])):
     commodity=mineral_inventory(commodity,source_id)
     
     deptype=deposit_type_candidate_gt(index['type'][i])
+    if path in ann:
+        deptype+=deposit_type_candidate_gt(ann[path])
+    
     if len(top_p)>0:
         deptype+=deposit_type_candidate_scores([x[0] for x in top_p],[x[1] for x in top_p])
     

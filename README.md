@@ -13,14 +13,10 @@ conda activate cmaas-sri-ta2
 ```
 
 In a python>=3.6 environment, install the following packages
-
 ```
-conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
-pip install transformers accelerate tokenizers sentencepiece openpyxl pandas
-pip install peft
-conda install nvidia/label/cuda-11.8.0::cuda -y
-pip install flash-attn
-
+pip install pandas
+pip install openai backoff
+conda install pytorch::pytorch torchvision torchaudio -c pytorch
 ```
 
 PDF to text with OCR
@@ -29,12 +25,24 @@ pip install pdf2image pytesseract opencv-python
 conda install tesseract poppler -y
 ```
 
-OpenAI GPT-4 explanations
+Packages for running open source models
 ```
-pip install openai backoff
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
+pip install transformers accelerate tokenizers sentencepiece openpyxl
+pip install peft
+conda install nvidia/label/cuda-11.8.0::cuda -y
+pip install flash-attn
 ```
 
 Note that GPUs with >=24GB of combined GPU RAM is required to run the open source pipeline.
+
+## Download preprocessed data (optional)
+
+Preprocessed mrdata databases available at https://www.dropbox.com/scl/fi/74hwx8vux058nyifriocz/dataset.tar.gz?rlkey=xan27f00he9wcozavc24wgerp&st=cut6tcwq&dl=1
+
+Precomputed predictions on mrdata databases available at https://www.dropbox.com/scl/fi/nj0lulq6moaccpc6wlo2i/scores_agg_llama3-8b-ft.tar.gz?rlkey=2iy4adu23plce29crhusa19kz&st=cpxvwa42&dl=1
+
+Model checkpoint for finetuned Meta-Llama-3-8B at https://www.dropbox.com/scl/fi/9svul8pzvp4wydk2brc5r/llama3-8b-ft_011_014.pt?rlkey=xpbfy9eje37v9lrn8hjptatdl&st=ldebdyyu&dl=1
 
 ## Classify new JSON records using the OpenAI pipeline
 
@@ -48,7 +56,7 @@ Launch predictions​. Run
 ```
 python launch_gpt.py --openai_api_key {your_openai_api_key} --split index/sites/{your database}.csv --lm gpt-4o-mini
 ```
-This will process sites in the index and output the deposit type distribution at `predictions/scores_qa_gpt-4o-mini/mrdata_json/{your database}​/{id}.gz` for each record. Each `{id}.gz` file is a compressed pytorch tensor (189-dim log probabilities), and can be loaded using `torch.load(gzip.open({fname},'rb'))`.
+This will process sites in the index and output the deposit type distribution at `predictions/scores_qa_gpt-4o-mini/mrdata_json/{your database}​/{id}.gz` for each record. Each `{id}.gz` file is a compressed pytorch tensor (189-dim log probabilities), and can be loaded for inspection using `torch.load(gzip.open({fname},'rb'))`.
 
 Create QGIS visualization. Run
 ```
@@ -59,6 +67,32 @@ This will gather the scores based on the index and create a CSV file suitable fo
 Create JSON records for CDR integration. Run
 ```
 python output_minmod_json.py --split index/sites/{your database}.csv --scores predictions/scores_qa_gpt-4o-mini --out minmod/sri/{your database}_gpt-4o-mini.json
+```
+This will gather the scores based in the index and create one or more JSON files for CDR integration​.
+
+## Classify new reports using the OpenAI pipeline
+
+Follow these steps:
+
+Add OCR reports at `dataset/{your database}​/{id}.json`.
+
+Add an index dataframe for your JSON records at `index/{your database}.csv`, one row per report. The dataframe should have a column named `path` pointing to `{your database}​/{id}.json`. Optionally include `id`, `name`, `latitude`, `longitude`, `deposit_type` and `url` columns that capture report id, site name, site location, deposit type information and link to report.
+
+Launch predictions​. Run
+```
+python launch_reports_gpt.py --openai_api_key {your_openai_api_key} --split index/{your database}.csv --lm gpt-4o-mini
+```
+This will process reports in the index and output the deposit type distribution at `predictions/scores_qa_gpt-4o-mini/{your database}​/{id}.gz` for each report.
+
+Create QGIS visualization. Run
+```
+python output_qgis_csv.py --split index/{your database}.csv --scores predictions/scores_qa_gpt-4o-mini --out predictions/{your database}_gpt-4o-mini_reports.csv
+```
+This will gather the scores based on the index and create a CSV file suitable for visualization in QGIS or other GIS software​.
+
+Create JSON records for CDR integration. Run
+```
+python output_minmod_json.py --split index/{your database}.csv --scores predictions/scores_qa_gpt-4o-mini --out minmod/sri/{your database}_gpt-4o-mini_reports.json
 ```
 This will gather the scores based in the index and create one or more JSON files for CDR integration​.
 

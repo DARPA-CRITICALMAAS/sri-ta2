@@ -19,7 +19,7 @@ import util.session_manager as session_manager
 
 def default_params():
     params=smartparse.obj();
-    params.arch='arch.inv_record'
+    params.arch='arch.inv_record4'
     params.load='model_checkpoints/model_score.pt'
     params.split='index/splits/eval.csv'
     params.out='predictions/scores_agg_llama3-8b-ft'
