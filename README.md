@@ -70,23 +70,19 @@ python output_minmod_json.py --split index/sites/{your database}.csv --scores pr
 ```
 This will gather the scores based in the index and create one or more JSON files for CDR integration​.
 
-## Run OCR on folder of reports
-
-Organize PDF reports under a single folder, e.g. `dataset/{your database}​/{id}.pdf`.
-
-Launch OCR​. Run
-```
-python preprocess_ocr.py --pdf dataset/{your database} --out dataset/{your database in json} --threads 8
-```
-This will run OCR on the reports, using 8 threads, and save the OCR results in json files under `dataset/{your database in json}/{id}.json`. The json files contain list of strings, one string for each text block in the PDF. The next step, deposit classification, will operate on the concatenated text.
-
 ## Classify new reports using the OpenAI pipeline
 
 Follow these steps:
 
+(Optional) Organize PDF reports under a single folder, e.g. `dataset/{your folder}​/{id}.pdf`. Run OCR on folder of reports
+```
+python preprocess_ocr.py --pdf dataset/{your folder} --out dataset/{your database} --threads 8
+```
+This will run OCR on the reports, using 8 threads, and save the OCR results in json files under `dataset/{your database}/{id}.json`. The json files contain list of strings, one string for each text block in the PDF. The next step, deposit classification, will operate on the concatenated text.
+
 Add OCR reports at `dataset/{your database}​/{id}.json`.
 
-Add an index dataframe for your JSON records at `index/{your database}.csv`, one row per report. The dataframe should have a column named `path` pointing to `{your database}​/{id}.json`. Optionally include `id`, `name`, `latitude`, `longitude`, `deposit_type` and `url` columns that capture report id, site name, site location, deposit type information and link to report.
+Add an index dataframe for your JSON records at `index/{your database}.csv`, one row per report. The dataframe should have a column named `path` pointing to `{your database}​/{id}.json`. Optionally include metadata including `id`, `name`, `latitude`, `longitude`, `deposit_type` and `url` columns that capture report id, site name, site location, deposit type information and link to report.
 
 Launch predictions​. Run
 ```
