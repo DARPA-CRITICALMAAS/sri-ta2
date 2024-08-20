@@ -106,6 +106,24 @@ def run(text,max_retries=20):
     #Didn't get valid answer in 20 tries.
     return torch.zeros(len(options))+math.log(1e-20)
 
+def run_summary(text,max_retries=20):
+    summaries=''
+    n=0
+    for i in range(0,len(text),200000):
+        n=n+1
+        r=min(i+200000,len(text))
+        text_i=text[i:r]
+        
+        #Compose query
+        msg=[]
+        msg.append({"role": "system", "content": "You are a helpful assistant specialized in reviewing geological publications and answering questions about them. Please read the context description and PDF report and answer the multiple-choice question about the PDF report."})
+        msg+=[{"role": "user", "content": "Context: NI 43-101 applies broadly to companies both public and private, and to a variety of disclosures types including mineral exploration reports, reporting of resources and reserves, presentations, oral comments, and websites. NI 43-101 covers mineral products such, precious metals and solid energy commodities as well as bulk minerals, dimension stone, precious stones and mineral sands commodities. The following is an NI 43-101 report describing a mineral resource. Please read and answer the question below.\n\n```json\n{json_data}\n```\nQuestion: Which of the following mineral deposit types best fits the area that the context PDF report describes? Options:\n{list_of_options}\n\nPlease summarize the original PDF reports on its descriptions of the likely deposit type in the area, and select the mineral deposit type that best fits the area.".format(json_data=text_i,list_of_options=list_of_options)}]
+        
+        response=completions_with_backoff(model=params.lm, messages=msg).choices[0]
+        summaries+='Section %d: %s\n'%(n,response.message.content)
+    
+    return summaries
+
 def run_explanation(text):
     #Limit text length to 100k
     #Longer documents will not fit within the API
@@ -133,6 +151,9 @@ for i,fname in enumerate(fnames):
     fname_out=os.path.join(params.out,fname.replace('.json','.gz'))
     
     if i%params.world_size==params.rank and not os.path.exists(fname_out):
+        if len(text)>200000:
+            text=run_summary(text)
+        
         scores=run(text)
         explanation=run_explanation(text)
         os.makedirs(os.path.dirname(fname_out),exist_ok=True)
