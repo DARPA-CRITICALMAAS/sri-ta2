@@ -17,7 +17,7 @@ In a python>=3.6 environment, install the following packages
 ```
 git clone https://github.com/DARPA-CRITICALMAAS/sri-ta2/
 cd sri-ta2
-pip install pandas
+pip install pandas==2.1.4
 pip install openai backoff
 conda install pytorch::pytorch torchvision torchaudio -c pytorch
 
@@ -30,7 +30,7 @@ conda install tesseract poppler -y
 
 ```
 
-Packages for running open source models
+(Optional) Packages for running open source models
 ```
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
 pip install transformers accelerate tokenizers sentencepiece openpyxl
