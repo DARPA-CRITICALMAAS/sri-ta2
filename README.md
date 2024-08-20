@@ -14,6 +14,8 @@ conda activate cmaas-sri-ta2
 
 In a python>=3.6 environment, install the following packages
 ```
+git clone https://github.com/DARPA-CRITICALMAAS/sri-ta2/
+cd sri-ta2
 pip install pandas
 pip install openai backoff
 conda install pytorch::pytorch torchvision torchaudio -c pytorch
