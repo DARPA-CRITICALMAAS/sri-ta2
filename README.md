@@ -17,7 +17,7 @@ In a python>=3.6 environment, install the following packages
 ```
 git clone https://github.com/DARPA-CRITICALMAAS/sri-ta2/
 cd sri-ta2
-pip install pandas==2.1.4
+pip install numpy pandas
 pip install openai backoff
 conda install pytorch::pytorch torchvision torchaudio -c pytorch
 
@@ -82,7 +82,10 @@ Follow these steps:
 
 (Optional) Organize PDF reports under a single folder, e.g. `dataset/{your folder}​/{id}.pdf`. Run OCR on folder of reports
 ```
-python preprocess_ocr.py --pdf dataset/{your folder} --out dataset/{your database} --threads 8
+mkdir dataset/NI_43-101_pdf/
+wget https://minedocs.com/21/Empire-MR-10302020.pdf -O dataset/NI_43-101_pdf/empire.pdf
+python preprocess_ocr.py --pdf dataset/NI_43-101_pdf/ --out dataset/NI_43-101_json/ --threads 8
+
 ```
 This will run OCR on the reports, using 8 threads, and save the OCR results in json files under `dataset/{your database}/{id}.json`. The json files contain list of strings, one string for each text block in the PDF. The next step, deposit classification, will operate on the concatenated text.
 
