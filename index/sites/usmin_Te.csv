@@ -1,6 +1,0 @@
-,path,deposit_id,name,longitude,latitude,deposit_type,url
-0,mrdata_json/usmin_Te/Mf00245.json,Mf00245,"Butte, Continental pit",-112.481754165,46.012178986,,https://mrdata.usgs.gov/deposit/json/Te-Mf00245
-1,mrdata_json/usmin_Te/Sw00023.json,Sw00023,Surface workings,-112.498482278757,46.0283217577639,,https://mrdata.usgs.gov/deposit/json/Te-Sw00023
-2,mrdata_json/usmin_Te/Mf00244.json,Mf00244,"Butte, Berkeley pit",-112.511696112,46.0184536240001,,https://mrdata.usgs.gov/deposit/json/Te-Mf00244
-3,mrdata_json/usmin_Te/Mo00783.json,Mo00783,"Butte, Butte deposit",-112.492580713,46.014796393,['porphyry Cu-Mo'],https://mrdata.usgs.gov/deposit/json/Te-Mo00783
-4,mrdata_json/usmin_Te/Mr00016.json,Mr00016,Butte Mining District,-112.522883574,46.0230867440001,,https://mrdata.usgs.gov/deposit/json/Te-Mr00016
