@@ -2,6 +2,7 @@ import httpx
 import requests
 import math
 import pandas
+import json
 from datetime import datetime
 
 #Compute edit distance between two strings
@@ -86,9 +87,9 @@ class writer:
 
 
 class API:
-    def __init__(self,params):
-        self.username=params.minmod_username
-        self.password=params.minmod_password
+    def __init__(self,minmod_username,minmod_password):
+        self.username=minmod_username
+        self.password=minmod_password
         self.endpoint='https://dev.minmod.isi.edu/api/v1'
         self.cookies=None
     
@@ -96,17 +97,21 @@ class API:
         endpoint = f"{self.endpoint}/mineral-sites"
         params=site_record
         response = httpx.post(endpoint,json=params,cookies=self.cookies)
-        print(response.json())
+        if json.dumps(response.json()).find('exists')>=0:
+            return {}
+        
         response.raise_for_status()
         return response.json()
     
-    def query_site(self,cdr_id):
+    def link_to_site(self,cdr_id):
         endpoint = f"{self.endpoint}/mineral-sites/make-id"
         params={'source_id':"mining-report::https://api.cdr.land/v1/docs/documents",'record_id':cdr_id}
         response = requests.get(endpoint,params=params,cookies=self.cookies)
-        print(response.json())
+        #print(response.json())
         response.raise_for_status()
-        return response.json()
+        url=response.json()
+        url=url.replace('minmod','dev.minmod')
+        return url
     
     def login(self):
         endpoint = f"{self.endpoint}/login"
@@ -121,4 +126,4 @@ class API:
         response = httpx.get(endpoint,cookies=self.cookies)
         response.raise_for_status()
         return response.json()
-    
+

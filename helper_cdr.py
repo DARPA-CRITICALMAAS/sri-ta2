@@ -22,6 +22,21 @@ class new:
         response.raise_for_status()
         return response.json()
     
+    def query_document_metadata(self,doc_id):
+        endpoint = f"{self.endpoint}/docs/document/meta/{doc_id}"
+        headers = {"Authorization": "Bearer %s"%self.cdr_key, "accept": "application/json"}
+        response = httpx.get(endpoint,headers=headers)
+        response.raise_for_status()
+        return response.json()
+    
+    def add_document_metadata(self,doc_id,source_name,source_url,source_id=""):
+        endpoint = f"{self.endpoint}/docs/documents/provenance/{doc_id}"
+        params={"external_system_name": source_name,"external_system_id": source_id,"external_system_url": source_url}
+        headers={"Authorization": "Bearer %s"%self.cdr_key, "accept": "application/json"}
+        response = httpx.post(endpoint,json=params,headers=headers)
+        response.raise_for_status()
+        return response
+    
     #kw is understood as a regex
     def query_documents_title(self,kw='Bisie Project in Africa',i=0,N=1000):
         endpoint = f"{self.endpoint}/docs/documents/q/title"

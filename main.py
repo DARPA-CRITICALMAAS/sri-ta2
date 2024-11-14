@@ -22,7 +22,7 @@ if __name__ == "__main__":
     import helper_ocr as OCR
     import helper_minmod as minmod
     minmod_writer=minmod.writer(params)
-    minmod_api=minmod.API(params)
+    minmod_api=minmod.API(params.minmod_username,params.minmod_password)
     
     while True:
         t0=time.time()
@@ -103,6 +103,7 @@ if __name__ == "__main__":
                         pass
             
             #Generate mineral site data
+            minmod_api.login()
             for i in needs_processing:
                 if os.path.exists(os.path.join(params.dir_predictions,'%s.json'%i)) and not os.path.exists(os.path.join(params.dir_mineral_sites,'%s.json'%i)):
                     try:
@@ -111,15 +112,27 @@ if __name__ == "__main__":
                         fname_out=os.path.join(params.dir_mineral_sites,'%s.json'%i)
                         data=json.load(open(fname_in,'r'))
                         data=minmod_writer.mineral_site_cdr(i,data['scores'],data['justification'])
+                        
+                        
+                        minmod_api.create_site(data)
+                        url=minmod_api.link_to_site(i)
+                        meta=cdr.query_document_metadata(i)
+                        if not any([x['external_system_name']==minmod_api.endpoint for x in meta['provenance']]):
+                            cdr.add_document_metadata(doc_id=i,source_name=minmod_api.endpoint,source_url=url)
+                        
                         json.dump(data,open(fname_out,'w'),indent=2)
                         t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                         session.log('%s\Knowledge graph data %d/%d %s'%(t,j+1,len(needs_processing),i))
                     except KeyboardInterrupt:
                         a=0/0
                     except Exception as error:
-                        print("Prediction issue with %s "%i, type(error).__name__, "–", error)
+                        print("Delivery issue with %s "%i, type(error).__name__, "–", error)
                         pass
-        
+            
+                    
+                    
+            
+            
         except KeyboardInterrupt:
             a=0/0
         except:
