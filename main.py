@@ -135,7 +135,7 @@ if __name__ == "__main__":
             
         except KeyboardInterrupt:
             a=0/0
-        except:
+        except Exception as error:
             print("Exception", type(error).__name__, "–", error)
             pass
         
