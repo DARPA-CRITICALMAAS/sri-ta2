@@ -96,17 +96,19 @@ class API:
     def create_site(self,site_record):
         endpoint = f"{self.endpoint}/mineral-sites"
         params=site_record
-        response = httpx.post(endpoint,json=params,cookies=self.cookies)
+        response = httpx.post(endpoint,json=params,cookies=self.cookies,timeout=None)
         if json.dumps(response.json()).find('exists')>=0:
+            print(response.json())
             return {}
         
         response.raise_for_status()
+        print(response.json())
         return response.json()
     
     def link_to_site(self,cdr_id):
         endpoint = f"{self.endpoint}/mineral-sites/make-id"
         params={'source_id':"mining-report::https://api.cdr.land/v1/docs/documents",'record_id':cdr_id}
-        response = requests.get(endpoint,params=params,cookies=self.cookies)
+        response = requests.get(endpoint,params=params,cookies=self.cookies,timeout=None)
         #print(response.json())
         response.raise_for_status()
         url=response.json()
@@ -116,14 +118,14 @@ class API:
     def login(self):
         endpoint = f"{self.endpoint}/login"
         params={'username':self.username,'password':self.password}
-        response = httpx.post(endpoint,json=params)
+        response = httpx.post(endpoint,json=params,timeout=None)
         response.raise_for_status()
         self.cookies=response.cookies
         return response.json()
     
     def whoami(self):
         endpoint = f"{self.endpoint}/whoami"
-        response = httpx.get(endpoint,cookies=self.cookies)
+        response = httpx.get(endpoint,cookies=self.cookies,timeout=None)
         response.raise_for_status()
         return response.json()
 
