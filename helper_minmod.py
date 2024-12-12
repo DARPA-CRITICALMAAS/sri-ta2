@@ -80,7 +80,7 @@ class writer:
         record['record_id']=cdr_id
         record['site_rank']=""
         record['reference']=[{"document": {"uri": "https://api.cdr.land/v1/docs/documents/%s"%cdr_id}}]
-        record['created_by']=["https://minmod.isi.edu/users/sri"]
+        record['created_by']=["https://minmod.isi.edu/users/s/sri"]
         record['modified_at']=modified_at
         return record
 
@@ -104,6 +104,29 @@ class API:
         response.raise_for_status()
         print(response.json())
         return response.json()
+    
+    def update_site(self,cdr_id,site_record):
+        site_id=self.get_id(cdr_id)
+        
+        endpoint = f"{self.endpoint}/mineral-sites"
+        params={'site_id':site_id}
+        response = httpx.put(endpoint,params=params,json=site_record,cookies=self.cookies,timeout=None)
+        if json.dumps(response.json()).find('exists')>=0:
+            print(response.json())
+            return {}
+        
+        response.raise_for_status()
+        print(response.json())
+        return response.json()
+    
+    def get_id(self,cdr_id):
+        endpoint = f"{self.endpoint}/mineral-sites/make-id"
+        params={'source_id':"mining-report::https://api.cdr.land/v1/docs/documents",'record_id':cdr_id}
+        response = requests.get(endpoint,params=params,cookies=self.cookies,timeout=None)
+        #print(response.json())
+        response.raise_for_status()
+        url=response.json()
+        return url
     
     def link_to_site(self,cdr_id):
         endpoint = f"{self.endpoint}/mineral-sites/make-id"

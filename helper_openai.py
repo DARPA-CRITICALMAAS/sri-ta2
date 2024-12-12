@@ -7,13 +7,26 @@ import math
 @backoff.on_exception(backoff.expo, openai.RateLimitError)
 
 
-
 class new:
     def __init__(self,params):
-        self.params=params #lm=model openai_key=openai_api_key
-        self.client = openai.OpenAI(api_key=self.params.openai_api_key)
-        self.tokenizer=tiktoken.encoding_for_model(params.lm)
+        if not params.azure_api_endpoint=='':
+            if params.azure_lm=='':
+                params.azure_lm=params.lm
+                self.tokenizer=tiktoken.encoding_for_model(params.lm)
+            elif params.lm=='':
+                self.tokenizer=tiktoken.encoding_for_model(params.azure_lm)
+            else:
+                self.tokenizer=tiktoken.encoding_for_model(params.lm)
+            
+            self.lm=params.azure_lm
+            self.client = openai.AzureOpenAI(api_key=params.openai_api_key,api_version=params.azure_api_version,azure_endpoint=params.azure_api_endpoint)
+        else:
+            self.client = openai.OpenAI(api_key=params.openai_api_key)
+            self.lm=params.lm
+            self.tokenizer=tiktoken.encoding_for_model(params.lm)
+        
         self.token_count=0
+        self.params=params #lm=model openai_key=openai_api_key
     
     def completions_with_backoff(self,**kwargs):
         return self.client.chat.completions.create(**kwargs)
@@ -22,7 +35,7 @@ class new:
         msg=[]
         msg+=[{"role": "system", "content": system}]
         msg+=[{"role": "user", "content": user}]
-        response=self.completions_with_backoff(model=self.params.lm, messages=msg).choices[0]
+        response=self.completions_with_backoff(model=self.lm, messages=msg).choices[0]
         self.token_count+=len(self.tokenizer.encode(system+user))
         return response.message.content
     
@@ -37,7 +50,7 @@ class new:
         
         for i in range(max_retries):
             self.token_count+=len(self.tokenizer.encode(system+user))
-            response=self.completions_with_backoff(model=self.params.lm, messages=msg,logprobs=True,top_logprobs=5).choices[0]
+            response=self.completions_with_backoff(model=self.lm, messages=msg,logprobs=True,top_logprobs=5).choices[0]
             
             #Verify that top answer is like 'a000' as instructed, otherwise retry
             #Most importantly, the first token needs to be 'a'

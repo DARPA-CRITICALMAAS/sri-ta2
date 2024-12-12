@@ -1,14 +1,195 @@
 
 #Load config
 import os
+import sys
 import json
 import time
 from datetime import datetime
 import util.smartparse as smartparse
 import util.session_manager as session_manager
 params=json.load(open('config.json','r'))
-params=smartparse.dict2obj(params)
+
+
+def default_params():
+    params=smartparse.obj()
+    params.cdr_key=""
+    params.openai_api_key=""
+    params.azure_lm=''
+    params.azure_api_version='2024-07-01-preview'
+    params.azure_api_endpoint=''
+    params.lm="gpt-4o"
+    params.lm_context_window=128000
+    params.ocr_num_threads=12
+    params.dir_cache_pdf="cache/docs_PDF"
+    params.dir_cache_ocr="cache/docs_ocr"
+    params.dir_predictions="predictions"
+    params.dir_mineral_sites="sri/mineral_sites"
+    params.taxonomy="taxonomy/cmmi_full_num_v2.csv"
+    params.cdr_query_interval=30
+    params.confidence_threshold=0.2
+    params.minmod_username=""
+    params.minmod_password=""
+    return params
+
+
+params = smartparse.parse()
+params = smartparse.merge(params, default_params())
+params.argv=sys.argv
 session=session_manager.create_session(params)
+
+
+class DTC_APP:
+    def __init__(self,minmod_api,minmod_writer,cdr,depqa,session,params):
+        self.queue=set()
+        self.cdr=cdr
+        self.depqa=depqa
+        self.minmod_api=minmod_api
+        self.minmod_writer=minmod_writer
+        self.session=session
+        self.params=params
+    
+    def process(self):
+        self.query_docs()
+        for i in self.queue:
+            print(i)
+            url=self.update_kg(i)
+            if not (url is None or url=='Exists'):
+                t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                session.log('%s Processed %s, at %s'%(t,i,url))
+        
+        return
+    
+    #Query docs
+    def query_docs(self):
+        cdr=self.cdr
+        docs=[]
+        for i in range(100000):
+            try:
+                data=cdr.query_documents_title(kw=r'*[Mineral Site]*',i=i,N=1000)
+                docs+=data
+                if len(data)<=0:
+                    break
+            
+            except KeyboardInterrupt:
+                a=0/0
+            except:
+                break
+        
+        #Check new uploads
+        unique_ids=sorted(list(set([doc['id'] for j,doc in enumerate(docs)])))
+        self.queue=self.queue | set(unique_ids)
+        return
+    
+    def update_kg(self,cdr_id):
+        params=self.params
+        cdr=self.cdr
+        minmod_api=self.minmod_api
+        
+        fname_out=os.path.join(params.dir_mineral_sites,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return 'Exists'#json.load(open(fname_out,'r'))
+        
+        pred=self.get_prediction(cdr_id)
+        if pred is None:
+            return None
+        
+        try:
+            site_data=minmod_writer.mineral_site_cdr(cdr_id,pred['scores'],pred['justification'])
+            minmod_api.login()
+            try:
+                minmod_api.create_site(site_data)
+            except:
+                minmod_api.update_site(cdr_id,site_data)
+            
+            url=minmod_api.link_to_site(cdr_id)
+            meta=cdr.query_document_metadata(cdr_id)
+            if not any([x['external_system_name']==minmod_api.endpoint for x in meta['provenance']]):
+                cdr.add_document_metadata(doc_id=cdr_id,source_name=minmod_api.endpoint,source_url=url)
+            
+            os.makedirs(params.dir_mineral_sites,exist_ok=True)
+            json.dump(site_data,open(fname_out,'w'),indent=2)
+            return url
+        except KeyboardInterrupt:
+            a=0/0
+        except Exception as error:
+            print("Delivery issue with %s "%cdr_id, type(error).__name__, "–", error)
+            pass
+        
+        return None
+    
+    def get_prediction(self,cdr_id):
+        params=self.params
+        depqa=self.depqa
+        
+        fname_out=os.path.join(params.dir_predictions,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return json.load(open(fname_out,'r'))
+        
+        text=self.get_ocr(cdr_id)
+        if text is None:
+            return None
+        
+        try:
+            if isinstance(text,list):
+                text='\n'.join(text)
+            
+            scores,justification=depqa.run(text)
+            data={'scores':scores,'justification':justification}
+            os.makedirs(params.dir_predictions,exist_ok=True)
+            json.dump(data,open(fname_out,'w'),indent=2)
+            return data
+        except KeyboardInterrupt:
+            a=0/0
+        except Exception as error:
+            print("Prediction issue with %s "%cdr_id, type(error).__name__, "–", error)
+            pass
+        
+        return None
+    
+    def get_ocr(self,cdr_id):
+        params=self.params
+        fname_out=os.path.join(params.dir_cache_ocr,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return json.load(open(fname_out,'r'))
+        
+        fname_in=self.get_pdf(cdr_id)
+        if fname_in is None:
+            return None
+        
+        try:
+            fname_in=os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id)
+            data=OCR.ocr(fname_in,num_workers=params.ocr_num_threads)
+            os.makedirs(params.dir_cache_ocr,exist_ok=True)
+            json.dump(data,open(fname_out,'w'),indent=2)
+            return data
+        except KeyboardInterrupt:
+            a=0/0
+        except Exception as error:
+            print("OCR issue with %s "%cdr_id, type(error).__name__, "–", error)
+            pass
+        
+        return None
+    
+    def get_pdf(self,cdr_id):
+        params=self.params
+        cdr=self.cdr
+        
+        fname_out=os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id)
+        if os.path.exists(fname_out):
+            return fname_out
+        
+        try:
+            os.makedirs(params.dir_cache_pdf,exist_ok=True)
+            cdr.download_document('%s'%cdr_id,os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id))
+            return fname_out
+        except KeyboardInterrupt:
+            a=0/0
+        except Exception as error:
+            print("Error downloading %s "%cdr_id, type(error).__name__, "–", error)
+            pass
+        
+        return None
+
 
 
 if __name__ == "__main__":
@@ -24,128 +205,19 @@ if __name__ == "__main__":
     minmod_writer=minmod.writer(params)
     minmod_api=minmod.API(params.minmod_username,params.minmod_password)
     
+    
+    app=DTC_APP(minmod_api,minmod_writer,cdr,depqa,session,params)
+
     while True:
         t0=time.time()
         try:
-            #Query docs from CDR
-            docs=[]
-            for i in range(100000):
-                try:
-                    data=cdr.query_documents_title(kw=r'*[Mineral Site]*',i=i,N=1000)
-                    docs+=data
-                    if len(data)<=0:
-                        break
-                    
-                except KeyboardInterrupt:
-                    a=0/0
-                except:
-                    break
-            
-            #Check new uploads
-            unique_ids=sorted(list(set([doc['id'] for j,doc in enumerate(docs)])))
-            needs_processing=[i for j,i in enumerate(unique_ids) if not os.path.exists(os.path.join(params.dir_mineral_sites,'%s.json'%i))]
-            
-            t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            session.log('%s\tCDR update: %d/%d new docs'%(t,len(needs_processing),len(unique_ids)))
-            
-            #Download report
-            for j,i in enumerate(needs_processing):
-                if not os.path.exists(os.path.join(params.dir_cache_pdf,'%s.pdf'%i)) and all([not os.path.exists(os.path.join(dir,'%s.json'%i)) for dir in [params.dir_predictions,params.dir_cache_ocr,params.dir_mineral_sites]]):
-                    try:
-                        os.makedirs(params.dir_cache_pdf,exist_ok=True)
-                        cdr.download_document('%s'%i,os.path.join(params.dir_cache_pdf,'%s.pdf'%i))
-                        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        session.log('%s\tDownloaded %d/%d %s'%(t,j+1,len(needs_processing),i))
-                    except KeyboardInterrupt:
-                        a=0/0
-                    except Exception as error:
-                        print("Error downloading %s "%i, type(error).__name__, "–", error)
-                        pass
-            
-            #Run OCR
-            for j,i in enumerate(needs_processing):
-                if os.path.exists(os.path.join(params.dir_cache_pdf,'%s.pdf'%i)) and all([not os.path.exists(os.path.join(dir,'%s.json'%i)) for dir in [params.dir_predictions,params.dir_mineral_sites,params.dir_cache_ocr]]):
-                    try:
-                        os.makedirs(params.dir_cache_ocr,exist_ok=True)
-                        fname_in=os.path.join(params.dir_cache_pdf,'%s.pdf'%i)
-                        fname_out=os.path.join(params.dir_cache_ocr,'%s.json'%i)
-                        data=OCR.ocr(fname_in,num_workers=params.ocr_num_threads)
-                        json.dump(data,open(fname_out,'w'),indent=2)
-                        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        session.log('%s\tOCR %d/%d %s'%(t,j+1,len(needs_processing),i))
-                    except KeyboardInterrupt:
-                        a=0/0
-                    except Exception as error:
-                        print("OCR issue with %s "%i, type(error).__name__, "–", error)
-                        pass
-            
-            #Run prediction
-            for j,i in enumerate(needs_processing):
-                if os.path.exists(os.path.join(params.dir_cache_ocr,'%s.json'%i)) and all([not os.path.exists(os.path.join(dir,'%s.json'%i)) for dir in [params.dir_predictions,params.dir_mineral_sites]]):
-                    try:
-                        os.makedirs(params.dir_predictions,exist_ok=True)
-                        fname_in=os.path.join(params.dir_cache_ocr,'%s.json'%i)
-                        fname_out=os.path.join(params.dir_predictions,'%s.json'%i)
-                        text=json.load(open(fname_in,'r'))
-                        if isinstance(text,list):
-                            text='\n'.join(text)
-                        
-                        scores,justification=depqa.run(text)
-                        data={'scores':scores,'justification':justification}
-                        json.dump(data,open(fname_out,'w'),indent=2)
-                        
-                        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        session.log('%s\tClassify %d/%d %s,tokens so far: %d'%(t,j+1,len(needs_processing),i,llm.token_count))
-                    except KeyboardInterrupt:
-                        a=0/0
-                    except Exception as error:
-                        print("Prediction issue with %s "%i, type(error).__name__, "–", error)
-                        pass
-            
-            #Generate mineral site data
-            minmod_api.login()
-            for i in needs_processing:
-                if os.path.exists(os.path.join(params.dir_predictions,'%s.json'%i)) and not os.path.exists(os.path.join(params.dir_mineral_sites,'%s.json'%i)):
-                    try:
-                        os.makedirs(params.dir_mineral_sites,exist_ok=True)
-                        fname_in=os.path.join(params.dir_predictions,'%s.json'%i)
-                        fname_out=os.path.join(params.dir_mineral_sites,'%s.json'%i)
-                        data=json.load(open(fname_in,'r'))
-                        data=minmod_writer.mineral_site_cdr(i,data['scores'],data['justification'])
-                        
-                        
-                        minmod_api.create_site(data)
-                        url=minmod_api.link_to_site(i)
-                        meta=cdr.query_document_metadata(i)
-                        if not any([x['external_system_name']==minmod_api.endpoint for x in meta['provenance']]):
-                            cdr.add_document_metadata(doc_id=i,source_name=minmod_api.endpoint,source_url=url)
-                        
-                        json.dump(data,open(fname_out,'w'),indent=2)
-                        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        session.log('%s\Knowledge graph data %d/%d %s'%(t,j+1,len(needs_processing),i))
-                    except KeyboardInterrupt:
-                        a=0/0
-                    except Exception as error:
-                        print("Delivery issue with %s "%i, type(error).__name__, "–", error)
-                        pass
-            
-                    
-                    
-            
-            
+            app.process()
         except KeyboardInterrupt:
             a=0/0
         except Exception as error:
             print("Exception", type(error).__name__, "–", error)
             pass
         
-        
-        '''
-        minmod_api.login()
-        minmod_api.query_site("02c46db47a8a1b2d2705a2b2190951a2eab55b6909f845cc607f561a85852a1822")
-        data=json.load(open('sri/mineral_sites/02c46db47a8a1b2d2705a2b2190951a2eab55b6909f845cc607f561a85852a1822.json','r'))
-        minmod_api.create_site(data)
-        '''
         
         #Check every so often
         t1=time.time()
