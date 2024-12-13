@@ -61,6 +61,8 @@ class DTC_APP:
     
     #Query docs
     def query_docs(self):
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Querying CDR for docs'%t)
         cdr=self.cdr
         docs=[]
         for i in range(100000):
@@ -78,6 +80,8 @@ class DTC_APP:
         #Check new uploads
         unique_ids=sorted(list(set([doc['id'] for j,doc in enumerate(docs)])))
         self.queue=self.queue | set(unique_ids)
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s %d documents in queue'%(t,len(self.queue)))
         return
     
     def update_kg(self,cdr_id):
@@ -88,6 +92,9 @@ class DTC_APP:
         fname_out=os.path.join(params.dir_mineral_sites,'%s.json'%cdr_id)
         if os.path.exists(fname_out):
             return 'Exists'#json.load(open(fname_out,'r'))
+        
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Attempting to update KG of document %s'%(t,cdr_id))
         
         pred=self.get_prediction(cdr_id)
         if pred is None:
@@ -121,9 +128,13 @@ class DTC_APP:
         params=self.params
         depqa=self.depqa
         
+        
         fname_out=os.path.join(params.dir_predictions,'%s.json'%cdr_id)
         if os.path.exists(fname_out):
             return json.load(open(fname_out,'r'))
+        
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Attempting to make predictions on document %s'%(t,cdr_id))
         
         text=self.get_ocr(cdr_id)
         if text is None:
@@ -152,6 +163,10 @@ class DTC_APP:
         if os.path.exists(fname_out):
             return json.load(open(fname_out,'r'))
         
+        
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Attempting to run OCR on document %s'%(t,cdr_id))
+        
         fname_in=self.get_pdf(cdr_id)
         if fname_in is None:
             return None
@@ -177,6 +192,10 @@ class DTC_APP:
         fname_out=os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id)
         if os.path.exists(fname_out):
             return fname_out
+        
+        
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Attempting to download document from CDR %s'%(t,cdr_id))
         
         try:
             os.makedirs(params.dir_cache_pdf,exist_ok=True)
