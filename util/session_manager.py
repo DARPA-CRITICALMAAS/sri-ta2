@@ -1,7 +1,7 @@
 import os
 import os.path
 import sys
-import torch
+#import torch
 import json
 from collections import OrderedDict
 
@@ -29,7 +29,7 @@ def create_session(params):
         session_dir=None;
     
     session=Session(session_dir=session_dir); #Create session
-    torch.save({'params':params},session.file('params.pt'));
+    #torch.save({'params':params},session.file('params.pt'));
     pmvs=vars(params);
     pmvs=dict([(k,pmvs[k]) for k in pmvs if not(k=='stuff')]);
     print(pmvs);
