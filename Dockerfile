@@ -4,6 +4,7 @@ RUN apt update
 RUN apt install -y htop screen git ffmpeg vim tesseract-ocr poppler-utils
 RUN pip install --upgrade pip
 RUN pip install backoff openai tiktoken pandas pytesseract pdf2image
+RUN pip install flask flask-cors httpx fastapi uvicorn ngrok
 
 
 # copy stuff
@@ -26,4 +27,6 @@ ENV PIP_CERT="/etc/ssl/certs/ca-certificates.crt" \
     REQUESTS_CA_BUNDLE="/etc/ssl/certs/ca-certificates.crt" \
     AWS_CA_BUNDLE="/etc/ssl/certs/ca-certificates.crt"
 
-ENTRYPOINT python main.py "$@"
+ENV OMP_THREAD_LIMIT=1
+
+ENTRYPOINT python fast_api_registration.py "$@"

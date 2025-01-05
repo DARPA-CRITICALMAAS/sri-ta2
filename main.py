@@ -10,6 +10,13 @@ import util.session_manager as session_manager
 params=json.load(open('config.json','r'))
 
 
+import helper_cdr as CDR
+import helper_openai as LLM
+import helper_deptype as DEPQA
+import helper_ocr as OCR
+import helper_minmod as minmod
+
+
 def default_params():
     params=smartparse.obj()
     params.cdr_key=""
@@ -25,6 +32,13 @@ def default_params():
     params.dir_predictions="predictions"
     params.dir_mineral_sites="sri/mineral_sites"
     params.taxonomy="taxonomy/cmmi_full_num_v2.csv"
+    
+    params.cdr_endpoint="https://api.cdr.land"
+    params.cdr_api_version="/v1"
+    params.minmod_endpoint='https://dev.minmod.isi.edu'
+    params.minmod_api_version="/api/v1"
+    params.minmod_algorithm_string="algorithm predictions, SRI deposit type classification, v2, 20240710"
+    
     params.cdr_query_interval=30
     params.confidence_threshold=0.2
     params.minmod_username=""
@@ -38,6 +52,7 @@ params.argv=sys.argv
 session=session_manager.create_session(params)
 
 
+
 class DTC_APP:
     def __init__(self,minmod_api,minmod_writer,cdr,depqa,session,params):
         self.queue=set()
@@ -48,16 +63,29 @@ class DTC_APP:
         self.session=session
         self.params=params
     
-    def process(self):
-        self.query_docs()
+    def process(self,cdr_id=None):
+        if cdr_id is None:
+            self.query_docs()
+        else:
+            self.add_doc_to_queue(cdr_id)
+        
+        print(self.queue)
         for i in self.queue:
-            print(i)
             url=self.update_kg(i)
+            print(url)
             if not (url is None or url=='Exists'):
                 t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 session.log('%s Processed %s, at %s'%(t,i,url))
         
         return
+    
+    #add doc
+    def add_doc_to_queue(self,cdr_id):
+        self.queue=self.queue | set([cdr_id])
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Added new doc %s'%(t,cdr_id))
+        return
+    
     
     #Query docs
     def query_docs(self):
@@ -65,7 +93,7 @@ class DTC_APP:
         self.session.log('%s Querying CDR for docs'%t)
         cdr=self.cdr
         docs=[]
-        for i in range(100000):
+        for i in range(10):
             try:
                 data=cdr.query_documents_title(kw=r'*[Mineral Site]*',i=i,N=1000)
                 docs+=data
@@ -74,14 +102,16 @@ class DTC_APP:
             
             except KeyboardInterrupt:
                 a=0/0
-            except:
+            except Exception as error:
+                break
+                print("Exception", type(error).__name__, "–", error)
                 break
         
         #Check new uploads
         unique_ids=sorted(list(set([doc['id'] for j,doc in enumerate(docs)])))
         self.queue=self.queue | set(unique_ids)
         t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        self.session.log('%s %d documents in queue'%(t,len(self.queue)))
+        self.session.log('%s %d documents marked'%(t,len(self.queue)))
         return
     
     def update_kg(self,cdr_id):
@@ -94,27 +124,30 @@ class DTC_APP:
             return 'Exists'#json.load(open(fname_out,'r'))
         
         t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        self.session.log('%s Attempting to update KG of document %s'%(t,cdr_id))
+        self.session.log('%s Attempting to create KG entry for document %s'%(t,cdr_id))
         
         pred=self.get_prediction(cdr_id)
         if pred is None:
             return None
         
         try:
-            site_data=minmod_writer.mineral_site_cdr(cdr_id,pred['scores'],pred['justification'])
+            site_data=self.minmod_writer.mineral_site_cdr(cdr_id,pred['scores'],pred['justification'])
             minmod_api.login()
             try:
                 minmod_api.create_site(site_data)
             except:
+                self.session.log('%s Attempting to update KG for document %s'%(t,cdr_id))
                 minmod_api.update_site(cdr_id,site_data)
             
             url=minmod_api.link_to_site(cdr_id)
+            self.session.log('%s Publishing KG link to CDR %s'%(t,cdr_id))
             meta=cdr.query_document_metadata(cdr_id)
             if not any([x['external_system_name']==minmod_api.endpoint for x in meta['provenance']]):
                 cdr.add_document_metadata(doc_id=cdr_id,source_name=minmod_api.endpoint,source_url=url)
             
             os.makedirs(params.dir_mineral_sites,exist_ok=True)
             json.dump(site_data,open(fname_out,'w'),indent=2)
+            self.session.log('%s Predictions published %s'%(t,cdr_id))
             return url
         except KeyboardInterrupt:
             a=0/0
@@ -148,6 +181,7 @@ class DTC_APP:
             data={'scores':scores,'justification':justification}
             os.makedirs(params.dir_predictions,exist_ok=True)
             json.dump(data,open(fname_out,'w'),indent=2)
+            self.session.log('%s Prediction computed %s'%(t,cdr_id))
             return data
         except KeyboardInterrupt:
             a=0/0
@@ -176,6 +210,7 @@ class DTC_APP:
             data=OCR.ocr(fname_in,num_workers=params.ocr_num_threads)
             os.makedirs(params.dir_cache_ocr,exist_ok=True)
             json.dump(data,open(fname_out,'w'),indent=2)
+            self.session.log('%s OCR complete %s'%(t,cdr_id))
             return data
         except KeyboardInterrupt:
             a=0/0
@@ -199,7 +234,8 @@ class DTC_APP:
         
         try:
             os.makedirs(params.dir_cache_pdf,exist_ok=True)
-            cdr.download_document('%s'%cdr_id,os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id))
+            cdr.download_document('%s'%cdr_id,fname_out)
+            self.session.log('%s Download complete %s'%(t,cdr_id))
             return fname_out
         except KeyboardInterrupt:
             a=0/0
@@ -210,23 +246,17 @@ class DTC_APP:
         return None
 
 
+#Initialize modules
+cdr=CDR.new(endpoint=params.cdr_endpoint,api_version=params.cdr_api_version,cdr_key=params.cdr_key)
+llm=LLM.new(params=params)
+depqa=DEPQA.new(llm=llm,params=params)
+minmod_writer=minmod.writer(params)
+minmod_api=minmod.API(endpoint=params.minmod_endpoint,api_version=params.minmod_api_version,minmod_username=params.minmod_username,minmod_password=params.minmod_password)
+
+
+app=DTC_APP(minmod_api,minmod_writer,cdr,depqa,session,params)
 
 if __name__ == "__main__":
-    #Initialize modules
-    import helper_cdr as CDR
-    cdr=CDR.new(cdr_key=params.cdr_key)
-    import helper_openai as LLM
-    llm=LLM.new(params=params)
-    import helper_deptype as DEPQA
-    depqa=DEPQA.new(llm=llm,params=params)
-    import helper_ocr as OCR
-    import helper_minmod as minmod
-    minmod_writer=minmod.writer(params)
-    minmod_api=minmod.API(params.minmod_username,params.minmod_password)
-    
-    
-    app=DTC_APP(minmod_api,minmod_writer,cdr,depqa,session,params)
-
     while True:
         t0=time.time()
         try:

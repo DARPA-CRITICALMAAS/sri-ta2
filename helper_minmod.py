@@ -57,7 +57,7 @@ class writer:
             data_i['observed_name']=explanation
             data_i['confidence']=p*0.9
             data_i['normalized_uri']='https://minmod.isi.edu/resource/%s'%self.minmod_mapping[cmmi]['id']
-            data_i['source']='algorithm predictions, SRI deposit type classification, v2, 20240710'
+            data_i['source']=self.params.minmod_algorithm_string
             data.append(data_i)
         
         return data
@@ -87,10 +87,11 @@ class writer:
 
 
 class API:
-    def __init__(self,minmod_username,minmod_password):
+    def __init__(self,endpoint,api_version,minmod_username,minmod_password):
         self.username=minmod_username
         self.password=minmod_password
-        self.endpoint='https://dev.minmod.isi.edu/api/v1'
+        self.endpoint=endpoint+api_version
+        self.endpoint_root=endpoint
         self.cookies=None
     
     def create_site(self,site_record):
@@ -135,7 +136,7 @@ class API:
         #print(response.json())
         response.raise_for_status()
         url=response.json()
-        url=url.replace('minmod','dev.minmod')
+        url=url.replace('https://minmod.isi.edu',self.endpoint_root)
         return url
     
     def login(self):

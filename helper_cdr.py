@@ -2,9 +2,9 @@ import httpx
 import requests
 
 class new:
-    def __init__(self,cdr_key):
+    def __init__(self,endpoint,api_version,cdr_key):
         self.cdr_key=cdr_key
-        self.endpoint='https://api.cdr.land/v1'
+        self.endpoint=endpoint+api_version
     
     def list_documents(self,i,N=1000):
         endpoint = f"{self.endpoint}/docs/documents"

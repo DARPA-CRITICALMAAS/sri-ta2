@@ -19,6 +19,7 @@ class new:
                 self.tokenizer=tiktoken.encoding_for_model(params.lm)
             
             self.lm=params.azure_lm
+            print(params.openai_api_key,self.lm,params.azure_api_version,params.azure_api_endpoint)
             self.client = openai.AzureOpenAI(api_key=params.openai_api_key,api_version=params.azure_api_version,azure_endpoint=params.azure_api_endpoint)
         else:
             self.client = openai.OpenAI(api_key=params.openai_api_key)
