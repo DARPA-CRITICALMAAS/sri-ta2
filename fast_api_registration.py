@@ -41,9 +41,11 @@ class Settings:
 app_settings = Settings()
 
 # Setting up ngrok URL
-if not params.ngrok_token==""
+if not params.ngrok_token=="":
     listener = ngrok.forward(app_settings.local_port, authtoken=params.ngrok_token)
     app_settings.callback_url = listener.url() + "/hook"
+
+print(app_settings.callback_url)
 
 def clean_up():
     headers = {'Authorization': f'Bearer {app_settings.user_api_token}'}

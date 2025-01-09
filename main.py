@@ -132,12 +132,16 @@ class DTC_APP:
         
         try:
             site_data=self.minmod_writer.mineral_site_cdr(cdr_id,pred['scores'],pred['justification'])
+            self.session.log('%s Attempting to update KG for document %s'%(t,cdr_id))
             minmod_api.login()
+            minmod_api.update_site_safe(cdr_id,site_data)
+            '''
             try:
                 minmod_api.create_site(site_data)
             except:
                 self.session.log('%s Attempting to update KG for document %s'%(t,cdr_id))
                 minmod_api.update_site(cdr_id,site_data)
+            '''
             
             url=minmod_api.link_to_site(cdr_id)
             self.session.log('%s Publishing KG link to CDR %s'%(t,cdr_id))
