@@ -55,9 +55,11 @@ class writer:
         data=[]
         for i,(cmmi,p) in enumerate(candidates):
             data_i={}
-            data_i['observed_name']=explanation
+            data_i['observed_name']='Prediction: %s. %s'%(cmmi,explanation)
             data_i['confidence']=p*0.9
-            data_i['normalized_uri']='https://minmod.isi.edu/resource/%s'%self.minmod_mapping[cmmi]['id']
+            if cmmi in self.minmod_mapping:
+                data_i['normalized_uri']='https://minmod.isi.edu/resource/%s'%self.minmod_mapping[cmmi]['id']
+            
             data_i['source']=self.params.minmod_algorithm_string
             data.append(data_i)
         
@@ -152,6 +154,12 @@ class API:
                     merged_record[k]=new_record[k]
                 else:
                     merged_record[k]+=new_record[k]
+                
+                #Remove identical records to prevent pollution
+                deposit_type_predictions=merged_record[k]
+                deposit_type_predictions={json.dumps(x):x for x in deposit_type_predictions}
+                deposit_type_predictions=[deposit_type_predictions[x] for x in deposit_type_predictions]
+                merged_record[k]=deposit_type_predictions
             elif k=='created_by':
                 pass
             else:
@@ -162,7 +170,7 @@ class API:
     def update_site_safe(self,cdr_id,site_record):
         #Get site
         result=self.create_site(site_record)
-        if len(result)==0: #site not created
+        if len(result)==0:
             old_record=self.get_site(cdr_id)
             new_record=self.merge(old_record,site_record)
             result=self.update_site(cdr_id,new_record)
@@ -172,10 +180,10 @@ class API:
     
     def link_to_site(self,cdr_id):
         site_id=self.get_id(cdr_id)
-        #url = f"{self.endpoint}/mineral-sites/{site_id}"
-        #return url
-        url = f"{self.endpoint_root}/resource/{site_id}"
+        url = f"{self.endpoint}/mineral-sites/{site_id}"
         return url
+        #url = f"{self.endpoint_root}/resource/{site_id}"
+        #return url
         '''
         url=f"https://minmod.isi.edu/resource/"
         

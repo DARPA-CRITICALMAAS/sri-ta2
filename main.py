@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 import util.smartparse as smartparse
 import util.session_manager as session_manager
-params=json.load(open('config.json','r'))
+#params=json.load(open('config.json','r'))
 
 
 import helper_cdr as CDR

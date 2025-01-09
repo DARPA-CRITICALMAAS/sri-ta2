@@ -41,8 +41,11 @@ class new:
         if options is None:
             options=self.options
         
+        options=options+['Irrelevant question.']
         if descriptions is None:
             descriptions=self.descriptions
+        
+        descriptions=descriptions+['Not a mineral site.']
         
         text=self.llm.chunk(text,L=int((self.params.lm_context_window-20000)*0.8))[0]
         list_of_options=''.join(['a%03d. %s. %s\n'%(i+1,options[i],descriptions[i]) for i in range(len(options))])

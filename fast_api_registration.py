@@ -33,7 +33,7 @@ class Settings:
     system_version: str = "2.1.0_%s"%(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     local_port: int = params.cdr_callback_port
     callback_url: str = params.cdr_callback_url + "/hook"
-    registration_secret: str = params.cdr_callback_registration_secret
+    registration_secret: str = '%s_%s'%(params.cdr_callback_registration_secret,datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     user_api_token: str = params.cdr_callback_api_token
     cdr_host: str = params.cdr_endpoint
     registration_id: str = ""
