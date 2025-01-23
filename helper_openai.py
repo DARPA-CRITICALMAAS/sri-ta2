@@ -79,7 +79,7 @@ class new:
             #Compose probability distribution
             logp=[math.log(1e-20) for i in range(noptions)] # add 1e-20 so logprobs show something
             for x in pred:
-                logp[x[0]]=x[1]
+                logp[x[0]]=max(logp[x[0]],x[1])
             
             return logp,response.message.content
         

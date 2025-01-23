@@ -5,6 +5,7 @@ RUN apt install -y htop screen git ffmpeg vim tesseract-ocr poppler-utils
 RUN pip install --upgrade pip
 RUN pip install backoff openai tiktoken pandas pytesseract pdf2image
 RUN pip install flask flask-cors httpx fastapi uvicorn ngrok cryptography
+RUN pip install -e "git+https://github.com/DARPA-CRITICALMAAS/ta2-minmod-kg.git#egg=minmodapi&subdirectory=minmodapi"
 
 
 # copy stuff

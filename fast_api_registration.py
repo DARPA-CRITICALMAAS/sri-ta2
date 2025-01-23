@@ -18,7 +18,6 @@ def default_params():
     params.cdr_callback_port=9999
     params.cdr_callback_system_name="DTC_APP"
     params.cdr_callback_registration_secret="mysecret_dtc_app"
-    params.cdr_callback_api_token=""
     params.ngrok_token=""
     params.cdr_callback_url=""
     return params
@@ -34,7 +33,7 @@ class Settings:
     local_port: int = params.cdr_callback_port
     callback_url: str = params.cdr_callback_url + "/hook"
     registration_secret: str = '%s_%s'%(params.cdr_callback_registration_secret,datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
-    user_api_token: str = params.cdr_callback_api_token
+    user_api_token: str = params.cdr_key
     cdr_host: str = params.cdr_endpoint
     registration_id: str = ""
 
@@ -64,7 +63,7 @@ def event_handler(evt):
             print(evt.get("payload", {}))
             DTC.app.process(evt.get("payload", {})['id'])
         else:
-            print("Nothing to do for event: %s", evt)
+            print("Nothing to do for event:", evt)
     except Exception as e:
         print(f"background processing event: {evt}, exception: {e}")
         raise
@@ -93,6 +92,21 @@ def hook():
 def run():
     app.run(host="0.0.0.0", port=app_settings.local_port, debug=False)
 
+def list_existing_registrations():
+    headers = {'Authorization': f'Bearer {app_settings.user_api_token}'}
+    response = requests.get(f"{app_settings.cdr_host}/user/me/registrations", headers=headers)
+    
+    #f=open('result.json','w')
+    #json.dump(response.json(),f)
+    #f.close()
+    
+    return response.json()
+
+def delete_registration(registration_id):
+    headers = {'Authorization': f'Bearer {app_settings.user_api_token}'}
+    requests.delete(f"{app_settings.cdr_host}/user/me/register/{registration_id}", headers=headers)
+    return
+
 def register_system():
     headers = {'Authorization': f'Bearer {app_settings.user_api_token}'}
     registration = {
@@ -108,9 +122,13 @@ def register_system():
     response = requests.post(f"{app_settings.cdr_host}/user/me/register", json=registration, headers=headers)
     app_settings.registration_id = response.json().get("id")
     assert not app_settings.registration_id is None
-    print("APP ID %s"%app_settings.registration_id)
+    DTC.session.log("APP ID %s"%app_settings.registration_id)
 
 if __name__ == "__main__":
+    existing_registrations=list_existing_registrations()
+    DTC.session.log('%d registrations found '%len(existing_registrations))
+    for x in existing_registrations:
+        delete_registration(x['id'])
     
     register_system()
     run()

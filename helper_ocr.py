@@ -45,8 +45,8 @@ def ocr(fname,num_workers=16):
                     s=s.replace(' \n ',' ')
                     #s=s.replace('\n',' ')
                     data.append(s)
-        except:
-            pass
+        except Exception as error:
+            print("Exception", type(error).__name__, "–", error)
         
         return data
     

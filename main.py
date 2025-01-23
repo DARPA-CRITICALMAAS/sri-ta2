@@ -36,7 +36,7 @@ def default_params():
     params.cdr_endpoint="https://api.cdr.land"
     params.cdr_api_version="/v1"
     params.minmod_endpoint='https://dev.minmod.isi.edu'
-    params.minmod_api_version="/api/v1"
+    params.minmod_cdr_source="mining-report::https://api.cdr.land/v1/docs/documents"
     params.minmod_algorithm_string="algorithm predictions, SRI deposit type classification, v2, 20240710"
     
     params.cdr_query_interval=30
@@ -55,7 +55,7 @@ session=session_manager.create_session(params)
 
 class DTC_APP:
     def __init__(self,minmod_api,minmod_writer,cdr,depqa,session,params):
-        self.queue=set()
+        self.queue={}
         self.cdr=cdr
         self.depqa=depqa
         self.minmod_api=minmod_api
@@ -70,7 +70,21 @@ class DTC_APP:
             self.add_doc_to_queue(cdr_id)
         
         print(self.queue)
-        for i in self.queue:
+        #start from the most recent request
+        queue=[(k,v) for k,v in self.queue.items()]
+        queue=sorted(queue,reverse=True,key=lambda x:x[1])
+        for i,ts in queue:
+            #delay past requests by 300s
+            if not i==cdr_id:
+                try:
+                    if not float(time.time())-ts>300:
+                        continue;
+                    else:
+                        pass
+                
+                except:
+                    continue
+            
             url=self.update_kg(i)
             print(url)
             if not (url is None or url=='Exists'):
@@ -81,7 +95,8 @@ class DTC_APP:
     
     #add doc
     def add_doc_to_queue(self,cdr_id):
-        self.queue=self.queue | set([cdr_id])
+        self.queue[cdr_id]=float(time.time())
+        #self.queue=self.queue | set([cdr_id])
         t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         self.session.log('%s Added new doc %s'%(t,cdr_id))
         return
@@ -130,11 +145,18 @@ class DTC_APP:
         if pred is None:
             return None
         
+        fname_out=os.path.join(params.dir_mineral_sites,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return 'Exists'#json.load(open(fname_out,'r'))
+        
         try:
             site_data=self.minmod_writer.mineral_site_cdr(cdr_id,pred['scores'],pred['justification'])
             self.session.log('%s Attempting to update KG for document %s'%(t,cdr_id))
             minmod_api.login()
-            minmod_api.update_site_safe(cdr_id,site_data)
+            minmod_id=minmod_api.make_site_id(params.minmod_cdr_source,cdr_id)
+            datum=minmod_api.update_site_safe(site_data)
+            url=datum.get_api_link()
+            
             '''
             try:
                 minmod_api.create_site(site_data)
@@ -143,7 +165,7 @@ class DTC_APP:
                 minmod_api.update_site(cdr_id,site_data)
             '''
             
-            url=minmod_api.link_to_site(cdr_id)
+            
             self.session.log('%s Publishing KG link to CDR %s'%(t,cdr_id))
             meta=cdr.query_document_metadata(cdr_id)
             if not any([x['external_system_name']==minmod_api.endpoint for x in meta['provenance']]):
@@ -165,6 +187,14 @@ class DTC_APP:
         params=self.params
         depqa=self.depqa
         
+        fname_out=os.path.join(params.dir_predictions,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return json.load(open(fname_out,'r'))
+        
+        text=self.get_ocr(cdr_id)
+        if text is None:
+            return None
+        
         
         fname_out=os.path.join(params.dir_predictions,'%s.json'%cdr_id)
         if os.path.exists(fname_out):
@@ -172,10 +202,6 @@ class DTC_APP:
         
         t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         self.session.log('%s Attempting to make predictions on document %s'%(t,cdr_id))
-        
-        text=self.get_ocr(cdr_id)
-        if text is None:
-            return None
         
         try:
             if isinstance(text,list):
@@ -202,12 +228,18 @@ class DTC_APP:
             return json.load(open(fname_out,'r'))
         
         
-        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        self.session.log('%s Attempting to run OCR on document %s'%(t,cdr_id))
-        
         fname_in=self.get_pdf(cdr_id)
         if fname_in is None:
             return None
+        
+        params=self.params
+        fname_out=os.path.join(params.dir_cache_ocr,'%s.json'%cdr_id)
+        if os.path.exists(fname_out):
+            return json.load(open(fname_out,'r'))
+        
+        
+        t = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        self.session.log('%s Attempting to run OCR on document %s'%(t,cdr_id))
         
         try:
             fname_in=os.path.join(params.dir_cache_pdf,'%s.pdf'%cdr_id)
@@ -255,7 +287,7 @@ cdr=CDR.new(endpoint=params.cdr_endpoint,api_version=params.cdr_api_version,cdr_
 llm=LLM.new(params=params)
 depqa=DEPQA.new(llm=llm,params=params)
 minmod_writer=minmod.writer(params)
-minmod_api=minmod.API(endpoint=params.minmod_endpoint,api_version=params.minmod_api_version,minmod_username=params.minmod_username,minmod_password=params.minmod_password)
+minmod_api=minmod.API(endpoint=params.minmod_endpoint,minmod_username=params.minmod_username,minmod_password=params.minmod_password)
 
 
 app=DTC_APP(minmod_api,minmod_writer,cdr,depqa,session,params)
