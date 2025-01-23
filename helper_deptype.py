@@ -1,4 +1,5 @@
 import pandas
+import os
 
 class new:
     def __init__(self,llm,params):
@@ -6,9 +7,9 @@ class new:
         self.llm=llm
         #Compile options
         try:
-            taxonomy=pandas.read_csv(params.taxonomy)
+            taxonomy=pandas.read_csv(os.path.join(params.taxonomy,'deposit_type_descriptions.csv'))
         except:
-            taxonomy=pandas.read_csv(params.taxonomy,encoding='latin1')
+            taxonomy=pandas.read_csv(os.path.join(params.taxonomy,'deposit_type_descriptions.csv'),encoding='latin1')
         
         options=list(taxonomy['Deposit type'])
         descriptions=list(taxonomy['Description'])
@@ -47,6 +48,7 @@ class new:
         
         descriptions=descriptions+['Not a mineral site.']
         
+        
         text=self.llm.chunk(text,L=int((self.params.lm_context_window-20000)*0.8))[0]
         list_of_options=''.join(['a%03d. %s. %s\n'%(i+1,options[i],descriptions[i]) for i in range(len(options))])
         
@@ -55,6 +57,7 @@ class new:
         user="Context: NI 43-101 applies broadly to companies both public and private, and to a variety of disclosures types including mineral exploration reports, reporting of resources and reserves, presentations, oral comments, and websites. NI 43-101 covers mineral products such, precious metals and solid energy commodities as well as bulk minerals, dimension stone, precious stones and mineral sands commodities. The following is an NI 43-101 report describing a mineral resource. Please read and answer the question below.\n\n```report\n{text}\n```\nQuestion: Which of the following mineral deposit types best fits the area that the context PDF report describes? Options:\n{list_of_options}\n\nPlease select the mineral deposit type that best fits the area that the context PDF report describes. Please choose only 1 most likely option. Answer the question with only the 4-letter alpha-numeric id (a***) of the most likely option and nothing else." #text, list_of_options
         
         logp,_=self.llm.multiple_choice(system,user.format(text=text,list_of_options=list_of_options),len(options))
+        print(logp)
         return logp
     
     def explain(self,text,options=None,descriptions=None):

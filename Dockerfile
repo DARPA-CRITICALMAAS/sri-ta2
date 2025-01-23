@@ -10,7 +10,7 @@ RUN pip install -e "git+https://github.com/DARPA-CRITICALMAAS/ta2-minmod-kg.git#
 
 # copy stuff
 WORKDIR /work
-COPY minmod minmod
+#COPY minmod minmod
 COPY taxonomy taxonomy
 COPY util util
 COPY *.py ./

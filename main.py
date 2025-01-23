@@ -31,7 +31,7 @@ def default_params():
     params.dir_cache_ocr="cache/docs_ocr"
     params.dir_predictions="predictions"
     params.dir_mineral_sites="sri/mineral_sites"
-    params.taxonomy="taxonomy/cmmi_full_num_v2.csv"
+    params.taxonomy="taxonomy/"
     
     params.cdr_endpoint="https://api.cdr.land"
     params.cdr_api_version="/v1"

@@ -5,6 +5,7 @@ import pandas
 import json
 import copy
 from datetime import datetime
+import os
 
 from minmodapi import MinModAPI
 
@@ -28,13 +29,13 @@ def levenshteinDistance(s1, s2):
 class writer:
     def __init__(self,params):
         self.params=params
-        minmod_types=pandas.read_csv('minmod/deposit_type.csv')
+        minmod_types=pandas.read_csv(os.path.join(params.taxonomy,'minmod/deposit_type.csv'))
         minmod_id=list(minmod_types['Minmod ID'])
         minmod_types=list(minmod_types['Deposit type'])
         try:
-            cmmi=list(pandas.read_csv(params.taxonomy)['Deposit type'])
+            cmmi=list(pandas.read_csv(os.path.join(params.taxonomy,'deposit_type_descriptions.csv'))['Deposit type'])
         except:
-            cmmi=list(pandas.read_csv(params.taxonomy,encoding='latin1')['Deposit type'])
+            cmmi=list(pandas.read_csv(os.path.join(params.taxonomy,'deposit_type_descriptions.csv'),encoding='latin1')['Deposit type'])
         
         minmod_mapping={}
         for i,x in enumerate(minmod_types):
