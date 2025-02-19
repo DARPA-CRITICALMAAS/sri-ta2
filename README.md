@@ -52,7 +52,12 @@ Specifically, when a custom Azure OpenAI endpoint is used, option `--lm` is stil
 
 ### Adjusting Minmod/CDR endpoints 
 
-To point Minmod/CDR endpoints to custom deployments, set
+**Important**: Minmod document ID format may be changing to remove the `mining-report::` portion. DTC needs the correct document ID format to correctly link to other knowledge in KG. To update minmod document descriptor, set
+```bash
+  --minmod_cdr_source https://api.cdr.land/v1/docs/documents
+```
+
+To point Minmod/CDR endpoints to custom deployment IPs, set
 ```bash
   --cdr_endpoint https://api.cdr.land     \
   --minmod_endpoint https://dev.minmod.isi.edu    \
